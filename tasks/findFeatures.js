@@ -86,7 +86,7 @@ function cleanFeatures(set) {
   }
 }
 
-function generateFeatures({ locations }) {
+function generateFeatures({ locations, summary }) {
   function storeFeature(feature, location) {
     let index = featureCollection.features.indexOf(feature);
     if (index === -1) {
@@ -262,13 +262,23 @@ function generateFeatures({ locations }) {
       }
 
       if (!found) {
+        
         console.error('  ❌ Could not find location %s [%f, %f]', transform.getName(location), location.coordinates ? location.coordinates[0] : '?', location.coordinates ? location.coordinates[1] : '?');
       }
     }
 
     console.log('✅ Found features for %d out of %d regions for a total of %d features', foundCount, Object.keys(locations).length, featureCollection.features.length);
 
-    resolve({ locations, featureCollection });
+    summary = {
+      ...summary,
+      findFeatures: {
+        foundCount,
+        regionsCount: Object.keys(locations).length,
+        totalFeatures: featureCollection.features.length
+      }
+    }
+
+    resolve({ locations, featureCollection, summary });
   });
 }
 

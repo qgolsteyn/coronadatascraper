@@ -62,7 +62,7 @@ async function readPopulationData(featureCollection) {
 }
 
 
-async function generatePopulations({ locations, featureCollection }) {
+async function generatePopulations({ locations, featureCollection, summary }) {
   console.log('⏳ Getting population data...');
 
   let populations = await readPopulationData(featureCollection);
@@ -143,7 +143,15 @@ async function generatePopulations({ locations, featureCollection }) {
   }
   console.log('✅ Found population data for %d out of %d locations', populationFound, Object.keys(locations).length);
 
-  return { locations, featureCollection };
+  summary = {
+    ...summary,
+    findPopulations: {
+      populationFound,
+      locationsCount: Object.keys(locations).length
+    }
+  }
+
+  return { locations, featureCollection, summary };
 }
 
 export default generatePopulations;
