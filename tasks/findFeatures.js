@@ -39,46 +39,31 @@ function normalizeProps(obj) {
   return newObj;
 }
 
-let props = [
-  'name',
-  'name_en',
-  'abbrev',
-  'region',
-  'admin',
-  'geonunit',
-  'pop_est',
-  'pop_year',
-  'gdp_md_est',
-  'gdp_year',
-  'iso_a2',
-  'iso_3166_2',
-  'type_en',
-  'wikipedia'
-];
+let props = ['name', 'name_en', 'abbrev', 'region', 'admin', 'geonunit', 'pop_est', 'pop_year', 'gdp_md_est', 'gdp_year', 'iso_a2', 'iso_3166_2', 'type_en', 'wikipedia'];
 
 const locationTransforms = {
   // Correct missing county
-  'Island, WA': (location) => {
+  'Island, WA': location => {
     location.state = 'Island County, WA';
   },
 
   // 🇭🇰
-  'Hong Kong': (location) => {
+  'Hong Kong': location => {
     location.country = 'Hong Kong';
     delete location.state;
   },
 
   // Why is this in Denmark?
-  'Faroe Islands': (location) => {
+  'Faroe Islands': location => {
     location.country = 'Faroe Islands';
     delete location.state;
   },
 
   // Why is it UK, United Kingdom?
-  'UK': (location) => {
+  UK: location => {
     delete location.state;
   }
-}
+};
 
 function cleanFeatures(set) {
   for (let feature of set.features) {
@@ -202,8 +187,7 @@ function generateFeatures({ locations, summary }) {
             break;
           }
         }
-      }
-      else {
+      } else {
         // Check if the location exists within our countries
         for (let feature of countryData.features) {
           // Find by full name
@@ -262,7 +246,6 @@ function generateFeatures({ locations, summary }) {
       }
 
       if (!found) {
-        
         console.error('  ❌ Could not find location %s [%f, %f]', transform.getName(location), location.coordinates ? location.coordinates[0] : '?', location.coordinates ? location.coordinates[1] : '?');
       }
     }
@@ -276,7 +259,7 @@ function generateFeatures({ locations, summary }) {
         regionsCount: Object.keys(locations).length,
         totalFeatures: featureCollection.features.length
       }
-    }
+    };
 
     resolve({ locations, featureCollection, summary });
   });
