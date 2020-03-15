@@ -6507,6 +6507,901 @@
     "population": 597695
   },
   {
+    "county": "De Soto Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.699102,
+      32.0948115
+    ],
+    "featureId": 447,
+    "population": 27436
+  },
+  {
+    "county": "St. John the Baptist Parish",
+    "cases": 1,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.4833525,
+      30.0930385
+    ],
+    "featureId": 448,
+    "population": 43184
+  },
+  {
+    "county": "Lafourche Parish",
+    "cases": 1,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.50821049999999,
+      29.4895455
+    ],
+    "featureId": 449,
+    "population": 98115
+  },
+  {
+    "county": "Orleans Parish",
+    "cases": 53,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -89.88147699999999,
+      30.033868
+    ],
+    "featureId": 450,
+    "population": 391006
+  },
+  {
+    "county": "Sabine Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.557699,
+      31.505406999999998
+    ],
+    "featureId": 451,
+    "population": 24032
+  },
+  {
+    "county": "Tangipahoa Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.405269,
+      30.612403
+    ],
+    "featureId": 452,
+    "population": 133777
+  },
+  {
+    "county": "St. Tammany Parish",
+    "cases": 2,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -89.891049,
+      30.43073
+    ],
+    "featureId": 453,
+    "population": 258111
+  },
+  {
+    "county": "Livingston Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.696248,
+      30.412879
+    ],
+    "featureId": 454,
+    "population": 139567
+  },
+  {
+    "county": "St. Charles Parish",
+    "cases": 2,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.3585315,
+      29.961458
+    ],
+    "featureId": 455,
+    "population": 52879
+  },
+  {
+    "county": "Calcasieu Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.326522,
+      30.2639165
+    ],
+    "featureId": 456,
+    "population": 203112
+  },
+  {
+    "county": "Union Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.394117,
+      32.7976865
+    ],
+    "featureId": 457,
+    "population": 22330
+  },
+  {
+    "county": "Caldwell Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.09278499999999,
+      32.102264500000004
+    ],
+    "featureId": 458,
+    "population": 9960
+  },
+  {
+    "county": "Tensas Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.3045835,
+      31.991290499999998
+    ],
+    "featureId": 459,
+    "population": 4462
+  },
+  {
+    "county": "Jackson Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.56701000000001,
+      32.3212645
+    ],
+    "featureId": 460,
+    "population": 15902
+  },
+  {
+    "county": "Grant Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.58483,
+      31.5926135
+    ],
+    "featureId": 461,
+    "population": 22482
+  },
+  {
+    "county": "Lincoln Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.64820449999999,
+      32.606269499999996
+    ],
+    "featureId": 462,
+    "population": 47196
+  },
+  {
+    "county": "Jefferson Davis Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.857122,
+      30.2628035
+    ],
+    "featureId": 463,
+    "population": 31582
+  },
+  {
+    "county": "Lafayette Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.0951095,
+      30.2075775
+    ],
+    "featureId": 464,
+    "population": 242782
+  },
+  {
+    "county": "East Carroll Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.2303025,
+      32.7714455
+    ],
+    "featureId": 465,
+    "population": 7037
+  },
+  {
+    "county": "East Feliciana Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.0732675,
+      30.824589
+    ],
+    "featureId": 466,
+    "population": 19305
+  },
+  {
+    "county": "Iberville Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.3600815,
+      30.2613845
+    ],
+    "featureId": 467,
+    "population": 32721
+  },
+  {
+    "county": "Richland Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.732693,
+      32.409445500000004
+    ],
+    "featureId": 468,
+    "population": 20192
+  },
+  {
+    "county": "St. Martin Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.53909150000001,
+      30.09857
+    ],
+    "featureId": 469,
+    "population": 53621
+  },
+  {
+    "county": "Claiborne Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.981675,
+      32.8016545
+    ],
+    "featureId": 470,
+    "population": 15944
+  },
+  {
+    "county": "St. Landry Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.08607749999999,
+      30.573712
+    ],
+    "featureId": 471,
+    "population": 82764
+  },
+  {
+    "county": "Pointe Coupee Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.5623665,
+      30.750701999999997
+    ],
+    "featureId": 472,
+    "population": 21940
+  },
+  {
+    "county": "La Salle Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.186641,
+      31.6257625
+    ],
+    "featureId": 473
+  },
+  {
+    "county": "Webster Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.3384255,
+      32.7143435
+    ],
+    "featureId": 474,
+    "population": 38798
+  },
+  {
+    "county": "St. James Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.8028455,
+      30.027838
+    ],
+    "featureId": 475,
+    "population": 21037
+  },
+  {
+    "county": "Morehouse Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.76029249999999,
+      32.7570325
+    ],
+    "featureId": 476,
+    "population": 25398
+  },
+  {
+    "county": "Rapides Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.5286315,
+      31.203797
+    ],
+    "featureId": 477,
+    "population": 130562
+  },
+  {
+    "county": "Avoyelles Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.97901999999999,
+      31.095483
+    ],
+    "featureId": 478,
+    "population": 40462
+  },
+  {
+    "county": "Winn Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.64287350000001,
+      31.928432
+    ],
+    "featureId": 479,
+    "population": 14134
+  },
+  {
+    "county": "Catahoula Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.776279,
+      31.5993165
+    ],
+    "featureId": 480,
+    "population": 9608
+  },
+  {
+    "county": "Assumption Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.0722915,
+      29.8539995
+    ],
+    "featureId": 481,
+    "population": 22300
+  },
+  {
+    "county": "Caddo Parish",
+    "cases": 1,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.757198,
+      32.6074585
+    ],
+    "featureId": 482,
+    "population": 242922
+  },
+  {
+    "county": "Washington Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.03715650000001,
+      30.835068999999997
+    ],
+    "featureId": 483,
+    "population": 46582
+  },
+  {
+    "county": "East Baton Rouge Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.0821615,
+      30.516002
+    ],
+    "featureId": 484,
+    "population": 440956
+  },
+  {
+    "county": "Natchitoches Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.080363,
+      31.747528000000003
+    ],
+    "featureId": 485,
+    "population": 38659
+  },
+  {
+    "county": "Bienville Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.10068150000001,
+      32.366091999999995
+    ],
+    "featureId": 486,
+    "population": 13308
+  },
+  {
+    "county": "Bossier Parish",
+    "cases": 1,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.5978795,
+      32.627677000000006
+    ],
+    "featureId": 487,
+    "population": 127185
+  },
+  {
+    "county": "Allen Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.856948,
+      30.661153
+    ],
+    "featureId": 488,
+    "population": 25605
+  },
+  {
+    "county": "Ouachita Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.159829,
+      32.4907775
+    ],
+    "featureId": 489,
+    "population": 154475
+  },
+  {
+    "county": "St. Helena Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.738279,
+      30.824559
+    ],
+    "featureId": 490,
+    "population": 10262
+  },
+  {
+    "county": "West Feliciana Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.46312950000001,
+      30.8493775
+    ],
+    "featureId": 491,
+    "population": 15460
+  },
+  {
+    "county": "West Carroll Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.45007849999999,
+      32.7940275
+    ],
+    "featureId": 492,
+    "population": 10982
+  },
+  {
+    "county": "Concordia Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.622707,
+      31.366113
+    ],
+    "featureId": 493,
+    "population": 19572
+  },
+  {
+    "county": "West Baton Rouge Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.313597,
+      30.490574000000002
+    ],
+    "featureId": 494,
+    "population": 26427
+  },
+  {
+    "county": "Madison Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.216415,
+      32.341573
+    ],
+    "featureId": 495,
+    "population": 11161
+  },
+  {
+    "county": "Ascension Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.869644,
+      30.204696499999997
+    ],
+    "featureId": 496,
+    "population": 124672
+  },
+  {
+    "county": "Acadia Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.38683499999999,
+      30.2652335
+    ],
+    "featureId": 497,
+    "population": 62190
+  },
+  {
+    "county": "Beauregard Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.35856949999999,
+      30.6430015
+    ],
+    "featureId": 498,
+    "population": 37253
+  },
+  {
+    "county": "Franklin Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.6867355,
+      32.1420035
+    ],
+    "featureId": 499,
+    "population": 20156
+  },
+  {
+    "county": "Evangeline Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.40312349999999,
+      30.7409765
+    ],
+    "featureId": 500,
+    "population": 33443
+  },
+  {
+    "county": "Vernon Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.19772900000001,
+      31.1119345
+    ],
+    "featureId": 501,
+    "population": 48860
+  },
+  {
+    "county": "Red River Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.367939,
+      32.062484
+    ],
+    "featureId": 502,
+    "population": 8477
+  },
+  {
+    "county": "Vermilion Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -92.351531,
+      29.8402345
+    ],
+    "featureId": 503,
+    "population": 59830
+  },
+  {
+    "county": "Plaquemines Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -89.5381785,
+      29.4150075
+    ],
+    "featureId": 504,
+    "population": 23410
+  },
+  {
+    "county": "St. Mary Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.48180049999999,
+      29.7141755
+    ],
+    "featureId": 505,
+    "population": 49774
+  },
+  {
+    "county": "Cameron Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -93.27240900000001,
+      29.8158395
+    ],
+    "featureId": 506,
+    "population": 6968
+  },
+  {
+    "county": "Iberia Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -91.632762,
+      29.7982045
+    ],
+    "featureId": 507,
+    "population": 70941
+  },
+  {
+    "county": "St. Bernard Parish",
+    "cases": 0,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -89.4145595,
+      29.8500655
+    ],
+    "featureId": 508,
+    "population": 46721
+  },
+  {
+    "county": "Terrebonne Parish",
+    "cases": 1,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.8557755,
+      29.406244
+    ],
+    "featureId": 509,
+    "population": 111021
+  },
+  {
+    "county": "Jefferson Parish",
+    "cases": 11,
+    "deaths": 0,
+    "state": "LA",
+    "country": "USA",
+    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
+    "coordinates": [
+      -90.114832,
+      29.696731
+    ],
+    "featureId": 510,
+    "population": 434051
+  },
+  {
     "county": "New Castle County",
     "cases": 6,
     "state": "DE",
@@ -6516,7 +7411,7 @@
       -75.5969975,
       39.565300500000006
     ],
-    "featureId": 447,
+    "featureId": 511,
     "population": 559335
   },
   {
@@ -6529,7 +7424,7 @@
       -75.5358555,
       39.0977575
     ],
-    "featureId": 448,
+    "featureId": 512,
     "population": 178550
   },
   {
@@ -6542,7 +7437,7 @@
       -75.38576900000001,
       38.706443
     ],
-    "featureId": 449,
+    "featureId": 513,
     "population": 229286
   },
   {
@@ -6555,7 +7450,7 @@
       -82.4000485,
       27.4272245
     ],
-    "featureId": 450,
+    "featureId": 514,
     "population": 394855
   },
   {
@@ -6568,7 +7463,7 @@
       -82.3526,
       27.909229500000002
     ],
-    "featureId": 451,
+    "featureId": 515,
     "population": 1436888
   },
   {
@@ -6581,7 +7476,7 @@
       -87.047978,
       30.669196499999998
     ],
-    "featureId": 452,
+    "featureId": 516,
     "population": 179349
   },
   {
@@ -6594,7 +7489,7 @@
       -80.478035,
       26.1561005
     ],
-    "featureId": 453,
+    "featureId": 517,
     "population": 1951260
   },
   {
@@ -6607,7 +7502,7 @@
       -81.9169395,
       26.5528805
     ],
-    "featureId": 454,
+    "featureId": 518,
     "population": 754610
   },
   {
@@ -6620,7 +7515,7 @@
       -81.9689695,
       26.902401
     ],
-    "featureId": 455,
+    "featureId": 519,
     "population": 184998
   },
   {
@@ -6633,7 +7528,7 @@
       -86.59446449999999,
       30.687763500000003
     ],
-    "featureId": 456,
+    "featureId": 520,
     "population": 207269
   },
   {
@@ -6646,7 +7541,7 @@
       -81.20657349999999,
       29.0200235
     ],
-    "featureId": 457,
+    "featureId": 521,
     "population": 547538
   },
   {
@@ -6659,7 +7554,7 @@
       -81.73892599999999,
       30.550462500000002
     ],
-    "featureId": 458,
+    "featureId": 522,
     "population": 85832
   },
   {
@@ -6672,7 +7567,7 @@
       -81.35938300000001,
       26.1601955
     ],
-    "featureId": 459,
+    "featureId": 523,
     "population": 378488
   },
   {
@@ -6685,7 +7580,7 @@
       -82.70897249999999,
       27.893119
     ],
-    "featureId": 460,
+    "featureId": 524,
     "population": 975280
   },
   {
@@ -6698,7 +7593,7 @@
       -82.4298955,
       28.3252435
     ],
-    "featureId": 461,
+    "featureId": 525,
     "population": 539630
   },
   {
@@ -6711,7 +7606,7 @@
       -80.495494,
       25.5606775
     ],
-    "featureId": 462,
+    "featureId": 526,
     "population": 2761581
   },
   {
@@ -6724,7 +7619,7 @@
       -81.2234725,
       28.745247499999998
     ],
-    "featureId": 463,
+    "featureId": 527,
     "population": 467832
   },
   {
@@ -6737,7 +7632,7 @@
       -80.4587305,
       26.645985500000002
     ],
-    "featureId": 464,
+    "featureId": 528,
     "population": 1485941
   },
   {
@@ -6750,7 +7645,7 @@
       -82.349667,
       27.167500500000003
     ],
-    "featureId": 465,
+    "featureId": 529,
     "population": 426718
   },
   {
@@ -6763,7 +7658,7 @@
       -82.3544225,
       29.681131999999998
     ],
-    "featureId": 466,
+    "featureId": 530,
     "population": 269956
   },
   {
@@ -6776,7 +7671,7 @@
       -81.714645,
       30.34499
     ],
-    "featureId": 467,
+    "featureId": 531,
     "population": 950181
   },
   {
@@ -6789,7 +7684,7 @@
       -81.815316,
       29.956068000000002
     ],
-    "featureId": 468,
+    "featureId": 532,
     "population": 216072
   },
   {
@@ -6802,7 +7697,7 @@
       -81.2607525,
       28.566533999999997
     ],
-    "featureId": 469,
+    "featureId": 533,
     "population": 1380645
   },
   {
@@ -6815,7 +7710,7 @@
       -81.2600415,
       27.995169500000003
     ],
-    "featureId": 470,
+    "featureId": 534,
     "population": 367990
   },
   {
@@ -6955,7 +7850,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 471,
+    "featureId": 535,
     "population": 883305
   },
   {
@@ -6969,7 +7864,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 472,
+    "featureId": 536,
     "population": 769545
   },
   {
@@ -6983,7 +7878,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 473,
+    "featureId": 537,
     "population": 1666753
   },
   {
@@ -6996,7 +7891,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 474,
+    "featureId": 538,
     "population": 499942
   },
   {
@@ -7009,7 +7904,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 475,
+    "featureId": 539,
     "population": 274255
   },
   {
@@ -7022,7 +7917,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 476,
+    "featureId": 540,
     "population": 446610
   },
   {
@@ -7036,7 +7931,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 477,
+    "featureId": 541,
     "population": 1150215
   },
   {
@@ -7049,7 +7944,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 478,
+    "featureId": 542,
     "population": 549815
   },
   {
@@ -7062,7 +7957,7 @@
       -121.962515,
       38.619189
     ],
-    "featureId": 479,
+    "featureId": 543,
     "population": 220408
   },
   {
@@ -7076,7 +7971,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 480,
+    "featureId": 544,
     "population": 1540975
   },
   {
@@ -7090,7 +7985,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 481,
+    "featureId": 545,
     "population": 994400
   },
   {
@@ -7103,7 +7998,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 482,
+    "featureId": 546,
     "population": 157672
   },
   {
@@ -7117,7 +8012,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 483,
+    "featureId": 547,
     "population": 393149
   },
   {
@@ -7130,7 +8025,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 484,
+    "featureId": 548,
     "population": 180040
   },
   {
@@ -7144,8 +8039,22 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 485,
+    "featureId": 549,
     "population": 10105518
+  },
+  {
+    "cases": 14,
+    "deaths": 0,
+    "county": "Orange County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus",
+    "coordinates": [
+      -117.76484500000001,
+      33.66652
+    ],
+    "featureId": 550,
+    "population": 3185968
   },
   {
     "cases": 1,
@@ -7157,7 +8066,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 486,
+    "featureId": 551,
     "population": 2450758
   },
   {
@@ -7171,7 +8080,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 487,
+    "featureId": 552,
     "population": 3343364
   },
   {
@@ -7185,7 +8094,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 488,
+    "featureId": 553,
     "population": 850967
   },
   {
@@ -7198,7 +8107,7 @@
       -89.4235435,
       43.069541
     ],
-    "featureId": 489,
+    "featureId": 554,
     "population": 542364
   },
   {
@@ -7211,7 +8120,7 @@
       -88.5234625,
       43.7405715
     ],
-    "featureId": 490,
+    "featureId": 555,
     "population": 103066
   },
   {
@@ -7224,7 +8133,7 @@
       -87.94847250000001,
       43.017386
     ],
-    "featureId": 491,
+    "featureId": 556,
     "population": 948201
   },
   {
@@ -7237,7 +8146,7 @@
       -92.47159500000001,
       44.7007885
     ],
-    "featureId": 492,
+    "featureId": 557,
     "population": 42555
   },
   {
@@ -7250,7 +8159,7 @@
       -88.0365295,
       42.72707
     ],
-    "featureId": 493,
+    "featureId": 558,
     "population": 196584
   },
   {
@@ -7263,7 +8172,7 @@
       -87.9311795,
       43.7172725
     ],
-    "featureId": 494,
+    "featureId": 559,
     "population": 115456
   },
   {
@@ -7276,7 +8185,7 @@
       -88.30268950000001,
       43.018702
     ],
-    "featureId": 495,
+    "featureId": 560,
     "population": 403072
   },
   {
@@ -7289,7 +8198,7 @@
       -88.644934,
       44.0685395
     ],
-    "featureId": 496,
+    "featureId": 561,
     "population": 171020
   },
   {
@@ -7302,7 +8211,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 497,
+    "featureId": 562,
     "population": 18883
   },
   {
@@ -7315,7 +8224,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 498,
+    "featureId": 563,
     "population": 6980
   },
   {
@@ -7328,7 +8237,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 499,
+    "featureId": 564,
     "population": 9338
   },
   {
@@ -7341,7 +8250,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 500,
+    "featureId": 565,
     "population": 19790
   },
   {
@@ -7354,7 +8263,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 501,
+    "featureId": 566,
     "population": 5546
   },
   {
@@ -7367,7 +8276,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 502,
+    "featureId": 567,
     "population": 192876
   },
   {
@@ -7380,7 +8289,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 503,
+    "featureId": 568,
     "population": 111729
   },
   {
@@ -7398,18 +8307,30 @@
     "url": "https://coronavirus.utah.gov/latest/"
   },
   {
-    "county": "Davis County County",
+    "county": "Davis County",
     "cases": 1,
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/"
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -112.115984,
+      40.963095499999994
+    ],
+    "featureId": 569,
+    "population": 351713
   },
   {
-    "county": "Salt Lake County County",
+    "county": "Salt Lake County",
     "cases": 5,
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/"
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -111.9083075,
+      40.66808399999999
+    ],
+    "featureId": 570,
+    "population": 1152633
   },
   {
     "county": "San Juan County",
@@ -7421,7 +8342,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 504,
+    "featureId": 571,
     "population": 15449
   },
   {
@@ -7439,11 +8360,17 @@
     "url": "https://coronavirus.utah.gov/latest/"
   },
   {
-    "county": "Summit County County",
+    "county": "Summit County",
     "cases": 2,
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/"
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -110.82489050000001,
+      40.9000835
+    ],
+    "featureId": 572,
+    "population": 41933
   },
   {
     "county": "Tooele County",
@@ -7455,29 +8382,41 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 505,
+    "featureId": 573,
     "population": 69907
   },
   {
-    "county": "Tri County County",
+    "county": "Tri County",
     "cases": 0,
     "state": "UT",
     "country": "USA",
     "url": "https://coronavirus.utah.gov/latest/"
   },
   {
-    "county": "Utah County County",
+    "county": "Utah County",
     "cases": 0,
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/"
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -111.5347685,
+      40.176925999999995
+    ],
+    "featureId": 574,
+    "population": 622213
   },
   {
-    "county": "Wasatch County County",
+    "county": "Wasatch County",
     "cases": 0,
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/"
+    "url": "https://coronavirus.utah.gov/latest/",
+    "coordinates": [
+      -111.25642,
+      40.294765
+    ],
+    "featureId": 575,
+    "population": 33240
   },
   {
     "county": "Weber-Morgan County",
@@ -7496,7 +8435,7 @@
       -80.02482499999999,
       40.434321
     ],
-    "featureId": 506,
+    "featureId": 576,
     "population": 1218452
   },
   {
@@ -7509,7 +8448,7 @@
       -75.1027805,
       40.3287395
     ],
-    "featureId": 507,
+    "featureId": 577,
     "population": 628195
   },
   {
@@ -7522,7 +8461,7 @@
       -75.748325,
       39.9833405
     ],
-    "featureId": 508,
+    "featureId": 578,
     "population": 522046
   },
   {
@@ -7535,7 +8474,7 @@
       -77.2432875,
       40.1362805
     ],
-    "featureId": 509,
+    "featureId": 579,
     "population": 251423
   },
   {
@@ -7548,7 +8487,7 @@
       -75.404395,
       39.9336645
     ],
-    "featureId": 510,
+    "featureId": 580,
     "population": 564751
   },
   {
@@ -7561,7 +8500,7 @@
       -75.308198,
       41.0334235
     ],
-    "featureId": 511,
+    "featureId": 581,
     "population": 169507
   },
   {
@@ -7574,7 +8513,7 @@
       -75.355924,
       40.211977000000005
     ],
-    "featureId": 512,
+    "featureId": 582,
     "population": 828604
   },
   {
@@ -7587,7 +8526,7 @@
       -75.32991200000001,
       40.752713
     ],
-    "featureId": 513,
+    "featureId": 583,
     "population": 304807
   },
   {
@@ -7600,7 +8539,7 @@
       -75.116323,
       40.0018505
     ],
-    "featureId": 514,
+    "featureId": 584,
     "population": 1584138
   },
   {
@@ -7613,7 +8552,7 @@
       -75.02435,
       41.340779
     ],
-    "featureId": 515,
+    "featureId": 585,
     "population": 55933
   },
   {
@@ -7626,7 +8565,7 @@
       -80.1791085,
       40.2152165
     ],
-    "featureId": 516,
+    "featureId": 586,
     "population": 207346
   },
   {
@@ -7639,7 +8578,7 @@
       -75.2745845,
       41.615992000000006
     ],
-    "featureId": 517,
+    "featureId": 587,
     "population": 51276
   },
   {
@@ -7652,7 +8591,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 518,
+    "featureId": 588,
     "population": 39583
   },
   {
@@ -7665,7 +8604,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 519,
+    "featureId": 589,
     "population": 692587
   },
   {
@@ -7678,7 +8617,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 520,
+    "featureId": 590,
     "population": 364286
   },
   {
@@ -7691,7 +8630,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 521,
+    "featureId": 591,
     "population": 54012
   },
   {
@@ -7704,7 +8643,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 522,
+    "featureId": 592,
     "population": 465289
   },
   {
@@ -7717,7 +8656,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 523,
+    "featureId": 593,
     "population": 324890
   },
   {
@@ -7730,7 +8669,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 524,
+    "featureId": 594,
     "population": 935764
   },
   {
@@ -7743,7 +8682,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 525,
+    "featureId": 595,
     "population": 157668
   },
   {
@@ -7756,7 +8695,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 526,
+    "featureId": 596,
     "population": 231729
   },
   {
@@ -7769,7 +8708,7 @@
       -80.970149,
       40.011337999999995
     ],
-    "featureId": 527,
+    "featureId": 597,
     "population": 67505
   },
   {
@@ -7782,7 +8721,7 @@
       -84.5757445,
       39.441655499999996
     ],
-    "featureId": 528,
+    "featureId": 598,
     "population": 382378
   },
   {
@@ -7795,7 +8734,7 @@
       -81.67301699999999,
       41.453196000000005
     ],
-    "featureId": 529,
+    "featureId": 599,
     "population": 1243857
   },
   {
@@ -7808,7 +8747,7 @@
       -83.010875,
       39.9690415
     ],
-    "featureId": 530,
+    "featureId": 600,
     "population": 1310300
   },
   {
@@ -7821,7 +8760,7 @@
       -82.112518,
       41.289587999999995
     ],
-    "featureId": 531,
+    "featureId": 601,
     "population": 309461
   },
   {
@@ -7834,7 +8773,7 @@
       -81.3683635,
       40.811817000000005
     ],
-    "featureId": 532,
+    "featureId": 602,
     "population": 371574
   },
   {
@@ -7847,7 +8786,7 @@
       -81.5400925,
       41.1288115
     ],
-    "featureId": 533,
+    "featureId": 603,
     "population": 541918
   },
   {
@@ -7860,7 +8799,59 @@
       -80.76100600000001,
       41.3175365
     ],
-    "featureId": 534,
+    "featureId": 604,
     "population": 198627
+  },
+  {
+    "county": "Fairfield County",
+    "cases": 15,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "coordinates": [
+      -73.397813,
+      41.3259525
+    ],
+    "featureId": 605,
+    "population": 943823
+  },
+  {
+    "county": "Hartford County",
+    "cases": 1,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "coordinates": [
+      -72.71937700000001,
+      41.7926935
+    ],
+    "featureId": 606,
+    "population": 892697
+  },
+  {
+    "county": "Litchfield County",
+    "cases": 3,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "coordinates": [
+      -73.20264900000001,
+      41.759701
+    ],
+    "featureId": 607,
+    "population": 181111
+  },
+  {
+    "county": "New Haven County",
+    "cases": 1,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus",
+    "coordinates": [
+      -72.93228500000001,
+      41.4056375
+    ],
+    "featureId": 608,
+    "population": 857620
   }
 ]
