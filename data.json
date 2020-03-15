@@ -5479,84 +5479,14 @@
     "population": 254261
   },
   {
-    "county": "Westchester",
-    "cases": 178,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Nassau",
-    "cases": 79,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Suffolk",
-    "cases": 41,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Rockland",
-    "cases": 12,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Orange",
-    "cases": 6,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
     "county": "Albany",
-    "cases": 5,
+    "cases": 8,
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
   {
-    "county": "Ulster",
-    "cases": 5,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Dutchess",
-    "cases": 4,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Erie",
-    "cases": 3,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Saratoga",
-    "cases": 3,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Monroe",
-    "cases": 2,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Broom",
+    "county": "Broome",
     "cases": 1,
     "state": "NY",
     "country": "USA",
@@ -5570,6 +5500,27 @@
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
   {
+    "county": "Dutchess",
+    "cases": 7,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Erie",
+    "cases": 3,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Greene",
+    "cases": 2,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
     "county": "Herkimer",
     "cases": 1,
     "state": "NY",
@@ -5577,8 +5528,64 @@
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
   {
-    "county": "Schenectady",
+    "county": "Monroe",
+    "cases": 2,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Montgomery",
     "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Nassau",
+    "cases": 98,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Orange",
+    "cases": 6,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Putnam",
+    "cases": 2,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Rockland",
+    "cases": 13,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Saratoga",
+    "cases": 3,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Schenectady",
+    "cases": 2,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Suffolk",
+    "cases": 47,
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
@@ -5598,8 +5605,22 @@
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
   {
+    "county": "Ulster",
+    "cases": 5,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Westchester",
+    "cases": 196,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
     "county": "New York City",
-    "cases": 269,
+    "cases": 329,
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"

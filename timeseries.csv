@@ -684,7 +684,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Broome County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
 ,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,95,,,,2020-03-13
 ,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,213,,,,2020-03-14
-,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,269,,,,2020-03-15
+,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,329,,,,2020-03-15
 ,Clark County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
 ,Columbia County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
 ,Grant County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,1,,,2020-03-13
@@ -856,7 +856,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Saratoga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,3,,,,2020-03-14
 ,Saratoga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,3,,,,2020-03-15
 ,Schenectady,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
-,Schenectady,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-15
+,Schenectady,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-15
 ,Tioga County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
 ,Tompkins County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
 ,Dane County,WI,USA,542364,43.069541,-89.4235435,https://www.dhs.wisconsin.gov/outbreaks/index.htm,5,,,,2020-03-14
@@ -938,21 +938,24 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Bossier Parish,LA,USA,127185,32.627677000000006,-93.5978795,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-15
 ,Citrus County,FL,USA,147929,28.858776,-82.4640235,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-15
 ,St. Johns County,FL,USA,254261,29.937673,-81.4511455,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-15
-,Westchester,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,178,,,,2020-03-15
-,Nassau,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,79,,,,2020-03-15
-,Suffolk,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,41,,,,2020-03-15
-,Rockland,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,12,,,,2020-03-15
-,Orange,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,6,,,,2020-03-15
-,Albany,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,5,,,,2020-03-15
-,Ulster,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,5,,,,2020-03-15
-,Dutchess,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,4,,,,2020-03-15
-,Erie,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,3,,,,2020-03-15
-,Monroe,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-15
-,Broom,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-15
+,Albany,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,8,,,,2020-03-15
+,Broome,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-15
 ,Delaware,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-15
+,Dutchess,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,7,,,,2020-03-15
+,Erie,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,3,,,,2020-03-15
+,Greene,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-15
 ,Herkimer,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-15
+,Monroe,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-15
+,Montgomery,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-15
+,Nassau,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,98,,,,2020-03-15
+,Orange,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,6,,,,2020-03-15
+,Putnam,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-15
+,Rockland,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,13,,,,2020-03-15
+,Suffolk,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,47,,,,2020-03-15
 ,Tioga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-15
 ,Tompkins,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-15
+,Ulster,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,5,,,,2020-03-15
+,Westchester,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,196,,,,2020-03-15
 ,Winnebago County,WI,USA,171020,44.0685395,-88.644934,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-15
 ,Lehigh County,PA,USA,368100,40.602919,-75.6124935,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,1,,,,2020-03-15
 ,Luzerne County,PA,USA,317646,41.164615999999995,-75.95966200000001,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,1,,,,2020-03-15
