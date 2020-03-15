@@ -192,17 +192,17 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Cabarrus County,NC,USA,1,0,0,,35.3456055,-80.541589,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,188,211342
 ,Gaston County,NC,USA,0,0,0,,35.284431999999995,-81.1896935,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,189,222846
 ,Atlantic County,NJ,USA,0,,,0,39.509258,-74.6437035,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,190,265429
-,Bergen County,NJ,USA,29,,,36,40.952146,-74.08225,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,191,936692
+,Bergen County,NJ,USA,32,,,39,40.952146,-74.08225,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,191,936692
 ,Burlington County,NJ,USA,4,,,7,39.8658955,-74.72494950000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,192,445384
 ,Camden County,NJ,USA,2,,,5,39.800549000000004,-74.9381575,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,193,507078
 ,Cape May County,NJ,USA,0,,,0,39.1261435,-74.756719,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,194,92560
 ,Cumberland County,NJ,USA,0,,,1,39.373098,-75.135421,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,195,150972
 ,Essex County,NJ,USA,11,,,15,40.7914715,-74.24515199999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,196,799767
 ,Gloucester County,NJ,USA,0,,,0,39.7016335,-75.15904900000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,197,291408
-,Hudson County,NJ,USA,11,,,17,40.732721999999995,-74.07540449999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,198,676061
+,Hudson County,NJ,USA,10,,,16,40.732721999999995,-74.07540449999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,198,676061
 ,Hunterdon County,NJ,USA,0,,,1,40.5647375,-74.9494015,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,199,124714
 ,Mercer County,NJ,USA,1,,,1,40.280848500000005,-74.7122715,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,200,369811
-,Monmouth County,NJ,USA,12,,,17,40.2778005,-74.2928135,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,201,621354
+,Monmouth County,NJ,USA,11,,,16,40.2778005,-74.2928135,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,201,621354
 ,Ocean County,NJ,USA,2,,,3,39.835446000000005,-74.29221150000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,202,601651
 ,Passaic County,NJ,USA,5,,,7,41.0114805,-74.304839,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,203,503310
 ,Salem County,NJ,USA,0,,,0,39.5848515,-75.31079349999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,204,62607
@@ -211,7 +211,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Union County,NJ,USA,4,,,9,40.665566,-74.300027,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,207,558067
 ,Warren County,NJ,USA,0,,,1,40.8430415,-74.985897,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,208,105779
 ,Morris County,NJ,USA,4,,,4,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,209,494228
-,Middlesex County,NJ,USA,12,,,16,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,210,829685
+,Middlesex County,NJ,USA,11,,,15,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,210,829685
 ,,British Columbia,Canada,73,,,,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,211,5071000
 ,,Alberta,Canada,39,,,,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,212,4067175
 ,,Saskatchewan,Canada,0,,,,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,213,1098352
