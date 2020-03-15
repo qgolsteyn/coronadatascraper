@@ -462,8 +462,8 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,San Diego County,CA,USA,11,,,145,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,360,3343364
 ,Ventura County,CA,USA,0,,,0,34.058353,-119.1057185,https://www.ventura.org/covid19/,361,850967
 ,Dane County,WI,USA,6,,,,43.069541,-89.4235435,https://www.dhs.wisconsin.gov/outbreaks/index.htm,362,542364
-,Fond du Lac County,WI,USA,6,,,,43.7405715,-88.5234625,https://www.dhs.wisconsin.gov/outbreaks/index.htm,363,103066
-,Milwaukee County,WI,USA,6,,,,43.017386,-87.94847250000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,364,948201
+,Fond du Lac County,WI,USA,11,,,,43.7405715,-88.5234625,https://www.dhs.wisconsin.gov/outbreaks/index.htm,363,103066
+,Milwaukee County,WI,USA,7,,,,43.017386,-87.94847250000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,364,948201
 ,Pierce County,WI,USA,1,,,,44.7007885,-92.47159500000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,365,42555
 ,Racine County,WI,USA,1,,,,42.72707,-88.0365295,https://www.dhs.wisconsin.gov/outbreaks/index.htm,366,196584
 ,Sheboygan County,WI,USA,3,,,,43.7172725,-87.9311795,https://www.dhs.wisconsin.gov/outbreaks/index.htm,367,115456
