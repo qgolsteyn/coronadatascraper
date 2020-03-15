@@ -380,7 +380,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,59,,1,,2020-03-11
 ,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,92,,7,,2020-03-12
 ,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,140,,11,,2020-03-13
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,140,,11,,2020-03-15
 ,Boone County,IN,USA,66999,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-13
 ,Boone County,IN,USA,66999,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-14
 ,Boone County,IN,USA,66999,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-15
@@ -411,6 +410,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Howard County,IN,USA,82366,40.469593,-86.1189395,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-15
 ,Wayne County,NC,USA,123248,35.372187,-78.0523115,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-14
 ,Wayne County,NC,USA,123248,35.372187,-78.0523115,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-15
+,Watauga County,NC,USA,55945,36.2509755,-81.686846,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-15
 ,Forsyth County,NC,USA,379099,36.1174225,-80.2759705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,2,,,,2020-03-13
 ,Forsyth County,NC,USA,379099,36.1174225,-80.2759705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,2,,,,2020-03-14
 ,Forsyth County,NC,USA,379099,36.1174225,-80.2759705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,2,,,,2020-03-15
@@ -419,15 +419,15 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Durham County,NC,USA,316739,36.051317999999995,-78.8573145,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-15
 ,Wake County,NC,USA,1092305,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,8,,,,2020-03-13
 ,Wake County,NC,USA,1092305,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,11,,,,2020-03-14
-,Wake County,NC,USA,1092305,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,11,,,,2020-03-15
+,Wake County,NC,USA,1092305,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,14,,,,2020-03-15
 ,Chatham County,NC,USA,73139,35.6959365,-79.231033,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-13
 ,Chatham County,NC,USA,73139,35.6959365,-79.231033,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-14
 ,Chatham County,NC,USA,73139,35.6959365,-79.231033,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-15
 ,Johnston County,NC,USA,202675,35.537085,-78.386616,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-13
 ,Johnston County,NC,USA,202675,35.537085,-78.386616,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-14
-,Johnston County,NC,USA,202675,35.537085,-78.386616,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-15
+,Johnston County,NC,USA,202675,35.537085,-78.386616,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,2,,,,2020-03-15
 ,Harnett County,NC,USA,134214,35.3876225,-78.87648899999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-14
-,Harnett County,NC,USA,134214,35.3876225,-78.87648899999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-15
+,Harnett County,NC,USA,134214,35.3876225,-78.87648899999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,2,,,,2020-03-15
 ,Craven County,NC,USA,102912,35.110855,-77.063318,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-14
 ,Craven County,NC,USA,102912,35.110855,-77.063318,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-15
 ,Onslow County,NC,USA,197683,34.712451,-77.3899735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-14
@@ -436,7 +436,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Brunswick County,NC,USA,136744,34.1056615,-78.292874,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-15
 ,Mecklenburg County,NC,USA,1093901,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-13
 ,Mecklenburg County,NC,USA,1093901,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-14
-,Mecklenburg County,NC,USA,1093901,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-15
+,Mecklenburg County,NC,USA,1093901,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,4,,,,2020-03-15
 ,Cabarrus County,NC,USA,211342,35.3456055,-80.541589,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-13
 ,Cabarrus County,NC,USA,211342,35.3456055,-80.541589,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-14
 ,Cabarrus County,NC,USA,211342,35.3456055,-80.541589,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,1,,,,2020-03-15
@@ -501,10 +501,10 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,,Manitoba,Canada,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,4,,,,2020-03-15
 ,,Ontario,Canada,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,79,,,,2020-03-13
 ,,Ontario,Canada,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,79,,,,2020-03-14
-,,Ontario,Canada,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,101,,,,2020-03-15
+,,Ontario,Canada,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,103,,,,2020-03-15
 ,,Quebec,Canada,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,17,,,,2020-03-13
 ,,Quebec,Canada,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,17,,,,2020-03-14
-,,Quebec,Canada,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,21,,,,2020-03-15
+,,Quebec,Canada,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,24,,,,2020-03-15
 ,,New Brunswick,Canada,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,,2020-03-13
 ,,New Brunswick,Canada,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,,2020-03-14
 ,,New Brunswick,Canada,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,,2020-03-15
@@ -562,18 +562,19 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Washington County,OR,USA,597695,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,10,,,,2020-03-14
 ,Washington County,OR,USA,597695,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,13,,,,2020-03-15
 ,Jefferson Parish,LA,USA,434051,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,3,,,,2020-03-13
-,Jefferson Parish,LA,USA,434051,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,11,,,,2020-03-15
+,Jefferson Parish,LA,USA,434051,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,12,,,,2020-03-15
 ,Lafourche Parish,LA,USA,98115,29.4895455,-90.50821049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-13
 ,Lafourche Parish,LA,USA,98115,29.4895455,-90.50821049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-15
 ,Orleans Parish,LA,USA,391006,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,26,,,,2020-03-13
-,Orleans Parish,LA,USA,391006,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,53,,,,2020-03-15
+,Orleans Parish,LA,USA,391006,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,65,,,,2020-03-15
 ,St. Bernard Parish,LA,USA,46721,29.8500655,-89.4145595,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-13
+,St. Bernard Parish,LA,USA,46721,29.8500655,-89.4145595,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-15
 ,St. Charles Parish,LA,USA,52879,29.961458,-90.3585315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-13
 ,St. Charles Parish,LA,USA,52879,29.961458,-90.3585315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,2,,,,2020-03-15
 ,St. Tammany Parish,LA,USA,258111,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,2,,,,2020-03-13
-,St. Tammany Parish,LA,USA,258111,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,2,,,,2020-03-15
+,St. Tammany Parish,LA,USA,258111,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,4,,,,2020-03-15
 ,Terrebonne Parish,LA,USA,111021,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-13
-,Terrebonne Parish,LA,USA,111021,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-15
+,Terrebonne Parish,LA,USA,111021,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,2,,,,2020-03-15
 ,Carroll County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,,2020-03-13
 ,Harrison County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,,2020-03-13
 ,Johnson County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,14,,,,2020-03-13
@@ -745,8 +746,9 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,36,,,,2020-03-13
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,13,,,,2020-03-14
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,14,,,,2020-03-15
-,Riverside County,CA,USA,,,,https://www.rivcoph.org/coronavirus,8,,,,2020-03-13
-,Riverside County,CA,USA,,,,https://www.rivcoph.org/coronavirus,1,,,,2020-03-14
+,Riverside County,CA,USA,2450758,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,8,,,,2020-03-13
+,Riverside County,CA,USA,2450758,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,1,,,,2020-03-14
+,Riverside County,CA,USA,2450758,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,1,,,,2020-03-15
 ,San Diego County,CA,USA,3343364,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,11,,,145,2020-03-13
 ,San Diego County,CA,USA,3343364,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,11,,,145,2020-03-14
 ,San Diego County,CA,USA,3343364,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,11,,,145,2020-03-15

@@ -20,7 +20,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,,Umbria,ITA,,,882015,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,2,2,8,9,9,16,24,26,28,37,46,64,76,107,107
 ,,Valle d'Aosta,ITA,,,125666,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,2,7,8,9,15,17,20,27,28,42,42
 ,,Veneto,ITA,,,4905854,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33,43,71,111,151,191,263,273,307,360,407,488,543,670,744,856,1023,1384,1595,1937,1937
-,Zurich,,CHE,,,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,,,2,9,,19,26,30,37,40,49,59,92,140,,140
+,Zurich,,CHE,,,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,,,2,9,,19,26,30,37,40,49,59,92,140,0,0
 ,DeKalb County,IN,USA,41.397172,-84.998833,43226,,,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Boone County,IN,USA,40.051773999999995,-86.4677715,66999,,,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
 ,Tippecanoe County,IN,USA,40.388631000000004,-86.89501100000001,193048,,,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
@@ -136,7 +136,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Pasquotank County,NC,USA,36.31698,-76.2753735,39639,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Halifax County,NC,USA,36.255891000000005,-77.618624,50574,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Wilkes County,NC,USA,36.217608,-81.20716300000001,68557,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
-,Watauga County,NC,USA,36.2509755,-81.686846,55945,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
+,Watauga County,NC,USA,36.2509755,-81.686846,55945,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1
 ,Perquimans County,NC,USA,36.226709,-76.390806,13422,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Chowan County,NC,USA,36.178765999999996,-76.5666445,14029,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Avery County,NC,USA,36.099315000000004,-81.9081385,17505,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
@@ -155,7 +155,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Yancey County,NC,USA,35.888507000000004,-82.31928300000001,17903,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Madison County,NC,USA,35.8719975,-82.685785,21763,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Martin County,NC,USA,35.8664985,-77.084982,22671,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
-,Wake County,NC,USA,35.796786499999996,-78.6249785,1092305,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,11,11
+,Wake County,NC,USA,35.796786499999996,-78.6249785,1092305,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,11,14
 ,Davie County,NC,USA,35.9026525,-80.5364645,42733,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Washington County,NC,USA,35.840892999999994,-76.6003345,11859,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Burke County,NC,USA,35.7791955,-81.675545,90382,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
@@ -167,7 +167,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Haywood County,NC,USA,35.5418605,-83.000247,61971,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Catawba County,NC,USA,35.6878485,-81.22916649999999,158652,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Pitt County,NC,USA,35.580454,-77.392609,179914,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
-,Johnston County,NC,USA,35.537085,-78.386616,202675,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+,Johnston County,NC,USA,35.537085,-78.386616,202675,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2
 ,Swain County,NC,USA,35.4877375,-83.554631,14245,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Beaufort County,NC,USA,35.477776000000006,-76.83147650000001,47079,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Hyde County,NC,USA,35.383544,-76.19371849999999,5230,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
@@ -176,7 +176,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Lee County,NC,USA,35.467607,-79.16466,61452,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Cleveland County,NC,USA,35.371596499999995,-81.54468800000001,97645,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Jackson County,NC,USA,35.26292,-83.1417865,43327,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
-,Harnett County,NC,USA,35.3876225,-78.87648899999999,134214,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1
+,Harnett County,NC,USA,35.3876225,-78.87648899999999,134214,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,2
 ,Graham County,NC,USA,35.342066,-83.810297,8484,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Henderson County,NC,USA,35.322029,-82.5033325,116748,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Moore County,NC,USA,35.2805435,-79.43270749999999,98682,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
@@ -210,7 +210,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Iredell County,NC,USA,35.7732565,-80.901307,178435,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Rowan County,NC,USA,35.6830585,-80.47710000000001,141262,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Lincoln County,NC,USA,35.484821999999994,-81.24025,83770,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
-,Mecklenburg County,NC,USA,35.2583695,-80.804163,1093901,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
+,Mecklenburg County,NC,USA,35.2583695,-80.804163,1093901,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,4
 ,Cabarrus County,NC,USA,35.3456055,-80.541589,211342,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
 ,Gaston County,NC,USA,35.284431999999995,-81.1896935,222846,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Atlantic County,NJ,USA,39.509258,-74.6437035,265429,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
@@ -238,8 +238,8 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,,Alberta,Canada,54.49628672664678,-115.00016854279502,4067175,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,29,39
 ,,Saskatchewan,Canada,54.496338403094796,-105.6821561755884,1098352,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,,Manitoba,Canada,54.496368513369816,-95.4742987434922,1278365,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,4
-,,Ontario,Canada,49.26501413726137,-84.7533750036988,13448494,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79,79,101
-,,Quebec,Canada,53.79378896700006,-68.38833574149993,8164361,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,17,21
+,,Ontario,Canada,49.26501413726137,-84.7533750036988,13448494,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79,79,103
+,,Quebec,Canada,53.79378896700006,-68.38833574149993,8164361,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,17,24
 ,,New Brunswick,Canada,46.36274594300005,-66.43830941249992,747101,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
 ,Copiah County,MS,USA,31.867576,-90.42352199999999,28543,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
 ,Pearl River County,MS,USA,30.7364495,-89.596482,55387,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
@@ -262,13 +262,13 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Polk County,OR,USA,44.8977695,-123.38289850000001,85234,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
 ,Umatilla County,OR,USA,45.4984405,-118.7037805,77516,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2
 ,Washington County,OR,USA,45.5483985,-123.114875,597695,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,13
-,Jefferson Parish,LA,USA,29.696731,-90.114832,434051,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,11
+,Jefferson Parish,LA,USA,29.696731,-90.114832,434051,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,12
 ,Lafourche Parish,LA,USA,29.4895455,-90.50821049999999,98115,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1
-,Orleans Parish,LA,USA,30.033868,-89.88147699999999,391006,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,,53
-,St. Bernard Parish,LA,USA,29.8500655,-89.4145595,46721,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,0
+,Orleans Parish,LA,USA,30.033868,-89.88147699999999,391006,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,,65
+,St. Bernard Parish,LA,USA,29.8500655,-89.4145595,46721,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1
 ,St. Charles Parish,LA,USA,29.961458,-90.3585315,52879,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,2
-,St. Tammany Parish,LA,USA,30.43073,-89.891049,258111,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,2
-,Terrebonne Parish,LA,USA,29.406244,-90.8557755,111021,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1
+,St. Tammany Parish,LA,USA,30.43073,-89.891049,258111,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,4
+,Terrebonne Parish,LA,USA,29.406244,-90.8557755,111021,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,2
 ,Carroll County,IA,USA,,,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
 ,Harrison County,IA,USA,,,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
 ,Johnson County,IA,USA,,,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14,,
@@ -350,7 +350,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Shasta County,CA,USA,40.7359105,-122.192699,180040,,,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
 ,Los Angeles County,CA,USA,33.8115605,-118.29563049999999,10105518,,,http://www.publichealth.lacounty.gov/media/Coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,40,53
 ,Orange County,CA,USA,33.66652,-117.76484500000001,3185968,,,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,13,14
-,Riverside County,CA,USA,,,,,,https://www.rivcoph.org/coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,
+,Riverside County,CA,USA,33.752829500000004,-116.05561750000001,2450758,,,https://www.rivcoph.org/coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,1
 ,San Diego County,CA,USA,33.01959050000001,-116.83848499999999,3343364,,,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,11,11
 ,Ventura County,CA,USA,34.058353,-119.1057185,850967,,,https://www.ventura.org/covid19/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,0,0
 ,,AL,USA,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
@@ -461,6 +461,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Pike County,PA,USA,41.340779,-75.02435,55933,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
 ,Washington County,PA,USA,40.2152165,-80.1791085,207346,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
 ,Wayne County,PA,USA,41.615992000000006,-75.2745845,51276,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
+,,Newfoundland and Labrador,Canada,53.46112743006114,-60.21844100481229,519716,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 ,,Prince Edward Island,Canada,46.49290599200006,-63.21041826049995,142907,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Baldwin County,AL,USA,30.765086,-87.69793150000001,218022,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Out of State County,AL,USA,,,,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
