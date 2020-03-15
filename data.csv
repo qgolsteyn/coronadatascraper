@@ -465,72 +465,71 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,359,180040
 ,Los Angeles County,CA,USA,53,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,360,10105518
 ,Orange County,CA,USA,14,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,361,3185968
-,Riverside County,CA,USA,1,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,362,2450758
-,San Diego County,CA,USA,11,,,145,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,363,3343364
-,Ventura County,CA,USA,0,,,0,34.058353,-119.1057185,https://www.ventura.org/covid19/,364,850967
-,Dane County,WI,USA,6,,,,43.069541,-89.4235435,https://www.dhs.wisconsin.gov/outbreaks/index.htm,365,542364
-,Fond du Lac County,WI,USA,11,,,,43.7405715,-88.5234625,https://www.dhs.wisconsin.gov/outbreaks/index.htm,366,103066
-,Milwaukee County,WI,USA,7,,,,43.017386,-87.94847250000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,367,948201
-,Pierce County,WI,USA,1,,,,44.7007885,-92.47159500000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,368,42555
-,Racine County,WI,USA,1,,,,42.72707,-88.0365295,https://www.dhs.wisconsin.gov/outbreaks/index.htm,369,196584
-,Sheboygan County,WI,USA,3,,,,43.7172725,-87.9311795,https://www.dhs.wisconsin.gov/outbreaks/index.htm,370,115456
-,Waukesha County,WI,USA,3,,,,43.018702,-88.30268950000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,371,403072
-,Winnebago County,WI,USA,1,,,,44.0685395,-88.644934,https://www.dhs.wisconsin.gov/outbreaks/index.htm,372,171020
-,Beadle County,SD,USA,1,,,,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,373,18883
-,Bon Homme County,SD,USA,1,,,,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,374,6980
-,Charles Mix County,SD,USA,1,,,,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,375,9338
-,Davison County,SD,USA,1,,,,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,376,19790
-,McCook County,SD,USA,1,,,,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,377,5546
-,Minnehaha County,SD,USA,3,,,,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,378,192876
-,Pennington County,SD,USA,1,,,,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,379,111729
+,San Diego County,CA,USA,11,,,145,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,362,3343364
+,Ventura County,CA,USA,0,,,0,34.058353,-119.1057185,https://www.ventura.org/covid19/,363,850967
+,Dane County,WI,USA,6,,,,43.069541,-89.4235435,https://www.dhs.wisconsin.gov/outbreaks/index.htm,364,542364
+,Fond du Lac County,WI,USA,11,,,,43.7405715,-88.5234625,https://www.dhs.wisconsin.gov/outbreaks/index.htm,365,103066
+,Milwaukee County,WI,USA,7,,,,43.017386,-87.94847250000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,366,948201
+,Pierce County,WI,USA,1,,,,44.7007885,-92.47159500000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,367,42555
+,Racine County,WI,USA,1,,,,42.72707,-88.0365295,https://www.dhs.wisconsin.gov/outbreaks/index.htm,368,196584
+,Sheboygan County,WI,USA,3,,,,43.7172725,-87.9311795,https://www.dhs.wisconsin.gov/outbreaks/index.htm,369,115456
+,Waukesha County,WI,USA,3,,,,43.018702,-88.30268950000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,370,403072
+,Winnebago County,WI,USA,1,,,,44.0685395,-88.644934,https://www.dhs.wisconsin.gov/outbreaks/index.htm,371,171020
+,Beadle County,SD,USA,1,,,,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,372,18883
+,Bon Homme County,SD,USA,1,,,,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,373,6980
+,Charles Mix County,SD,USA,1,,,,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,374,9338
+,Davison County,SD,USA,1,,,,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,375,19790
+,McCook County,SD,USA,1,,,,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,376,5546
+,Minnehaha County,SD,USA,3,,,,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,377,192876
+,Pennington County,SD,USA,1,,,,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,378,111729
 ,Bear River County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
 ,Central Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Davis County,UT,USA,0,,,,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,380,351713
-,Salt Lake County,UT,USA,0,,,,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,381,1152633
-,San Juan County,UT,USA,0,,,,37.748977499999995,-110.226921,https://coronavirus.utah.gov/latest/,382,15449
+,Davis County,UT,USA,0,,,,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,379,351713
+,Salt Lake County,UT,USA,0,,,,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,380,1152633
+,San Juan County,UT,USA,0,,,,37.748977499999995,-110.226921,https://coronavirus.utah.gov/latest/,381,15449
 ,Southeast Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
 ,Southwest Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Summit County,UT,USA,6,,,,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,383,41933
-,Tooele County,UT,USA,0,,,,40.490421,-113.09571600000001,https://coronavirus.utah.gov/latest/,384,69907
+,Summit County,UT,USA,6,,,,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,382,41933
+,Tooele County,UT,USA,0,,,,40.490421,-113.09571600000001,https://coronavirus.utah.gov/latest/,383,69907
 ,Tri County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Utah County,UT,USA,1,,,,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,385,622213
-,Wasatch County,UT,USA,0,,,,40.294765,-111.25642,https://coronavirus.utah.gov/latest/,386,33240
+,Utah County,UT,USA,1,,,,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,384,622213
+,Wasatch County,UT,USA,0,,,,40.294765,-111.25642,https://coronavirus.utah.gov/latest/,385,33240
 ,Weber-Morgan County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Allegheny County,PA,USA,3,,,,40.434321,-80.02482499999999,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,387,1218452
-,Bucks County,PA,USA,4,,,,40.3287395,-75.1027805,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,388,628195
-,Chester County,PA,USA,2,,,,39.9833405,-75.748325,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,389,522046
-,Cumberland County,PA,USA,5,,,,40.1362805,-77.2432875,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,390,251423
-,Delaware County,PA,USA,7,,,,39.9336645,-75.404395,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,391,564751
-,Lehigh County,PA,USA,1,,,,40.602919,-75.6124935,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,392,368100
-,Luzerne County,PA,USA,1,,,,41.164615999999995,-75.95966200000001,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,393,317646
-,Monroe County,PA,USA,6,,,,41.0334235,-75.308198,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,394,169507
-,Montgomery County,PA,USA,24,,,,40.211977000000005,-75.355924,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,395,828604
-,Northampton County,PA,USA,1,,,,40.752713,-75.32991200000001,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,396,304807
-,Philadelphia County,PA,USA,6,,,,40.0018505,-75.116323,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,397,1584138
-,Pike County,PA,USA,1,,,,41.340779,-75.02435,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,398,55933
-,Washington County,PA,USA,1,,,,40.2152165,-80.1791085,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,399,207346
-,Wayne County,PA,USA,1,,,,41.615992000000006,-75.2745845,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,400,51276
-,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,401,39583
-,Davidson County,TN,USA,17,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,402,692587
-,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,403,364286
-,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,404,54012
-,Knox County,TN,USA,1,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,405,465289
-,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,406,324890
-,Shelby County,TN,USA,2,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,407,935764
-,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,408,157668
-,Williamson County,TN,USA,14,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,409,231729
-,Belmont County,OH,USA,2,,,,40.011337999999995,-80.970149,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,410,67505
-,Butler County,OH,USA,6,,,,39.441655499999996,-84.5757445,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,411,382378
-,Cuyahoga County,OH,USA,14,,,,41.453196000000005,-81.67301699999999,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,412,1243857
-,Franklin County,OH,USA,3,,,,39.9690415,-83.010875,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,413,1310300
-,Lorain County,OH,USA,2,,,,41.289587999999995,-82.112518,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,414,309461
-,Lucas County,OH,USA,1,,,,41.573549,-83.5244735,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,415,429899
-,Medina County,OH,USA,1,,,,41.132868,-81.92915450000001,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,416,179146
-,Stark County,OH,USA,3,,,,40.811817000000005,-81.3683635,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,417,371574
-,Summit County,OH,USA,2,,,,41.1288115,-81.5400925,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,418,541918
-,Trumbull County,OH,USA,2,,,,41.3175365,-80.76100600000001,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,419,198627
-,Tuscarawas County,OH,USA,1,,,,40.440586499999995,-81.488516,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,420,92176
-,Fairfield County,CT,USA,15,,,,41.3259525,-73.397813,https://portal.ct.gov/Coronavirus,421,943823
-,Hartford County,CT,USA,1,,,,41.7926935,-72.71937700000001,https://portal.ct.gov/Coronavirus,422,892697
-,Litchfield County,CT,USA,3,,,,41.759701,-73.20264900000001,https://portal.ct.gov/Coronavirus,423,181111
-,New Haven County,CT,USA,1,,,,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,424,857620
+,Allegheny County,PA,USA,3,,,,40.434321,-80.02482499999999,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,386,1218452
+,Bucks County,PA,USA,4,,,,40.3287395,-75.1027805,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,387,628195
+,Chester County,PA,USA,2,,,,39.9833405,-75.748325,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,388,522046
+,Cumberland County,PA,USA,5,,,,40.1362805,-77.2432875,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,389,251423
+,Delaware County,PA,USA,7,,,,39.9336645,-75.404395,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,390,564751
+,Lehigh County,PA,USA,1,,,,40.602919,-75.6124935,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,391,368100
+,Luzerne County,PA,USA,1,,,,41.164615999999995,-75.95966200000001,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,392,317646
+,Monroe County,PA,USA,6,,,,41.0334235,-75.308198,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,393,169507
+,Montgomery County,PA,USA,24,,,,40.211977000000005,-75.355924,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,394,828604
+,Northampton County,PA,USA,1,,,,40.752713,-75.32991200000001,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,395,304807
+,Philadelphia County,PA,USA,6,,,,40.0018505,-75.116323,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,396,1584138
+,Pike County,PA,USA,1,,,,41.340779,-75.02435,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,397,55933
+,Washington County,PA,USA,1,,,,40.2152165,-80.1791085,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,398,207346
+,Wayne County,PA,USA,1,,,,41.615992000000006,-75.2745845,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,399,51276
+,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,400,39583
+,Davidson County,TN,USA,17,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,401,692587
+,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,402,364286
+,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,403,54012
+,Knox County,TN,USA,1,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,404,465289
+,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,405,324890
+,Shelby County,TN,USA,2,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,406,935764
+,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,407,157668
+,Williamson County,TN,USA,14,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,408,231729
+,Belmont County,OH,USA,2,,,,40.011337999999995,-80.970149,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,409,67505
+,Butler County,OH,USA,6,,,,39.441655499999996,-84.5757445,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,410,382378
+,Cuyahoga County,OH,USA,14,,,,41.453196000000005,-81.67301699999999,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,411,1243857
+,Franklin County,OH,USA,3,,,,39.9690415,-83.010875,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,412,1310300
+,Lorain County,OH,USA,2,,,,41.289587999999995,-82.112518,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,413,309461
+,Lucas County,OH,USA,1,,,,41.573549,-83.5244735,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,414,429899
+,Medina County,OH,USA,1,,,,41.132868,-81.92915450000001,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,415,179146
+,Stark County,OH,USA,3,,,,40.811817000000005,-81.3683635,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,416,371574
+,Summit County,OH,USA,2,,,,41.1288115,-81.5400925,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,417,541918
+,Trumbull County,OH,USA,2,,,,41.3175365,-80.76100600000001,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,418,198627
+,Tuscarawas County,OH,USA,1,,,,40.440586499999995,-81.488516,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,419,92176
+,Fairfield County,CT,USA,15,,,,41.3259525,-73.397813,https://portal.ct.gov/Coronavirus,420,943823
+,Hartford County,CT,USA,1,,,,41.7926935,-72.71937700000001,https://portal.ct.gov/Coronavirus,421,892697
+,Litchfield County,CT,USA,3,,,,41.759701,-73.20264900000001,https://portal.ct.gov/Coronavirus,422,181111
+,New Haven County,CT,USA,1,,,,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,423,857620
