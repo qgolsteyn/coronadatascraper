@@ -305,11 +305,10 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,,DC,USA,16,,,115,,,https://coronavirus.dc.gov/page/coronavirus-data,,
 ,Baldwin County,AL,USA,1,1,,,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,222,218022
 ,Elmore County,AL,USA,1,1,,,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,223,81887
-,Jefferson County,AL,USA,5,5,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,224,659300
+,Jefferson County,AL,USA,6,6,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,224,659300
 ,Limestone County,AL,USA,1,1,,,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,225,96174
 ,Montgomery County,AL,USA,1,1,,,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,226,225763
 ,Tuscaloosa County,AL,USA,2,2,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,227,208911
-,Out of State County,AL,USA,1,1,,,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,
 ,Adams County,CO,USA,6,,,,39.87063,-104.3794855,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,228,511868
 ,Arapahoe County,CO,USA,10,,,,39.6533655,-104.38034350000001,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,229,651215
 ,Denver County,CO,USA,20,,,,39.76426,-104.855181,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,230,716492

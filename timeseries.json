@@ -9712,8 +9712,8 @@
         "growthFactor": null
       },
       "2020-3-15": {
-        "cases": 5,
-        "deaths": 5,
+        "cases": 6,
+        "deaths": 6,
         "growthFactor": null
       }
     },
@@ -13678,18 +13678,6 @@
     ],
     "featureId": 222,
     "population": 218022
-  },
-  "Out of State County, AL, USA": {
-    "dates": {
-      "2020-3-15": {
-        "cases": 1,
-        "deaths": 1
-      }
-    },
-    "county": "Out of State County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
   },
   "Adams County, CO, USA": {
     "dates": {
