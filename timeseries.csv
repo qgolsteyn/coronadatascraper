@@ -455,7 +455,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Cumberland County,NJ,USA,150972,39.373098,-75.135421,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,1,2020-03-15
 ,Essex County,NJ,USA,799767,40.7914715,-74.24515199999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,5,,,9,2020-03-13
 ,Essex County,NJ,USA,799767,40.7914715,-74.24515199999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,7,,,11,2020-03-14
-,Essex County,NJ,USA,799767,40.7914715,-74.24515199999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,4,,,8,2020-03-15
+,Essex County,NJ,USA,799767,40.7914715,-74.24515199999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,6,,,10,2020-03-15
 ,Hudson County,NJ,USA,676061,40.732721999999995,-74.07540449999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,3,,,9,2020-03-13
 ,Hudson County,NJ,USA,676061,40.732721999999995,-74.07540449999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,5,,,11,2020-03-14
 ,Hudson County,NJ,USA,676061,40.732721999999995,-74.07540449999999,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,5,,,11,2020-03-15
@@ -466,7 +466,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Mercer County,NJ,USA,369811,40.280848500000005,-74.7122715,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,1,,,1,2020-03-15
 ,Monmouth County,NJ,USA,621354,40.2778005,-74.2928135,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,7,,,12,2020-03-13
 ,Monmouth County,NJ,USA,621354,40.2778005,-74.2928135,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,8,,,13,2020-03-14
-,Monmouth County,NJ,USA,621354,40.2778005,-74.2928135,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,4,,,9,2020-03-15
+,Monmouth County,NJ,USA,621354,40.2778005,-74.2928135,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,8,,,13,2020-03-15
 ,Ocean County,NJ,USA,601651,39.835446000000005,-74.29221150000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,1,,,2,2020-03-13
 ,Ocean County,NJ,USA,601651,39.835446000000005,-74.29221150000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,1,,,2,2020-03-14
 ,Ocean County,NJ,USA,601651,39.835446000000005,-74.29221150000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,1,,,2,2020-03-15
@@ -487,7 +487,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Warren County,NJ,USA,105779,40.8430415,-74.985897,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,1,2020-03-15
 ,Morris County,NJ,USA,494228,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,3,,,3,2020-03-13
 ,Morris County,NJ,USA,494228,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,3,,,3,2020-03-14
-,Morris County,NJ,USA,494228,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,1,,,1,2020-03-15
+,Morris County,NJ,USA,494228,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,4,,,4,2020-03-15
 ,Middlesex County,NJ,USA,829685,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,3,,,7,2020-03-13
 ,Middlesex County,NJ,USA,829685,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,10,,,14,2020-03-14
 ,Middlesex County,NJ,USA,829685,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,11,,,15,2020-03-15
@@ -509,18 +509,14 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,,New Brunswick,Canada,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,,2020-03-13
 ,,New Brunswick,Canada,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,,2020-03-14
 ,,New Brunswick,Canada,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,,2020-03-15
-,Copiah County,MS,USA,28543,31.867576,-90.42352199999999,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-13
-,Copiah County,MS,USA,28543,31.867576,-90.42352199999999,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-14
-,Copiah County,MS,USA,28543,31.867576,-90.42352199999999,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-15
-,Pearl River County,MS,USA,55387,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-13
-,Pearl River County,MS,USA,55387,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-14
-,Pearl River County,MS,USA,55387,30.7364495,-89.596482,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-15
-,Leflore County,MS,USA,28919,33.523355,-90.277601,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-13
-,Leflore County,MS,USA,28919,33.523355,-90.277601,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-14
-,Leflore County,MS,USA,28919,33.523355,-90.277601,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-15
-,Forrest County,MS,USA,75036,31.1719645,-89.2947915,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",3,,,,2020-03-13
-,Forrest County,MS,USA,75036,31.1719645,-89.2947915,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",3,,,,2020-03-14
-,Forrest County,MS,USA,75036,31.1719645,-89.2947915,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",3,,,,2020-03-15
+,Copiah County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-13
+,Copiah County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-14
+,Pearl River County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-13
+,Pearl River County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-14
+,Leflore County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-13
+,Leflore County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-14
+,Forrest County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",3,,,,2020-03-13
+,Forrest County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",3,,,,2020-03-14
 ,,DC,USA,,,,https://coronavirus.dc.gov/page/coronavirus-data,10,,,69,2020-03-13
 ,,DC,USA,,,,https://coronavirus.dc.gov/page/coronavirus-data,10,,,69,2020-03-14
 ,,DC,USA,,,,https://coronavirus.dc.gov/page/coronavirus-data,16,,,115,2020-03-15
