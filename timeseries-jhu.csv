@@ -214,14 +214,14 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Cabarrus County,NC,USA,35.3456055,-80.541589,211342,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
 ,Gaston County,NC,USA,35.284431999999995,-81.1896935,222846,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Atlantic County,NJ,USA,39.509258,-74.6437035,265429,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
-,Bergen County,NJ,USA,40.952146,-74.08225,936692,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,25,32
+,Bergen County,NJ,USA,40.952146,-74.08225,936692,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,25,29
 ,Burlington County,NJ,USA,39.8658955,-74.72494950000001,445384,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,4
 ,Camden County,NJ,USA,39.800549000000004,-74.9381575,507078,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2
 ,Cape May County,NJ,USA,39.1261435,-74.756719,92560,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Cumberland County,NJ,USA,39.373098,-75.135421,150972,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Essex County,NJ,USA,40.7914715,-74.24515199999999,799767,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,7,11
 ,Gloucester County,NJ,USA,39.7016335,-75.15904900000001,291408,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
-,Hudson County,NJ,USA,40.732721999999995,-74.07540449999999,676061,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,10
+,Hudson County,NJ,USA,40.732721999999995,-74.07540449999999,676061,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5,11
 ,Hunterdon County,NJ,USA,40.5647375,-74.9494015,124714,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Mercer County,NJ,USA,40.280848500000005,-74.7122715,369811,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1,1
 ,Monmouth County,NJ,USA,40.2778005,-74.2928135,621354,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,8,11
@@ -247,7 +247,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Forrest County,MS,USA,,,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,
 ,,DC,USA,,,,,,https://coronavirus.dc.gov/page/coronavirus-data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,16
 ,Elmore County,AL,USA,32.5876855,-86.13298,81887,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1
-,Jefferson County,AL,USA,33.544622000000004,-86.92924049999999,659300,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,6
+,Jefferson County,AL,USA,33.544622000000004,-86.92924049999999,659300,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,7
 ,Limestone County,AL,USA,34.774907,-87.030965,96174,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1
 ,Montgomery County,AL,USA,32.2330785,-86.2080335,225763,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,1
 ,Tuscaloosa County,AL,USA,33.306606,-87.4532105,208911,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,2
