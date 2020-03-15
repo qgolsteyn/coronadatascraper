@@ -3935,7 +3935,7 @@
   },
   {
     "county": "Arapahoe County",
-    "cases": 10,
+    "cases": 15,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -3947,8 +3947,34 @@
     "population": 651215
   },
   {
+    "county": "Boulder County",
+    "cases": 3,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -105.37153699999999,
+      40.0878355
+    ],
+    "featureId": 230,
+    "population": 326078
+  },
+  {
+    "county": "Clear Creek County",
+    "cases": 1,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -105.66211949999999,
+      39.7084305
+    ],
+    "featureId": 231,
+    "population": 9605
+  },
+  {
     "county": "Denver County",
-    "cases": 20,
+    "cases": 24,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -3956,12 +3982,12 @@
       -104.855181,
       39.76426
     ],
-    "featureId": 230,
+    "featureId": 232,
     "population": 716492
   },
   {
     "county": "Douglas County",
-    "cases": 4,
+    "cases": 8,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -3969,12 +3995,12 @@
       -104.994923,
       39.34788
     ],
-    "featureId": 231,
+    "featureId": 233,
     "population": 342776
   },
   {
     "county": "Eagle County",
-    "cases": 18,
+    "cases": 22,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -3982,12 +4008,12 @@
       -106.645068,
       39.6373275
     ],
-    "featureId": 232,
+    "featureId": 234,
     "population": 54993
   },
   {
     "county": "El Paso County",
-    "cases": 3,
+    "cases": 4,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -3995,12 +4021,25 @@
       -104.5619235,
       38.824693999999994
     ],
-    "featureId": 233,
+    "featureId": 235,
     "population": 713856
   },
   {
+    "county": "Garfield County",
+    "cases": 1,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "coordinates": [
+      -108.0417065,
+      39.728802
+    ],
+    "featureId": 236,
+    "population": 59770
+  },
+  {
     "county": "Gunnison County",
-    "cases": 6,
+    "cases": 8,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -4008,12 +4047,12 @@
       -106.94099,
       38.702179
     ],
-    "featureId": 234,
+    "featureId": 237,
     "population": 17246
   },
   {
     "county": "Jefferson County",
-    "cases": 9,
+    "cases": 12,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -4021,7 +4060,7 @@
       -105.2238445,
       39.5219745
     ],
-    "featureId": 235,
+    "featureId": 238,
     "population": 580233
   },
   {
@@ -4034,7 +4073,7 @@
       -105.5669625,
       40.628046999999995
     ],
-    "featureId": 236,
+    "featureId": 239,
     "population": 350518
   },
   {
@@ -4047,7 +4086,7 @@
       -108.21971400000001,
       38.933332
     ],
-    "featureId": 237,
+    "featureId": 240,
     "population": 153207
   },
   {
@@ -4060,7 +4099,7 @@
       -106.946222,
       39.171949
     ],
-    "featureId": 238,
+    "featureId": 241,
     "population": 17950
   },
   {
@@ -4073,12 +4112,12 @@
       -104.5522995,
       38.1285485
     ],
-    "featureId": 239,
+    "featureId": 242,
     "population": 167529
   },
   {
     "county": "Summit County",
-    "cases": 2,
+    "cases": 1,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -4086,12 +4125,12 @@
       -106.10532549999999,
       39.6416725
     ],
-    "featureId": 240,
+    "featureId": 243,
     "population": 31007
   },
   {
     "county": "Weld County",
-    "cases": 3,
+    "cases": 5,
     "state": "CO",
     "country": "USA",
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
@@ -4099,8 +4138,15 @@
       -104.315327,
       40.5011525
     ],
-    "featureId": 241,
+    "featureId": 244,
     "population": 314305
+  },
+  {
+    "county": "Unknown county County",
+    "cases": 1,
+    "state": "CO",
+    "country": "USA",
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub"
   },
   {
     "county": "Clackamas County",
@@ -4112,7 +4158,7 @@
       -122.26009400000001,
       45.1737
     ],
-    "featureId": 242,
+    "featureId": 245,
     "population": 416075
   },
   {
@@ -4125,7 +4171,7 @@
       -120.94952,
       44.001645499999995
     ],
-    "featureId": 243,
+    "featureId": 246,
     "population": 191996
   },
   {
@@ -4138,7 +4184,7 @@
       -123.0963585,
       43.3222345
     ],
-    "featureId": 244,
+    "featureId": 247,
     "population": 110283
   },
   {
@@ -4151,7 +4197,7 @@
       -122.756742,
       42.4995805
     ],
-    "featureId": 245,
+    "featureId": 248,
     "population": 219564
   },
   {
@@ -4164,7 +4210,7 @@
       -121.58491599999999,
       42.804975999999996
     ],
-    "featureId": 246,
+    "featureId": 249,
     "population": 67653
   },
   {
@@ -4177,7 +4223,7 @@
       -122.5272075,
       44.496468
     ],
-    "featureId": 247,
+    "featureId": 250,
     "population": 127335
   },
   {
@@ -4190,7 +4236,7 @@
       -122.4575375,
       44.984239
     ],
-    "featureId": 248,
+    "featureId": 251,
     "population": 346868
   },
   {
@@ -4203,7 +4249,7 @@
       -122.374808,
       45.580658
     ],
-    "featureId": 249,
+    "featureId": 252,
     "population": 811880
   },
   {
@@ -4216,7 +4262,7 @@
       -123.38289850000001,
       44.8977695
     ],
-    "featureId": 250,
+    "featureId": 253,
     "population": 85234
   },
   {
@@ -4229,7 +4275,7 @@
       -118.7037805,
       45.4984405
     ],
-    "featureId": 251,
+    "featureId": 254,
     "population": 77516
   },
   {
@@ -4242,7 +4288,7 @@
       -123.114875,
       45.5483985
     ],
-    "featureId": 252,
+    "featureId": 255,
     "population": 597695
   },
   {
@@ -4256,7 +4302,7 @@
       -93.699102,
       32.0948115
     ],
-    "featureId": 253,
+    "featureId": 256,
     "population": 27436
   },
   {
@@ -4270,7 +4316,7 @@
       -90.4833525,
       30.0930385
     ],
-    "featureId": 254,
+    "featureId": 257,
     "population": 43184
   },
   {
@@ -4284,7 +4330,7 @@
       -90.50821049999999,
       29.4895455
     ],
-    "featureId": 255,
+    "featureId": 258,
     "population": 98115
   },
   {
@@ -4298,7 +4344,7 @@
       -89.88147699999999,
       30.033868
     ],
-    "featureId": 256,
+    "featureId": 259,
     "population": 391006
   },
   {
@@ -4312,7 +4358,7 @@
       -93.557699,
       31.505406999999998
     ],
-    "featureId": 257,
+    "featureId": 260,
     "population": 24032
   },
   {
@@ -4326,7 +4372,7 @@
       -90.405269,
       30.612403
     ],
-    "featureId": 258,
+    "featureId": 261,
     "population": 133777
   },
   {
@@ -4340,7 +4386,7 @@
       -89.891049,
       30.43073
     ],
-    "featureId": 259,
+    "featureId": 262,
     "population": 258111
   },
   {
@@ -4354,7 +4400,7 @@
       -90.696248,
       30.412879
     ],
-    "featureId": 260,
+    "featureId": 263,
     "population": 139567
   },
   {
@@ -4368,7 +4414,7 @@
       -90.3585315,
       29.961458
     ],
-    "featureId": 261,
+    "featureId": 264,
     "population": 52879
   },
   {
@@ -4382,7 +4428,7 @@
       -93.326522,
       30.2639165
     ],
-    "featureId": 262,
+    "featureId": 265,
     "population": 203112
   },
   {
@@ -4396,7 +4442,7 @@
       -92.394117,
       32.7976865
     ],
-    "featureId": 263,
+    "featureId": 266,
     "population": 22330
   },
   {
@@ -4410,7 +4456,7 @@
       -92.09278499999999,
       32.102264500000004
     ],
-    "featureId": 264,
+    "featureId": 267,
     "population": 9960
   },
   {
@@ -4424,7 +4470,7 @@
       -91.3045835,
       31.991290499999998
     ],
-    "featureId": 265,
+    "featureId": 268,
     "population": 4462
   },
   {
@@ -4438,7 +4484,7 @@
       -92.56701000000001,
       32.3212645
     ],
-    "featureId": 266,
+    "featureId": 269,
     "population": 15902
   },
   {
@@ -4452,7 +4498,7 @@
       -92.58483,
       31.5926135
     ],
-    "featureId": 267,
+    "featureId": 270,
     "population": 22482
   },
   {
@@ -4466,7 +4512,7 @@
       -92.64820449999999,
       32.606269499999996
     ],
-    "featureId": 268,
+    "featureId": 271,
     "population": 47196
   },
   {
@@ -4480,7 +4526,7 @@
       -92.857122,
       30.2628035
     ],
-    "featureId": 269,
+    "featureId": 272,
     "population": 31582
   },
   {
@@ -4494,7 +4540,7 @@
       -92.0951095,
       30.2075775
     ],
-    "featureId": 270,
+    "featureId": 273,
     "population": 242782
   },
   {
@@ -4508,7 +4554,7 @@
       -91.2303025,
       32.7714455
     ],
-    "featureId": 271,
+    "featureId": 274,
     "population": 7037
   },
   {
@@ -4522,7 +4568,7 @@
       -91.0732675,
       30.824589
     ],
-    "featureId": 272,
+    "featureId": 275,
     "population": 19305
   },
   {
@@ -4536,7 +4582,7 @@
       -91.3600815,
       30.2613845
     ],
-    "featureId": 273,
+    "featureId": 276,
     "population": 32721
   },
   {
@@ -4550,7 +4596,7 @@
       -91.732693,
       32.409445500000004
     ],
-    "featureId": 274,
+    "featureId": 277,
     "population": 20192
   },
   {
@@ -4564,7 +4610,7 @@
       -91.53909150000001,
       30.09857
     ],
-    "featureId": 275,
+    "featureId": 278,
     "population": 53621
   },
   {
@@ -4578,7 +4624,7 @@
       -92.981675,
       32.8016545
     ],
-    "featureId": 276,
+    "featureId": 279,
     "population": 15944
   },
   {
@@ -4592,7 +4638,7 @@
       -92.08607749999999,
       30.573712
     ],
-    "featureId": 277,
+    "featureId": 280,
     "population": 82764
   },
   {
@@ -4606,7 +4652,7 @@
       -91.5623665,
       30.750701999999997
     ],
-    "featureId": 278,
+    "featureId": 281,
     "population": 21940
   },
   {
@@ -4620,7 +4666,7 @@
       -92.186641,
       31.6257625
     ],
-    "featureId": 279
+    "featureId": 282
   },
   {
     "county": "Webster Parish",
@@ -4633,7 +4679,7 @@
       -93.3384255,
       32.7143435
     ],
-    "featureId": 280,
+    "featureId": 283,
     "population": 38798
   },
   {
@@ -4647,7 +4693,7 @@
       -90.8028455,
       30.027838
     ],
-    "featureId": 281,
+    "featureId": 284,
     "population": 21037
   },
   {
@@ -4661,7 +4707,7 @@
       -91.76029249999999,
       32.7570325
     ],
-    "featureId": 282,
+    "featureId": 285,
     "population": 25398
   },
   {
@@ -4675,7 +4721,7 @@
       -92.5286315,
       31.203797
     ],
-    "featureId": 283,
+    "featureId": 286,
     "population": 130562
   },
   {
@@ -4689,7 +4735,7 @@
       -91.97901999999999,
       31.095483
     ],
-    "featureId": 284,
+    "featureId": 287,
     "population": 40462
   },
   {
@@ -4703,7 +4749,7 @@
       -92.64287350000001,
       31.928432
     ],
-    "featureId": 285,
+    "featureId": 288,
     "population": 14134
   },
   {
@@ -4717,7 +4763,7 @@
       -91.776279,
       31.5993165
     ],
-    "featureId": 286,
+    "featureId": 289,
     "population": 9608
   },
   {
@@ -4731,7 +4777,7 @@
       -91.0722915,
       29.8539995
     ],
-    "featureId": 287,
+    "featureId": 290,
     "population": 22300
   },
   {
@@ -4745,7 +4791,7 @@
       -93.757198,
       32.6074585
     ],
-    "featureId": 288,
+    "featureId": 291,
     "population": 242922
   },
   {
@@ -4759,7 +4805,7 @@
       -90.03715650000001,
       30.835068999999997
     ],
-    "featureId": 289,
+    "featureId": 292,
     "population": 46582
   },
   {
@@ -4773,7 +4819,7 @@
       -91.0821615,
       30.516002
     ],
-    "featureId": 290,
+    "featureId": 293,
     "population": 440956
   },
   {
@@ -4787,7 +4833,7 @@
       -93.080363,
       31.747528000000003
     ],
-    "featureId": 291,
+    "featureId": 294,
     "population": 38659
   },
   {
@@ -4801,7 +4847,7 @@
       -93.10068150000001,
       32.366091999999995
     ],
-    "featureId": 292,
+    "featureId": 295,
     "population": 13308
   },
   {
@@ -4815,7 +4861,7 @@
       -93.5978795,
       32.627677000000006
     ],
-    "featureId": 293,
+    "featureId": 296,
     "population": 127185
   },
   {
@@ -4829,7 +4875,7 @@
       -92.856948,
       30.661153
     ],
-    "featureId": 294,
+    "featureId": 297,
     "population": 25605
   },
   {
@@ -4843,7 +4889,7 @@
       -92.159829,
       32.4907775
     ],
-    "featureId": 295,
+    "featureId": 298,
     "population": 154475
   },
   {
@@ -4857,7 +4903,7 @@
       -90.738279,
       30.824559
     ],
-    "featureId": 296,
+    "featureId": 299,
     "population": 10262
   },
   {
@@ -4871,7 +4917,7 @@
       -91.46312950000001,
       30.8493775
     ],
-    "featureId": 297,
+    "featureId": 300,
     "population": 15460
   },
   {
@@ -4885,7 +4931,7 @@
       -91.45007849999999,
       32.7940275
     ],
-    "featureId": 298,
+    "featureId": 301,
     "population": 10982
   },
   {
@@ -4899,7 +4945,7 @@
       -91.622707,
       31.366113
     ],
-    "featureId": 299,
+    "featureId": 302,
     "population": 19572
   },
   {
@@ -4913,7 +4959,7 @@
       -91.313597,
       30.490574000000002
     ],
-    "featureId": 300,
+    "featureId": 303,
     "population": 26427
   },
   {
@@ -4927,7 +4973,7 @@
       -91.216415,
       32.341573
     ],
-    "featureId": 301,
+    "featureId": 304,
     "population": 11161
   },
   {
@@ -4941,7 +4987,7 @@
       -90.869644,
       30.204696499999997
     ],
-    "featureId": 302,
+    "featureId": 305,
     "population": 124672
   },
   {
@@ -4955,7 +5001,7 @@
       -92.38683499999999,
       30.2652335
     ],
-    "featureId": 303,
+    "featureId": 306,
     "population": 62190
   },
   {
@@ -4969,7 +5015,7 @@
       -93.35856949999999,
       30.6430015
     ],
-    "featureId": 304,
+    "featureId": 307,
     "population": 37253
   },
   {
@@ -4983,7 +5029,7 @@
       -91.6867355,
       32.1420035
     ],
-    "featureId": 305,
+    "featureId": 308,
     "population": 20156
   },
   {
@@ -4997,7 +5043,7 @@
       -92.40312349999999,
       30.7409765
     ],
-    "featureId": 306,
+    "featureId": 309,
     "population": 33443
   },
   {
@@ -5011,7 +5057,7 @@
       -93.19772900000001,
       31.1119345
     ],
-    "featureId": 307,
+    "featureId": 310,
     "population": 48860
   },
   {
@@ -5025,7 +5071,7 @@
       -93.367939,
       32.062484
     ],
-    "featureId": 308,
+    "featureId": 311,
     "population": 8477
   },
   {
@@ -5039,7 +5085,7 @@
       -92.351531,
       29.8402345
     ],
-    "featureId": 309,
+    "featureId": 312,
     "population": 59830
   },
   {
@@ -5053,7 +5099,7 @@
       -89.5381785,
       29.4150075
     ],
-    "featureId": 310,
+    "featureId": 313,
     "population": 23410
   },
   {
@@ -5067,7 +5113,7 @@
       -91.48180049999999,
       29.7141755
     ],
-    "featureId": 311,
+    "featureId": 314,
     "population": 49774
   },
   {
@@ -5081,7 +5127,7 @@
       -93.27240900000001,
       29.8158395
     ],
-    "featureId": 312,
+    "featureId": 315,
     "population": 6968
   },
   {
@@ -5095,7 +5141,7 @@
       -91.632762,
       29.7982045
     ],
-    "featureId": 313,
+    "featureId": 316,
     "population": 70941
   },
   {
@@ -5109,7 +5155,7 @@
       -89.4145595,
       29.8500655
     ],
-    "featureId": 314,
+    "featureId": 317,
     "population": 46721
   },
   {
@@ -5123,7 +5169,7 @@
       -90.8557755,
       29.406244
     ],
-    "featureId": 315,
+    "featureId": 318,
     "population": 111021
   },
   {
@@ -5137,7 +5183,7 @@
       -90.114832,
       29.696731
     ],
-    "featureId": 316,
+    "featureId": 319,
     "population": 434051
   },
   {
@@ -5150,7 +5196,7 @@
       -75.5969975,
       39.565300500000006
     ],
-    "featureId": 317,
+    "featureId": 320,
     "population": 559335
   },
   {
@@ -5163,7 +5209,7 @@
       -75.5358555,
       39.0977575
     ],
-    "featureId": 318,
+    "featureId": 321,
     "population": 178550
   },
   {
@@ -5176,7 +5222,7 @@
       -75.38576900000001,
       38.706443
     ],
-    "featureId": 319,
+    "featureId": 322,
     "population": 229286
   },
   {
@@ -5189,7 +5235,7 @@
       -82.4000485,
       27.4272245
     ],
-    "featureId": 320,
+    "featureId": 323,
     "population": 394855
   },
   {
@@ -5202,7 +5248,7 @@
       -82.3526,
       27.909229500000002
     ],
-    "featureId": 321,
+    "featureId": 324,
     "population": 1436888
   },
   {
@@ -5215,7 +5261,7 @@
       -87.047978,
       30.669196499999998
     ],
-    "featureId": 322,
+    "featureId": 325,
     "population": 179349
   },
   {
@@ -5228,7 +5274,7 @@
       -80.478035,
       26.1561005
     ],
-    "featureId": 323,
+    "featureId": 326,
     "population": 1951260
   },
   {
@@ -5241,7 +5287,7 @@
       -81.9169395,
       26.5528805
     ],
-    "featureId": 324,
+    "featureId": 327,
     "population": 754610
   },
   {
@@ -5254,7 +5300,7 @@
       -81.9689695,
       26.902401
     ],
-    "featureId": 325,
+    "featureId": 328,
     "population": 184998
   },
   {
@@ -5267,7 +5313,7 @@
       -86.59446449999999,
       30.687763500000003
     ],
-    "featureId": 326,
+    "featureId": 329,
     "population": 207269
   },
   {
@@ -5280,7 +5326,7 @@
       -81.20657349999999,
       29.0200235
     ],
-    "featureId": 327,
+    "featureId": 330,
     "population": 547538
   },
   {
@@ -5293,7 +5339,7 @@
       -81.73892599999999,
       30.550462500000002
     ],
-    "featureId": 328,
+    "featureId": 331,
     "population": 85832
   },
   {
@@ -5306,7 +5352,7 @@
       -81.35938300000001,
       26.1601955
     ],
-    "featureId": 329,
+    "featureId": 332,
     "population": 378488
   },
   {
@@ -5319,7 +5365,7 @@
       -82.70897249999999,
       27.893119
     ],
-    "featureId": 330,
+    "featureId": 333,
     "population": 975280
   },
   {
@@ -5332,7 +5378,7 @@
       -82.4298955,
       28.3252435
     ],
-    "featureId": 331,
+    "featureId": 334,
     "population": 539630
   },
   {
@@ -5345,7 +5391,7 @@
       -80.495494,
       25.5606775
     ],
-    "featureId": 332,
+    "featureId": 335,
     "population": 2761581
   },
   {
@@ -5358,7 +5404,7 @@
       -81.2234725,
       28.745247499999998
     ],
-    "featureId": 333,
+    "featureId": 336,
     "population": 467832
   },
   {
@@ -5371,7 +5417,7 @@
       -80.4587305,
       26.645985500000002
     ],
-    "featureId": 334,
+    "featureId": 337,
     "population": 1485941
   },
   {
@@ -5384,7 +5430,7 @@
       -82.349667,
       27.167500500000003
     ],
-    "featureId": 335,
+    "featureId": 338,
     "population": 426718
   },
   {
@@ -5397,7 +5443,7 @@
       -82.3544225,
       29.681131999999998
     ],
-    "featureId": 336,
+    "featureId": 339,
     "population": 269956
   },
   {
@@ -5410,7 +5456,7 @@
       -81.714645,
       30.34499
     ],
-    "featureId": 337,
+    "featureId": 340,
     "population": 950181
   },
   {
@@ -5423,7 +5469,7 @@
       -81.815316,
       29.956068000000002
     ],
-    "featureId": 338,
+    "featureId": 341,
     "population": 216072
   },
   {
@@ -5436,7 +5482,7 @@
       -81.2607525,
       28.566533999999997
     ],
-    "featureId": 339,
+    "featureId": 342,
     "population": 1380645
   },
   {
@@ -5449,7 +5495,7 @@
       -81.2600415,
       27.995169500000003
     ],
-    "featureId": 340,
+    "featureId": 343,
     "population": 367990
   },
   {
@@ -5462,7 +5508,7 @@
       -82.4640235,
       28.858776
     ],
-    "featureId": 341,
+    "featureId": 344,
     "population": 147929
   },
   {
@@ -5475,7 +5521,7 @@
       -81.4511455,
       29.937673
     ],
-    "featureId": 342,
+    "featureId": 345,
     "population": 254261
   },
   {
@@ -5636,7 +5682,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 343,
+    "featureId": 346,
     "population": 883305
   },
   {
@@ -5650,7 +5696,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 344,
+    "featureId": 347,
     "population": 769545
   },
   {
@@ -5664,7 +5710,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 345,
+    "featureId": 348,
     "population": 1666753
   },
   {
@@ -5677,7 +5723,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 346,
+    "featureId": 349,
     "population": 499942
   },
   {
@@ -5690,7 +5736,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 347,
+    "featureId": 350,
     "population": 274255
   },
   {
@@ -5703,7 +5749,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 348,
+    "featureId": 351,
     "population": 446610
   },
   {
@@ -5717,7 +5763,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 349,
+    "featureId": 352,
     "population": 1150215
   },
   {
@@ -5730,7 +5776,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 350,
+    "featureId": 353,
     "population": 549815
   },
   {
@@ -5743,7 +5789,7 @@
       -121.962515,
       38.619189
     ],
-    "featureId": 351,
+    "featureId": 354,
     "population": 220408
   },
   {
@@ -5757,7 +5803,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 352,
+    "featureId": 355,
     "population": 1540975
   },
   {
@@ -5771,7 +5817,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 353,
+    "featureId": 356,
     "population": 994400
   },
   {
@@ -5784,7 +5830,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 354,
+    "featureId": 357,
     "population": 157672
   },
   {
@@ -5798,7 +5844,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 355,
+    "featureId": 358,
     "population": 393149
   },
   {
@@ -5811,7 +5857,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 356,
+    "featureId": 359,
     "population": 180040
   },
   {
@@ -5825,7 +5871,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 357,
+    "featureId": 360,
     "population": 10105518
   },
   {
@@ -5839,7 +5885,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 358,
+    "featureId": 361,
     "population": 3185968
   },
   {
@@ -5852,7 +5898,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 359,
+    "featureId": 362,
     "population": 2450758
   },
   {
@@ -5866,7 +5912,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 360,
+    "featureId": 363,
     "population": 3343364
   },
   {
@@ -5880,7 +5926,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 361,
+    "featureId": 364,
     "population": 850967
   },
   {
@@ -5893,7 +5939,7 @@
       -89.4235435,
       43.069541
     ],
-    "featureId": 362,
+    "featureId": 365,
     "population": 542364
   },
   {
@@ -5906,7 +5952,7 @@
       -88.5234625,
       43.7405715
     ],
-    "featureId": 363,
+    "featureId": 366,
     "population": 103066
   },
   {
@@ -5919,7 +5965,7 @@
       -87.94847250000001,
       43.017386
     ],
-    "featureId": 364,
+    "featureId": 367,
     "population": 948201
   },
   {
@@ -5932,7 +5978,7 @@
       -92.47159500000001,
       44.7007885
     ],
-    "featureId": 365,
+    "featureId": 368,
     "population": 42555
   },
   {
@@ -5945,7 +5991,7 @@
       -88.0365295,
       42.72707
     ],
-    "featureId": 366,
+    "featureId": 369,
     "population": 196584
   },
   {
@@ -5958,7 +6004,7 @@
       -87.9311795,
       43.7172725
     ],
-    "featureId": 367,
+    "featureId": 370,
     "population": 115456
   },
   {
@@ -5971,7 +6017,7 @@
       -88.30268950000001,
       43.018702
     ],
-    "featureId": 368,
+    "featureId": 371,
     "population": 403072
   },
   {
@@ -5984,7 +6030,7 @@
       -88.644934,
       44.0685395
     ],
-    "featureId": 369,
+    "featureId": 372,
     "population": 171020
   },
   {
@@ -5997,7 +6043,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 370,
+    "featureId": 373,
     "population": 18883
   },
   {
@@ -6010,7 +6056,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 371,
+    "featureId": 374,
     "population": 6980
   },
   {
@@ -6023,7 +6069,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 372,
+    "featureId": 375,
     "population": 9338
   },
   {
@@ -6036,7 +6082,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 373,
+    "featureId": 376,
     "population": 19790
   },
   {
@@ -6049,7 +6095,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 374,
+    "featureId": 377,
     "population": 5546
   },
   {
@@ -6062,7 +6108,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 375,
+    "featureId": 378,
     "population": 192876
   },
   {
@@ -6075,7 +6121,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 376,
+    "featureId": 379,
     "population": 111729
   },
   {
@@ -6102,7 +6148,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 377,
+    "featureId": 380,
     "population": 351713
   },
   {
@@ -6115,7 +6161,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 378,
+    "featureId": 381,
     "population": 1152633
   },
   {
@@ -6128,7 +6174,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 379,
+    "featureId": 382,
     "population": 15449
   },
   {
@@ -6155,7 +6201,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 380,
+    "featureId": 383,
     "population": 41933
   },
   {
@@ -6168,7 +6214,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 381,
+    "featureId": 384,
     "population": 69907
   },
   {
@@ -6188,7 +6234,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 382,
+    "featureId": 385,
     "population": 622213
   },
   {
@@ -6201,7 +6247,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 383,
+    "featureId": 386,
     "population": 33240
   },
   {
@@ -6221,7 +6267,7 @@
       -80.02482499999999,
       40.434321
     ],
-    "featureId": 384,
+    "featureId": 387,
     "population": 1218452
   },
   {
@@ -6234,7 +6280,7 @@
       -75.1027805,
       40.3287395
     ],
-    "featureId": 385,
+    "featureId": 388,
     "population": 628195
   },
   {
@@ -6247,7 +6293,7 @@
       -75.748325,
       39.9833405
     ],
-    "featureId": 386,
+    "featureId": 389,
     "population": 522046
   },
   {
@@ -6260,7 +6306,7 @@
       -77.2432875,
       40.1362805
     ],
-    "featureId": 387,
+    "featureId": 390,
     "population": 251423
   },
   {
@@ -6273,7 +6319,7 @@
       -75.404395,
       39.9336645
     ],
-    "featureId": 388,
+    "featureId": 391,
     "population": 564751
   },
   {
@@ -6286,7 +6332,7 @@
       -75.6124935,
       40.602919
     ],
-    "featureId": 389,
+    "featureId": 392,
     "population": 368100
   },
   {
@@ -6299,7 +6345,7 @@
       -75.95966200000001,
       41.164615999999995
     ],
-    "featureId": 390,
+    "featureId": 393,
     "population": 317646
   },
   {
@@ -6312,7 +6358,7 @@
       -75.308198,
       41.0334235
     ],
-    "featureId": 391,
+    "featureId": 394,
     "population": 169507
   },
   {
@@ -6325,7 +6371,7 @@
       -75.355924,
       40.211977000000005
     ],
-    "featureId": 392,
+    "featureId": 395,
     "population": 828604
   },
   {
@@ -6338,7 +6384,7 @@
       -75.32991200000001,
       40.752713
     ],
-    "featureId": 393,
+    "featureId": 396,
     "population": 304807
   },
   {
@@ -6351,7 +6397,7 @@
       -75.116323,
       40.0018505
     ],
-    "featureId": 394,
+    "featureId": 397,
     "population": 1584138
   },
   {
@@ -6364,7 +6410,7 @@
       -75.02435,
       41.340779
     ],
-    "featureId": 395,
+    "featureId": 398,
     "population": 55933
   },
   {
@@ -6377,7 +6423,7 @@
       -80.1791085,
       40.2152165
     ],
-    "featureId": 396,
+    "featureId": 399,
     "population": 207346
   },
   {
@@ -6390,7 +6436,7 @@
       -75.2745845,
       41.615992000000006
     ],
-    "featureId": 397,
+    "featureId": 400,
     "population": 51276
   },
   {
@@ -6403,7 +6449,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 398,
+    "featureId": 401,
     "population": 39583
   },
   {
@@ -6416,7 +6462,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 399,
+    "featureId": 402,
     "population": 692587
   },
   {
@@ -6429,7 +6475,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 400,
+    "featureId": 403,
     "population": 364286
   },
   {
@@ -6442,7 +6488,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 401,
+    "featureId": 404,
     "population": 54012
   },
   {
@@ -6455,7 +6501,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 402,
+    "featureId": 405,
     "population": 465289
   },
   {
@@ -6468,7 +6514,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 403,
+    "featureId": 406,
     "population": 324890
   },
   {
@@ -6481,7 +6527,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 404,
+    "featureId": 407,
     "population": 935764
   },
   {
@@ -6494,7 +6540,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 405,
+    "featureId": 408,
     "population": 157668
   },
   {
@@ -6507,7 +6553,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 406,
+    "featureId": 409,
     "population": 231729
   },
   {
@@ -6520,7 +6566,7 @@
       -80.970149,
       40.011337999999995
     ],
-    "featureId": 407,
+    "featureId": 410,
     "population": 67505
   },
   {
@@ -6533,7 +6579,7 @@
       -84.5757445,
       39.441655499999996
     ],
-    "featureId": 408,
+    "featureId": 411,
     "population": 382378
   },
   {
@@ -6546,7 +6592,7 @@
       -81.67301699999999,
       41.453196000000005
     ],
-    "featureId": 409,
+    "featureId": 412,
     "population": 1243857
   },
   {
@@ -6559,7 +6605,7 @@
       -83.010875,
       39.9690415
     ],
-    "featureId": 410,
+    "featureId": 413,
     "population": 1310300
   },
   {
@@ -6572,7 +6618,7 @@
       -82.112518,
       41.289587999999995
     ],
-    "featureId": 411,
+    "featureId": 414,
     "population": 309461
   },
   {
@@ -6585,7 +6631,7 @@
       -83.5244735,
       41.573549
     ],
-    "featureId": 412,
+    "featureId": 415,
     "population": 429899
   },
   {
@@ -6598,7 +6644,7 @@
       -81.92915450000001,
       41.132868
     ],
-    "featureId": 413,
+    "featureId": 416,
     "population": 179146
   },
   {
@@ -6611,7 +6657,7 @@
       -81.3683635,
       40.811817000000005
     ],
-    "featureId": 414,
+    "featureId": 417,
     "population": 371574
   },
   {
@@ -6624,7 +6670,7 @@
       -81.5400925,
       41.1288115
     ],
-    "featureId": 415,
+    "featureId": 418,
     "population": 541918
   },
   {
@@ -6637,7 +6683,7 @@
       -80.76100600000001,
       41.3175365
     ],
-    "featureId": 416,
+    "featureId": 419,
     "population": 198627
   },
   {
@@ -6650,7 +6696,7 @@
       -81.488516,
       40.440586499999995
     ],
-    "featureId": 417,
+    "featureId": 420,
     "population": 92176
   },
   {
@@ -6663,7 +6709,7 @@
       -73.397813,
       41.3259525
     ],
-    "featureId": 418,
+    "featureId": 421,
     "population": 943823
   },
   {
@@ -6676,7 +6722,7 @@
       -72.71937700000001,
       41.7926935
     ],
-    "featureId": 419,
+    "featureId": 422,
     "population": 892697
   },
   {
@@ -6689,7 +6735,7 @@
       -73.20264900000001,
       41.759701
     ],
-    "featureId": 420,
+    "featureId": 423,
     "population": 181111
   },
   {
@@ -6702,7 +6748,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 421,
+    "featureId": 424,
     "population": 857620
   }
 ]
