@@ -8911,9 +8911,9 @@
         "growthFactor": 1
       },
       "2020-3-15": {
-        "cases": 3,
-        "tested": 6,
-        "growthFactor": 1
+        "cases": 1,
+        "tested": 4,
+        "growthFactor": 0.3333333333333333
       }
     },
     "county": "Burlington County",
@@ -13391,8 +13391,8 @@
         "cases": 2
       },
       "2020-3-15": {
-        "cases": 2,
-        "growthFactor": 1
+        "cases": 3,
+        "growthFactor": 1.5
       }
     },
     "county": "Allegheny County",
@@ -13412,8 +13412,8 @@
         "cases": 3
       },
       "2020-3-15": {
-        "cases": 3,
-        "growthFactor": 1
+        "cases": 4,
+        "growthFactor": 1.3333333333333333
       }
     },
     "county": "Bucks County",
@@ -13454,8 +13454,8 @@
         "cases": 3
       },
       "2020-3-15": {
-        "cases": 3,
-        "growthFactor": 1
+        "cases": 5,
+        "growthFactor": 1.6666666666666667
       }
     },
     "county": "Cumberland County",
@@ -13475,8 +13475,8 @@
         "cases": 6
       },
       "2020-3-15": {
-        "cases": 6,
-        "growthFactor": 1
+        "cases": 7,
+        "growthFactor": 1.1666666666666667
       }
     },
     "county": "Delaware County",
@@ -13496,8 +13496,8 @@
         "cases": 3
       },
       "2020-3-15": {
-        "cases": 3,
-        "growthFactor": 1
+        "cases": 6,
+        "growthFactor": 2
       }
     },
     "county": "Monroe County",
@@ -13508,7 +13508,7 @@
       -75.308198,
       41.0334235
     ],
-    "featureId": 389,
+    "featureId": 391,
     "population": 169507
   },
   "Montgomery County, PA, USA": {
@@ -13517,8 +13517,8 @@
         "cases": 20
       },
       "2020-3-15": {
-        "cases": 20,
-        "growthFactor": 1
+        "cases": 24,
+        "growthFactor": 1.2
       }
     },
     "county": "Montgomery County",
@@ -13529,7 +13529,7 @@
       -75.355924,
       40.211977000000005
     ],
-    "featureId": 390,
+    "featureId": 392,
     "population": 828604
   },
   "Northampton County, PA, USA": {
@@ -13550,7 +13550,7 @@
       -75.32991200000001,
       40.752713
     ],
-    "featureId": 391,
+    "featureId": 393,
     "population": 304807
   },
   "Philadelphia County, PA, USA": {
@@ -13559,8 +13559,8 @@
         "cases": 4
       },
       "2020-3-15": {
-        "cases": 4,
-        "growthFactor": 1
+        "cases": 6,
+        "growthFactor": 1.5
       }
     },
     "county": "Philadelphia County",
@@ -13571,7 +13571,7 @@
       -75.116323,
       40.0018505
     ],
-    "featureId": 392,
+    "featureId": 394,
     "population": 1584138
   },
   "Pike County, PA, USA": {
@@ -13592,7 +13592,7 @@
       -75.02435,
       41.340779
     ],
-    "featureId": 393,
+    "featureId": 395,
     "population": 55933
   },
   "Washington County, PA, USA": {
@@ -13613,7 +13613,7 @@
       -80.1791085,
       40.2152165
     ],
-    "featureId": 394,
+    "featureId": 396,
     "population": 207346
   },
   "Wayne County, PA, USA": {
@@ -13634,7 +13634,7 @@
       -75.2745845,
       41.615992000000006
     ],
-    "featureId": 395,
+    "featureId": 397,
     "population": 51276
   },
   "Newfoundland and Labrador, Canada": {
@@ -15178,6 +15178,40 @@
     "featureId": 369,
     "population": 171020
   },
+  "Lehigh County, PA, USA": {
+    "dates": {
+      "2020-3-15": {
+        "cases": 1
+      }
+    },
+    "county": "Lehigh County",
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -75.6124935,
+      40.602919
+    ],
+    "featureId": 389,
+    "population": 368100
+  },
+  "Luzerne County, PA, USA": {
+    "dates": {
+      "2020-3-15": {
+        "cases": 1
+      }
+    },
+    "county": "Luzerne County",
+    "state": "PA",
+    "country": "USA",
+    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
+    "coordinates": [
+      -75.95966200000001,
+      41.164615999999995
+    ],
+    "featureId": 390,
+    "population": 317646
+  },
   "Campbell County, TN, USA": {
     "dates": {
       "2020-3-15": {
@@ -15192,7 +15226,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 396,
+    "featureId": 398,
     "population": 39583
   },
   "Davidson County, TN, USA": {
@@ -15209,7 +15243,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 397,
+    "featureId": 399,
     "population": 692587
   },
   "Hamilton County, TN, USA": {
@@ -15226,7 +15260,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 398,
+    "featureId": 400,
     "population": 364286
   },
   "Jefferson County, TN, USA": {
@@ -15243,7 +15277,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 399,
+    "featureId": 401,
     "population": 54012
   },
   "Knox County, TN, USA": {
@@ -15260,7 +15294,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 400,
+    "featureId": 402,
     "population": 465289
   },
   "Rutherford County, TN, USA": {
@@ -15277,7 +15311,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 401,
+    "featureId": 403,
     "population": 324890
   },
   "Shelby County, TN, USA": {
@@ -15294,7 +15328,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 402,
+    "featureId": 404,
     "population": 935764
   },
   "Sullivan County, TN, USA": {
@@ -15311,7 +15345,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 403,
+    "featureId": 405,
     "population": 157668
   },
   "Williamson County, TN, USA": {
@@ -15328,7 +15362,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 404,
+    "featureId": 406,
     "population": 231729
   },
   "Belmont County, OH, USA": {
@@ -15345,7 +15379,7 @@
       -80.970149,
       40.011337999999995
     ],
-    "featureId": 405,
+    "featureId": 407,
     "population": 67505
   },
   "Butler County, OH, USA": {
@@ -15362,7 +15396,7 @@
       -84.5757445,
       39.441655499999996
     ],
-    "featureId": 406,
+    "featureId": 408,
     "population": 382378
   },
   "Cuyahoga County, OH, USA": {
@@ -15379,7 +15413,7 @@
       -81.67301699999999,
       41.453196000000005
     ],
-    "featureId": 407,
+    "featureId": 409,
     "population": 1243857
   },
   "Franklin County, OH, USA": {
@@ -15396,7 +15430,7 @@
       -83.010875,
       39.9690415
     ],
-    "featureId": 408,
+    "featureId": 410,
     "population": 1310300
   },
   "Lorain County, OH, USA": {
@@ -15413,7 +15447,7 @@
       -82.112518,
       41.289587999999995
     ],
-    "featureId": 409,
+    "featureId": 411,
     "population": 309461
   },
   "Stark County, OH, USA": {
@@ -15430,7 +15464,7 @@
       -81.3683635,
       40.811817000000005
     ],
-    "featureId": 410,
+    "featureId": 412,
     "population": 371574
   },
   "Summit County, OH, USA": {
@@ -15447,7 +15481,7 @@
       -81.5400925,
       41.1288115
     ],
-    "featureId": 411,
+    "featureId": 413,
     "population": 541918
   },
   "Trumbull County, OH, USA": {
@@ -15464,7 +15498,7 @@
       -80.76100600000001,
       41.3175365
     ],
-    "featureId": 412,
+    "featureId": 414,
     "population": 198627
   },
   "Fairfield County, CT, USA": {
@@ -15481,7 +15515,7 @@
       -73.397813,
       41.3259525
     ],
-    "featureId": 413,
+    "featureId": 415,
     "population": 943823
   },
   "Hartford County, CT, USA": {
@@ -15498,7 +15532,7 @@
       -72.71937700000001,
       41.7926935
     ],
-    "featureId": 414,
+    "featureId": 416,
     "population": 892697
   },
   "Litchfield County, CT, USA": {
@@ -15515,7 +15549,7 @@
       -73.20264900000001,
       41.759701
     ],
-    "featureId": 415,
+    "featureId": 417,
     "population": 181111
   },
   "New Haven County, CT, USA": {
@@ -15532,7 +15566,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 416,
+    "featureId": 418,
     "population": 857620
   }
 }

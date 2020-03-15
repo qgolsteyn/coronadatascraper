@@ -215,7 +215,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Gaston County,NC,USA,35.284431999999995,-81.1896935,222846,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Atlantic County,NJ,USA,39.509258,-74.6437035,265429,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Bergen County,NJ,USA,40.952146,-74.08225,936692,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,25,24
-,Burlington County,NJ,USA,39.8658955,-74.72494950000001,445384,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,3
+,Burlington County,NJ,USA,39.8658955,-74.72494950000001,445384,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,1
 ,Camden County,NJ,USA,39.800549000000004,-74.9381575,507078,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2
 ,Cape May County,NJ,USA,39.1261435,-74.756719,92560,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Cumberland County,NJ,USA,39.373098,-75.135421,150972,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
@@ -449,15 +449,15 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Utah County,UT,USA,40.176925999999995,-111.5347685,622213,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
 ,Wasatch County,UT,USA,40.294765,-111.25642,33240,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
 ,Weber-Morgan County,UT,USA,,,,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
-,Allegheny County,PA,USA,40.434321,-80.02482499999999,1218452,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2
-,Bucks County,PA,USA,40.3287395,-75.1027805,628195,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3
+,Allegheny County,PA,USA,40.434321,-80.02482499999999,1218452,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3
+,Bucks County,PA,USA,40.3287395,-75.1027805,628195,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4
 ,Chester County,PA,USA,39.9833405,-75.748325,522046,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2
-,Cumberland County,PA,USA,40.1362805,-77.2432875,251423,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3
-,Delaware County,PA,USA,39.9336645,-75.404395,564751,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6
-,Monroe County,PA,USA,41.0334235,-75.308198,169507,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3
-,Montgomery County,PA,USA,40.211977000000005,-75.355924,828604,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,20
+,Cumberland County,PA,USA,40.1362805,-77.2432875,251423,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,5
+,Delaware County,PA,USA,39.9336645,-75.404395,564751,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,7
+,Monroe County,PA,USA,41.0334235,-75.308198,169507,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,6
+,Montgomery County,PA,USA,40.211977000000005,-75.355924,828604,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,24
 ,Northampton County,PA,USA,40.752713,-75.32991200000001,304807,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
-,Philadelphia County,PA,USA,40.0018505,-75.116323,1584138,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4
+,Philadelphia County,PA,USA,40.0018505,-75.116323,1584138,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6
 ,Pike County,PA,USA,41.340779,-75.02435,55933,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
 ,Washington County,PA,USA,40.2152165,-80.1791085,207346,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
 ,Wayne County,PA,USA,41.615992000000006,-75.2745845,51276,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
@@ -554,6 +554,8 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Tioga,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Tompkins,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Winnebago County,WI,USA,44.0685395,-88.644934,171020,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+,Lehigh County,PA,USA,40.602919,-75.6124935,368100,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+,Luzerne County,PA,USA,41.164615999999995,-75.95966200000001,317646,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Campbell County,TN,USA,36.3848795,-84.138375,39583,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Davidson County,TN,USA,36.186859999999996,-86.7851325,692587,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,14
 ,Hamilton County,TN,USA,35.2208105,-85.20821749999999,364286,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
