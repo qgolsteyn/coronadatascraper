@@ -6701,7 +6701,7 @@
   },
   {
     "county": "Fairfield County",
-    "cases": 15,
+    "cases": 16,
     "state": "CT",
     "country": "USA",
     "url": "https://portal.ct.gov/Coronavirus",
@@ -6713,34 +6713,22 @@
     "population": 943823
   },
   {
-    "county": "Hartford County",
-    "cases": 1,
+    "county": "Hartford County: 3",
+    "cases": 0,
     "state": "CT",
     "country": "USA",
-    "url": "https://portal.ct.gov/Coronavirus",
-    "coordinates": [
-      -72.71937700000001,
-      41.7926935
-    ],
-    "featureId": 422,
-    "population": 892697
+    "url": "https://portal.ct.gov/Coronavirus"
   },
   {
-    "county": "Litchfield County",
-    "cases": 3,
+    "county": "Litchfield County: 4",
+    "cases": 0,
     "state": "CT",
     "country": "USA",
-    "url": "https://portal.ct.gov/Coronavirus",
-    "coordinates": [
-      -73.20264900000001,
-      41.759701
-    ],
-    "featureId": 423,
-    "population": 181111
+    "url": "https://portal.ct.gov/Coronavirus"
   },
   {
     "county": "New Haven County",
-    "cases": 1,
+    "cases": 3,
     "state": "CT",
     "country": "USA",
     "url": "https://portal.ct.gov/Coronavirus",
@@ -6748,7 +6736,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 424,
+    "featureId": 422,
     "population": 857620
   }
 ]

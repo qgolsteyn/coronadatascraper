@@ -15630,7 +15630,7 @@
   "Fairfield County, CT, USA": {
     "dates": {
       "2020-3-15": {
-        "cases": 15
+        "cases": 16
       }
     },
     "county": "Fairfield County",
@@ -15644,44 +15644,32 @@
     "featureId": 421,
     "population": 943823
   },
-  "Hartford County, CT, USA": {
+  "Hartford County: 3, CT, USA": {
     "dates": {
       "2020-3-15": {
-        "cases": 1
+        "cases": 0
       }
     },
-    "county": "Hartford County",
+    "county": "Hartford County: 3",
     "state": "CT",
     "country": "USA",
-    "url": "https://portal.ct.gov/Coronavirus",
-    "coordinates": [
-      -72.71937700000001,
-      41.7926935
-    ],
-    "featureId": 422,
-    "population": 892697
+    "url": "https://portal.ct.gov/Coronavirus"
   },
-  "Litchfield County, CT, USA": {
+  "Litchfield County: 4, CT, USA": {
     "dates": {
       "2020-3-15": {
-        "cases": 3
+        "cases": 0
       }
     },
-    "county": "Litchfield County",
+    "county": "Litchfield County: 4",
     "state": "CT",
     "country": "USA",
-    "url": "https://portal.ct.gov/Coronavirus",
-    "coordinates": [
-      -73.20264900000001,
-      41.759701
-    ],
-    "featureId": 423,
-    "population": 181111
+    "url": "https://portal.ct.gov/Coronavirus"
   },
   "New Haven County, CT, USA": {
     "dates": {
       "2020-3-15": {
-        "cases": 1
+        "cases": 3
       }
     },
     "county": "New Haven County",
@@ -15692,7 +15680,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 424,
+    "featureId": 422,
     "population": 857620
   }
 }
