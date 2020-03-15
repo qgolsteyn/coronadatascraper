@@ -343,7 +343,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Contra Costa County,CA,USA,37.9092535,-121.983341,1150215,,,https://www.coronavirus.cchealth.org/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25,25,29
 ,Stanislaus County,CA,USA,37.606097500000004,-120.937052,549815,,,http://www.schsa.org/PublicHealth/pages/corona-virus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2
 ,Yolo County,CA,USA,38.619189,-121.962515,220408,,,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,2
-,Sacramento County,CA,USA,38.377659,-121.444773,1540975,,,https://www.saccounty.net/COVID-19/Pages/default.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,17,29
+,Sacramento County,CA,USA,38.377659,-121.444773,1540975,,,https://www.saccounty.net/COVID-19/Pages/default.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,17,32
 ,Fresno County,CA,USA,36.7464615,-119.6396585,994400,,,https://www.co.fresno.ca.us/departments/public-health/covid-19,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,2
 ,Madera County,CA,USA,37.273546499999995,-119.7828125,157672,,,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
 ,Placer County,CA,USA,39.0142165,-120.7434505,393149,,,https://www.placer.ca.gov/6448/Cases-in-Placer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,8
@@ -438,17 +438,17 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Pennington County,SD,USA,44.098381,-103.02822599999999,111729,,,https://doh.sd.gov/news/Coronavirus.aspx#SD,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
 ,Bear River County,UT,USA,,,,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
 ,Central Utah County,UT,USA,,,,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
-,Davis County,UT,USA,40.963095499999994,-112.115984,351713,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2
-,Salt Lake County,UT,USA,40.66808399999999,-111.9083075,1152633,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,14
+,Davis County,UT,USA,40.963095499999994,-112.115984,351713,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0
+,Salt Lake County,UT,USA,40.66808399999999,-111.9083075,1152633,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,0
 ,San Juan County,UT,USA,37.748977499999995,-110.226921,15449,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
 ,Southeast Utah County,UT,USA,,,,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
 ,Southwest Utah County,UT,USA,,,,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
-,Summit County,UT,USA,40.9000835,-110.82489050000001,41933,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2
+,Summit County,UT,USA,40.9000835,-110.82489050000001,41933,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,6
 ,Tooele County,UT,USA,40.490421,-113.09571600000001,69907,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
 ,Tri County,UT,USA,,,,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
-,Utah County,UT,USA,40.176925999999995,-111.5347685,622213,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
+,Utah County,UT,USA,40.176925999999995,-111.5347685,622213,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,1
 ,Wasatch County,UT,USA,40.294765,-111.25642,33240,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0
-,Weber-Morgan County,UT,USA,,,,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1
+,Weber-Morgan County,UT,USA,,,,,,https://coronavirus.utah.gov/latest/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,0
 ,Allegheny County,PA,USA,40.434321,-80.02482499999999,1218452,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,3
 ,Bucks County,PA,USA,40.3287395,-75.1027805,628195,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4
 ,Chester County,PA,USA,39.9833405,-75.748325,522046,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2

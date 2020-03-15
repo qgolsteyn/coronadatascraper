@@ -11617,9 +11617,9 @@
         "growthFactor": 1
       },
       "2020-3-15": {
-        "cases": 29,
+        "cases": 32,
         "deaths": 1,
-        "growthFactor": 1.7058823529411764
+        "growthFactor": 1.8823529411764706
       }
     },
     "county": "Sacramento County",
@@ -13176,8 +13176,8 @@
         "cases": 1
       },
       "2020-3-15": {
-        "cases": 2,
-        "growthFactor": 2
+        "cases": 0,
+        "growthFactor": 0
       }
     },
     "county": "Davis County",
@@ -13197,8 +13197,8 @@
         "cases": 5
       },
       "2020-3-15": {
-        "cases": 14,
-        "growthFactor": 2.8
+        "cases": 0,
+        "growthFactor": 0
       }
     },
     "county": "Salt Lake County",
@@ -13269,8 +13269,8 @@
         "cases": 2
       },
       "2020-3-15": {
-        "cases": 2,
-        "growthFactor": 1
+        "cases": 6,
+        "growthFactor": 3
       }
     },
     "county": "Summit County",
@@ -13326,7 +13326,7 @@
         "cases": 0
       },
       "2020-3-15": {
-        "cases": 0,
+        "cases": 1,
         "growthFactor": null
       }
     },
@@ -13368,8 +13368,8 @@
         "cases": 1
       },
       "2020-3-15": {
-        "cases": 1,
-        "growthFactor": 1
+        "cases": 0,
+        "growthFactor": 0
       }
     },
     "county": "Weber-Morgan County",
