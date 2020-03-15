@@ -10438,8 +10438,8 @@
         "growthFactor": 1.5
       },
       "2020-3-15": {
-        "cases": 6,
-        "growthFactor": 1
+        "cases": 7,
+        "growthFactor": 1.1666666666666667
       }
     },
     "county": "New Castle County",
@@ -11751,9 +11751,9 @@
         "growthFactor": 1
       },
       "2020-3-15": {
-        "cases": 53,
+        "cases": 69,
         "deaths": 1,
-        "growthFactor": 1.325
+        "growthFactor": 1.725
       }
     },
     "county": "Los Angeles County",
