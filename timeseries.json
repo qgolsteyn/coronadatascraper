@@ -9663,9 +9663,9 @@
         "growthFactor": 1
       },
       "2020-3-15": {
-        "cases": 16,
-        "tested": 115,
-        "growthFactor": 1.6
+        "cases": 17,
+        "tested": 120,
+        "growthFactor": 1.7
       }
     },
     "state": "DC",
@@ -11779,9 +11779,9 @@
         "growthFactor": 0.3611111111111111
       },
       "2020-3-15": {
-        "cases": 14,
+        "cases": 17,
         "deaths": 0,
-        "growthFactor": 1.0769230769230769
+        "growthFactor": 1.3076923076923077
       }
     },
     "county": "Orange County",
