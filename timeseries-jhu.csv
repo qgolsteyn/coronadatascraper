@@ -20,7 +20,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,,Umbria,ITA,,,882015,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,2,2,8,9,9,16,24,26,28,37,46,64,76,107,107
 ,,Valle d'Aosta,ITA,,,125666,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0,0,0,0,0,0,0,0,2,7,8,9,15,17,20,27,28,42,42
 ,,Veneto,ITA,,,4905854,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,33,43,71,111,151,191,263,273,307,360,407,488,543,670,744,856,1023,1384,1595,1937,1937
-,Zurich,,CHE,,,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,,,2,9,,19,26,30,37,40,49,59,92,140,0,0
+,Zurich,,CHE,,,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,,,2,9,,19,26,30,37,40,49,59,92,140,,140
 ,DeKalb County,IN,USA,41.397172,-84.998833,43226,,,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Boone County,IN,USA,40.051773999999995,-86.4677715,66999,,,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
 ,Tippecanoe County,IN,USA,40.388631000000004,-86.89501100000001,193048,,,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
@@ -214,7 +214,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Cabarrus County,NC,USA,35.3456055,-80.541589,211342,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,1
 ,Gaston County,NC,USA,35.284431999999995,-81.1896935,222846,,,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Atlantic County,NJ,USA,39.509258,-74.6437035,265429,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
-,Bergen County,NJ,USA,40.952146,-74.08225,936692,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,25,32
+,Bergen County,NJ,USA,40.952146,-74.08225,936692,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,25,30
 ,Burlington County,NJ,USA,39.8658955,-74.72494950000001,445384,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,1
 ,Camden County,NJ,USA,39.800549000000004,-74.9381575,507078,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,2,2
 ,Cape May County,NJ,USA,39.1261435,-74.756719,92560,,,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
@@ -335,7 +335,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Whatcom County,WA,USA,,,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
 ,Yakima County,WA,USA,,,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,
 ,San Francisco County,CA,USA,37.7901875,-122.4356335,883305,,,https://www.sfdph.org/dph/alerts/coronavirus.asp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,28,28
-,San Mateo County,CA,USA,37.407824500000004,-122.30050299999999,769545,,,https://www.smchealth.org/coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,26,32
+,San Mateo County,CA,USA,37.407824500000004,-122.30050299999999,769545,,,https://www.smchealth.org/coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,26,31
 ,Alameda County,CA,USA,37.6801065,-121.9024445,1666753,,,http://www.acphd.org/2019-ncov.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,0
 ,Sonoma County,CA,USA,38.4810965,-122.946388,499942,,,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,4
 ,Santa Cruz County,CA,USA,37.0683515,-121.94941800000001,274255,,,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,0

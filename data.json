@@ -2882,8 +2882,8 @@
   },
   {
     "county": "Bergen County",
-    "cases": 32,
-    "tested": 39,
+    "cases": 30,
+    "tested": 37,
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
     "state": "NJ",
@@ -3629,9 +3629,9 @@
     "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
   },
   {
-    "recovered": 0,
+    "recovered": 11,
     "deaths": 0,
-    "cases": 0,
+    "cases": 140,
     "tested": 0,
     "country": "CHE",
     "county": "Zurich",
@@ -5627,8 +5627,8 @@
     "population": 883305
   },
   {
-    "cases": 32,
-    "deaths": 0,
+    "cases": 31,
+    "deaths": 1,
     "county": "San Mateo County",
     "state": "CA",
     "country": "USA",
