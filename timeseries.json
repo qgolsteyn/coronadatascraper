@@ -15377,7 +15377,7 @@
   "Butler County, OH, USA": {
     "dates": {
       "2020-3-15": {
-        "cases": 4
+        "cases": 6
       }
     },
     "county": "Butler County",
@@ -15394,7 +15394,7 @@
   "Cuyahoga County, OH, USA": {
     "dates": {
       "2020-3-15": {
-        "cases": 11
+        "cases": 14
       }
     },
     "county": "Cuyahoga County",
@@ -15411,7 +15411,7 @@
   "Franklin County, OH, USA": {
     "dates": {
       "2020-3-15": {
-        "cases": 1
+        "cases": 3
       }
     },
     "county": "Franklin County",
@@ -15428,7 +15428,7 @@
   "Lorain County, OH, USA": {
     "dates": {
       "2020-3-15": {
-        "cases": 1
+        "cases": 2
       }
     },
     "county": "Lorain County",
@@ -15442,10 +15442,44 @@
     "featureId": 411,
     "population": 309461
   },
+  "Lucas County, OH, USA": {
+    "dates": {
+      "2020-3-15": {
+        "cases": 1
+      }
+    },
+    "county": "Lucas County",
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
+    "coordinates": [
+      -83.5244735,
+      41.573549
+    ],
+    "featureId": 412,
+    "population": 429899
+  },
+  "Medina County, OH, USA": {
+    "dates": {
+      "2020-3-15": {
+        "cases": 1
+      }
+    },
+    "county": "Medina County",
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
+    "coordinates": [
+      -81.92915450000001,
+      41.132868
+    ],
+    "featureId": 413,
+    "population": 179146
+  },
   "Stark County, OH, USA": {
     "dates": {
       "2020-3-15": {
-        "cases": 3
+        "cases": 2
       }
     },
     "county": "Stark County",
@@ -15456,7 +15490,7 @@
       -81.3683635,
       40.811817000000005
     ],
-    "featureId": 412,
+    "featureId": 414,
     "population": 371574
   },
   "Summit County, OH, USA": {
@@ -15473,7 +15507,7 @@
       -81.5400925,
       41.1288115
     ],
-    "featureId": 413,
+    "featureId": 415,
     "population": 541918
   },
   "Trumbull County, OH, USA": {
@@ -15490,8 +15524,25 @@
       -80.76100600000001,
       41.3175365
     ],
-    "featureId": 414,
+    "featureId": 416,
     "population": 198627
+  },
+  "Tuscarawas County, OH, USA": {
+    "dates": {
+      "2020-3-15": {
+        "cases": 1
+      }
+    },
+    "county": "Tuscarawas County",
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
+    "coordinates": [
+      -81.488516,
+      40.440586499999995
+    ],
+    "featureId": 417,
+    "population": 92176
   },
   "Fairfield County, CT, USA": {
     "dates": {
@@ -15507,7 +15558,7 @@
       -73.397813,
       41.3259525
     ],
-    "featureId": 415,
+    "featureId": 418,
     "population": 943823
   },
   "Hartford County, CT, USA": {
@@ -15524,7 +15575,7 @@
       -72.71937700000001,
       41.7926935
     ],
-    "featureId": 416,
+    "featureId": 419,
     "population": 892697
   },
   "Litchfield County, CT, USA": {
@@ -15541,7 +15592,7 @@
       -73.20264900000001,
       41.759701
     ],
-    "featureId": 417,
+    "featureId": 420,
     "population": 181111
   },
   "New Haven County, CT, USA": {
@@ -15558,7 +15609,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 418,
+    "featureId": 421,
     "population": 857620
   }
 }

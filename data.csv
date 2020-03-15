@@ -514,14 +514,17 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,405,157668
 ,Williamson County,TN,USA,10,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,406,231729
 ,Belmont County,OH,USA,2,,,,40.011337999999995,-80.970149,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,407,67505
-,Butler County,OH,USA,4,,,,39.441655499999996,-84.5757445,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,408,382378
-,Cuyahoga County,OH,USA,11,,,,41.453196000000005,-81.67301699999999,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,409,1243857
-,Franklin County,OH,USA,1,,,,39.9690415,-83.010875,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,410,1310300
-,Lorain County,OH,USA,1,,,,41.289587999999995,-82.112518,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,411,309461
-,Stark County,OH,USA,3,,,,40.811817000000005,-81.3683635,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,412,371574
-,Summit County,OH,USA,2,,,,41.1288115,-81.5400925,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,413,541918
-,Trumbull County,OH,USA,2,,,,41.3175365,-80.76100600000001,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,414,198627
-,Fairfield County,CT,USA,15,,,,41.3259525,-73.397813,https://portal.ct.gov/Coronavirus,415,943823
-,Hartford County,CT,USA,1,,,,41.7926935,-72.71937700000001,https://portal.ct.gov/Coronavirus,416,892697
-,Litchfield County,CT,USA,3,,,,41.759701,-73.20264900000001,https://portal.ct.gov/Coronavirus,417,181111
-,New Haven County,CT,USA,1,,,,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,418,857620
+,Butler County,OH,USA,6,,,,39.441655499999996,-84.5757445,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,408,382378
+,Cuyahoga County,OH,USA,14,,,,41.453196000000005,-81.67301699999999,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,409,1243857
+,Franklin County,OH,USA,3,,,,39.9690415,-83.010875,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,410,1310300
+,Lorain County,OH,USA,2,,,,41.289587999999995,-82.112518,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,411,309461
+,Lucas County,OH,USA,1,,,,41.573549,-83.5244735,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,412,429899
+,Medina County,OH,USA,1,,,,41.132868,-81.92915450000001,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,413,179146
+,Stark County,OH,USA,2,,,,40.811817000000005,-81.3683635,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,414,371574
+,Summit County,OH,USA,2,,,,41.1288115,-81.5400925,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,415,541918
+,Trumbull County,OH,USA,2,,,,41.3175365,-80.76100600000001,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,416,198627
+,Tuscarawas County,OH,USA,1,,,,40.440586499999995,-81.488516,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,417,92176
+,Fairfield County,CT,USA,15,,,,41.3259525,-73.397813,https://portal.ct.gov/Coronavirus,418,943823
+,Hartford County,CT,USA,1,,,,41.7926935,-72.71937700000001,https://portal.ct.gov/Coronavirus,419,892697
+,Litchfield County,CT,USA,3,,,,41.759701,-73.20264900000001,https://portal.ct.gov/Coronavirus,420,181111
+,New Haven County,CT,USA,1,,,,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,421,857620
