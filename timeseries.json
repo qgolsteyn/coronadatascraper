@@ -155229,9 +155229,11 @@
       "growthFactor": 1
     },
     "100": {
-      "cases": 128,
-      "active": 128,
-      "growthFactor": 1
+      "cases": 131,
+      "deaths": 1,
+      "recovered": 0,
+      "active": 130,
+      "growthFactor": 1.0234375
     },
     "101": {
       "cases": "Positive Cases of COVID-19as of 12:38 p.m. ET 3/16/2020Confirmed Cases in Florida Residents137Confirmed by DOH82Tested by private labs41FL resident diagnosed & isolated out of state*6Deaths4Cases in Non-Florida Residents18Confirmed by DOH15Tested by private labs2 Total Cases Overview155Traveled38Contact with confirmed case28Travel & contact with confirmed case47Under Investigation42 For more detail on Florida resident cases, please visit the live DOH Dashboard here.* Florida residents that are diagnosed with COVID-19 and isolated out of state are not reflected on the Florida map.**Total cases overview includes positive cases in Florida residents and non-Florida residents tested in Florida. Details may change as epidemiological investigations progress. ",
@@ -155962,26 +155964,6 @@
       "tested": 13,
       "growthFactor": 2
     },
-    "217": {
-      "cases": 24,
-      "active": 24,
-      "growthFactor": 1
-    },
-    "218": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "219": {
-      "cases": 15,
-      "active": 15,
-      "growthFactor": 1
-    },
-    "220": {
-      "cases": 8,
-      "active": 8,
-      "growthFactor": 1
-    },
     "232": {
       "cases": 1,
       "deaths": 0,
@@ -156078,11 +156060,6 @@
       "active": 0,
       "growthFactor": null
     },
-    "283": {
-      "cases": 4,
-      "active": 4,
-      "growthFactor": 1
-    },
     "286": {
       "cases": 3,
       "deaths": 0,
@@ -156098,11 +156075,6 @@
       "cases": 29,
       "deaths": 0,
       "active": 29,
-      "growthFactor": 1
-    },
-    "291": {
-      "cases": 8,
-      "active": 8,
       "growthFactor": 1
     },
     "297": {
@@ -156143,16 +156115,6 @@
       "cases": 463,
       "active": 463,
       "growthFactor": 1.4072948328267476
-    },
-    "313": {
-      "cases": 25,
-      "active": 25,
-      "growthFactor": 1
-    },
-    "314": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
     },
     "315": {
       "cases": 61,
@@ -156274,11 +156236,6 @@
       "active": 17,
       "tested": 21,
       "growthFactor": 1.4166666666666667
-    },
-    "357": {
-      "cases": 12,
-      "active": 12,
-      "growthFactor": 1
     },
     "366": {
       "cases": 1,
@@ -157753,31 +157710,6 @@
       "active": 1,
       "growthFactor": 1
     },
-    "715": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1
-    },
-    "716": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "717": {
-      "cases": 11,
-      "active": 11,
-      "growthFactor": 1
-    },
-    "718": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "719": {
-      "cases": 5,
-      "active": 5,
-      "growthFactor": 1
-    },
     "720": {
       "cases": 0,
       "deaths": 0,
@@ -158285,26 +158217,6 @@
       "cases": 3,
       "active": 3,
       "growthFactor": 1.5
-    },
-    "837": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1
-    },
-    "838": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "839": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
-    },
-    "840": {
-      "cases": 1,
-      "active": 1,
-      "growthFactor": 1
     },
     "845": {
       "cases": 2,

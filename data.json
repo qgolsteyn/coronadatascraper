@@ -3823,6 +3823,23 @@
   },
   {
     "country": "USA",
+    "state": "CO",
+    "cases": 131,
+    "recovered": 0,
+    "deaths": 1,
+    "url": "https://github.com/CSSEGISandData/COVID-19",
+    "timeseries": true,
+    "rating": 0.65625,
+    "active": 130,
+    "coordinates": [
+      9.174864674246866,
+      45.94117645058273
+    ],
+    "featureId": 210,
+    "population": 5758736
+  },
+  {
+    "country": "USA",
     "state": "OR",
     "cases": 36,
     "recovered": 0,
@@ -3835,7 +3852,7 @@
       -67.60700517144237,
       -18.613514702841258
     ],
-    "featureId": 210,
+    "featureId": 211,
     "population": 4217737
   },
   {
@@ -3852,7 +3869,7 @@
       -100.0884705015624,
       31.177528238191037
     ],
-    "featureId": 211,
+    "featureId": 212,
     "population": 28995881
   },
   {
@@ -3869,7 +3886,7 @@
       46.81172136345015,
       33.07065725892534
     ],
-    "featureId": 212,
+    "featureId": 213,
     "population": 12671821
   },
   {
@@ -3886,7 +3903,7 @@
       -57.22248977138129,
       -32.0391034891347
     ],
-    "featureId": 213,
+    "featureId": 214,
     "population": 12801989
   },
   {
@@ -3903,7 +3920,7 @@
       28.787421502350412,
       46.933647162536516
     ],
-    "featureId": 214,
+    "featureId": 215,
     "population": 3155070
   },
   {
@@ -3920,7 +3937,7 @@
       -70.53651199773051,
       -11.649295559249765
     ],
-    "featureId": 215,
+    "featureId": 216,
     "population": 6045680
   },
   {
@@ -3937,7 +3954,7 @@
       20.996920403668724,
       -28.844672746443443
     ],
-    "featureId": 216,
+    "featureId": 217,
     "population": 10488084
   },
   {
@@ -3954,7 +3971,7 @@
       19.585981719498946,
       45.898594465640834
     ],
-    "featureId": 217,
+    "featureId": 218,
     "population": 5148714
   },
   {
@@ -3971,7 +3988,7 @@
       106.12875657678063,
       11.370549577000084
     ],
-    "featureId": 218,
+    "featureId": 219,
     "population": 6829174
   },
   {
@@ -3988,7 +4005,7 @@
       16.562298798952522,
       47.69023320653376
     ],
-    "featureId": 219,
+    "featureId": 220,
     "population": 8535519
   },
   {
@@ -4005,7 +4022,7 @@
       53.78359968700005,
       23.795429430473412
     ],
-    "featureId": 220,
+    "featureId": 221,
     "population": 7278717
   },
   {
@@ -4022,7 +4039,7 @@
       44.835279168249,
       43.14869771655038
     ],
-    "featureId": 221,
+    "featureId": 222,
     "population": 6732219
   },
   {
@@ -4039,7 +4056,7 @@
       -10.19809332590178,
       13.788978577500039
     ],
-    "featureId": 222,
+    "featureId": 223,
     "population": 4467673
   },
   {
@@ -4056,7 +4073,7 @@
       21.66318692014022,
       41.01050781662638
     ],
-    "featureId": 223,
+    "featureId": 224,
     "population": 3080156
   },
   {
@@ -4073,7 +4090,7 @@
       -71.64192281532604,
       44.002575579129676
     ],
-    "featureId": 224,
+    "featureId": 225,
     "population": 1359711
   },
   {
@@ -4090,7 +4107,7 @@
       -6.933507071014063,
       54.15832285890196
     ],
-    "featureId": 225,
+    "featureId": 226,
     "population": 5639632
   },
   {
@@ -4107,7 +4124,7 @@
       27.602830536104022,
       -21.0124630734999
     ],
-    "featureId": 226,
+    "featureId": 227,
     "population": 1934408
   },
   {
@@ -4124,7 +4141,7 @@
       -82.67188114679749,
       40.36645852284252
     ],
-    "featureId": 227,
+    "featureId": 228,
     "population": 11689100
   },
   {
@@ -4141,7 +4158,7 @@
       101.93572187668923,
       0.7348025577156534
     ],
-    "featureId": 228,
+    "featureId": 229,
     "population": 1059361
   },
   {
@@ -4158,7 +4175,7 @@
       -6.855844692999938,
       57.796128648000064
     ],
-    "featureId": 229,
+    "featureId": 230,
     "population": 5822434
   },
   {
@@ -4175,7 +4192,7 @@
       34.05329914828664,
       -10.031169938956474
     ],
-    "featureId": 230,
+    "featureId": 231,
     "population": 3565287
   },
   {
@@ -4192,7 +4209,7 @@
       45.49839878947134,
       4.370262062444226
     ],
-    "featureId": 231,
+    "featureId": 232,
     "population": 1415872
   },
   {
@@ -4209,7 +4226,7 @@
       19.49680472116094,
       -18.289010747629185
     ],
-    "featureId": 232,
+    "featureId": 233,
     "population": 3956971
   },
   {
@@ -4226,7 +4243,7 @@
       79.29053999553955,
       30.085476993671897
     ],
-    "featureId": 233,
+    "featureId": 234,
     "population": 3205958
   },
   {
@@ -4242,7 +4259,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 3,
-    "featureId": 234,
+    "featureId": 235,
     "population": 20107509
   },
   {
@@ -4258,7 +4275,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 235,
+    "featureId": 236,
     "population": 1000
   },
   {
@@ -4274,7 +4291,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 236,
+    "featureId": 237,
     "population": 3068243
   },
   {
@@ -4290,7 +4307,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 42,
-    "featureId": 237,
+    "featureId": 238,
     "population": 3753142
   },
   {
@@ -4307,7 +4324,7 @@
       33.45296190966974,
       -13.001272450762997
     ],
-    "featureId": 238,
+    "featureId": 239,
     "population": 2913314
   },
   {
@@ -4324,7 +4341,7 @@
       -88.10526448763456,
       13.766638946280324
     ],
-    "featureId": 239,
+    "featureId": 240,
     "population": 6137428
   },
   {
@@ -4341,7 +4358,7 @@
       25.622240024407574,
       43.2286709521527
     ],
-    "featureId": 240,
+    "featureId": 241,
     "population": 623989
   },
   {
@@ -4358,7 +4375,7 @@
       11.221986756417863,
       60.053117394710654
     ],
-    "featureId": 241,
+    "featureId": 242,
     "population": 731545
   },
   {
@@ -4375,7 +4392,7 @@
       94.46749434450007,
       28.008685410239444
     ],
-    "featureId": 242,
+    "featureId": 243,
     "population": 3017804
   },
   {
@@ -4392,7 +4409,7 @@
       -7.372542280711016,
       9.482044681239529
     ],
-    "featureId": 243,
+    "featureId": 244,
     "population": 973764
   },
   {
@@ -4409,7 +4426,7 @@
       36.68586180312968,
       35.84422068938329
     ],
-    "featureId": 244,
+    "featureId": 245,
     "population": 1787065
   },
   {
@@ -4426,7 +4443,7 @@
       10.639019813077255,
       33.07348753200004
     ],
-    "featureId": 245,
+    "featureId": 246,
     "population": 1344212
   },
   {
@@ -4443,7 +4460,7 @@
       -57.118730231514974,
       -26.9553565436281
     ],
-    "featureId": 246,
+    "featureId": 247,
     "population": 9986857
   },
   {
@@ -4460,7 +4477,7 @@
       16.272058415378368,
       46.7125883042568
     ],
-    "featureId": 247,
+    "featureId": 248,
     "population": 1068778
   },
   {
@@ -4477,7 +4494,7 @@
       111.62347220837569,
       45.35383134546877
     ],
-    "featureId": 248,
+    "featureId": 249,
     "population": 2096829
   },
   {
@@ -4494,7 +4511,7 @@
       -100.3019580214955,
       47.46721085597658
     ],
-    "featureId": 249,
+    "featureId": 250,
     "population": 762062
   },
   {
@@ -4511,7 +4528,7 @@
       68.8897290410001,
       26.13054169295833
     ],
-    "featureId": 250,
+    "featureId": 251,
     "population": 884659
   },
   {
@@ -4528,7 +4545,7 @@
       -80.1829407161911,
       38.92806805344787
     ],
-    "featureId": 251,
+    "featureId": 252,
     "population": 1792147
   },
   {
@@ -4545,7 +4562,7 @@
       -107.55199589229656,
       42.999967466625236
     ],
-    "featureId": 252,
+    "featureId": 253,
     "population": 578759
   },
   {
@@ -4562,7 +4579,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 10421,
-    "featureId": 253,
+    "featureId": 254,
     "population": 59170000
   },
   {
@@ -4578,7 +4595,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 8624,
-    "featureId": 254,
+    "featureId": 255,
     "population": 82021564
   },
   {
@@ -4594,7 +4611,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 7577,
-    "featureId": 255,
+    "featureId": 256,
     "population": 51181299
   },
   {
@@ -4610,7 +4627,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 4396,
-    "featureId": 256,
+    "featureId": 257,
     "population": 67106161
   },
   {
@@ -4627,7 +4644,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 48,
-    "featureId": 257,
+    "featureId": 258,
     "population": 113460000
   },
   {
@@ -4644,7 +4661,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 253,
+    "featureId": 254,
     "population": 96050000
   },
   {
@@ -4661,7 +4678,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 19,
-    "featureId": 253,
+    "featureId": 254,
     "population": 57370000
   },
   {
@@ -4678,7 +4695,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 253,
+    "featureId": 254,
     "population": 68990000
   },
   {
@@ -4695,7 +4712,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 253,
+    "featureId": 254,
     "population": 63240000
   },
   {
@@ -4712,7 +4729,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 253,
+    "featureId": 254,
     "population": 46480000
   },
   {
@@ -4729,7 +4746,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 12,
-    "featureId": 253,
+    "featureId": 254,
     "population": 100470000
   },
   {
@@ -4746,7 +4763,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 253,
+    "featureId": 254,
     "population": 80510000
   },
   {
@@ -4763,7 +4780,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 253,
+    "featureId": 254,
     "population": 31020000
   },
   {
@@ -4780,7 +4797,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 20,
-    "featureId": 253,
+    "featureId": 254,
     "population": 83410000
   },
   {
@@ -4797,7 +4814,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 16,
-    "featureId": 258,
+    "featureId": 259,
     "population": 37730000
   },
   {
@@ -4814,7 +4831,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 81,
-    "featureId": 253,
+    "featureId": 254,
     "population": 21540000
   },
   {
@@ -4831,7 +4848,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 26,
-    "featureId": 253,
+    "featureId": 254,
     "population": 24240000
   },
   {
@@ -4848,7 +4865,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 253,
+    "featureId": 254,
     "population": 75560000
   },
   {
@@ -4865,7 +4882,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 253,
+    "featureId": 254,
     "population": 39410000
   },
   {
@@ -4882,7 +4899,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 7,
-    "featureId": 259,
+    "featureId": 260,
     "population": 49260000
   },
   {
@@ -4899,7 +4916,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 11,
-    "featureId": 253,
+    "featureId": 254,
     "population": 38640000
   },
   {
@@ -4916,7 +4933,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 260,
+    "featureId": 261,
     "population": 48300000
   },
   {
@@ -4933,7 +4950,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 261,
+    "featureId": 262,
     "population": 9340000
   },
   {
@@ -4950,7 +4967,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 253,
+    "featureId": 254,
     "population": 36000000
   },
   {
@@ -4967,7 +4984,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 253,
+    "featureId": 254,
     "population": 15600000
   },
   {
@@ -4984,7 +5001,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 253,
+    "featureId": 254,
     "population": 37180000
   },
   {
@@ -5001,7 +5018,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 40,
-    "featureId": 262,
+    "featureId": 263,
     "population": 26370000
   },
   {
@@ -5017,7 +5034,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 60,
-    "featureId": 263,
+    "featureId": 264,
     "population": 7191503
   },
   {
@@ -5034,7 +5051,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 10,
-    "featureId": 264,
+    "featureId": 265,
     "population": 43590000
   },
   {
@@ -5051,7 +5068,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 265,
+    "featureId": 266,
     "population": 27040000
   },
   {
@@ -5067,7 +5084,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 253,
-    "featureId": 266,
+    "featureId": 267,
     "population": 10674723
   },
   {
@@ -5084,7 +5101,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 267,
+    "featureId": 268,
     "population": 24870000
   },
   {
@@ -5101,7 +5118,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 3,
-    "featureId": 248,
+    "featureId": 249,
     "population": 25000034
   },
   {
@@ -5118,7 +5135,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 253,
+    "featureId": 254,
     "population": 6880000
   },
   {
@@ -5134,7 +5151,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 38,
-    "featureId": 268,
+    "featureId": 269,
     "population": 23508428
   },
   {
@@ -5150,7 +5167,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 40,
-    "featureId": 269,
+    "featureId": 270,
     "population": 96160163
   },
   {
@@ -5166,7 +5183,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 55,
-    "featureId": 270,
+    "featureId": 271,
     "population": 142257519
   },
   {
@@ -5183,7 +5200,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 253,
+    "featureId": 254,
     "population": 6030000
   },
   {
@@ -5200,7 +5217,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 253,
+    "featureId": 254,
     "population": 667400
   },
   {
@@ -5216,7 +5233,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 23,
-    "featureId": 271,
+    "featureId": 272,
     "population": 3474121
   },
   {
@@ -5232,7 +5249,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 10,
-    "featureId": 272,
+    "featureId": 273,
     "population": 11138234
   },
   {
@@ -5249,7 +5266,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 273
+    "featureId": 274
   },
   {
     "country": "HND",
@@ -5264,7 +5281,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 3,
-    "featureId": 274,
+    "featureId": 275,
     "population": 9038741
   },
   {
@@ -5281,7 +5298,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 3,
-    "featureId": 275
+    "featureId": 276
   },
   {
     "country": "CHN",
@@ -5297,7 +5314,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 276,
+    "featureId": 277,
     "population": 3440000
   },
   {
@@ -5313,7 +5330,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 277,
+    "featureId": 278,
     "population": 83301151
   },
   {
@@ -5329,7 +5346,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 278,
+    "featureId": 279,
     "population": 24184810
   },
   {
@@ -5346,7 +5363,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 279,
+    "featureId": 280,
     "population": 9793
   },
   {
@@ -5362,7 +5379,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 10,
-    "featureId": 280,
+    "featureId": 281,
     "population": 2990561
   },
   {
@@ -5392,7 +5409,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 6,
-    "featureId": 281,
+    "featureId": 282,
     "population": 80845215
   },
   {
@@ -5409,7 +5426,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 282,
+    "featureId": 283,
     "population": 32194
   },
   {
@@ -5425,7 +5442,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 4,
-    "featureId": 283,
+    "featureId": 284,
     "population": 11147407
   },
   {
@@ -5441,7 +5458,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 3,
-    "featureId": 284,
+    "featureId": 285,
     "population": 737718
   },
   {
@@ -5474,7 +5491,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1101,
-    "featureId": 285,
+    "featureId": 286,
     "population": 64769452
   },
   {
@@ -5490,7 +5507,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 9,
-    "featureId": 286,
+    "featureId": 287,
     "population": 18556698
   },
   {
@@ -5521,7 +5538,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 287,
+    "featureId": 288,
     "population": 58441
   },
   {
@@ -5551,7 +5568,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 288,
+    "featureId": 289,
     "population": 105350020
   },
   {
@@ -5567,7 +5584,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 289,
+    "featureId": 290,
     "population": 37345935
   },
   {
@@ -5583,7 +5600,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 290,
+    "featureId": 291,
     "population": 12413867
   },
   {
@@ -5599,7 +5616,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 291,
+    "featureId": 292,
     "population": 115120
   },
   {
@@ -5615,7 +5632,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 3,
-    "featureId": 292,
+    "featureId": 293,
     "population": 47615739
   },
   {
@@ -5631,7 +5648,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 293,
+    "featureId": 294,
     "population": 94731
   },
   {
@@ -5647,7 +5664,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 4,
-    "featureId": 294,
+    "featureId": 295,
     "population": 3360148
   },
   {
@@ -5663,7 +5680,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 6,
-    "featureId": 295,
+    "featureId": 296,
     "population": 27499924
   },
   {
@@ -5680,7 +5697,7 @@
       24.422173129022518,
       58.30971624953123
     ],
-    "featureId": 296,
+    "featureId": 297,
     "population": 3193694
   },
   {
@@ -5696,7 +5713,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 297,
+    "featureId": 298,
     "population": 98840
   },
   {
@@ -5712,7 +5729,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 298,
+    "featureId": 299,
     "population": 2484780
   },
   {
@@ -5728,7 +5745,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 299,
+    "featureId": 300,
     "population": 93920
   },
   {
@@ -5744,7 +5761,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 300,
+    "featureId": 301,
     "population": 1218208
   },
   {
@@ -5760,7 +5777,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 10,
-    "featureId": 301,
+    "featureId": 302,
     "population": 31304016
   },
   {
@@ -5776,7 +5793,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 302,
+    "featureId": 303,
     "population": 149648
   },
   {
@@ -5792,7 +5809,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 303,
+    "featureId": 304,
     "population": 1467152
   },
   {
@@ -5808,7 +5825,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 304,
+    "featureId": 305,
     "population": 1772255
   },
   {
@@ -5824,7 +5841,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 305,
+    "featureId": 306,
     "population": 15460732
   },
   {
@@ -5840,7 +5857,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 306,
+    "featureId": 307,
     "population": 66502
   },
   {
@@ -5856,7 +5873,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 307,
+    "featureId": 308,
     "population": 19245344
   },
   {
@@ -5872,7 +5889,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 308,
+    "featureId": 309,
     "population": 11901484
   },
   {
@@ -5888,7 +5905,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 309,
+    "featureId": 310,
     "population": 164994
   },
   {
@@ -5918,7 +5935,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 310,
+    "featureId": 311,
     "population": 591919
   },
   {
@@ -5934,7 +5951,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 0,
-    "featureId": 311,
+    "featureId": 312,
     "population": 4543126
   },
   {
@@ -5951,7 +5968,7 @@
       -74.81395931680615,
       20.219303647966534
     ],
-    "featureId": 312
+    "featureId": 313
   },
   {
     "country": "KOS",
@@ -5966,7 +5983,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 2,
-    "featureId": 313,
+    "featureId": 314,
     "population": 1895250
   },
   {
@@ -5982,7 +5999,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 314,
+    "featureId": 315,
     "population": 5625118
   },
   {
@@ -5998,7 +6015,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 277,
+    "featureId": 278,
     "population": 83301151
   },
   {
@@ -6014,7 +6031,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 315,
+    "featureId": 316,
     "population": 778358
   },
   {
@@ -6030,7 +6047,7 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 1,
-    "featureId": 316,
+    "featureId": 317,
     "population": 29748859
   },
   {
@@ -6049,7 +6066,7 @@
       7.613648922522586,
       46.268055118643254
     ],
-    "featureId": 317
+    "featureId": 318
   },
   {
     "recovered": 7,
@@ -6066,7 +6083,7 @@
       13.744413115262155,
       42.66082319813205
     ],
-    "featureId": 318,
+    "featureId": 319,
     "population": 1311580
   },
   {
@@ -6084,7 +6101,7 @@
       16.459736550651286,
       40.44653860227464
     ],
-    "featureId": 319,
+    "featureId": 320,
     "population": 562869
   },
   {
@@ -6102,7 +6119,7 @@
       11.419398570635366,
       46.65500433907897
     ],
-    "featureId": 320
+    "featureId": 321
   },
   {
     "recovered": 1,
@@ -6119,7 +6136,7 @@
       16.382504226901737,
       39.5898477544993
     ],
-    "featureId": 321,
+    "featureId": 322,
     "population": 1947131
   },
   {
@@ -6137,7 +6154,7 @@
       15.128396085031028,
       40.42080761596819
     ],
-    "featureId": 322,
+    "featureId": 323,
     "population": 5801692
   },
   {
@@ -6155,7 +6172,7 @@
       12.428037128200344,
       43.962721009377134
     ],
-    "featureId": 323
+    "featureId": 324
   },
   {
     "recovered": 18,
@@ -6185,7 +6202,7 @@
       13.23770878768039,
       41.46857342788178
     ],
-    "featureId": 324,
+    "featureId": 325,
     "population": 5879082
   },
   {
@@ -6203,7 +6220,7 @@
       7.804047252883208,
       43.9624361855808
     ],
-    "featureId": 325,
+    "featureId": 326,
     "population": 1550640
   },
   {
@@ -6221,7 +6238,7 @@
       8.81203281436288,
       45.83250851330723
     ],
-    "featureId": 326,
+    "featureId": 327,
     "population": 10060574
   },
   {
@@ -6239,7 +6256,7 @@
       12.68651335143364,
       43.70137131236979
     ],
-    "featureId": 327,
+    "featureId": 328,
     "population": 1525271
   },
   {
@@ -6257,7 +6274,7 @@
       14.763117463999748,
       41.72552939473218
     ],
-    "featureId": 328,
+    "featureId": 329,
     "population": 305617
   },
   {
@@ -6275,7 +6292,7 @@
       8.289296916581662,
       46.11130799127415
     ],
-    "featureId": 329,
+    "featureId": 330,
     "population": 4356406
   },
   {
@@ -6306,7 +6323,7 @@
       8.61039424380536,
       39.217166975181996
     ],
-    "featureId": 330,
+    "featureId": 331,
     "population": 1639591
   },
   {
@@ -6337,7 +6354,7 @@
       11.25647373115611,
       42.775460274884864
     ],
-    "featureId": 331,
+    "featureId": 332,
     "population": 3729641
   },
   {
@@ -6355,7 +6372,7 @@
       11.214905976229801,
       46.10760284849263
     ],
-    "featureId": 332,
+    "featureId": 333,
     "population": 1072276
   },
   {
@@ -6373,7 +6390,7 @@
       12.3954968414061,
       42.65399553886303
     ],
-    "featureId": 333,
+    "featureId": 334,
     "population": 882015
   },
   {
@@ -6391,7 +6408,7 @@
       7.35008091679296,
       45.72520261050006
     ],
-    "featureId": 334,
+    "featureId": 335,
     "population": 125666
   },
   {
@@ -6409,7 +6426,7 @@
       12.220946053117842,
       46.27818462507037
     ],
-    "featureId": 335,
+    "featureId": 336,
     "population": 4905854
   },
   {
@@ -6423,7 +6440,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Barnet",
@@ -6436,7 +6453,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Barnsley",
@@ -6449,7 +6466,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Bath and North East Somerset",
@@ -6462,7 +6479,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Bedford",
@@ -6475,7 +6492,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Bexley",
@@ -6488,7 +6505,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Birmingham",
@@ -6501,7 +6518,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Blackburn with Darwen",
@@ -6514,7 +6531,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Blackpool",
@@ -6527,7 +6544,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Bolton",
@@ -6540,7 +6557,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Bournemouth, Christchurch and Poole",
@@ -6553,7 +6570,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Bracknell Forest",
@@ -6566,7 +6583,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Bradford",
@@ -6579,7 +6596,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Brent",
@@ -6592,7 +6609,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Brighton and Hove",
@@ -6605,7 +6622,7 @@
       -0.0956836538794903,
       50.83370545060512
     ],
-    "featureId": 336
+    "featureId": 337
   },
   {
     "county": "Bristol, City of",
@@ -6618,7 +6635,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Bromley",
@@ -6631,7 +6648,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Buckinghamshire",
@@ -6644,7 +6661,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 781167
   },
   {
@@ -6658,7 +6675,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Calderdale",
@@ -6671,7 +6688,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Cambridgeshire",
@@ -6684,7 +6701,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 830279
   },
   {
@@ -6698,7 +6715,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Central Bedfordshire",
@@ -6711,7 +6728,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Cheshire East",
@@ -6724,7 +6741,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Cheshire West and Chester",
@@ -6737,7 +6754,7 @@
       -2.753126456920455,
       53.1486968423354
     ],
-    "featureId": 337
+    "featureId": 338
   },
   {
     "county": "Cornwall and Isles of Scilly",
@@ -6750,7 +6767,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "County Durham",
@@ -6763,7 +6780,7 @@
       -1.799640245530711,
       54.67953095184194
     ],
-    "featureId": 338
+    "featureId": 339
   },
   {
     "county": "Coventry",
@@ -6776,7 +6793,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Croydon",
@@ -6789,7 +6806,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Cumbria",
@@ -6802,7 +6819,7 @@
       -2.894685635497069,
       54.65147772950007
     ],
-    "featureId": 339,
+    "featureId": 340,
     "population": 497874
   },
   {
@@ -6816,7 +6833,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Derby",
@@ -6829,7 +6846,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Derbyshire",
@@ -6842,7 +6859,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1032267
   },
   {
@@ -6856,7 +6873,7 @@
       -3.7468521474031253,
       50.73217421134865
     ],
-    "featureId": 340,
+    "featureId": 341,
     "population": 1159832
   },
   {
@@ -6870,7 +6887,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Dorset",
@@ -6883,7 +6900,7 @@
       -2.3107224188537714,
       50.83684499757297
     ],
-    "featureId": 341,
+    "featureId": 342,
     "population": 759768
   },
   {
@@ -6897,7 +6914,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Ealing",
@@ -6910,7 +6927,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "East Riding of Yorkshire",
@@ -6923,7 +6940,7 @@
       -0.4702299669435206,
       53.88757670754899
     ],
-    "featureId": 342,
+    "featureId": 343,
     "population": 594825
   },
   {
@@ -6937,7 +6954,7 @@
       0.3705739670149626,
       50.94161367390575
     ],
-    "featureId": 343,
+    "featureId": 344,
     "population": 820842
   },
   {
@@ -6951,7 +6968,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Essex",
@@ -6964,7 +6981,7 @@
       0.6384996882008807,
       51.801330145419854
     ],
-    "featureId": 344,
+    "featureId": 345,
     "population": 1773154
   },
   {
@@ -6978,7 +6995,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Gloucestershire",
@@ -6991,7 +7008,7 @@
       -2.1589416167073807,
       51.84146129050612
     ],
-    "featureId": 345,
+    "featureId": 346,
     "population": 882888
   },
   {
@@ -7005,7 +7022,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Hackney and City of London",
@@ -7018,7 +7035,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Halton",
@@ -7031,7 +7048,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Hammersmith and Fulham",
@@ -7044,7 +7061,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Hampshire",
@@ -7057,7 +7074,7 @@
       -1.3405973986010906,
       51.05528290387548
     ],
-    "featureId": 346,
+    "featureId": 347,
     "population": 1800511
   },
   {
@@ -7071,7 +7088,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Harrow",
@@ -7084,7 +7101,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Hartlepool",
@@ -7097,7 +7114,7 @@
       -1.290542151179023,
       54.666020093800526
     ],
-    "featureId": 347
+    "featureId": 348
   },
   {
     "county": "Havering",
@@ -7110,7 +7127,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Herefordshire, County of",
@@ -7123,7 +7140,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Hertfordshire",
@@ -7136,7 +7153,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1154766
   },
   {
@@ -7150,7 +7167,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Hounslow",
@@ -7163,7 +7180,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Isle of Wight",
@@ -7176,7 +7193,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 139105
   },
   {
@@ -7190,7 +7207,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Kensington and Chelsea",
@@ -7203,7 +7220,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Kent",
@@ -7216,7 +7233,7 @@
       0.7391297744358951,
       51.20639796273913
     ],
-    "featureId": 348,
+    "featureId": 349,
     "population": 1784369
   },
   {
@@ -7230,7 +7247,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Kingston upon Thames",
@@ -7243,7 +7260,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Kirklees",
@@ -7256,7 +7273,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Knowsley",
@@ -7269,7 +7286,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Lambeth",
@@ -7282,7 +7299,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Lancashire",
@@ -7295,7 +7312,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1471979
   },
   {
@@ -7309,7 +7326,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Leicester",
@@ -7322,7 +7339,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Leicestershire",
@@ -7335,7 +7352,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1005558
   },
   {
@@ -7349,7 +7366,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Lincolnshire",
@@ -7362,7 +7379,7 @@
       -0.22751105405745875,
       53.12138316510095
     ],
-    "featureId": 349,
+    "featureId": 350,
     "population": 1060567
   },
   {
@@ -7376,7 +7393,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Luton",
@@ -7389,7 +7406,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Manchester",
@@ -7402,7 +7419,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Medway",
@@ -7415,7 +7432,7 @@
       0.5708690730683657,
       51.41229721683642
     ],
-    "featureId": 350
+    "featureId": 351
   },
   {
     "county": "Merton",
@@ -7428,7 +7445,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Middlesbrough",
@@ -7441,7 +7458,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Milton Keynes",
@@ -7454,7 +7471,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Newcastle upon Tyne",
@@ -7467,7 +7484,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Newham",
@@ -7480,7 +7497,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Norfolk",
@@ -7493,7 +7510,7 @@
       0.9523097061513965,
       52.66413290015265
     ],
-    "featureId": 351,
+    "featureId": 352,
     "population": 877710
   },
   {
@@ -7507,7 +7524,7 @@
       -0.1301505615609193,
       53.553496852445065
     ],
-    "featureId": 352
+    "featureId": 353
   },
   {
     "county": "North Lincolnshire",
@@ -7520,7 +7537,7 @@
       -0.558919283936299,
       53.58327667878578
     ],
-    "featureId": 353
+    "featureId": 354
   },
   {
     "county": "North Somerset",
@@ -7533,7 +7550,7 @@
       -2.8128399318404718,
       51.40801629048416
     ],
-    "featureId": 354
+    "featureId": 355
   },
   {
     "county": "North Tyneside",
@@ -7546,7 +7563,7 @@
       -1.5311261769496696,
       55.026428262859
     ],
-    "featureId": 355
+    "featureId": 356
   },
   {
     "county": "North Yorkshire",
@@ -7559,7 +7576,7 @@
       -1.3737297140511806,
       54.08903304402421
     ],
-    "featureId": 356,
+    "featureId": 357,
     "population": 1080136
   },
   {
@@ -7573,7 +7590,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 714392
   },
   {
@@ -7587,7 +7604,7 @@
       -2.0702957224004597,
       55.2943535425097
     ],
-    "featureId": 357,
+    "featureId": 358,
     "population": 315987
   },
   {
@@ -7601,7 +7618,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Nottinghamshire",
@@ -7614,7 +7631,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1115658
   },
   {
@@ -7628,7 +7645,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Oxfordshire",
@@ -7641,7 +7658,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 672516
   },
   {
@@ -7655,7 +7672,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Plymouth",
@@ -7668,7 +7685,7 @@
       -4.114404709437087,
       50.386921002852894
     ],
-    "featureId": 358
+    "featureId": 359
   },
   {
     "county": "Portsmouth",
@@ -7681,7 +7698,7 @@
       -1.0414932934999115,
       50.81639231950007
     ],
-    "featureId": 359
+    "featureId": 360
   },
   {
     "county": "Reading",
@@ -7694,7 +7711,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Redbridge",
@@ -7707,7 +7724,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Redcar and Cleveland",
@@ -7720,7 +7737,7 @@
       -0.9987577985335747,
       54.56022797297001
     ],
-    "featureId": 360
+    "featureId": 361
   },
   {
     "county": "Richmond upon Thames",
@@ -7733,7 +7750,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Rochdale",
@@ -7746,7 +7763,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Rotherham",
@@ -7759,7 +7776,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Rutland",
@@ -7772,7 +7789,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 38022
   },
   {
@@ -7786,7 +7803,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Sandwell",
@@ -7799,7 +7816,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Sefton",
@@ -7812,7 +7829,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Sheffield",
@@ -7825,7 +7842,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Shropshire",
@@ -7838,7 +7855,7 @@
       -2.7153846879136267,
       52.660881557637765
     ],
-    "featureId": 361,
+    "featureId": 362,
     "population": 479561
   },
   {
@@ -7852,7 +7869,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Solihull",
@@ -7865,7 +7882,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Somerset",
@@ -7878,7 +7895,7 @@
       -2.975872259896903,
       51.07369161647489
     ],
-    "featureId": 362,
+    "featureId": 363,
     "population": 931784
   },
   {
@@ -7892,7 +7909,7 @@
       -2.475195048114843,
       51.54588758329207
     ],
-    "featureId": 363
+    "featureId": 364
   },
   {
     "county": "South Tyneside",
@@ -7905,7 +7922,7 @@
       -1.4462816066733524,
       54.958685614000075
     ],
-    "featureId": 364
+    "featureId": 365
   },
   {
     "county": "Southampton",
@@ -7918,7 +7935,7 @@
       -1.3789863545366359,
       50.88910228093991
     ],
-    "featureId": 365
+    "featureId": 366
   },
   {
     "county": "Southend-on-Sea",
@@ -7931,7 +7948,7 @@
       0.7374681475586442,
       51.55627981216796
     ],
-    "featureId": 366
+    "featureId": 367
   },
   {
     "county": "Southwark",
@@ -7944,7 +7961,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "St. Helens",
@@ -7957,7 +7974,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Staffordshire",
@@ -7970,7 +7987,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1111192
   },
   {
@@ -7984,7 +8001,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Stockton-on-Tees",
@@ -7997,7 +8014,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Stoke-on-Trent",
@@ -8010,7 +8027,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Suffolk",
@@ -8023,7 +8040,7 @@
       1.0804205660576542,
       52.236436265000066
     ],
-    "featureId": 367,
+    "featureId": 368,
     "population": 738512
   },
   {
@@ -8037,7 +8054,7 @@
       -1.459068324274273,
       54.86062788461916
     ],
-    "featureId": 368
+    "featureId": 369
   },
   {
     "county": "Surrey",
@@ -8050,7 +8067,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1161256
   },
   {
@@ -8064,7 +8081,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Swindon",
@@ -8077,7 +8094,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Tameside",
@@ -8090,7 +8107,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Telford and Wrekin",
@@ -8103,7 +8120,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Thurrock",
@@ -8116,7 +8133,7 @@
       0.3850030914694855,
       51.505512803373136
     ],
-    "featureId": 369
+    "featureId": 370
   },
   {
     "county": "Torbay",
@@ -8129,7 +8146,7 @@
       -3.5739260030656315,
       50.44218552834638
     ],
-    "featureId": 370
+    "featureId": 371
   },
   {
     "county": "Tower Hamlets",
@@ -8142,7 +8159,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Trafford",
@@ -8155,7 +8172,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Wakefield",
@@ -8168,7 +8185,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Walsall",
@@ -8181,7 +8198,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Waltham Forest",
@@ -8194,7 +8211,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Wandsworth",
@@ -8207,7 +8224,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Warrington",
@@ -8220,7 +8237,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Warwickshire",
@@ -8233,7 +8250,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 551594
   },
   {
@@ -8247,7 +8264,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "West Sussex",
@@ -8260,7 +8277,7 @@
       -0.4655862087365392,
       50.94804494863297
     ],
-    "featureId": 371,
+    "featureId": 372,
     "population": 828398
   },
   {
@@ -8274,7 +8291,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Wigan",
@@ -8287,7 +8304,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Wiltshire",
@@ -8300,7 +8317,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 698942
   },
   {
@@ -8314,7 +8331,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Wirral",
@@ -8327,7 +8344,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Wokingham",
@@ -8340,7 +8357,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Wolverhampton",
@@ -8353,7 +8370,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Worcestershire",
@@ -8366,7 +8383,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 575421
   },
   {
@@ -8380,7 +8397,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275
+    "featureId": 276
   },
   {
     "county": "Copiah County",
@@ -8395,7 +8412,7 @@
       -90.42352199999999,
       31.867576
     ],
-    "featureId": 372,
+    "featureId": 373,
     "population": 28543
   },
   {
@@ -8411,7 +8428,7 @@
       -89.2947915,
       31.1719645
     ],
-    "featureId": 373,
+    "featureId": 374,
     "population": 75036
   },
   {
@@ -8427,7 +8444,7 @@
       -89.506062,
       30.4111555
     ],
-    "featureId": 374,
+    "featureId": 375,
     "population": 47334
   },
   {
@@ -8443,7 +8460,7 @@
       -90.3971595,
       32.3110675
     ],
-    "featureId": 375,
+    "featureId": 376,
     "population": 237085
   },
   {
@@ -8459,7 +8476,7 @@
       -90.277601,
       33.523355
     ],
-    "featureId": 376,
+    "featureId": 377,
     "population": 28919
   },
   {
@@ -8475,7 +8492,7 @@
       -88.4618815,
       33.8697745
     ],
-    "featureId": 377,
+    "featureId": 378,
     "population": 35564
   },
   {
@@ -8491,7 +8508,7 @@
       -89.596482,
       30.7364495
     ],
-    "featureId": 378,
+    "featureId": 379,
     "population": 55387
   },
   {
@@ -8516,7 +8533,7 @@
       28.88710896780958,
       -20.91221119876881
     ],
-    "featureId": 379,
+    "featureId": 380,
     "population": 2976149
   },
   {
@@ -8531,7 +8548,7 @@
       -77.0145477695639,
       38.899451555326564
     ],
-    "featureId": 380,
+    "featureId": 381,
     "population": 705749
   },
   {
@@ -8547,7 +8564,7 @@
       -87.69793150000001,
       30.765086
     ],
-    "featureId": 381,
+    "featureId": 382,
     "population": 218022
   },
   {
@@ -8563,7 +8580,7 @@
       -86.13298,
       32.5876855
     ],
-    "featureId": 382,
+    "featureId": 383,
     "population": 81887
   },
   {
@@ -8579,7 +8596,7 @@
       -85.348772,
       32.578877500000004
     ],
-    "featureId": 383,
+    "featureId": 384,
     "population": 163941
   },
   {
@@ -8595,7 +8612,7 @@
       -86.92924049999999,
       33.544622000000004
     ],
-    "featureId": 384,
+    "featureId": 385,
     "population": 659300
   },
   {
@@ -8611,7 +8628,7 @@
       -87.030965,
       34.774907
     ],
-    "featureId": 385,
+    "featureId": 386,
     "population": 96174
   },
   {
@@ -8627,7 +8644,7 @@
       -86.2080335,
       32.2330785
     ],
-    "featureId": 386,
+    "featureId": 387,
     "population": 225763
   },
   {
@@ -8643,7 +8660,7 @@
       -86.6839795,
       33.2828065
     ],
-    "featureId": 387,
+    "featureId": 388,
     "population": 215707
   },
   {
@@ -8659,7 +8676,7 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 388,
+    "featureId": 389,
     "population": 208911
   },
   {
@@ -8674,305 +8691,8 @@
       -84.7976370213814,
       10.447463789112518
     ],
-    "featureId": 389,
-    "population": 4903185
-  },
-  {
-    "county": "Adams County",
-    "cases": 6,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 6,
-    "coordinates": [
-      -104.3794855,
-      39.87063
-    ],
     "featureId": 390,
-    "population": 511868
-  },
-  {
-    "county": "Arapahoe County",
-    "cases": 15,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 15,
-    "coordinates": [
-      -104.38034350000001,
-      39.6533655
-    ],
-    "featureId": 391,
-    "population": 651215
-  },
-  {
-    "county": "Boulder County",
-    "cases": 3,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 3,
-    "coordinates": [
-      -105.37153699999999,
-      40.0878355
-    ],
-    "featureId": 392,
-    "population": 326078
-  },
-  {
-    "county": "Clear Creek County",
-    "cases": 1,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 1,
-    "coordinates": [
-      -105.66211949999999,
-      39.7084305
-    ],
-    "featureId": 393,
-    "population": 9605
-  },
-  {
-    "county": "Denver County",
-    "cases": 25,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 25,
-    "coordinates": [
-      -104.855181,
-      39.76426
-    ],
-    "featureId": 394,
-    "population": 716492
-  },
-  {
-    "county": "Douglas County",
-    "cases": 8,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 8,
-    "coordinates": [
-      -104.994923,
-      39.34788
-    ],
-    "featureId": 395,
-    "population": 342776
-  },
-  {
-    "county": "Eagle County",
-    "cases": 24,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 24,
-    "coordinates": [
-      -106.645068,
-      39.6373275
-    ],
-    "featureId": 396,
-    "population": 54993
-  },
-  {
-    "county": "El Paso County",
-    "cases": 4,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 4,
-    "coordinates": [
-      -104.5619235,
-      38.824693999999994
-    ],
-    "featureId": 397,
-    "population": 713856
-  },
-  {
-    "county": "Garfield County",
-    "cases": 1,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 1,
-    "coordinates": [
-      -108.0417065,
-      39.728802
-    ],
-    "featureId": 398,
-    "population": 59770
-  },
-  {
-    "county": "Gunnison County",
-    "cases": 8,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 8,
-    "coordinates": [
-      -106.94099,
-      38.702179
-    ],
-    "featureId": 399,
-    "population": 17246
-  },
-  {
-    "county": "Jefferson County",
-    "cases": 12,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 12,
-    "coordinates": [
-      -105.2238445,
-      39.5219745
-    ],
-    "featureId": 400,
-    "population": 580233
-  },
-  {
-    "county": "Larimer County",
-    "cases": 1,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 1,
-    "coordinates": [
-      -105.5669625,
-      40.628046999999995
-    ],
-    "featureId": 401,
-    "population": 350518
-  },
-  {
-    "county": "Mesa County",
-    "cases": 1,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 1,
-    "coordinates": [
-      -108.21971400000001,
-      38.933332
-    ],
-    "featureId": 402,
-    "population": 153207
-  },
-  {
-    "county": "Pitkin County",
-    "cases": 11,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 11,
-    "coordinates": [
-      -106.946222,
-      39.171949
-    ],
-    "featureId": 403,
-    "population": 17950
-  },
-  {
-    "county": "Pueblo County",
-    "cases": 1,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 1,
-    "coordinates": [
-      -104.5522995,
-      38.1285485
-    ],
-    "featureId": 404,
-    "population": 167529
-  },
-  {
-    "county": "Summit County",
-    "cases": 1,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 1,
-    "coordinates": [
-      -106.10532549999999,
-      39.6416725
-    ],
-    "featureId": 405,
-    "population": 31007
-  },
-  {
-    "county": "Weld County",
-    "cases": 5,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 5,
-    "coordinates": [
-      -104.315327,
-      40.5011525
-    ],
-    "featureId": 406,
-    "population": 314305
-  },
-  {
-    "county": "(unassigned)",
-    "cases": 1,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.40625,
-    "active": 1
-  },
-  {
-    "cases": 128,
-    "state": "CO",
-    "country": "USA",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
-    "type": "list",
-    "rating": 0.28125,
-    "active": 128,
-    "coordinates": [
-      9.174864674246866,
-      45.94117645058273
-    ],
-    "featureId": 407,
-    "population": 5758736
+    "population": 4903185
   },
   {
     "county": "De Soto Parish",
@@ -8988,7 +8708,7 @@
       -93.699102,
       32.0948115
     ],
-    "featureId": 408,
+    "featureId": 391,
     "population": 27436
   },
   {
@@ -9005,7 +8725,7 @@
       -90.4833525,
       30.0930385
     ],
-    "featureId": 409,
+    "featureId": 392,
     "population": 43184
   },
   {
@@ -9022,7 +8742,7 @@
       -90.50821049999999,
       29.4895455
     ],
-    "featureId": 410,
+    "featureId": 393,
     "population": 98115
   },
   {
@@ -9039,7 +8759,7 @@
       -89.88147699999999,
       30.033868
     ],
-    "featureId": 411,
+    "featureId": 394,
     "population": 391006
   },
   {
@@ -9056,7 +8776,7 @@
       -93.557699,
       31.505406999999998
     ],
-    "featureId": 412,
+    "featureId": 395,
     "population": 24032
   },
   {
@@ -9073,7 +8793,7 @@
       -90.405269,
       30.612403
     ],
-    "featureId": 413,
+    "featureId": 396,
     "population": 133777
   },
   {
@@ -9090,7 +8810,7 @@
       -89.891049,
       30.43073
     ],
-    "featureId": 414,
+    "featureId": 397,
     "population": 258111
   },
   {
@@ -9107,7 +8827,7 @@
       -90.696248,
       30.412879
     ],
-    "featureId": 415,
+    "featureId": 398,
     "population": 139567
   },
   {
@@ -9124,7 +8844,7 @@
       -90.3585315,
       29.961458
     ],
-    "featureId": 416,
+    "featureId": 399,
     "population": 52879
   },
   {
@@ -9141,7 +8861,7 @@
       -93.326522,
       30.2639165
     ],
-    "featureId": 417,
+    "featureId": 400,
     "population": 203112
   },
   {
@@ -9158,7 +8878,7 @@
       -92.394117,
       32.7976865
     ],
-    "featureId": 418,
+    "featureId": 401,
     "population": 22330
   },
   {
@@ -9175,7 +8895,7 @@
       -92.09278499999999,
       32.102264500000004
     ],
-    "featureId": 419,
+    "featureId": 402,
     "population": 9960
   },
   {
@@ -9192,7 +8912,7 @@
       -91.3045835,
       31.991290499999998
     ],
-    "featureId": 420,
+    "featureId": 403,
     "population": 4462
   },
   {
@@ -9209,7 +8929,7 @@
       -92.56701000000001,
       32.3212645
     ],
-    "featureId": 421,
+    "featureId": 404,
     "population": 15902
   },
   {
@@ -9226,7 +8946,7 @@
       -92.58483,
       31.5926135
     ],
-    "featureId": 422,
+    "featureId": 405,
     "population": 22482
   },
   {
@@ -9243,7 +8963,7 @@
       -92.64820449999999,
       32.606269499999996
     ],
-    "featureId": 423,
+    "featureId": 406,
     "population": 47196
   },
   {
@@ -9260,7 +8980,7 @@
       -92.857122,
       30.2628035
     ],
-    "featureId": 424,
+    "featureId": 407,
     "population": 31582
   },
   {
@@ -9277,7 +8997,7 @@
       -92.0951095,
       30.2075775
     ],
-    "featureId": 425,
+    "featureId": 408,
     "population": 242782
   },
   {
@@ -9294,7 +9014,7 @@
       -91.2303025,
       32.7714455
     ],
-    "featureId": 426,
+    "featureId": 409,
     "population": 7037
   },
   {
@@ -9311,7 +9031,7 @@
       -91.0732675,
       30.824589
     ],
-    "featureId": 427,
+    "featureId": 410,
     "population": 19305
   },
   {
@@ -9328,7 +9048,7 @@
       -91.3600815,
       30.2613845
     ],
-    "featureId": 428,
+    "featureId": 411,
     "population": 32721
   },
   {
@@ -9345,7 +9065,7 @@
       -91.732693,
       32.409445500000004
     ],
-    "featureId": 429,
+    "featureId": 412,
     "population": 20192
   },
   {
@@ -9362,7 +9082,7 @@
       -91.53909150000001,
       30.09857
     ],
-    "featureId": 430,
+    "featureId": 413,
     "population": 53621
   },
   {
@@ -9379,7 +9099,7 @@
       -92.981675,
       32.8016545
     ],
-    "featureId": 431,
+    "featureId": 414,
     "population": 15944
   },
   {
@@ -9396,7 +9116,7 @@
       -92.08607749999999,
       30.573712
     ],
-    "featureId": 432,
+    "featureId": 415,
     "population": 82764
   },
   {
@@ -9413,7 +9133,7 @@
       -91.5623665,
       30.750701999999997
     ],
-    "featureId": 433,
+    "featureId": 416,
     "population": 21940
   },
   {
@@ -9442,7 +9162,7 @@
       -93.3384255,
       32.7143435
     ],
-    "featureId": 434,
+    "featureId": 417,
     "population": 38798
   },
   {
@@ -9459,7 +9179,7 @@
       -90.8028455,
       30.027838
     ],
-    "featureId": 435,
+    "featureId": 418,
     "population": 21037
   },
   {
@@ -9476,7 +9196,7 @@
       -91.76029249999999,
       32.7570325
     ],
-    "featureId": 436,
+    "featureId": 419,
     "population": 25398
   },
   {
@@ -9493,7 +9213,7 @@
       -92.5286315,
       31.203797
     ],
-    "featureId": 437,
+    "featureId": 420,
     "population": 130562
   },
   {
@@ -9510,7 +9230,7 @@
       -91.97901999999999,
       31.095483
     ],
-    "featureId": 438,
+    "featureId": 421,
     "population": 40462
   },
   {
@@ -9527,7 +9247,7 @@
       -92.64287350000001,
       31.928432
     ],
-    "featureId": 439,
+    "featureId": 422,
     "population": 14134
   },
   {
@@ -9544,7 +9264,7 @@
       -91.776279,
       31.5993165
     ],
-    "featureId": 440,
+    "featureId": 423,
     "population": 9608
   },
   {
@@ -9561,7 +9281,7 @@
       -91.0722915,
       29.8539995
     ],
-    "featureId": 441,
+    "featureId": 424,
     "population": 22300
   },
   {
@@ -9578,7 +9298,7 @@
       -93.757198,
       32.6074585
     ],
-    "featureId": 442,
+    "featureId": 425,
     "population": 242922
   },
   {
@@ -9595,7 +9315,7 @@
       -90.03715650000001,
       30.835068999999997
     ],
-    "featureId": 443,
+    "featureId": 426,
     "population": 46582
   },
   {
@@ -9612,7 +9332,7 @@
       -91.0821615,
       30.516002
     ],
-    "featureId": 444,
+    "featureId": 427,
     "population": 440956
   },
   {
@@ -9629,7 +9349,7 @@
       -93.080363,
       31.747528000000003
     ],
-    "featureId": 445,
+    "featureId": 428,
     "population": 38659
   },
   {
@@ -9646,7 +9366,7 @@
       -93.10068150000001,
       32.366091999999995
     ],
-    "featureId": 446,
+    "featureId": 429,
     "population": 13308
   },
   {
@@ -9663,7 +9383,7 @@
       -93.5978795,
       32.627677000000006
     ],
-    "featureId": 447,
+    "featureId": 430,
     "population": 127185
   },
   {
@@ -9680,7 +9400,7 @@
       -92.856948,
       30.661153
     ],
-    "featureId": 448,
+    "featureId": 431,
     "population": 25605
   },
   {
@@ -9697,7 +9417,7 @@
       -92.159829,
       32.4907775
     ],
-    "featureId": 449,
+    "featureId": 432,
     "population": 154475
   },
   {
@@ -9714,7 +9434,7 @@
       -90.738279,
       30.824559
     ],
-    "featureId": 450,
+    "featureId": 433,
     "population": 10262
   },
   {
@@ -9731,7 +9451,7 @@
       -91.46312950000001,
       30.8493775
     ],
-    "featureId": 451,
+    "featureId": 434,
     "population": 15460
   },
   {
@@ -9748,7 +9468,7 @@
       -91.45007849999999,
       32.7940275
     ],
-    "featureId": 452,
+    "featureId": 435,
     "population": 10982
   },
   {
@@ -9765,7 +9485,7 @@
       -91.622707,
       31.366113
     ],
-    "featureId": 453,
+    "featureId": 436,
     "population": 19572
   },
   {
@@ -9782,7 +9502,7 @@
       -91.313597,
       30.490574000000002
     ],
-    "featureId": 454,
+    "featureId": 437,
     "population": 26427
   },
   {
@@ -9799,7 +9519,7 @@
       -91.216415,
       32.341573
     ],
-    "featureId": 455,
+    "featureId": 438,
     "population": 11161
   },
   {
@@ -9816,7 +9536,7 @@
       -90.869644,
       30.204696499999997
     ],
-    "featureId": 456,
+    "featureId": 439,
     "population": 124672
   },
   {
@@ -9833,7 +9553,7 @@
       -92.38683499999999,
       30.2652335
     ],
-    "featureId": 457,
+    "featureId": 440,
     "population": 62190
   },
   {
@@ -9850,7 +9570,7 @@
       -93.35856949999999,
       30.6430015
     ],
-    "featureId": 458,
+    "featureId": 441,
     "population": 37253
   },
   {
@@ -9867,7 +9587,7 @@
       -91.6867355,
       32.1420035
     ],
-    "featureId": 459,
+    "featureId": 442,
     "population": 20156
   },
   {
@@ -9884,7 +9604,7 @@
       -92.40312349999999,
       30.7409765
     ],
-    "featureId": 460,
+    "featureId": 443,
     "population": 33443
   },
   {
@@ -9901,7 +9621,7 @@
       -93.19772900000001,
       31.1119345
     ],
-    "featureId": 461,
+    "featureId": 444,
     "population": 48860
   },
   {
@@ -9918,7 +9638,7 @@
       -93.367939,
       32.062484
     ],
-    "featureId": 462,
+    "featureId": 445,
     "population": 8477
   },
   {
@@ -9935,7 +9655,7 @@
       -92.351531,
       29.8402345
     ],
-    "featureId": 463,
+    "featureId": 446,
     "population": 59830
   },
   {
@@ -9952,7 +9672,7 @@
       -89.5381785,
       29.4150075
     ],
-    "featureId": 464,
+    "featureId": 447,
     "population": 23410
   },
   {
@@ -9969,7 +9689,7 @@
       -91.48180049999999,
       29.7141755
     ],
-    "featureId": 465,
+    "featureId": 448,
     "population": 49774
   },
   {
@@ -9986,7 +9706,7 @@
       -93.27240900000001,
       29.8158395
     ],
-    "featureId": 466,
+    "featureId": 449,
     "population": 6968
   },
   {
@@ -10003,7 +9723,7 @@
       -91.632762,
       29.7982045
     ],
-    "featureId": 467,
+    "featureId": 450,
     "population": 70941
   },
   {
@@ -10020,7 +9740,7 @@
       -89.4145595,
       29.8500655
     ],
-    "featureId": 468,
+    "featureId": 451,
     "population": 46721
   },
   {
@@ -10037,7 +9757,7 @@
       -90.8557755,
       29.406244
     ],
-    "featureId": 469,
+    "featureId": 452,
     "population": 111021
   },
   {
@@ -10054,7 +9774,7 @@
       -90.114832,
       29.696731
     ],
-    "featureId": 470,
+    "featureId": 453,
     "population": 434051
   },
   {
@@ -10069,7 +9789,7 @@
       106.13383655129704,
       10.715987449983892
     ],
-    "featureId": 471,
+    "featureId": 454,
     "population": 4648794
   },
   {
@@ -10085,7 +9805,7 @@
       -3.1370130791734043,
       53.20875990795537
     ],
-    "featureId": 472,
+    "featureId": 455,
     "population": 21477737
   },
   {
@@ -10101,7 +9821,7 @@
       -73.7326465,
       41.122837000000004
     ],
-    "featureId": 473,
+    "featureId": 456,
     "population": 967612
   },
   {
@@ -10117,7 +9837,7 @@
       -73.5961185,
       40.7528025
     ],
-    "featureId": 474,
+    "featureId": 457,
     "population": 1358343
   },
   {
@@ -10133,7 +9853,7 @@
       -72.6766375,
       40.9499955
     ],
-    "featureId": 475,
+    "featureId": 458,
     "population": 1481093
   },
   {
@@ -10149,7 +9869,7 @@
       -74.06082649999999,
       41.160945
     ],
-    "featureId": 476,
+    "featureId": 459,
     "population": 325695
   },
   {
@@ -10165,7 +9885,7 @@
       -73.9708125,
       42.613902
     ],
-    "featureId": 477,
+    "featureId": 460,
     "population": 307117
   },
   {
@@ -10181,7 +9901,7 @@
       -74.354217,
       41.3878105
     ],
-    "featureId": 478,
+    "featureId": 461,
     "population": 381951
   },
   {
@@ -10197,7 +9917,7 @@
       -73.74371099999999,
       41.7599055
     ],
-    "featureId": 479,
+    "featureId": 462,
     "population": 293718
   },
   {
@@ -10213,7 +9933,7 @@
       -77.684384,
       43.154810499999996
     ],
-    "featureId": 480,
+    "featureId": 463,
     "population": 742474
   },
   {
@@ -10229,7 +9949,7 @@
       -74.345684,
       41.878800999999996
     ],
-    "featureId": 481,
+    "featureId": 464,
     "population": 178599
   },
   {
@@ -10245,7 +9965,7 @@
       -73.866721,
       43.0867325
     ],
-    "featureId": 482,
+    "featureId": 465,
     "population": 230163
   },
   {
@@ -10261,7 +9981,7 @@
       -78.79997900000001,
       42.768297000000004
     ],
-    "featureId": 483,
+    "featureId": 466,
     "population": 919719
   },
   {
@@ -10277,7 +9997,7 @@
       -74.0573495,
       42.834184
     ],
-    "featureId": 484,
+    "featureId": 467,
     "population": 155350
   },
   {
@@ -10293,7 +10013,7 @@
       -74.1565635,
       42.28041
     ],
-    "featureId": 485,
+    "featureId": 468,
     "population": 47491
   },
   {
@@ -10309,7 +10029,7 @@
       -73.7563255,
       41.4244435
     ],
-    "featureId": 486,
+    "featureId": 469,
     "population": 98892
   },
   {
@@ -10325,7 +10045,7 @@
       -78.0160695,
       42.260023000000004
     ],
-    "featureId": 487,
+    "featureId": 470,
     "population": 46430
   },
   {
@@ -10341,7 +10061,7 @@
       -75.74488,
       42.206783
     ],
-    "featureId": 488,
+    "featureId": 471,
     "population": 191659
   },
   {
@@ -10357,7 +10077,7 @@
       -74.92498599999999,
       42.183063
     ],
-    "featureId": 489,
+    "featureId": 472,
     "population": 44527
   },
   {
@@ -10373,7 +10093,7 @@
       -74.957551,
       43.460950999999994
     ],
-    "featureId": 490,
+    "featureId": 473,
     "population": 61833
   },
   {
@@ -10389,7 +10109,7 @@
       -76.322135,
       42.2043415
     ],
-    "featureId": 491,
+    "featureId": 474,
     "population": 48560
   },
   {
@@ -10405,7 +10125,7 @@
       -76.4683765,
       42.445197500000006
     ],
-    "featureId": 492,
+    "featureId": 475,
     "population": 102793
   },
   {
@@ -10421,7 +10141,7 @@
       -74.4234035,
       42.910201
     ],
-    "featureId": 493,
+    "featureId": 476,
     "population": 49455
   },
   {
@@ -10437,7 +10157,7 @@
       -76.19769550000001,
       43.021398
     ],
-    "featureId": 494,
+    "featureId": 477,
     "population": 461809
   },
   {
@@ -10453,7 +10173,7 @@
       -77.28751,
       42.808147000000005
     ],
-    "featureId": 495,
+    "featureId": 478,
     "population": 109864
   },
   {
@@ -10469,7 +10189,7 @@
       -73.9771565,
       40.7808115
     ],
-    "featureId": 496,
+    "featureId": 479,
     "population": 1628701
   },
   {
@@ -10484,7 +10204,7 @@
       10.953043415920217,
       -3.095310059778787
     ],
-    "featureId": 497,
+    "featureId": 480,
     "population": 19453561
   },
   {
@@ -10502,7 +10222,7 @@
       -122.5203415,
       45.80125099999999
     ],
-    "featureId": 498,
+    "featureId": 481,
     "population": 481857
   },
   {
@@ -10520,7 +10240,7 @@
       -117.92289099999999,
       46.3118295
     ],
-    "featureId": 499,
+    "featureId": 482,
     "population": 4059
   },
   {
@@ -10538,7 +10258,7 @@
       -119.508134,
       47.293631
     ],
-    "featureId": 500,
+    "featureId": 483,
     "population": 97331
   },
   {
@@ -10556,7 +10276,7 @@
       -123.756045,
       47.162482
     ],
-    "featureId": 501,
+    "featureId": 484,
     "population": 73901
   },
   {
@@ -10574,7 +10294,7 @@
       -122.559821,
       48.157794
     ],
-    "featureId": 502,
+    "featureId": 485,
     "population": 84460
   },
   {
@@ -10592,7 +10312,7 @@
       -123.61055200000001,
       47.8304245
     ],
-    "featureId": 503,
+    "featureId": 486,
     "population": 31729
   },
   {
@@ -10610,7 +10330,7 @@
       -121.7969185,
       47.4324805
     ],
-    "featureId": 504,
+    "featureId": 487,
     "population": 2233163
   },
   {
@@ -10628,7 +10348,7 @@
       -122.7433825,
       47.6719585
     ],
-    "featureId": 505,
+    "featureId": 488,
     "population": 269805
   },
   {
@@ -10646,7 +10366,7 @@
       -120.688514,
       47.167153
     ],
-    "featureId": 506,
+    "featureId": 489,
     "population": 47364
   },
   {
@@ -10664,7 +10384,7 @@
       -118.399462,
       47.609032
     ],
-    "featureId": 507,
+    "featureId": 490,
     "population": 10740
   },
   {
@@ -10682,7 +10402,7 @@
       -122.10319799999999,
       47.066154
     ],
-    "featureId": 508,
+    "featureId": 491,
     "population": 891299
   },
   {
@@ -10700,7 +10420,7 @@
       -121.712645,
       48.476543
     ],
-    "featureId": 509,
+    "featureId": 492,
     "population": 128206
   },
   {
@@ -10718,7 +10438,7 @@
       -121.65598399999999,
       48.037258
     ],
-    "featureId": 510,
+    "featureId": 493,
     "population": 814901
   },
   {
@@ -10736,7 +10456,7 @@
       -117.431769,
       47.653568500000006
     ],
-    "featureId": 511,
+    "featureId": 494,
     "population": 514631
   },
   {
@@ -10754,7 +10474,7 @@
       -122.7023935,
       46.9761355
     ],
-    "featureId": 512,
+    "featureId": 495,
     "population": 286419
   },
   {
@@ -10772,7 +10492,7 @@
       -121.884438,
       48.821715499999996
     ],
-    "featureId": 513,
+    "featureId": 496,
     "population": 225685
   },
   {
@@ -10790,7 +10510,7 @@
       -120.69510149999999,
       46.564808
     ],
-    "featureId": 514,
+    "featureId": 497,
     "population": 251446
   },
   {
@@ -10819,7 +10539,7 @@
       45.68986573358319,
       37.87138458300004
     ],
-    "featureId": 515,
+    "featureId": 498,
     "population": 7614893
   },
   {
@@ -10835,7 +10555,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 516,
+    "featureId": 499,
     "population": 883305
   },
   {
@@ -10851,7 +10571,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 517,
+    "featureId": 500,
     "population": 769545
   },
   {
@@ -10867,7 +10587,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 518,
+    "featureId": 501,
     "population": 1666753
   },
   {
@@ -10882,7 +10602,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 519,
+    "featureId": 502,
     "population": 499942
   },
   {
@@ -10897,7 +10617,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 520,
+    "featureId": 503,
     "population": 274255
   },
   {
@@ -10913,7 +10633,7 @@
       -121.70515,
       37.190824000000006
     ],
-    "featureId": 521,
+    "featureId": 504,
     "population": 1937570
   },
   {
@@ -10928,7 +10648,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 522,
+    "featureId": 505,
     "population": 446610
   },
   {
@@ -10944,7 +10664,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 523,
+    "featureId": 506,
     "population": 1150215
   },
   {
@@ -10959,7 +10679,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 524,
+    "featureId": 507,
     "population": 549815
   },
   {
@@ -10974,7 +10694,7 @@
       -121.962515,
       38.619189
     ],
-    "featureId": 525,
+    "featureId": 508,
     "population": 220408
   },
   {
@@ -10990,7 +10710,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 526,
+    "featureId": 509,
     "population": 1540975
   },
   {
@@ -11006,7 +10726,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 527,
+    "featureId": 510,
     "population": 994400
   },
   {
@@ -11021,7 +10741,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 528,
+    "featureId": 511,
     "population": 157672
   },
   {
@@ -11037,7 +10757,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 529,
+    "featureId": 512,
     "population": 393149
   },
   {
@@ -11052,7 +10772,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 530,
+    "featureId": 513,
     "population": 180040
   },
   {
@@ -11068,7 +10788,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 531,
+    "featureId": 514,
     "population": 10105518
   },
   {
@@ -11083,7 +10803,7 @@
       -115.96848299999999,
       34.840230000000005
     ],
-    "featureId": 532,
+    "featureId": 515,
     "population": 2171603
   },
   {
@@ -11098,7 +10818,7 @@
       -121.2534915,
       37.891017500000004
     ],
-    "featureId": 533,
+    "featureId": 516,
     "population": 752660
   },
   {
@@ -11115,7 +10835,7 @@
       -120.649022,
       37.1868725
     ],
-    "featureId": 534,
+    "featureId": 517,
     "population": 274765
   },
   {
@@ -11130,7 +10850,7 @@
       -122.731167,
       38.071675
     ],
-    "featureId": 535,
+    "featureId": 518,
     "population": 259666
   },
   {
@@ -11145,7 +10865,7 @@
       -121.57306299999999,
       39.723763
     ],
-    "featureId": 536,
+    "featureId": 519,
     "population": 231256
   },
   {
@@ -11160,7 +10880,7 @@
       -120.507724,
       38.170645500000006
     ],
-    "featureId": 537,
+    "featureId": 520,
     "population": 45602
   },
   {
@@ -11175,7 +10895,7 @@
       -122.2913685,
       39.169222000000005
     ],
-    "featureId": 538,
+    "featureId": 521,
     "population": 21627
   },
   {
@@ -11191,7 +10911,7 @@
       -123.88695,
       41.6909115
     ],
-    "featureId": 539,
+    "featureId": 522,
     "population": 27828
   },
   {
@@ -11206,7 +10926,7 @@
       -119.8948375,
       36.139044999999996
     ],
-    "featureId": 540,
+    "featureId": 523,
     "population": 151366
   },
   {
@@ -11221,7 +10941,7 @@
       -123.422765,
       39.380249
     ],
-    "featureId": 541,
+    "featureId": 524,
     "population": 87606
   },
   {
@@ -11237,7 +10957,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 542,
+    "featureId": 525,
     "population": 3185968
   },
   {
@@ -11252,7 +10972,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 543,
+    "featureId": 526,
     "population": 2450758
   },
   {
@@ -11268,7 +10988,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 544,
+    "featureId": 527,
     "population": 3343364
   },
   {
@@ -11284,7 +11004,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 545,
+    "featureId": 528,
     "population": 18883
   },
   {
@@ -11300,7 +11020,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 546,
+    "featureId": 529,
     "population": 6980
   },
   {
@@ -11316,7 +11036,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 547,
+    "featureId": 530,
     "population": 9338
   },
   {
@@ -11332,7 +11052,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 548,
+    "featureId": 531,
     "population": 19790
   },
   {
@@ -11348,7 +11068,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 549,
+    "featureId": 532,
     "population": 5546
   },
   {
@@ -11364,7 +11084,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 550,
+    "featureId": 533,
     "population": 192876
   },
   {
@@ -11380,7 +11100,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 551,
+    "featureId": 534,
     "population": 111729
   },
   {
@@ -11416,7 +11136,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 552,
+    "featureId": 535,
     "population": 351713
   },
   {
@@ -11432,7 +11152,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 553,
+    "featureId": 536,
     "population": 1152633
   },
   {
@@ -11448,7 +11168,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 554,
+    "featureId": 537,
     "population": 15449
   },
   {
@@ -11484,7 +11204,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 555,
+    "featureId": 538,
     "population": 41933
   },
   {
@@ -11500,7 +11220,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 556,
+    "featureId": 539,
     "population": 69907
   },
   {
@@ -11526,7 +11246,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 557,
+    "featureId": 540,
     "population": 622213
   },
   {
@@ -11542,7 +11262,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 558,
+    "featureId": 541,
     "population": 33240
   },
   {
@@ -11568,7 +11288,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 559,
+    "featureId": 542,
     "population": 39583
   },
   {
@@ -11584,7 +11304,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 560,
+    "featureId": 543,
     "population": 692587
   },
   {
@@ -11600,7 +11320,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 561,
+    "featureId": 544,
     "population": 364286
   },
   {
@@ -11616,7 +11336,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 562,
+    "featureId": 545,
     "population": 54012
   },
   {
@@ -11632,7 +11352,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 563,
+    "featureId": 546,
     "population": 465289
   },
   {
@@ -11648,7 +11368,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 564,
+    "featureId": 547,
     "population": 324890
   },
   {
@@ -11664,7 +11384,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 565,
+    "featureId": 548,
     "population": 97892
   },
   {
@@ -11680,7 +11400,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 566,
+    "featureId": 549,
     "population": 935764
   },
   {
@@ -11696,7 +11416,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 567,
+    "featureId": 550,
     "population": 157668
   },
   {
@@ -11712,7 +11432,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 568,
+    "featureId": 551,
     "population": 231729
   },
   {
@@ -11728,7 +11448,7 @@
       -73.397813,
       41.3259525
     ],
-    "featureId": 569,
+    "featureId": 552,
     "population": 943823
   },
   {
@@ -11744,7 +11464,7 @@
       -72.71937700000001,
       41.7926935
     ],
-    "featureId": 570,
+    "featureId": 553,
     "population": 892697
   },
   {
@@ -11760,7 +11480,7 @@
       -73.20264900000001,
       41.759701
     ],
-    "featureId": 571,
+    "featureId": 554,
     "population": 181111
   },
   {
@@ -11776,7 +11496,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 572,
+    "featureId": 555,
     "population": 857620
   },
   {
@@ -11793,7 +11513,7 @@
       -121.1202815,
       36.595779
     ],
-    "featureId": 573,
+    "featureId": 556,
     "population": 61537
   },
   {
@@ -11835,7 +11555,7 @@
       -61.49286861849993,
       16.196804103500057
     ],
-    "featureId": 574
+    "featureId": 557
   },
   {
     "state": "Martinique",
@@ -11852,7 +11572,7 @@
       -61.019622362499945,
       14.669175522500069
     ],
-    "featureId": 575
+    "featureId": 558
   },
   {
     "state": "Guyane",
@@ -11881,7 +11601,7 @@
       55.53996829500005,
       -21.115329685499916
     ],
-    "featureId": 576
+    "featureId": 559
   },
   {
     "state": "Mayotte",
@@ -11898,7 +11618,7 @@
       45.150157097500085,
       -12.856052341999913
     ],
-    "featureId": 577
+    "featureId": 560
   },
   {
     "state": "Ile-de-France",
@@ -11987,7 +11707,7 @@
       -1.3420896595558247,
       46.68028475254144
     ],
-    "featureId": 578
+    "featureId": 561
   },
   {
     "state": "Bretagne",
@@ -12004,7 +11724,7 @@
       -2.89110042139734,
       47.83005411656552
     ],
-    "featureId": 579
+    "featureId": 562
   },
   {
     "state": "Nouvelle-Aquitaine",
@@ -12069,7 +11789,7 @@
       9.06503339891242,
       42.42572715736796
     ],
-    "featureId": 580
+    "featureId": 563
   },
   {
     "cases": 6633,
@@ -12096,7 +11816,7 @@
       -5.760709740962795,
       36.52305392954614
     ],
-    "featureId": 581
+    "featureId": 564
   },
   {
     "state": "Aragón",
@@ -12113,7 +11833,7 @@
       -0.08049929380734966,
       42.134828154805525
     ],
-    "featureId": 582
+    "featureId": 565
   },
   {
     "state": "Principado de Asturias",
@@ -12166,7 +11886,7 @@
       -3.991235879578522,
       43.13970978396958
     ],
-    "featureId": 583
+    "featureId": 566
   },
   {
     "state": "Castilla y León",
@@ -12183,7 +11903,7 @@
       -6.152125149456111,
       41.68636903055628
     ],
-    "featureId": 584
+    "featureId": 567
   },
   {
     "state": "Castilla-La Mancha",
@@ -12200,7 +11920,7 @@
       -1.8916374333209092,
       38.724266107394925
     ],
-    "featureId": 585
+    "featureId": 568
   },
   {
     "state": "Cataluña",
@@ -12217,7 +11937,7 @@
       1.0855422223956452,
       42.03562612236923
     ],
-    "featureId": 586
+    "featureId": 569
   },
   {
     "state": "Comunitat Valenciana",
@@ -12246,7 +11966,7 @@
       -6.250120712850645,
       39.75451443774111
     ],
-    "featureId": 587
+    "featureId": 570
   },
   {
     "state": "Galicia",
@@ -12263,7 +11983,7 @@
       -7.54885392701712,
       42.19553303442197
     ],
-    "featureId": 588
+    "featureId": 571
   },
   {
     "state": "Comunidad de Madrid",
@@ -12316,7 +12036,7 @@
       -2.154373327342114,
       43.14304220529398
     ],
-    "featureId": 589
+    "featureId": 572
   },
   {
     "state": "La Rioja",
@@ -12333,7 +12053,7 @@
       -2.4031165223596247,
       42.28492574697563
     ],
-    "featureId": 590
+    "featureId": 573
   },
   {
     "state": "Ceuta",
@@ -12350,7 +12070,7 @@
       -5.345359091499915,
       35.88593067100006
     ],
-    "featureId": 591
+    "featureId": 574
   },
   {
     "state": "Melilla",
@@ -12367,7 +12087,7 @@
       -2.939916344999915,
       35.29882680600007
     ],
-    "featureId": 592
+    "featureId": 575
   },
   {
     "cases": 9191,

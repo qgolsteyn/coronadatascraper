@@ -2,14 +2,19 @@
   "scrape": {
     "numCountries": 143,
     "numStates": 169,
-    "numCounties": 467,
-    "numDuplicates": 10,
-    "numErrors": 11,
+    "numCounties": 449,
+    "numDuplicates": 9,
+    "numErrors": 12,
     "errors": [
       {
         "name": "NC, USA",
         "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
         "err": "TypeError: Cannot read property 'replace' of undefined"
+      },
+      {
+        "name": "CO, USA",
+        "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+        "err": "Error: Invalid data: contains no case data"
       },
       {
         "name": "OR, USA",
@@ -34,7 +39,7 @@
       {
         "name": "Glenn County, CA, USA",
         "url": "https://www.countyofglenn.net/dept/health-human-services/public-health/welcome",
-        "err": "Error: socket hang up"
+        "err": "TypeError: Cannot read property '1' of null"
       },
       {
         "name": "Ventura County, CA, USA",
@@ -64,7 +69,7 @@
     ]
   },
   "findFeatures": {
-    "numFeaturesFound": 735,
+    "numFeaturesFound": 718,
     "missingFeatures": [
       "PHL",
       "NZL",
@@ -109,7 +114,7 @@
     ]
   },
   "findPopulation": {
-    "numLocationsWithPopulation": 597,
+    "numLocationsWithPopulation": 580,
     "missingPopulations": [
       "PHL",
       "NZL",
@@ -244,7 +249,6 @@
       "Wolverhampton, GBR",
       "York, GBR",
       "Total County, MS, USA",
-      "(unassigned), CO, USA",
       "(unassigned), WA, USA",
       "Bear River County, UT, USA",
       "Central Utah County, UT, USA",

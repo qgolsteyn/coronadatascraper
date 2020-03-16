@@ -1242,7 +1242,7 @@
       45.68986573358319,
       37.87138458300004
     ],
-    "featureId": 515,
+    "featureId": 498,
     "population": 7614893,
     "name": "WA, USA"
   },
@@ -1257,7 +1257,7 @@
       10.953043415920217,
       -3.095310059778787
     ],
-    "featureId": 497,
+    "featureId": 480,
     "population": 19453561,
     "name": "NY, USA"
   },
@@ -1306,15 +1306,15 @@
   {
     "country": "USA",
     "state": "CO",
-    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
-    "rating": 0.28125,
+    "rating": 0.65625,
     "type": "list",
     "coordinates": [
       9.174864674246866,
       45.94117645058273
     ],
-    "featureId": 407,
+    "featureId": 210,
     "population": 5758736,
     "name": "CO, USA"
   },
@@ -1330,7 +1330,7 @@
       -3.1370130791734043,
       53.20875990795537
     ],
-    "featureId": 472,
+    "featureId": 455,
     "population": 21477737
   },
   {
@@ -1359,7 +1359,7 @@
       -67.60700517144237,
       -18.613514702841258
     ],
-    "featureId": 210,
+    "featureId": 211,
     "population": 4217737,
     "name": "OR, USA"
   },
@@ -1375,7 +1375,7 @@
       -100.0884705015624,
       31.177528238191037
     ],
-    "featureId": 211,
+    "featureId": 212,
     "population": 28995881,
     "name": "TX, USA"
   },
@@ -1389,7 +1389,7 @@
       46.81172136345015,
       33.07065725892534
     ],
-    "featureId": 212,
+    "featureId": 213,
     "population": 12671821,
     "name": "IL, USA"
   },
@@ -1403,7 +1403,7 @@
       -57.22248977138129,
       -32.0391034891347
     ],
-    "featureId": 213,
+    "featureId": 214,
     "population": 12801989,
     "name": "PA, USA"
   },
@@ -1419,7 +1419,7 @@
       28.787421502350412,
       46.933647162536516
     ],
-    "featureId": 214,
+    "featureId": 215,
     "population": 3155070,
     "name": "IA, USA"
   },
@@ -1434,7 +1434,7 @@
       -70.53651199773051,
       -11.649295559249765
     ],
-    "featureId": 215,
+    "featureId": 216,
     "population": 6045680,
     "name": "MD, USA"
   },
@@ -1449,7 +1449,7 @@
       20.996920403668724,
       -28.844672746443443
     ],
-    "featureId": 216,
+    "featureId": 217,
     "population": 10488084,
     "name": "NC, USA"
   },
@@ -1463,7 +1463,7 @@
       19.585981719498946,
       45.898594465640834
     ],
-    "featureId": 217,
+    "featureId": 218,
     "population": 5148714,
     "name": "SC, USA"
   },
@@ -1477,7 +1477,7 @@
       106.12875657678063,
       11.370549577000084
     ],
-    "featureId": 218,
+    "featureId": 219,
     "population": 6829174,
     "name": "TN, USA"
   },
@@ -1491,7 +1491,7 @@
       16.562298798952522,
       47.69023320653376
     ],
-    "featureId": 219,
+    "featureId": 220,
     "population": 8535519,
     "name": "VA, USA"
   },
@@ -1505,7 +1505,7 @@
       53.78359968700005,
       23.795429430473412
     ],
-    "featureId": 220,
+    "featureId": 221,
     "population": 7278717,
     "name": "AZ, USA"
   },
@@ -1519,7 +1519,7 @@
       44.835279168249,
       43.14869771655038
     ],
-    "featureId": 221,
+    "featureId": 222,
     "population": 6732219,
     "name": "IN, USA"
   },
@@ -1533,7 +1533,7 @@
       -10.19809332590178,
       13.788978577500039
     ],
-    "featureId": 222,
+    "featureId": 223,
     "population": 4467673,
     "name": "KY, USA"
   },
@@ -1547,7 +1547,7 @@
       -77.0145477695639,
       38.899451555326564
     ],
-    "featureId": 380,
+    "featureId": 381,
     "population": 705749,
     "name": "DC, USA"
   },
@@ -1561,7 +1561,7 @@
       21.66318692014022,
       41.01050781662638
     ],
-    "featureId": 223,
+    "featureId": 224,
     "population": 3080156,
     "name": "NV, USA"
   },
@@ -1575,7 +1575,7 @@
       -71.64192281532604,
       44.002575579129676
     ],
-    "featureId": 224,
+    "featureId": 225,
     "population": 1359711,
     "name": "NH, USA"
   },
@@ -1589,7 +1589,7 @@
       -6.933507071014063,
       54.15832285890196
     ],
-    "featureId": 225,
+    "featureId": 226,
     "population": 5639632,
     "name": "MN, USA"
   },
@@ -1603,7 +1603,7 @@
       27.602830536104022,
       -21.0124630734999
     ],
-    "featureId": 226,
+    "featureId": 227,
     "population": 1934408,
     "name": "NE, USA"
   },
@@ -1617,7 +1617,7 @@
       -82.67188114679749,
       40.36645852284252
     ],
-    "featureId": 227,
+    "featureId": 228,
     "population": 11689100,
     "name": "OH, USA"
   },
@@ -1631,7 +1631,7 @@
       101.93572187668923,
       0.7348025577156534
     ],
-    "featureId": 228,
+    "featureId": 229,
     "population": 1059361,
     "name": "RI, USA"
   },
@@ -1645,7 +1645,7 @@
       -6.855844692999938,
       57.796128648000064
     ],
-    "featureId": 229,
+    "featureId": 230,
     "population": 5822434,
     "name": "WI, USA"
   },
@@ -1659,7 +1659,7 @@
       34.05329914828664,
       -10.031169938956474
     ],
-    "featureId": 230,
+    "featureId": 231,
     "population": 3565287,
     "name": "CT, USA"
   },
@@ -1673,7 +1673,7 @@
       45.49839878947134,
       4.370262062444226
     ],
-    "featureId": 231,
+    "featureId": 232,
     "population": 1415872,
     "name": "HI, USA"
   },
@@ -1687,7 +1687,7 @@
       19.49680472116094,
       -18.289010747629185
     ],
-    "featureId": 232,
+    "featureId": 233,
     "population": 3956971,
     "name": "OK, USA"
   },
@@ -1701,7 +1701,7 @@
       79.29053999553955,
       30.085476993671897
     ],
-    "featureId": 233,
+    "featureId": 234,
     "population": 3205958,
     "name": "UT, USA"
   },
@@ -1714,7 +1714,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 234,
+    "featureId": 235,
     "population": 20107509,
     "name": "BFA"
   },
@@ -1727,7 +1727,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 235,
+    "featureId": 236,
     "population": 1000,
     "name": "VAT"
   },
@@ -1740,7 +1740,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 236,
+    "featureId": 237,
     "population": 3068243,
     "name": "MNG"
   },
@@ -1753,7 +1753,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 237,
+    "featureId": 238,
     "population": 3753142,
     "name": "PAN"
   },
@@ -1767,7 +1767,7 @@
       33.45296190966974,
       -13.001272450762997
     ],
-    "featureId": 238,
+    "featureId": 239,
     "population": 2913314,
     "name": "KS, USA"
   },
@@ -1782,7 +1782,7 @@
       106.13383655129704,
       10.715987449983892
     ],
-    "featureId": 471,
+    "featureId": 454,
     "population": 4648794,
     "name": "LA, USA"
   },
@@ -1796,7 +1796,7 @@
       -88.10526448763456,
       13.766638946280324
     ],
-    "featureId": 239,
+    "featureId": 240,
     "population": 6137428,
     "name": "MO, USA"
   },
@@ -1810,7 +1810,7 @@
       25.622240024407574,
       43.2286709521527
     ],
-    "featureId": 240,
+    "featureId": 241,
     "population": 623989,
     "name": "VT, USA"
   },
@@ -1824,7 +1824,7 @@
       11.221986756417863,
       60.053117394710654
     ],
-    "featureId": 241,
+    "featureId": 242,
     "population": 731545,
     "name": "AK, USA"
   },
@@ -1838,7 +1838,7 @@
       94.46749434450007,
       28.008685410239444
     ],
-    "featureId": 242,
+    "featureId": 243,
     "population": 3017804,
     "name": "AR, USA"
   },
@@ -1852,7 +1852,7 @@
       -7.372542280711016,
       9.482044681239529
     ],
-    "featureId": 243,
+    "featureId": 244,
     "population": 973764,
     "name": "DE, USA"
   },
@@ -1866,7 +1866,7 @@
       36.68586180312968,
       35.84422068938329
     ],
-    "featureId": 244,
+    "featureId": 245,
     "population": 1787065,
     "name": "ID, USA"
   },
@@ -1880,7 +1880,7 @@
       10.639019813077255,
       33.07348753200004
     ],
-    "featureId": 245,
+    "featureId": 246,
     "population": 1344212,
     "name": "ME, USA"
   },
@@ -1894,7 +1894,7 @@
       -57.118730231514974,
       -26.9553565436281
     ],
-    "featureId": 246,
+    "featureId": 247,
     "population": 9986857,
     "name": "MI, USA"
   },
@@ -1909,7 +1909,7 @@
       28.88710896780958,
       -20.91221119876881
     ],
-    "featureId": 379,
+    "featureId": 380,
     "population": 2976149,
     "name": "MS, USA"
   },
@@ -1923,7 +1923,7 @@
       16.272058415378368,
       46.7125883042568
     ],
-    "featureId": 247,
+    "featureId": 248,
     "population": 1068778,
     "name": "MT, USA"
   },
@@ -1937,7 +1937,7 @@
       111.62347220837569,
       45.35383134546877
     ],
-    "featureId": 248,
+    "featureId": 249,
     "population": 2096829,
     "name": "NM, USA"
   },
@@ -1951,7 +1951,7 @@
       -100.3019580214955,
       47.46721085597658
     ],
-    "featureId": 249,
+    "featureId": 250,
     "population": 762062,
     "name": "ND, USA"
   },
@@ -1965,7 +1965,7 @@
       68.8897290410001,
       26.13054169295833
     ],
-    "featureId": 250,
+    "featureId": 251,
     "population": 884659,
     "name": "SD, USA"
   },
@@ -1979,7 +1979,7 @@
       -80.1829407161911,
       38.92806805344787
     ],
-    "featureId": 251,
+    "featureId": 252,
     "population": 1792147,
     "name": "WV, USA"
   },
@@ -1993,7 +1993,7 @@
       -107.55199589229656,
       42.999967466625236
     ],
-    "featureId": 252,
+    "featureId": 253,
     "population": 578759,
     "name": "WY, USA"
   },
@@ -2007,7 +2007,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 59170000,
     "name": "Hubei, CHN"
   },
@@ -2020,7 +2020,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 254,
+    "featureId": 255,
     "population": 82021564,
     "name": "IRN"
   },
@@ -2033,7 +2033,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 255,
+    "featureId": 256,
     "population": 51181299,
     "name": "KOR"
   },
@@ -2048,7 +2048,7 @@
     "rating": 0.40625,
     "priority": 1,
     "type": "csv",
-    "featureId": 256,
+    "featureId": 257,
     "population": 67106161,
     "name": "FRA"
   },
@@ -2062,7 +2062,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 257,
+    "featureId": 258,
     "population": 113460000,
     "name": "Guangdong, CHN"
   },
@@ -2076,7 +2076,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 96050000,
     "name": "Henan, CHN"
   },
@@ -2090,7 +2090,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 57370000,
     "name": "Zhejiang, CHN"
   },
@@ -2104,7 +2104,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 68990000,
     "name": "Hunan, CHN"
   },
@@ -2118,7 +2118,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 63240000,
     "name": "Anhui, CHN"
   },
@@ -2132,7 +2132,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 46480000,
     "name": "Jiangxi, CHN"
   },
@@ -2146,7 +2146,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 100470000,
     "name": "Shandong, CHN"
   },
@@ -2160,7 +2160,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 80510000,
     "name": "Jiangsu, CHN"
   },
@@ -2174,7 +2174,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 31020000,
     "name": "Chongqing, CHN"
   },
@@ -2188,7 +2188,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 83410000,
     "name": "Sichuan, CHN"
   },
@@ -2202,7 +2202,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 258,
+    "featureId": 259,
     "population": 37730000,
     "name": "Heilongjiang, CHN"
   },
@@ -2216,7 +2216,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 21540000,
     "name": "Beijing, CHN"
   },
@@ -2230,7 +2230,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 24240000,
     "name": "Shanghai, CHN"
   },
@@ -2244,7 +2244,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 75560000,
     "name": "Hebei, CHN"
   },
@@ -2258,7 +2258,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 39410000,
     "name": "Fujian, CHN"
   },
@@ -2272,7 +2272,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 259,
+    "featureId": 260,
     "population": 49260000,
     "name": "Guangxi, CHN"
   },
@@ -2286,7 +2286,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 38640000,
     "name": "Shaanxi, CHN"
   },
@@ -2300,7 +2300,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 260,
+    "featureId": 261,
     "population": 48300000,
     "name": "Yunnan, CHN"
   },
@@ -2314,7 +2314,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 261,
+    "featureId": 262,
     "population": 9340000,
     "name": "Hainan, CHN"
   },
@@ -2328,7 +2328,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 36000000,
     "name": "Guizhou, CHN"
   },
@@ -2342,7 +2342,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 15600000,
     "name": "Tianjin, CHN"
   },
@@ -2356,7 +2356,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 37180000,
     "name": "Shanxi, CHN"
   },
@@ -2370,7 +2370,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 262,
+    "featureId": 263,
     "population": 26370000,
     "name": "Gansu, CHN"
   },
@@ -2396,7 +2396,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 264,
+    "featureId": 265,
     "population": 43590000,
     "name": "Liaoning, CHN"
   },
@@ -2410,7 +2410,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 265,
+    "featureId": 266,
     "population": 27040000,
     "name": "Jilin, CHN"
   },
@@ -2423,7 +2423,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 266,
+    "featureId": 267,
     "population": 10674723,
     "name": "CZE"
   },
@@ -2437,7 +2437,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 267,
+    "featureId": 268,
     "population": 24870000,
     "name": "Xinjiang, CHN"
   },
@@ -2451,7 +2451,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 248,
+    "featureId": 249,
     "population": 25000034,
     "name": "Inner Mongolia, CHN"
   },
@@ -2465,7 +2465,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 6880000,
     "name": "Ningxia, CHN"
   },
@@ -2478,7 +2478,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 268,
+    "featureId": 269,
     "population": 23508428,
     "name": "TWN"
   },
@@ -2491,7 +2491,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 269,
+    "featureId": 270,
     "population": 96160163,
     "name": "VNM"
   },
@@ -2504,7 +2504,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 270,
+    "featureId": 271,
     "population": 142257519,
     "name": "RUS"
   },
@@ -2518,7 +2518,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 6030000,
     "name": "Qinghai, CHN"
   },
@@ -2532,7 +2532,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 253,
+    "featureId": 254,
     "population": 667400,
     "name": "Macau, CHN"
   },
@@ -2545,7 +2545,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 271,
+    "featureId": 272,
     "population": 3474121,
     "name": "MDA"
   },
@@ -2558,7 +2558,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 272,
+    "featureId": 273,
     "population": 11138234,
     "name": "BOL"
   },
@@ -2572,7 +2572,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 273,
+    "featureId": 274,
     "name": "St Martin, FRA"
   },
   {
@@ -2584,7 +2584,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 274,
+    "featureId": 275,
     "population": 9038741,
     "name": "HND"
   },
@@ -2598,7 +2598,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 275,
+    "featureId": 276,
     "name": "Channel Islands, GBR"
   },
   {
@@ -2611,7 +2611,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 276,
+    "featureId": 277,
     "population": 3440000,
     "name": "Tibet, CHN"
   },
@@ -2624,7 +2624,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 277,
+    "featureId": 278,
     "population": 83301151,
     "name": "COD"
   },
@@ -2637,7 +2637,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 278,
+    "featureId": 279,
     "population": 24184810,
     "name": "CIV"
   },
@@ -2651,7 +2651,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 279,
+    "featureId": 280,
     "population": 9793,
     "name": "Saint Barthelemy, FRA"
   },
@@ -2664,7 +2664,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 280,
+    "featureId": 281,
     "population": 2990561,
     "name": "JAM"
   },
@@ -2688,7 +2688,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 281,
+    "featureId": 282,
     "population": 80845215,
     "name": "TUR"
   },
@@ -2702,7 +2702,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 282,
+    "featureId": 283,
     "population": 32194,
     "name": "Gibraltar, GBR"
   },
@@ -2719,7 +2719,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 505,
+    "featureId": 488,
     "population": 269805,
     "name": "Kitsap County, WA, USA"
   },
@@ -2734,7 +2734,7 @@
     "url": "http://www.solanocounty.com/depts/ph/coronavirus.asp",
     "timeseries": true,
     "rating": 0.375,
-    "featureId": 522,
+    "featureId": 505,
     "population": 446610,
     "name": "Solano County, CA, USA"
   },
@@ -2749,7 +2749,7 @@
     "url": "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx",
     "timeseries": true,
     "rating": 0.375,
-    "featureId": 520,
+    "featureId": 503,
     "population": 274255,
     "name": "Santa Cruz County, CA, USA"
   },
@@ -2944,15 +2944,13 @@
     "state": "CO",
     "country": "USA",
     "coordinates": [
-      -106.645068,
-      39.6373275
+      -106.8287,
+      39.6553
     ],
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 396,
-    "population": 54993,
     "name": "Eagle County, CO, USA"
   },
   {
@@ -2960,15 +2958,13 @@
     "state": "CO",
     "country": "USA",
     "coordinates": [
-      -105.5669625,
-      40.628046999999995
+      -105.5943,
+      40.6956
     ],
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 401,
-    "population": 350518,
     "name": "Larimer County, CO, USA"
   },
   {
@@ -2976,15 +2972,13 @@
     "state": "CO",
     "country": "USA",
     "coordinates": [
-      -104.38034350000001,
-      39.6533655
+      -104.3326,
+      39.6203
     ],
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 391,
-    "population": 651215,
     "name": "Arapahoe County, CO, USA"
   },
   {
@@ -2992,15 +2986,13 @@
     "state": "CO",
     "country": "USA",
     "coordinates": [
-      -106.94099,
-      38.702179
+      -106.9253,
+      38.5458
     ],
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 399,
-    "population": 17246,
     "name": "Gunnison County, CO, USA"
   },
   {
@@ -3355,7 +3347,7 @@
     "url": "https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 530,
+    "featureId": 513,
     "population": 180040,
     "name": "Shasta County, CA, USA"
   },
@@ -3425,7 +3417,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 560,
+    "featureId": 543,
     "population": 692587,
     "name": "Davidson County, TN, USA"
   },
@@ -3454,7 +3446,7 @@
     "url": "https://www.co.fresno.ca.us/departments/public-health/covid-19",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 527,
+    "featureId": 510,
     "population": 994400,
     "name": "Fresno County, CA, USA"
   },
@@ -3530,7 +3522,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 506,
+    "featureId": 489,
     "population": 47364,
     "name": "Kittitas County, WA, USA"
   },
@@ -3600,7 +3592,7 @@
     "url": "https://www.rivcoph.org/coronavirus",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 543,
+    "featureId": 526,
     "population": 2450758,
     "name": "Riverside County, CA, USA"
   },
@@ -3616,7 +3608,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 566,
+    "featureId": 549,
     "population": 935764,
     "name": "Shelby County, TN, USA"
   },
@@ -3645,7 +3637,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 475,
+    "featureId": 458,
     "population": 1481093,
     "name": "Suffolk County, NY, USA"
   },
@@ -3661,7 +3653,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 481,
+    "featureId": 464,
     "population": 178599,
     "name": "Ulster County, NY, USA"
   },
@@ -3742,7 +3734,7 @@
     "url": "http://www.acphd.org/2019-ncov.aspx",
     "timeseries": true,
     "rating": 0.5,
-    "featureId": 518,
+    "featureId": 501,
     "population": 1666753,
     "name": "Alameda County, CA, USA"
   },
@@ -3799,7 +3791,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 476,
+    "featureId": 459,
     "population": 325695,
     "name": "Rockland County, NY, USA"
   },
@@ -3815,7 +3807,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 482,
+    "featureId": 465,
     "population": 230163,
     "name": "Saratoga County, NY, USA"
   },
@@ -3845,7 +3837,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 498,
+    "featureId": 481,
     "population": 481857,
     "name": "Clark County, WA, USA"
   },
@@ -3874,7 +3866,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 552,
+    "featureId": 535,
     "population": 351713,
     "name": "Davis County, UT, USA"
   },
@@ -3883,15 +3875,13 @@
     "state": "CO",
     "country": "USA",
     "coordinates": [
-      -104.5619235,
-      38.824693999999994
+      -104.4723,
+      38.9108
     ],
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 397,
-    "population": 713856,
     "name": "El Paso County, CO, USA"
   },
   {
@@ -3934,7 +3924,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 503,
+    "featureId": 486,
     "population": 31729,
     "name": "Jefferson County, WA, USA"
   },
@@ -3963,7 +3953,7 @@
     "url": "https://www.maderacounty.com/government/public-health/health-updates/corona-virus",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 528,
+    "featureId": 511,
     "population": 157672,
     "name": "Madera County, CA, USA"
   },
@@ -3980,7 +3970,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 508,
+    "featureId": 491,
     "population": 891299,
     "name": "Pierce County, WA, USA"
   },
@@ -4002,15 +3992,13 @@
     "state": "CO",
     "country": "USA",
     "coordinates": [
-      -104.994923,
-      39.34788
+      -104.9389,
+      39.2587
     ],
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 395,
-    "population": 342776,
     "name": "Douglas County, CO, USA"
   },
   {
@@ -4121,7 +4109,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 474,
+    "featureId": 457,
     "population": 1358343,
     "name": "Nassau County, NY, USA"
   },
@@ -4176,7 +4164,7 @@
     "url": "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 525,
+    "featureId": 508,
     "population": 220408,
     "name": "Yolo County, CA, USA"
   },
@@ -4191,7 +4179,7 @@
     "url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 521,
+    "featureId": 504,
     "population": 1937570,
     "name": "Santa Clara County, CA, USA"
   },
@@ -4236,7 +4224,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 500,
+    "featureId": 483,
     "population": 97331,
     "name": "Grant County, WA, USA"
   },
@@ -4266,7 +4254,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 568,
+    "featureId": 551,
     "population": 231729,
     "name": "Williamson County, TN, USA"
   },
@@ -4282,7 +4270,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 496,
+    "featureId": 479,
     "population": 1628701,
     "name": "New York County, NY, USA"
   },
@@ -4318,15 +4306,13 @@
     "state": "CO",
     "country": "USA",
     "coordinates": [
-      -104.855181,
-      39.76426
+      -104.9903,
+      39.7392
     ],
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 394,
-    "population": 716492,
     "name": "Denver County, CO, USA"
   },
   {
@@ -4334,15 +4320,13 @@
     "state": "CO",
     "country": "USA",
     "coordinates": [
-      -106.10532549999999,
-      39.6416725
+      -106.064,
+      39.5912
     ],
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 405,
-    "population": 31007,
     "name": "Summit County, CO, USA"
   },
   {
@@ -4387,7 +4371,7 @@
     "url": "https://www.sfdph.org/dph/alerts/coronavirus.asp",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 516,
+    "featureId": 499,
     "population": 883305,
     "name": "San Francisco County, CA, USA"
   },
@@ -4402,7 +4386,7 @@
     "url": "https://www.coronavirus.cchealth.org/",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 523,
+    "featureId": 506,
     "population": 1150215,
     "name": "Contra Costa County, CA, USA"
   },
@@ -4417,7 +4401,7 @@
     "url": "http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus",
     "timeseries": true,
     "rating": 0.5,
-    "featureId": 542,
+    "featureId": 525,
     "population": 3185968,
     "name": "Orange County, CA, USA"
   },
@@ -4473,7 +4457,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 473,
+    "featureId": 456,
     "population": 967612,
     "name": "Westchester County, NY, USA"
   },
@@ -4515,7 +4499,7 @@
     "url": "https://www.placer.ca.gov/6448/Cases-in-Placer",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 529,
+    "featureId": 512,
     "population": 393149,
     "name": "Placer County, CA, USA"
   },
@@ -4530,7 +4514,7 @@
     "url": "https://www.smchealth.org/coronavirus",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 517,
+    "featureId": 500,
     "population": 769545,
     "name": "San Mateo County, CA, USA"
   },
@@ -4545,7 +4529,7 @@
     "url": "https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 519,
+    "featureId": 502,
     "population": 499942,
     "name": "Sonoma County, CA, USA"
   },
@@ -4603,7 +4587,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 510,
+    "featureId": 493,
     "population": 814901,
     "name": "Snohomish County, WA, USA"
   },
@@ -4631,7 +4615,7 @@
     "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 526,
+    "featureId": 509,
     "population": 1540975,
     "name": "Sacramento County, CA, USA"
   },
@@ -4646,7 +4630,7 @@
     "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html",
     "timeseries": true,
     "rating": 0.53125,
-    "featureId": 544,
+    "featureId": 527,
     "population": 3343364,
     "name": "San Diego County, CA, USA"
   },
@@ -4661,7 +4645,7 @@
     "url": "https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 573,
+    "featureId": 556,
     "population": 61537,
     "name": "San Benito County, CA, USA"
   },
@@ -4676,7 +4660,7 @@
     "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
     "timeseries": true,
     "rating": 0.5,
-    "featureId": 531,
+    "featureId": 514,
     "population": 10105518,
     "name": "Los Angeles County, CA, USA"
   },
@@ -4693,7 +4677,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 504,
+    "featureId": 487,
     "population": 2233163,
     "name": "King County, WA, USA"
   },
@@ -4723,7 +4707,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 509,
+    "featureId": 492,
     "population": 128206,
     "name": "Skagit County, WA, USA"
   },
@@ -4740,7 +4724,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 512,
+    "featureId": 495,
     "population": 286419,
     "name": "Thurston County, WA, USA"
   },
@@ -4757,7 +4741,7 @@
     "rating": 0.5,
     "type": "table",
     "headless": true,
-    "featureId": 513,
+    "featureId": 496,
     "population": 225685,
     "name": "Whatcom County, WA, USA"
   },
@@ -4772,7 +4756,7 @@
     "url": "https://coronavirus.marinhhs.org/surveillance",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 535,
+    "featureId": 518,
     "population": 259666,
     "name": "Marin County, CA, USA"
   },
@@ -4787,7 +4771,7 @@
     "url": "https://covid19.calaverasgov.us/",
     "timeseries": true,
     "rating": 0.40625,
-    "featureId": 537,
+    "featureId": 520,
     "population": 45602,
     "name": "Calaveras County, CA, USA"
   },
@@ -4802,7 +4786,7 @@
     "url": "http://www.schsa.org/PublicHealth/pages/corona-virus/",
     "timeseries": true,
     "rating": 0.375,
-    "featureId": 524,
+    "featureId": 507,
     "population": 549815,
     "name": "Stanislaus County, CA, USA"
   },
@@ -4968,15 +4952,13 @@
     "state": "CO",
     "country": "USA",
     "coordinates": [
-      -105.2238445,
-      39.5219745
+      -105.2663,
+      39.58
     ],
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 400,
-    "population": 580233,
     "name": "Jefferson County, CO, USA"
   },
   {
@@ -5099,7 +5081,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 567,
+    "featureId": 550,
     "population": 157668,
     "name": "Sullivan County, TN, USA"
   },
@@ -5215,7 +5197,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 555,
+    "featureId": 538,
     "population": 41933,
     "name": "Summit County, UT, USA"
   },
@@ -5231,7 +5213,7 @@
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 569,
+    "featureId": 552,
     "population": 943823,
     "name": "Fairfield County, CT, USA"
   },
@@ -5247,7 +5229,7 @@
     "timeseries": true,
     "rating": 0.40625,
     "type": "list",
-    "featureId": 571,
+    "featureId": 554,
     "population": 181111,
     "name": "Litchfield County, CT, USA"
   },
@@ -5276,7 +5258,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 551,
+    "featureId": 534,
     "population": 111729,
     "name": "Pennington County, SD, USA"
   },
@@ -5292,7 +5274,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 545,
+    "featureId": 528,
     "population": 18883,
     "name": "Beadle County, SD, USA"
   },
@@ -5308,7 +5290,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 547,
+    "featureId": 530,
     "population": 9338,
     "name": "Charles Mix County, SD, USA"
   },
@@ -5324,7 +5306,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 548,
+    "featureId": 531,
     "population": 19790,
     "name": "Davison County, SD, USA"
   },
@@ -5340,7 +5322,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 550,
+    "featureId": 533,
     "population": 192876,
     "name": "Minnehaha County, SD, USA"
   },
@@ -5356,7 +5338,7 @@
     "timeseries": true,
     "rating": 0.4375,
     "type": "table",
-    "featureId": 546,
+    "featureId": 529,
     "population": 6980,
     "name": "Bon Homme County, SD, USA"
   },
@@ -5436,7 +5418,7 @@
       13.744413115262155,
       42.66082319813205
     ],
-    "featureId": 318,
+    "featureId": 319,
     "population": 1311580,
     "name": "Abruzzo, ITA"
   },
@@ -5451,7 +5433,7 @@
       16.459736550651286,
       40.44653860227464
     ],
-    "featureId": 319,
+    "featureId": 320,
     "population": 562869,
     "name": "Basilicata, ITA"
   },
@@ -5466,7 +5448,7 @@
       11.419398570635366,
       46.65500433907897
     ],
-    "featureId": 320,
+    "featureId": 321,
     "name": "Trentino-South Tyrol, ITA"
   },
   {
@@ -5480,7 +5462,7 @@
       16.382504226901737,
       39.5898477544993
     ],
-    "featureId": 321,
+    "featureId": 322,
     "population": 1947131,
     "name": "Calabria, ITA"
   },
@@ -5495,7 +5477,7 @@
       15.128396085031028,
       40.42080761596819
     ],
-    "featureId": 322,
+    "featureId": 323,
     "population": 5801692,
     "name": "Campania, ITA"
   },
@@ -5510,7 +5492,7 @@
       12.428037128200344,
       43.962721009377134
     ],
-    "featureId": 323,
+    "featureId": 324,
     "name": "Emilia-Romagna, ITA"
   },
   {
@@ -5534,7 +5516,7 @@
       13.23770878768039,
       41.46857342788178
     ],
-    "featureId": 324,
+    "featureId": 325,
     "population": 5879082,
     "name": "Lazio, ITA"
   },
@@ -5549,7 +5531,7 @@
       7.804047252883208,
       43.9624361855808
     ],
-    "featureId": 325,
+    "featureId": 326,
     "population": 1550640,
     "name": "Liguria, ITA"
   },
@@ -5564,7 +5546,7 @@
       8.81203281436288,
       45.83250851330723
     ],
-    "featureId": 326,
+    "featureId": 327,
     "population": 10060574,
     "name": "Lombardia, ITA"
   },
@@ -5579,7 +5561,7 @@
       12.68651335143364,
       43.70137131236979
     ],
-    "featureId": 327,
+    "featureId": 328,
     "population": 1525271,
     "name": "Marche, ITA"
   },
@@ -5594,7 +5576,7 @@
       14.763117463999748,
       41.72552939473218
     ],
-    "featureId": 328,
+    "featureId": 329,
     "population": 305617,
     "name": "Molise, ITA"
   },
@@ -5609,7 +5591,7 @@
       8.289296916581662,
       46.11130799127415
     ],
-    "featureId": 329,
+    "featureId": 330,
     "population": 4356406,
     "name": "Piemonte, ITA"
   },
@@ -5634,7 +5616,7 @@
       8.61039424380536,
       39.217166975181996
     ],
-    "featureId": 330,
+    "featureId": 331,
     "population": 1639591,
     "name": "Sardegna, ITA"
   },
@@ -5659,7 +5641,7 @@
       11.25647373115611,
       42.775460274884864
     ],
-    "featureId": 331,
+    "featureId": 332,
     "population": 3729641,
     "name": "Toscana, ITA"
   },
@@ -5674,7 +5656,7 @@
       11.214905976229801,
       46.10760284849263
     ],
-    "featureId": 332,
+    "featureId": 333,
     "population": 1072276,
     "name": "Trento, ITA"
   },
@@ -5689,7 +5671,7 @@
       12.3954968414061,
       42.65399553886303
     ],
-    "featureId": 333,
+    "featureId": 334,
     "population": 882015,
     "name": "Umbria, ITA"
   },
@@ -5704,7 +5686,7 @@
       7.35008091679296,
       45.72520261050006
     ],
-    "featureId": 334,
+    "featureId": 335,
     "population": 125666,
     "name": "Valle d'Aosta, ITA"
   },
@@ -5719,7 +5701,7 @@
       12.220946053117842,
       46.27818462507037
     ],
-    "featureId": 335,
+    "featureId": 336,
     "population": 4905854,
     "name": "Veneto, ITA"
   },
@@ -5734,7 +5716,7 @@
       7.613648922522586,
       46.268055118643254
     ],
-    "featureId": 317,
+    "featureId": 318,
     "name": "Zurich, CHE"
   },
   {
@@ -5769,7 +5751,7 @@
       -61.49286861849993,
       16.196804103500057
     ],
-    "featureId": 574,
+    "featureId": 557,
     "name": "Guadeloupe, FRA"
   },
   {
@@ -5784,7 +5766,7 @@
       -61.019622362499945,
       14.669175522500069
     ],
-    "featureId": 575,
+    "featureId": 558,
     "name": "Martinique, FRA"
   },
   {
@@ -5809,7 +5791,7 @@
       55.53996829500005,
       -21.115329685499916
     ],
-    "featureId": 576,
+    "featureId": 559,
     "name": "La Réunion, FRA"
   },
   {
@@ -5824,7 +5806,7 @@
       45.150157097500085,
       -12.856052341999913
     ],
-    "featureId": 577,
+    "featureId": 560,
     "name": "Mayotte, FRA"
   },
   {
@@ -5899,7 +5881,7 @@
       -1.3420896595558247,
       46.68028475254144
     ],
-    "featureId": 578,
+    "featureId": 561,
     "name": "Pays de la Loire, FRA"
   },
   {
@@ -5914,7 +5896,7 @@
       -2.89110042139734,
       47.83005411656552
     ],
-    "featureId": 579,
+    "featureId": 562,
     "name": "Bretagne, FRA"
   },
   {
@@ -5969,7 +5951,7 @@
       9.06503339891242,
       42.42572715736796
     ],
-    "featureId": 580,
+    "featureId": 563,
     "name": "Corse, FRA"
   },
   {
@@ -5981,7 +5963,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 283,
+    "featureId": 284,
     "population": 11147407,
     "name": "CUB"
   },
@@ -5994,7 +5976,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 284,
+    "featureId": 285,
     "population": 737718,
     "name": "GUY"
   },
@@ -6021,7 +6003,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 285,
+    "featureId": 286,
     "population": 64769452,
     "name": "GBR"
   },
@@ -6034,7 +6016,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 286,
+    "featureId": 287,
     "population": 18556698,
     "name": "KAZ"
   },
@@ -6059,7 +6041,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 287,
+    "featureId": 288,
     "population": 58441,
     "name": "CYM"
   },
@@ -6083,7 +6065,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 288,
+    "featureId": 289,
     "population": 105350020,
     "name": "ETH"
   },
@@ -6096,7 +6078,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 289,
+    "featureId": 290,
     "population": 37345935,
     "name": "SDN"
   },
@@ -6109,7 +6091,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 290,
+    "featureId": 291,
     "population": 12413867,
     "name": "GIN"
   },
@@ -6122,7 +6104,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 291,
+    "featureId": 292,
     "population": 115120,
     "name": "ABW"
   },
@@ -6135,7 +6117,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 292,
+    "featureId": 293,
     "population": 47615739,
     "name": "KEN"
   },
@@ -6148,7 +6130,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 293,
+    "featureId": 294,
     "population": 94731,
     "name": "ATG"
   },
@@ -6163,7 +6145,7 @@
       -84.7976370213814,
       10.447463789112518
     ],
-    "featureId": 389,
+    "featureId": 390,
     "population": 4903185,
     "name": "AL, USA"
   },
@@ -6176,7 +6158,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 294,
+    "featureId": 295,
     "population": 3360148,
     "name": "URY"
   },
@@ -6189,7 +6171,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 295,
+    "featureId": 296,
     "population": 27499924,
     "name": "GHA"
   },
@@ -6203,7 +6185,7 @@
       24.422173129022518,
       58.30971624953123
     ],
-    "featureId": 296,
+    "featureId": 297,
     "population": 3193694,
     "name": "PR, USA"
   },
@@ -6216,7 +6198,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 297,
+    "featureId": 298,
     "population": 98840,
     "name": "JEY"
   },
@@ -6229,7 +6211,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 298,
+    "featureId": 299,
     "population": 2484780,
     "name": "NAM"
   },
@@ -6242,7 +6224,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 299,
+    "featureId": 300,
     "population": 93920,
     "name": "SYC"
   },
@@ -6255,7 +6237,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 300,
+    "featureId": 301,
     "population": 1218208,
     "name": "TTO"
   },
@@ -6268,7 +6250,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 301,
+    "featureId": 302,
     "population": 31304016,
     "name": "VEN"
   },
@@ -6281,7 +6263,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 302,
+    "featureId": 303,
     "population": 149648,
     "name": "CUW"
   },
@@ -6294,7 +6276,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 303,
+    "featureId": 304,
     "population": 1467152,
     "name": "SWZ"
   },
@@ -6307,7 +6289,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 304,
+    "featureId": 305,
     "population": 1772255,
     "name": "GAB"
   },
@@ -6320,7 +6302,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 305,
+    "featureId": 306,
     "population": 15460732,
     "name": "GTM"
   },
@@ -6333,7 +6315,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 306,
+    "featureId": 307,
     "population": 66502,
     "name": "GGY"
   },
@@ -6346,7 +6328,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 307,
+    "featureId": 308,
     "population": 19245344,
     "name": "MRT"
   },
@@ -6359,7 +6341,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 308,
+    "featureId": 309,
     "population": 11901484,
     "name": "RWA"
   },
@@ -6372,7 +6354,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 309,
+    "featureId": 310,
     "population": 164994,
     "name": "LCA"
   },
@@ -6396,7 +6378,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 310,
+    "featureId": 311,
     "population": 591919,
     "name": "SUR"
   },
@@ -6409,7 +6391,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 311,
+    "featureId": 312,
     "population": 4543126,
     "name": "PSR"
   },
@@ -6423,7 +6405,7 @@
       -74.81395931680615,
       20.219303647966534
     ],
-    "featureId": 312,
+    "featureId": 313,
     "name": "GU, USA"
   },
   {
@@ -6435,7 +6417,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 313,
+    "featureId": 314,
     "population": 1895250,
     "name": "KOS"
   },
@@ -6448,7 +6430,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 314,
+    "featureId": 315,
     "population": 5625118,
     "name": "CAF"
   },
@@ -6461,7 +6443,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 277,
+    "featureId": 278,
     "population": 83301151,
     "name": "COG"
   },
@@ -6474,7 +6456,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 315,
+    "featureId": 316,
     "population": 778358,
     "name": "GNQ"
   },
@@ -6487,7 +6469,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 316,
+    "featureId": 317,
     "population": 29748859,
     "name": "UZB"
   },
@@ -6502,7 +6484,7 @@
       -90.50821049999999,
       29.4895455
     ],
-    "featureId": 410,
+    "featureId": 393,
     "population": 98115,
     "name": "Lafourche Parish, LA, USA"
   },
@@ -6517,7 +6499,7 @@
       -90.114832,
       29.696731
     ],
-    "featureId": 470,
+    "featureId": 453,
     "population": 434051,
     "name": "Jefferson Parish, LA, USA"
   },
@@ -6532,7 +6514,7 @@
       -89.88147699999999,
       30.033868
     ],
-    "featureId": 411,
+    "featureId": 394,
     "population": 391006,
     "name": "Orleans Parish, LA, USA"
   },
@@ -9082,7 +9064,7 @@
       -86.13298,
       32.5876855
     ],
-    "featureId": 382,
+    "featureId": 383,
     "population": 81887,
     "name": "Elmore County, AL, USA"
   },
@@ -9097,7 +9079,7 @@
       -86.92924049999999,
       33.544622000000004
     ],
-    "featureId": 384,
+    "featureId": 385,
     "population": 659300,
     "name": "Jefferson County, AL, USA"
   },
@@ -9112,7 +9094,7 @@
       -87.030965,
       34.774907
     ],
-    "featureId": 385,
+    "featureId": 386,
     "population": 96174,
     "name": "Limestone County, AL, USA"
   },
@@ -9127,7 +9109,7 @@
       -86.2080335,
       32.2330785
     ],
-    "featureId": 386,
+    "featureId": 387,
     "population": 225763,
     "name": "Montgomery County, AL, USA"
   },
@@ -9142,7 +9124,7 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 388,
+    "featureId": 389,
     "population": 208911,
     "name": "Tuscaloosa County, AL, USA"
   },
@@ -9175,7 +9157,7 @@
       -89.4145595,
       29.8500655
     ],
-    "featureId": 468,
+    "featureId": 451,
     "population": 46721,
     "name": "St. Bernard Parish, LA, USA"
   },
@@ -9190,7 +9172,7 @@
       -90.3585315,
       29.961458
     ],
-    "featureId": 416,
+    "featureId": 399,
     "population": 52879,
     "name": "St. Charles Parish, LA, USA"
   },
@@ -9205,7 +9187,7 @@
       -89.891049,
       30.43073
     ],
-    "featureId": 414,
+    "featureId": 397,
     "population": 258111,
     "name": "St. Tammany Parish, LA, USA"
   },
@@ -9220,7 +9202,7 @@
       -90.8557755,
       29.406244
     ],
-    "featureId": 469,
+    "featureId": 452,
     "population": 111021,
     "name": "Terrebonne Parish, LA, USA"
   },
@@ -9355,7 +9337,7 @@
       -74.354217,
       41.3878105
     ],
-    "featureId": 478,
+    "featureId": 461,
     "population": 381951,
     "name": "Orange County, NY, USA"
   },
@@ -9370,7 +9352,7 @@
       -73.9708125,
       42.613902
     ],
-    "featureId": 477,
+    "featureId": 460,
     "population": 307117,
     "name": "Albany County, NY, USA"
   },
@@ -9385,7 +9367,7 @@
       -77.684384,
       43.154810499999996
     ],
-    "featureId": 480,
+    "featureId": 463,
     "population": 742474,
     "name": "Monroe County, NY, USA"
   },
@@ -9400,7 +9382,7 @@
       -73.74371099999999,
       41.7599055
     ],
-    "featureId": 479,
+    "featureId": 462,
     "population": 293718,
     "name": "Dutchess County, NY, USA"
   },
@@ -9415,7 +9397,7 @@
       -74.92498599999999,
       42.183063
     ],
-    "featureId": 489,
+    "featureId": 472,
     "population": 44527,
     "name": "Delaware County, NY, USA"
   },
@@ -9430,7 +9412,7 @@
       -74.957551,
       43.460950999999994
     ],
-    "featureId": 490,
+    "featureId": 473,
     "population": 61833,
     "name": "Herkimer County, NY, USA"
   },
@@ -9445,7 +9427,7 @@
       -75.74488,
       42.206783
     ],
-    "featureId": 488,
+    "featureId": 471,
     "population": 191659,
     "name": "Broome County, NY, USA"
   },
@@ -9461,7 +9443,7 @@
       -117.92289099999999,
       46.3118295
     ],
-    "featureId": 499,
+    "featureId": 482,
     "population": 4059,
     "name": "Columbia County, WA, USA"
   },
@@ -9477,7 +9459,7 @@
       -123.756045,
       47.162482
     ],
-    "featureId": 501,
+    "featureId": 484,
     "population": 73901,
     "name": "Grays Harbor County, WA, USA"
   },
@@ -9493,7 +9475,7 @@
       -122.559821,
       48.157794
     ],
-    "featureId": 502,
+    "featureId": 485,
     "population": 84460,
     "name": "Island County, WA, USA"
   },
@@ -9509,7 +9491,7 @@
       -120.69510149999999,
       46.564808
     ],
-    "featureId": 514,
+    "featureId": 497,
     "population": 251446,
     "name": "Yakima County, WA, USA"
   },
@@ -9548,7 +9530,7 @@
       -87.69793150000001,
       30.765086
     ],
-    "featureId": 381,
+    "featureId": 382,
     "population": 218022,
     "name": "Baldwin County, AL, USA"
   },
@@ -9559,12 +9541,6 @@
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "type": "list",
     "rating": 0.40625,
-    "coordinates": [
-      -104.3794855,
-      39.87063
-    ],
-    "featureId": 390,
-    "population": 511868,
     "name": "Adams County, CO, USA"
   },
   {
@@ -9574,12 +9550,6 @@
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "type": "list",
     "rating": 0.40625,
-    "coordinates": [
-      -108.21971400000001,
-      38.933332
-    ],
-    "featureId": 402,
-    "population": 153207,
     "name": "Mesa County, CO, USA"
   },
   {
@@ -9589,12 +9559,6 @@
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "type": "list",
     "rating": 0.40625,
-    "coordinates": [
-      -106.946222,
-      39.171949
-    ],
-    "featureId": 403,
-    "population": 17950,
     "name": "Pitkin County, CO, USA"
   },
   {
@@ -9604,12 +9568,6 @@
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "type": "list",
     "rating": 0.40625,
-    "coordinates": [
-      -104.5522995,
-      38.1285485
-    ],
-    "featureId": 404,
-    "population": 167529,
     "name": "Pueblo County, CO, USA"
   },
   {
@@ -9619,12 +9577,6 @@
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "type": "list",
     "rating": 0.40625,
-    "coordinates": [
-      -104.315327,
-      40.5011525
-    ],
-    "featureId": 406,
-    "population": 314305,
     "name": "Weld County, CO, USA"
   },
   {
@@ -9638,7 +9590,7 @@
       -93.699102,
       32.0948115
     ],
-    "featureId": 408,
+    "featureId": 391,
     "population": 27436,
     "name": "De Soto Parish, LA, USA"
   },
@@ -9653,7 +9605,7 @@
       -90.4833525,
       30.0930385
     ],
-    "featureId": 409,
+    "featureId": 392,
     "population": 43184,
     "name": "St. John the Baptist Parish, LA, USA"
   },
@@ -9668,7 +9620,7 @@
       -93.557699,
       31.505406999999998
     ],
-    "featureId": 412,
+    "featureId": 395,
     "population": 24032,
     "name": "Sabine Parish, LA, USA"
   },
@@ -9683,7 +9635,7 @@
       -90.405269,
       30.612403
     ],
-    "featureId": 413,
+    "featureId": 396,
     "population": 133777,
     "name": "Tangipahoa Parish, LA, USA"
   },
@@ -9698,7 +9650,7 @@
       -90.696248,
       30.412879
     ],
-    "featureId": 415,
+    "featureId": 398,
     "population": 139567,
     "name": "Livingston Parish, LA, USA"
   },
@@ -9713,7 +9665,7 @@
       -93.326522,
       30.2639165
     ],
-    "featureId": 417,
+    "featureId": 400,
     "population": 203112,
     "name": "Calcasieu Parish, LA, USA"
   },
@@ -9728,7 +9680,7 @@
       -92.394117,
       32.7976865
     ],
-    "featureId": 418,
+    "featureId": 401,
     "population": 22330,
     "name": "Union Parish, LA, USA"
   },
@@ -9743,7 +9695,7 @@
       -92.09278499999999,
       32.102264500000004
     ],
-    "featureId": 419,
+    "featureId": 402,
     "population": 9960,
     "name": "Caldwell Parish, LA, USA"
   },
@@ -9758,7 +9710,7 @@
       -91.3045835,
       31.991290499999998
     ],
-    "featureId": 420,
+    "featureId": 403,
     "population": 4462,
     "name": "Tensas Parish, LA, USA"
   },
@@ -9773,7 +9725,7 @@
       -92.56701000000001,
       32.3212645
     ],
-    "featureId": 421,
+    "featureId": 404,
     "population": 15902,
     "name": "Jackson Parish, LA, USA"
   },
@@ -9788,7 +9740,7 @@
       -92.58483,
       31.5926135
     ],
-    "featureId": 422,
+    "featureId": 405,
     "population": 22482,
     "name": "Grant Parish, LA, USA"
   },
@@ -9803,7 +9755,7 @@
       -92.64820449999999,
       32.606269499999996
     ],
-    "featureId": 423,
+    "featureId": 406,
     "population": 47196,
     "name": "Lincoln Parish, LA, USA"
   },
@@ -9818,7 +9770,7 @@
       -92.857122,
       30.2628035
     ],
-    "featureId": 424,
+    "featureId": 407,
     "population": 31582,
     "name": "Jefferson Davis Parish, LA, USA"
   },
@@ -9833,7 +9785,7 @@
       -92.0951095,
       30.2075775
     ],
-    "featureId": 425,
+    "featureId": 408,
     "population": 242782,
     "name": "Lafayette Parish, LA, USA"
   },
@@ -9848,7 +9800,7 @@
       -91.2303025,
       32.7714455
     ],
-    "featureId": 426,
+    "featureId": 409,
     "population": 7037,
     "name": "East Carroll Parish, LA, USA"
   },
@@ -9863,7 +9815,7 @@
       -91.0732675,
       30.824589
     ],
-    "featureId": 427,
+    "featureId": 410,
     "population": 19305,
     "name": "East Feliciana Parish, LA, USA"
   },
@@ -9878,7 +9830,7 @@
       -91.3600815,
       30.2613845
     ],
-    "featureId": 428,
+    "featureId": 411,
     "population": 32721,
     "name": "Iberville Parish, LA, USA"
   },
@@ -9893,7 +9845,7 @@
       -91.732693,
       32.409445500000004
     ],
-    "featureId": 429,
+    "featureId": 412,
     "population": 20192,
     "name": "Richland Parish, LA, USA"
   },
@@ -9908,7 +9860,7 @@
       -91.53909150000001,
       30.09857
     ],
-    "featureId": 430,
+    "featureId": 413,
     "population": 53621,
     "name": "St. Martin Parish, LA, USA"
   },
@@ -9923,7 +9875,7 @@
       -92.981675,
       32.8016545
     ],
-    "featureId": 431,
+    "featureId": 414,
     "population": 15944,
     "name": "Claiborne Parish, LA, USA"
   },
@@ -9938,7 +9890,7 @@
       -92.08607749999999,
       30.573712
     ],
-    "featureId": 432,
+    "featureId": 415,
     "population": 82764,
     "name": "St. Landry Parish, LA, USA"
   },
@@ -9953,7 +9905,7 @@
       -91.5623665,
       30.750701999999997
     ],
-    "featureId": 433,
+    "featureId": 416,
     "population": 21940,
     "name": "Pointe Coupee Parish, LA, USA"
   },
@@ -9978,7 +9930,7 @@
       -93.3384255,
       32.7143435
     ],
-    "featureId": 434,
+    "featureId": 417,
     "population": 38798,
     "name": "Webster Parish, LA, USA"
   },
@@ -9993,7 +9945,7 @@
       -90.8028455,
       30.027838
     ],
-    "featureId": 435,
+    "featureId": 418,
     "population": 21037,
     "name": "St. James Parish, LA, USA"
   },
@@ -10008,7 +9960,7 @@
       -91.76029249999999,
       32.7570325
     ],
-    "featureId": 436,
+    "featureId": 419,
     "population": 25398,
     "name": "Morehouse Parish, LA, USA"
   },
@@ -10023,7 +9975,7 @@
       -92.5286315,
       31.203797
     ],
-    "featureId": 437,
+    "featureId": 420,
     "population": 130562,
     "name": "Rapides Parish, LA, USA"
   },
@@ -10038,7 +9990,7 @@
       -91.97901999999999,
       31.095483
     ],
-    "featureId": 438,
+    "featureId": 421,
     "population": 40462,
     "name": "Avoyelles Parish, LA, USA"
   },
@@ -10053,7 +10005,7 @@
       -92.64287350000001,
       31.928432
     ],
-    "featureId": 439,
+    "featureId": 422,
     "population": 14134,
     "name": "Winn Parish, LA, USA"
   },
@@ -10068,7 +10020,7 @@
       -91.776279,
       31.5993165
     ],
-    "featureId": 440,
+    "featureId": 423,
     "population": 9608,
     "name": "Catahoula Parish, LA, USA"
   },
@@ -10083,7 +10035,7 @@
       -91.0722915,
       29.8539995
     ],
-    "featureId": 441,
+    "featureId": 424,
     "population": 22300,
     "name": "Assumption Parish, LA, USA"
   },
@@ -10098,7 +10050,7 @@
       -93.757198,
       32.6074585
     ],
-    "featureId": 442,
+    "featureId": 425,
     "population": 242922,
     "name": "Caddo Parish, LA, USA"
   },
@@ -10113,7 +10065,7 @@
       -90.03715650000001,
       30.835068999999997
     ],
-    "featureId": 443,
+    "featureId": 426,
     "population": 46582,
     "name": "Washington Parish, LA, USA"
   },
@@ -10128,7 +10080,7 @@
       -91.0821615,
       30.516002
     ],
-    "featureId": 444,
+    "featureId": 427,
     "population": 440956,
     "name": "East Baton Rouge Parish, LA, USA"
   },
@@ -10143,7 +10095,7 @@
       -93.080363,
       31.747528000000003
     ],
-    "featureId": 445,
+    "featureId": 428,
     "population": 38659,
     "name": "Natchitoches Parish, LA, USA"
   },
@@ -10158,7 +10110,7 @@
       -93.10068150000001,
       32.366091999999995
     ],
-    "featureId": 446,
+    "featureId": 429,
     "population": 13308,
     "name": "Bienville Parish, LA, USA"
   },
@@ -10173,7 +10125,7 @@
       -93.5978795,
       32.627677000000006
     ],
-    "featureId": 447,
+    "featureId": 430,
     "population": 127185,
     "name": "Bossier Parish, LA, USA"
   },
@@ -10188,7 +10140,7 @@
       -92.856948,
       30.661153
     ],
-    "featureId": 448,
+    "featureId": 431,
     "population": 25605,
     "name": "Allen Parish, LA, USA"
   },
@@ -10203,7 +10155,7 @@
       -92.159829,
       32.4907775
     ],
-    "featureId": 449,
+    "featureId": 432,
     "population": 154475,
     "name": "Ouachita Parish, LA, USA"
   },
@@ -10218,7 +10170,7 @@
       -90.738279,
       30.824559
     ],
-    "featureId": 450,
+    "featureId": 433,
     "population": 10262,
     "name": "St. Helena Parish, LA, USA"
   },
@@ -10233,7 +10185,7 @@
       -91.46312950000001,
       30.8493775
     ],
-    "featureId": 451,
+    "featureId": 434,
     "population": 15460,
     "name": "West Feliciana Parish, LA, USA"
   },
@@ -10248,7 +10200,7 @@
       -91.45007849999999,
       32.7940275
     ],
-    "featureId": 452,
+    "featureId": 435,
     "population": 10982,
     "name": "West Carroll Parish, LA, USA"
   },
@@ -10263,7 +10215,7 @@
       -91.622707,
       31.366113
     ],
-    "featureId": 453,
+    "featureId": 436,
     "population": 19572,
     "name": "Concordia Parish, LA, USA"
   },
@@ -10278,7 +10230,7 @@
       -91.313597,
       30.490574000000002
     ],
-    "featureId": 454,
+    "featureId": 437,
     "population": 26427,
     "name": "West Baton Rouge Parish, LA, USA"
   },
@@ -10293,7 +10245,7 @@
       -91.216415,
       32.341573
     ],
-    "featureId": 455,
+    "featureId": 438,
     "population": 11161,
     "name": "Madison Parish, LA, USA"
   },
@@ -10308,7 +10260,7 @@
       -90.869644,
       30.204696499999997
     ],
-    "featureId": 456,
+    "featureId": 439,
     "population": 124672,
     "name": "Ascension Parish, LA, USA"
   },
@@ -10323,7 +10275,7 @@
       -92.38683499999999,
       30.2652335
     ],
-    "featureId": 457,
+    "featureId": 440,
     "population": 62190,
     "name": "Acadia Parish, LA, USA"
   },
@@ -10338,7 +10290,7 @@
       -93.35856949999999,
       30.6430015
     ],
-    "featureId": 458,
+    "featureId": 441,
     "population": 37253,
     "name": "Beauregard Parish, LA, USA"
   },
@@ -10353,7 +10305,7 @@
       -91.6867355,
       32.1420035
     ],
-    "featureId": 459,
+    "featureId": 442,
     "population": 20156,
     "name": "Franklin Parish, LA, USA"
   },
@@ -10368,7 +10320,7 @@
       -92.40312349999999,
       30.7409765
     ],
-    "featureId": 460,
+    "featureId": 443,
     "population": 33443,
     "name": "Evangeline Parish, LA, USA"
   },
@@ -10383,7 +10335,7 @@
       -93.19772900000001,
       31.1119345
     ],
-    "featureId": 461,
+    "featureId": 444,
     "population": 48860,
     "name": "Vernon Parish, LA, USA"
   },
@@ -10398,7 +10350,7 @@
       -93.367939,
       32.062484
     ],
-    "featureId": 462,
+    "featureId": 445,
     "population": 8477,
     "name": "Red River Parish, LA, USA"
   },
@@ -10413,7 +10365,7 @@
       -92.351531,
       29.8402345
     ],
-    "featureId": 463,
+    "featureId": 446,
     "population": 59830,
     "name": "Vermilion Parish, LA, USA"
   },
@@ -10428,7 +10380,7 @@
       -89.5381785,
       29.4150075
     ],
-    "featureId": 464,
+    "featureId": 447,
     "population": 23410,
     "name": "Plaquemines Parish, LA, USA"
   },
@@ -10443,7 +10395,7 @@
       -91.48180049999999,
       29.7141755
     ],
-    "featureId": 465,
+    "featureId": 448,
     "population": 49774,
     "name": "St. Mary Parish, LA, USA"
   },
@@ -10458,7 +10410,7 @@
       -93.27240900000001,
       29.8158395
     ],
-    "featureId": 466,
+    "featureId": 449,
     "population": 6968,
     "name": "Cameron Parish, LA, USA"
   },
@@ -10473,7 +10425,7 @@
       -91.632762,
       29.7982045
     ],
-    "featureId": 467,
+    "featureId": 450,
     "population": 70941,
     "name": "Iberia Parish, LA, USA"
   },
@@ -10576,7 +10528,7 @@
       -78.79997900000001,
       42.768297000000004
     ],
-    "featureId": 483,
+    "featureId": 466,
     "population": 919719,
     "name": "Erie County, NY, USA"
   },
@@ -10591,7 +10543,7 @@
       -74.0573495,
       42.834184
     ],
-    "featureId": 484,
+    "featureId": 467,
     "population": 155350,
     "name": "Schenectady County, NY, USA"
   },
@@ -10606,7 +10558,7 @@
       -76.322135,
       42.2043415
     ],
-    "featureId": 491,
+    "featureId": 474,
     "population": 48560,
     "name": "Tioga County, NY, USA"
   },
@@ -10621,7 +10573,7 @@
       -76.4683765,
       42.445197500000006
     ],
-    "featureId": 492,
+    "featureId": 475,
     "population": 102793,
     "name": "Tompkins County, NY, USA"
   },
@@ -10637,7 +10589,7 @@
       -117.431769,
       47.653568500000006
     ],
-    "featureId": 511,
+    "featureId": 494,
     "population": 514631,
     "name": "Spokane County, WA, USA"
   },
@@ -10706,7 +10658,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 549,
+    "featureId": 532,
     "population": 5546,
     "name": "McCook County, SD, USA"
   },
@@ -10739,7 +10691,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 553,
+    "featureId": 536,
     "population": 1152633,
     "name": "Salt Lake County, UT, USA"
   },
@@ -10754,7 +10706,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 554,
+    "featureId": 537,
     "population": 15449,
     "name": "San Juan County, UT, USA"
   },
@@ -10787,7 +10739,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 556,
+    "featureId": 539,
     "population": 69907,
     "name": "Tooele County, UT, USA"
   },
@@ -10811,7 +10763,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 557,
+    "featureId": 540,
     "population": 622213,
     "name": "Utah County, UT, USA"
   },
@@ -10826,7 +10778,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 558,
+    "featureId": 541,
     "population": 33240,
     "name": "Wasatch County, UT, USA"
   },
@@ -10904,7 +10856,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 559,
+    "featureId": 542,
     "population": 39583,
     "name": "Campbell County, TN, USA"
   },
@@ -10919,7 +10871,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 561,
+    "featureId": 544,
     "population": 364286,
     "name": "Hamilton County, TN, USA"
   },
@@ -10934,7 +10886,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 562,
+    "featureId": 545,
     "population": 54012,
     "name": "Jefferson County, TN, USA"
   },
@@ -10949,7 +10901,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 563,
+    "featureId": 546,
     "population": 465289,
     "name": "Knox County, TN, USA"
   },
@@ -10964,7 +10916,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 564,
+    "featureId": 547,
     "population": 324890,
     "name": "Rutherford County, TN, USA"
   },
@@ -11027,7 +10979,7 @@
       -72.71937700000001,
       41.7926935
     ],
-    "featureId": 570,
+    "featureId": 553,
     "population": 892697,
     "name": "Hartford County, CT, USA"
   },
@@ -11042,7 +10994,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 572,
+    "featureId": 555,
     "population": 857620,
     "name": "New Haven County, CT, USA"
   },
@@ -11085,7 +11037,7 @@
       -90.42352199999999,
       31.867576
     ],
-    "featureId": 372,
+    "featureId": 373,
     "population": 28543,
     "name": "Copiah County, MS, USA"
   },
@@ -11100,7 +11052,7 @@
       -90.3971595,
       32.3110675
     ],
-    "featureId": 375,
+    "featureId": 376,
     "population": 237085,
     "name": "Hinds County, MS, USA"
   },
@@ -11115,7 +11067,7 @@
       -89.2947915,
       31.1719645
     ],
-    "featureId": 373,
+    "featureId": 374,
     "population": 75036,
     "name": "Forrest County, MS, USA"
   },
@@ -11130,7 +11082,7 @@
       -90.277601,
       33.523355
     ],
-    "featureId": 376,
+    "featureId": 377,
     "population": 28919,
     "name": "Leflore County, MS, USA"
   },
@@ -11145,7 +11097,7 @@
       -89.596482,
       30.7364495
     ],
-    "featureId": 378,
+    "featureId": 379,
     "population": 55387,
     "name": "Pearl River County, MS, USA"
   },
@@ -11160,7 +11112,7 @@
       -85.348772,
       32.578877500000004
     ],
-    "featureId": 383,
+    "featureId": 384,
     "population": 163941,
     "name": "Lee County, AL, USA"
   },
@@ -11175,7 +11127,7 @@
       -86.6839795,
       33.2828065
     ],
-    "featureId": 387,
+    "featureId": 388,
     "population": 215707,
     "name": "Shelby County, AL, USA"
   },
@@ -11186,12 +11138,6 @@
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "type": "list",
     "rating": 0.40625,
-    "coordinates": [
-      -105.37153699999999,
-      40.0878355
-    ],
-    "featureId": 392,
-    "population": 326078,
     "name": "Boulder County, CO, USA"
   },
   {
@@ -11201,12 +11147,6 @@
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "type": "list",
     "rating": 0.40625,
-    "coordinates": [
-      -105.66211949999999,
-      39.7084305
-    ],
-    "featureId": 393,
-    "population": 9605,
     "name": "Clear Creek County, CO, USA"
   },
   {
@@ -11216,12 +11156,6 @@
     "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
     "type": "list",
     "rating": 0.40625,
-    "coordinates": [
-      -108.0417065,
-      39.728802
-    ],
-    "featureId": 398,
-    "population": 59770,
     "name": "Garfield County, CO, USA"
   },
   {
@@ -11281,7 +11215,7 @@
       -74.1565635,
       42.28041
     ],
-    "featureId": 485,
+    "featureId": 468,
     "population": 47491,
     "name": "Greene County, NY, USA"
   },
@@ -11296,7 +11230,7 @@
       -74.4234035,
       42.910201
     ],
-    "featureId": 493,
+    "featureId": 476,
     "population": 49455,
     "name": "Montgomery County, NY, USA"
   },
@@ -11311,7 +11245,7 @@
       -73.7563255,
       41.4244435
     ],
-    "featureId": 486,
+    "featureId": 469,
     "population": 98892,
     "name": "Putnam County, NY, USA"
   },
@@ -11327,7 +11261,7 @@
       -118.399462,
       47.609032
     ],
-    "featureId": 507,
+    "featureId": 490,
     "population": 10740,
     "name": "Lincoln County, WA, USA"
   },
@@ -11341,7 +11275,7 @@
       -115.96848299999999,
       34.840230000000005
     ],
-    "featureId": 532,
+    "featureId": 515,
     "population": 2171603,
     "name": "San Bernardino County, CA, USA"
   },
@@ -11355,7 +11289,7 @@
       -121.2534915,
       37.891017500000004
     ],
-    "featureId": 533,
+    "featureId": 516,
     "population": 752660,
     "name": "San Joaquin County, CA, USA"
   },
@@ -11369,7 +11303,7 @@
       -120.649022,
       37.1868725
     ],
-    "featureId": 534,
+    "featureId": 517,
     "population": 274765,
     "name": "Merced County, CA, USA"
   },
@@ -11383,7 +11317,7 @@
       -121.57306299999999,
       39.723763
     ],
-    "featureId": 536,
+    "featureId": 519,
     "population": 231256,
     "name": "Butte County, CA, USA"
   },
@@ -11397,7 +11331,7 @@
       -119.8948375,
       36.139044999999996
     ],
-    "featureId": 540,
+    "featureId": 523,
     "population": 151366,
     "name": "Kings County, CA, USA"
   },
@@ -11411,7 +11345,7 @@
       -123.422765,
       39.380249
     ],
-    "featureId": 541,
+    "featureId": 524,
     "population": 87606,
     "name": "Mendocino County, CA, USA"
   },
@@ -11655,7 +11589,7 @@
     "url": "https://github.com/CSSEGISandData/COVID-19",
     "timeseries": true,
     "rating": 0.65625,
-    "featureId": 263,
+    "featureId": 264,
     "population": 7191503,
     "name": "Hong Kong"
   },
@@ -11668,7 +11602,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Barking and Dagenham, GBR"
   },
   {
@@ -11680,7 +11614,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Barnet, GBR"
   },
   {
@@ -11692,7 +11626,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Barnsley, GBR"
   },
   {
@@ -11704,7 +11638,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Bath and North East Somerset, GBR"
   },
   {
@@ -11716,7 +11650,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Bedford, GBR"
   },
   {
@@ -11728,7 +11662,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Bexley, GBR"
   },
   {
@@ -11740,7 +11674,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Birmingham, GBR"
   },
   {
@@ -11752,7 +11686,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Blackburn with Darwen, GBR"
   },
   {
@@ -11764,7 +11698,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Blackpool, GBR"
   },
   {
@@ -11776,7 +11710,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Bolton, GBR"
   },
   {
@@ -11788,7 +11722,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Bournemouth, Christchurch and Poole, GBR"
   },
   {
@@ -11800,7 +11734,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Bracknell Forest, GBR"
   },
   {
@@ -11812,7 +11746,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Bradford, GBR"
   },
   {
@@ -11824,7 +11758,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Brent, GBR"
   },
   {
@@ -11836,7 +11770,7 @@
       -0.0956836538794903,
       50.83370545060512
     ],
-    "featureId": 336,
+    "featureId": 337,
     "name": "Brighton and Hove, GBR"
   },
   {
@@ -11848,7 +11782,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Bristol, City of, GBR"
   },
   {
@@ -11860,7 +11794,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Bromley, GBR"
   },
   {
@@ -11872,7 +11806,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 781167,
     "name": "Buckinghamshire, GBR"
   },
@@ -11885,7 +11819,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Bury, GBR"
   },
   {
@@ -11897,7 +11831,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Calderdale, GBR"
   },
   {
@@ -11909,7 +11843,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 830279,
     "name": "Cambridgeshire, GBR"
   },
@@ -11922,7 +11856,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Camden, GBR"
   },
   {
@@ -11934,7 +11868,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Central Bedfordshire, GBR"
   },
   {
@@ -11946,7 +11880,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Cheshire East, GBR"
   },
   {
@@ -11958,7 +11892,7 @@
       -2.753126456920455,
       53.1486968423354
     ],
-    "featureId": 337,
+    "featureId": 338,
     "name": "Cheshire West and Chester, GBR"
   },
   {
@@ -11970,7 +11904,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Cornwall and Isles of Scilly, GBR"
   },
   {
@@ -11982,7 +11916,7 @@
       -1.799640245530711,
       54.67953095184194
     ],
-    "featureId": 338,
+    "featureId": 339,
     "name": "County Durham, GBR"
   },
   {
@@ -11994,7 +11928,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Coventry, GBR"
   },
   {
@@ -12006,7 +11940,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Croydon, GBR"
   },
   {
@@ -12018,7 +11952,7 @@
       -2.894685635497069,
       54.65147772950007
     ],
-    "featureId": 339,
+    "featureId": 340,
     "population": 497874,
     "name": "Cumbria, GBR"
   },
@@ -12031,7 +11965,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Darlington, GBR"
   },
   {
@@ -12043,7 +11977,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Derby, GBR"
   },
   {
@@ -12055,7 +11989,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1032267,
     "name": "Derbyshire, GBR"
   },
@@ -12068,7 +12002,7 @@
       -3.7468521474031253,
       50.73217421134865
     ],
-    "featureId": 340,
+    "featureId": 341,
     "population": 1159832,
     "name": "Devon, GBR"
   },
@@ -12081,7 +12015,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Doncaster, GBR"
   },
   {
@@ -12093,7 +12027,7 @@
       -2.3107224188537714,
       50.83684499757297
     ],
-    "featureId": 341,
+    "featureId": 342,
     "population": 759768,
     "name": "Dorset, GBR"
   },
@@ -12106,7 +12040,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Dudley, GBR"
   },
   {
@@ -12118,7 +12052,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Ealing, GBR"
   },
   {
@@ -12130,7 +12064,7 @@
       -0.4702299669435206,
       53.88757670754899
     ],
-    "featureId": 342,
+    "featureId": 343,
     "population": 594825,
     "name": "East Riding of Yorkshire, GBR"
   },
@@ -12143,7 +12077,7 @@
       0.3705739670149626,
       50.94161367390575
     ],
-    "featureId": 343,
+    "featureId": 344,
     "population": 820842,
     "name": "East Sussex, GBR"
   },
@@ -12156,7 +12090,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Enfield, GBR"
   },
   {
@@ -12168,7 +12102,7 @@
       0.6384996882008807,
       51.801330145419854
     ],
-    "featureId": 344,
+    "featureId": 345,
     "population": 1773154,
     "name": "Essex, GBR"
   },
@@ -12181,7 +12115,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Gateshead, GBR"
   },
   {
@@ -12193,7 +12127,7 @@
       -2.1589416167073807,
       51.84146129050612
     ],
-    "featureId": 345,
+    "featureId": 346,
     "population": 882888,
     "name": "Gloucestershire, GBR"
   },
@@ -12206,7 +12140,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Greenwich, GBR"
   },
   {
@@ -12218,7 +12152,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Hackney and City of London, GBR"
   },
   {
@@ -12230,7 +12164,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Halton, GBR"
   },
   {
@@ -12242,7 +12176,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Hammersmith and Fulham, GBR"
   },
   {
@@ -12254,7 +12188,7 @@
       -1.3405973986010906,
       51.05528290387548
     ],
-    "featureId": 346,
+    "featureId": 347,
     "population": 1800511,
     "name": "Hampshire, GBR"
   },
@@ -12267,7 +12201,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Haringey, GBR"
   },
   {
@@ -12279,7 +12213,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Harrow, GBR"
   },
   {
@@ -12291,7 +12225,7 @@
       -1.290542151179023,
       54.666020093800526
     ],
-    "featureId": 347,
+    "featureId": 348,
     "name": "Hartlepool, GBR"
   },
   {
@@ -12303,7 +12237,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Havering, GBR"
   },
   {
@@ -12315,7 +12249,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Herefordshire, County of, GBR"
   },
   {
@@ -12327,7 +12261,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1154766,
     "name": "Hertfordshire, GBR"
   },
@@ -12340,7 +12274,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Hillingdon, GBR"
   },
   {
@@ -12352,7 +12286,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Hounslow, GBR"
   },
   {
@@ -12364,7 +12298,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 139105,
     "name": "Isle of Wight, GBR"
   },
@@ -12377,7 +12311,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Islington, GBR"
   },
   {
@@ -12389,7 +12323,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Kensington and Chelsea, GBR"
   },
   {
@@ -12401,7 +12335,7 @@
       0.7391297744358951,
       51.20639796273913
     ],
-    "featureId": 348,
+    "featureId": 349,
     "population": 1784369,
     "name": "Kent, GBR"
   },
@@ -12414,7 +12348,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Kingston upon Hull, City of, GBR"
   },
   {
@@ -12426,7 +12360,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Kingston upon Thames, GBR"
   },
   {
@@ -12438,7 +12372,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Kirklees, GBR"
   },
   {
@@ -12450,7 +12384,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Knowsley, GBR"
   },
   {
@@ -12462,7 +12396,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Lambeth, GBR"
   },
   {
@@ -12474,7 +12408,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1471979,
     "name": "Lancashire, GBR"
   },
@@ -12487,7 +12421,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Leeds, GBR"
   },
   {
@@ -12499,7 +12433,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Leicester, GBR"
   },
   {
@@ -12511,7 +12445,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1005558,
     "name": "Leicestershire, GBR"
   },
@@ -12524,7 +12458,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Lewisham, GBR"
   },
   {
@@ -12536,7 +12470,7 @@
       -0.22751105405745875,
       53.12138316510095
     ],
-    "featureId": 349,
+    "featureId": 350,
     "population": 1060567,
     "name": "Lincolnshire, GBR"
   },
@@ -12549,7 +12483,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Liverpool, GBR"
   },
   {
@@ -12561,7 +12495,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Luton, GBR"
   },
   {
@@ -12573,7 +12507,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Manchester, GBR"
   },
   {
@@ -12585,7 +12519,7 @@
       0.5708690730683657,
       51.41229721683642
     ],
-    "featureId": 350,
+    "featureId": 351,
     "name": "Medway, GBR"
   },
   {
@@ -12597,7 +12531,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Merton, GBR"
   },
   {
@@ -12609,7 +12543,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Middlesbrough, GBR"
   },
   {
@@ -12621,7 +12555,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Milton Keynes, GBR"
   },
   {
@@ -12633,7 +12567,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Newcastle upon Tyne, GBR"
   },
   {
@@ -12645,7 +12579,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Newham, GBR"
   },
   {
@@ -12657,7 +12591,7 @@
       0.9523097061513965,
       52.66413290015265
     ],
-    "featureId": 351,
+    "featureId": 352,
     "population": 877710,
     "name": "Norfolk, GBR"
   },
@@ -12670,7 +12604,7 @@
       -0.1301505615609193,
       53.553496852445065
     ],
-    "featureId": 352,
+    "featureId": 353,
     "name": "North East Lincolnshire, GBR"
   },
   {
@@ -12682,7 +12616,7 @@
       -0.558919283936299,
       53.58327667878578
     ],
-    "featureId": 353,
+    "featureId": 354,
     "name": "North Lincolnshire, GBR"
   },
   {
@@ -12694,7 +12628,7 @@
       -2.8128399318404718,
       51.40801629048416
     ],
-    "featureId": 354,
+    "featureId": 355,
     "name": "North Somerset, GBR"
   },
   {
@@ -12706,7 +12640,7 @@
       -1.5311261769496696,
       55.026428262859
     ],
-    "featureId": 355,
+    "featureId": 356,
     "name": "North Tyneside, GBR"
   },
   {
@@ -12718,7 +12652,7 @@
       -1.3737297140511806,
       54.08903304402421
     ],
-    "featureId": 356,
+    "featureId": 357,
     "population": 1080136,
     "name": "North Yorkshire, GBR"
   },
@@ -12731,7 +12665,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 714392,
     "name": "Northamptonshire, GBR"
   },
@@ -12744,7 +12678,7 @@
       -2.0702957224004597,
       55.2943535425097
     ],
-    "featureId": 357,
+    "featureId": 358,
     "population": 315987,
     "name": "Northumberland, GBR"
   },
@@ -12757,7 +12691,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Nottingham, GBR"
   },
   {
@@ -12769,7 +12703,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1115658,
     "name": "Nottinghamshire, GBR"
   },
@@ -12782,7 +12716,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Oldham, GBR"
   },
   {
@@ -12794,7 +12728,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 672516,
     "name": "Oxfordshire, GBR"
   },
@@ -12807,7 +12741,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Peterborough, GBR"
   },
   {
@@ -12819,7 +12753,7 @@
       -4.114404709437087,
       50.386921002852894
     ],
-    "featureId": 358,
+    "featureId": 359,
     "name": "Plymouth, GBR"
   },
   {
@@ -12831,7 +12765,7 @@
       -1.0414932934999115,
       50.81639231950007
     ],
-    "featureId": 359,
+    "featureId": 360,
     "name": "Portsmouth, GBR"
   },
   {
@@ -12843,7 +12777,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Reading, GBR"
   },
   {
@@ -12855,7 +12789,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Redbridge, GBR"
   },
   {
@@ -12867,7 +12801,7 @@
       -0.9987577985335747,
       54.56022797297001
     ],
-    "featureId": 360,
+    "featureId": 361,
     "name": "Redcar and Cleveland, GBR"
   },
   {
@@ -12879,7 +12813,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Richmond upon Thames, GBR"
   },
   {
@@ -12891,7 +12825,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Rochdale, GBR"
   },
   {
@@ -12903,7 +12837,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Rotherham, GBR"
   },
   {
@@ -12915,7 +12849,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 38022,
     "name": "Rutland, GBR"
   },
@@ -12928,7 +12862,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Salford, GBR"
   },
   {
@@ -12940,7 +12874,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Sandwell, GBR"
   },
   {
@@ -12952,7 +12886,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Sefton, GBR"
   },
   {
@@ -12964,7 +12898,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Sheffield, GBR"
   },
   {
@@ -12976,7 +12910,7 @@
       -2.7153846879136267,
       52.660881557637765
     ],
-    "featureId": 361,
+    "featureId": 362,
     "population": 479561,
     "name": "Shropshire, GBR"
   },
@@ -12989,7 +12923,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Slough, GBR"
   },
   {
@@ -13001,7 +12935,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Solihull, GBR"
   },
   {
@@ -13013,7 +12947,7 @@
       -2.975872259896903,
       51.07369161647489
     ],
-    "featureId": 362,
+    "featureId": 363,
     "population": 931784,
     "name": "Somerset, GBR"
   },
@@ -13026,7 +12960,7 @@
       -2.475195048114843,
       51.54588758329207
     ],
-    "featureId": 363,
+    "featureId": 364,
     "name": "South Gloucestershire, GBR"
   },
   {
@@ -13038,7 +12972,7 @@
       -1.4462816066733524,
       54.958685614000075
     ],
-    "featureId": 364,
+    "featureId": 365,
     "name": "South Tyneside, GBR"
   },
   {
@@ -13050,7 +12984,7 @@
       -1.3789863545366359,
       50.88910228093991
     ],
-    "featureId": 365,
+    "featureId": 366,
     "name": "Southampton, GBR"
   },
   {
@@ -13062,7 +12996,7 @@
       0.7374681475586442,
       51.55627981216796
     ],
-    "featureId": 366,
+    "featureId": 367,
     "name": "Southend-on-Sea, GBR"
   },
   {
@@ -13074,7 +13008,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Southwark, GBR"
   },
   {
@@ -13086,7 +13020,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "St. Helens, GBR"
   },
   {
@@ -13098,7 +13032,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1111192,
     "name": "Staffordshire, GBR"
   },
@@ -13111,7 +13045,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Stockport, GBR"
   },
   {
@@ -13123,7 +13057,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Stockton-on-Tees, GBR"
   },
   {
@@ -13135,7 +13069,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Stoke-on-Trent, GBR"
   },
   {
@@ -13147,7 +13081,7 @@
       1.0804205660576542,
       52.236436265000066
     ],
-    "featureId": 367,
+    "featureId": 368,
     "population": 738512,
     "name": "Suffolk, GBR"
   },
@@ -13160,7 +13094,7 @@
       -1.459068324274273,
       54.86062788461916
     ],
-    "featureId": 368,
+    "featureId": 369,
     "name": "Sunderland, GBR"
   },
   {
@@ -13172,7 +13106,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 1161256,
     "name": "Surrey, GBR"
   },
@@ -13185,7 +13119,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Sutton, GBR"
   },
   {
@@ -13197,7 +13131,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Swindon, GBR"
   },
   {
@@ -13209,7 +13143,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Tameside, GBR"
   },
   {
@@ -13221,7 +13155,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Telford and Wrekin, GBR"
   },
   {
@@ -13233,7 +13167,7 @@
       0.3850030914694855,
       51.505512803373136
     ],
-    "featureId": 369,
+    "featureId": 370,
     "name": "Thurrock, GBR"
   },
   {
@@ -13245,7 +13179,7 @@
       -3.5739260030656315,
       50.44218552834638
     ],
-    "featureId": 370,
+    "featureId": 371,
     "name": "Torbay, GBR"
   },
   {
@@ -13257,7 +13191,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Tower Hamlets, GBR"
   },
   {
@@ -13269,7 +13203,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Trafford, GBR"
   },
   {
@@ -13281,7 +13215,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Wakefield, GBR"
   },
   {
@@ -13293,7 +13227,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Walsall, GBR"
   },
   {
@@ -13305,7 +13239,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Waltham Forest, GBR"
   },
   {
@@ -13317,7 +13251,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Wandsworth, GBR"
   },
   {
@@ -13329,7 +13263,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Warrington, GBR"
   },
   {
@@ -13341,7 +13275,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 551594,
     "name": "Warwickshire, GBR"
   },
@@ -13354,7 +13288,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "West Berkshire, GBR"
   },
   {
@@ -13366,7 +13300,7 @@
       -0.4655862087365392,
       50.94804494863297
     ],
-    "featureId": 371,
+    "featureId": 372,
     "population": 828398,
     "name": "West Sussex, GBR"
   },
@@ -13379,7 +13313,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Westminster, GBR"
   },
   {
@@ -13391,7 +13325,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Wigan, GBR"
   },
   {
@@ -13403,7 +13337,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 698942,
     "name": "Wiltshire, GBR"
   },
@@ -13416,7 +13350,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Windsor and Maidenhead, GBR"
   },
   {
@@ -13428,7 +13362,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Wirral, GBR"
   },
   {
@@ -13440,7 +13374,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Wokingham, GBR"
   },
   {
@@ -13452,7 +13386,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "Wolverhampton, GBR"
   },
   {
@@ -13464,7 +13398,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 575421,
     "name": "Worcestershire, GBR"
   },
@@ -13477,7 +13411,7 @@
       -3.055812369847803,
       53.360951641505125
     ],
-    "featureId": 275,
+    "featureId": 276,
     "name": "York, GBR"
   },
   {
@@ -13491,7 +13425,7 @@
       -89.506062,
       30.4111555
     ],
-    "featureId": 374,
+    "featureId": 375,
     "population": 47334,
     "name": "Hancock County, MS, USA"
   },
@@ -13506,7 +13440,7 @@
       -88.4618815,
       33.8697745
     ],
-    "featureId": 377,
+    "featureId": 378,
     "population": 35564,
     "name": "Monroe County, MS, USA"
   },
@@ -13530,7 +13464,7 @@
       -78.0160695,
       42.260023000000004
     ],
-    "featureId": 487,
+    "featureId": 470,
     "population": 46430,
     "name": "Allegany County, NY, USA"
   },
@@ -13545,7 +13479,7 @@
       -76.19769550000001,
       43.021398
     ],
-    "featureId": 494,
+    "featureId": 477,
     "population": 461809,
     "name": "Onondaga County, NY, USA"
   },
@@ -13560,7 +13494,7 @@
       -77.28751,
       42.808147000000005
     ],
-    "featureId": 495,
+    "featureId": 478,
     "population": 109864,
     "name": "Ontario County, NY, USA"
   },
@@ -13574,7 +13508,7 @@
       -122.2913685,
       39.169222000000005
     ],
-    "featureId": 538,
+    "featureId": 521,
     "population": 21627,
     "name": "Colusa County, CA, USA"
   },
@@ -13588,7 +13522,7 @@
       -123.88695,
       41.6909115
     ],
-    "featureId": 539,
+    "featureId": 522,
     "population": 27828,
     "name": "Del Norte County, CA, USA"
   },
@@ -13603,7 +13537,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 565,
+    "featureId": 548,
     "population": 97892,
     "name": "Sevier County, TN, USA"
   },
@@ -13618,7 +13552,7 @@
       -5.760709740962795,
       36.52305392954614
     ],
-    "featureId": 581,
+    "featureId": 564,
     "name": "Andalucía, ESP"
   },
   {
@@ -13632,7 +13566,7 @@
       -0.08049929380734966,
       42.134828154805525
     ],
-    "featureId": 582,
+    "featureId": 565,
     "name": "Aragón, ESP"
   },
   {
@@ -13673,7 +13607,7 @@
       -3.991235879578522,
       43.13970978396958
     ],
-    "featureId": 583,
+    "featureId": 566,
     "name": "Cantabria, ESP"
   },
   {
@@ -13687,7 +13621,7 @@
       -6.152125149456111,
       41.68636903055628
     ],
-    "featureId": 584,
+    "featureId": 567,
     "name": "Castilla y León, ESP"
   },
   {
@@ -13701,7 +13635,7 @@
       -1.8916374333209092,
       38.724266107394925
     ],
-    "featureId": 585,
+    "featureId": 568,
     "name": "Castilla-La Mancha, ESP"
   },
   {
@@ -13715,7 +13649,7 @@
       1.0855422223956452,
       42.03562612236923
     ],
-    "featureId": 586,
+    "featureId": 569,
     "name": "Cataluña, ESP"
   },
   {
@@ -13738,7 +13672,7 @@
       -6.250120712850645,
       39.75451443774111
     ],
-    "featureId": 587,
+    "featureId": 570,
     "name": "Extremadura, ESP"
   },
   {
@@ -13752,7 +13686,7 @@
       -7.54885392701712,
       42.19553303442197
     ],
-    "featureId": 588,
+    "featureId": 571,
     "name": "Galicia, ESP"
   },
   {
@@ -13793,7 +13727,7 @@
       -2.154373327342114,
       43.14304220529398
     ],
-    "featureId": 589,
+    "featureId": 572,
     "name": "País Vasco, ESP"
   },
   {
@@ -13807,7 +13741,7 @@
       -2.4031165223596247,
       42.28492574697563
     ],
-    "featureId": 590,
+    "featureId": 573,
     "name": "La Rioja, ESP"
   },
   {
@@ -13821,7 +13755,7 @@
       -5.345359091499915,
       35.88593067100006
     ],
-    "featureId": 591,
+    "featureId": 574,
     "name": "Ceuta, ESP"
   },
   {
@@ -13835,7 +13769,7 @@
       -2.939916344999915,
       35.29882680600007
     ],
-    "featureId": 592,
+    "featureId": 575,
     "name": "Melilla, ESP"
   }
 ]
