@@ -574,17 +574,17 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Washington County,OR,USA,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,10,,,,2020-03-13
 ,Washington County,OR,USA,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,10,,,,2020-03-14
 ,Jefferson Parish,LA,USA,434051,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,3,,,,2020-03-13
-,Jefferson Parish,LA,USA,434051,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,16,,,,2020-03-16
+,Jefferson Parish,LA,USA,434051,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,21,,,,2020-03-16
 ,Lafourche Parish,LA,USA,98115,29.4895455,-90.50821049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-13
 ,Lafourche Parish,LA,USA,98115,29.4895455,-90.50821049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,2,,,,2020-03-16
 ,Orleans Parish,LA,USA,391006,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,26,,,,2020-03-13
-,Orleans Parish,LA,USA,391006,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,79,,,,2020-03-16
+,Orleans Parish,LA,USA,391006,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,94,,,,2020-03-16
 ,St. Bernard Parish,LA,USA,46721,29.8500655,-89.4145595,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-13
 ,St. Bernard Parish,LA,USA,46721,29.8500655,-89.4145595,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,2,,,,2020-03-16
 ,St. Charles Parish,LA,USA,52879,29.961458,-90.3585315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-13
 ,St. Charles Parish,LA,USA,52879,29.961458,-90.3585315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,3,,,,2020-03-16
 ,St. Tammany Parish,LA,USA,258111,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,2,,,,2020-03-13
-,St. Tammany Parish,LA,USA,258111,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,5,,,,2020-03-16
+,St. Tammany Parish,LA,USA,258111,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,6,,,,2020-03-16
 ,Terrebonne Parish,LA,USA,111021,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-13
 ,Terrebonne Parish,LA,USA,111021,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,2,,,,2020-03-16
 ,Carroll County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,,2020-03-13
@@ -903,6 +903,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,St. John the Baptist Parish,LA,USA,43184,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-16
 ,Caddo Parish,LA,USA,242922,32.6074585,-93.757198,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,3,,,,2020-03-16
 ,Bossier Parish,LA,USA,127185,32.627677000000006,-93.5978795,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-16
+,Ascension Parish,LA,USA,124672,30.204696499999997,-90.869644,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-16
 ,Westchester,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,220,,,,2020-03-16
 ,Nassau,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,109,,,,2020-03-16
 ,Suffolk,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,63,,,,2020-03-16
