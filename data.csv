@@ -470,7 +470,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Los Angeles County,CA,USA,69,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,364,10105518
 ,Orange County,CA,USA,17,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,365,3185968
 ,Riverside County,CA,USA,1,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,366,2450758
-,San Diego County,CA,USA,11,,,145,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,367,3343364
+,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,367,3343364
 ,Ventura County,CA,USA,0,,,0,34.058353,-119.1057185,https://www.ventura.org/covid19/,368,850967
 ,Dane County,WI,USA,6,,,,43.069541,-89.4235435,https://www.dhs.wisconsin.gov/outbreaks/index.htm,369,542364
 ,Fond du Lac County,WI,USA,11,,,,43.7405715,-88.5234625,https://www.dhs.wisconsin.gov/outbreaks/index.htm,370,103066
