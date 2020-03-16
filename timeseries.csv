@@ -861,20 +861,13 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Schenectady,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-16
 ,Tioga County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
 ,Tompkins County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
-,Dane County,WI,USA,542364,43.069541,-89.4235435,https://www.dhs.wisconsin.gov/outbreaks/index.htm,5,,,,2020-03-14
-,Dane County,WI,USA,542364,43.069541,-89.4235435,https://www.dhs.wisconsin.gov/outbreaks/index.htm,6,,,,2020-03-16
-,Fond du Lac County,WI,USA,103066,43.7405715,-88.5234625,https://www.dhs.wisconsin.gov/outbreaks/index.htm,6,,,,2020-03-14
-,Fond du Lac County,WI,USA,103066,43.7405715,-88.5234625,https://www.dhs.wisconsin.gov/outbreaks/index.htm,11,,,,2020-03-16
-,Milwaukee County,WI,USA,948201,43.017386,-87.94847250000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,2,,,,2020-03-14
-,Milwaukee County,WI,USA,948201,43.017386,-87.94847250000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,7,,,,2020-03-16
-,Pierce County,WI,USA,42555,44.7007885,-92.47159500000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-14
-,Pierce County,WI,USA,42555,44.7007885,-92.47159500000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-16
-,Racine County,WI,USA,196584,42.72707,-88.0365295,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-14
-,Racine County,WI,USA,196584,42.72707,-88.0365295,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-16
-,Sheboygan County,WI,USA,115456,43.7172725,-87.9311795,https://www.dhs.wisconsin.gov/outbreaks/index.htm,3,,,,2020-03-14
-,Sheboygan County,WI,USA,115456,43.7172725,-87.9311795,https://www.dhs.wisconsin.gov/outbreaks/index.htm,3,,,,2020-03-16
-,Waukesha County,WI,USA,403072,43.018702,-88.30268950000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-14
-,Waukesha County,WI,USA,403072,43.018702,-88.30268950000001,https://www.dhs.wisconsin.gov/outbreaks/index.htm,3,,,,2020-03-16
+,Dane County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,5,,,,2020-03-14
+,Fond du Lac County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,6,,,,2020-03-14
+,Milwaukee County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,2,,,,2020-03-14
+,Pierce County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-14
+,Racine County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-14
+,Sheboygan County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,3,,,,2020-03-14
+,Waukesha County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-14
 ,Beadle County,SD,USA,18883,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
 ,Beadle County,SD,USA,18883,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-16
 ,Bon Homme County,SD,USA,6980,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
@@ -891,8 +884,9 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Pennington County,SD,USA,111729,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-16
 ,Davis County,UT,USA,351713,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,1,,,,2020-03-14
 ,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,5,,,,2020-03-14
+,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,2,,,,2020-03-16
 ,Summit County,UT,USA,41933,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,2,,,,2020-03-14
-,Summit County,UT,USA,41933,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,6,,,,2020-03-16
+,Summit County,UT,USA,41933,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,7,,,,2020-03-16
 ,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,1,,,,2020-03-16
 ,Weber-Morgan County,UT,USA,,,,https://coronavirus.utah.gov/latest/,1,,,,2020-03-14
 ,Allegheny County,PA,USA,,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,2,,,,2020-03-14
@@ -951,7 +945,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Tompkins,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16
 ,Ulster,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,5,,,,2020-03-16
 ,Westchester,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,196,,,,2020-03-16
-,Winnebago County,WI,USA,171020,44.0685395,-88.644934,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-16
 ,Campbell County,TN,USA,39583,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-16
 ,Davidson County,TN,USA,692587,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,17,,,,2020-03-16
 ,Hamilton County,TN,USA,364286,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-16

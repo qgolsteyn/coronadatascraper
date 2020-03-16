@@ -5645,110 +5645,6 @@
     "population": 850967
   },
   {
-    "county": "Dane County",
-    "cases": 6,
-    "state": "WI",
-    "country": "USA",
-    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
-    "coordinates": [
-      -89.4235435,
-      43.069541
-    ],
-    "featureId": 343,
-    "population": 542364
-  },
-  {
-    "county": "Fond du Lac County",
-    "cases": 11,
-    "state": "WI",
-    "country": "USA",
-    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
-    "coordinates": [
-      -88.5234625,
-      43.7405715
-    ],
-    "featureId": 344,
-    "population": 103066
-  },
-  {
-    "county": "Milwaukee County",
-    "cases": 7,
-    "state": "WI",
-    "country": "USA",
-    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
-    "coordinates": [
-      -87.94847250000001,
-      43.017386
-    ],
-    "featureId": 345,
-    "population": 948201
-  },
-  {
-    "county": "Pierce County",
-    "cases": 1,
-    "state": "WI",
-    "country": "USA",
-    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
-    "coordinates": [
-      -92.47159500000001,
-      44.7007885
-    ],
-    "featureId": 346,
-    "population": 42555
-  },
-  {
-    "county": "Racine County",
-    "cases": 1,
-    "state": "WI",
-    "country": "USA",
-    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
-    "coordinates": [
-      -88.0365295,
-      42.72707
-    ],
-    "featureId": 347,
-    "population": 196584
-  },
-  {
-    "county": "Sheboygan County",
-    "cases": 3,
-    "state": "WI",
-    "country": "USA",
-    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
-    "coordinates": [
-      -87.9311795,
-      43.7172725
-    ],
-    "featureId": 348,
-    "population": 115456
-  },
-  {
-    "county": "Waukesha County",
-    "cases": 3,
-    "state": "WI",
-    "country": "USA",
-    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
-    "coordinates": [
-      -88.30268950000001,
-      43.018702
-    ],
-    "featureId": 349,
-    "population": 403072
-  },
-  {
-    "county": "Winnebago County",
-    "cases": 1,
-    "state": "WI",
-    "country": "USA",
-    "url": "https://www.dhs.wisconsin.gov/outbreaks/index.htm",
-    "coordinates": [
-      -88.644934,
-      44.0685395
-    ],
-    "featureId": 350,
-    "population": 171020
-  },
-  {
     "county": "Beadle County",
     "cases": 1,
     "state": "SD",
@@ -5758,7 +5654,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 351,
+    "featureId": 343,
     "population": 18883
   },
   {
@@ -5771,7 +5667,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 352,
+    "featureId": 344,
     "population": 6980
   },
   {
@@ -5784,7 +5680,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 353,
+    "featureId": 345,
     "population": 9338
   },
   {
@@ -5797,7 +5693,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 354,
+    "featureId": 346,
     "population": 19790
   },
   {
@@ -5810,7 +5706,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 355,
+    "featureId": 347,
     "population": 5546
   },
   {
@@ -5823,7 +5719,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 356,
+    "featureId": 348,
     "population": 192876
   },
   {
@@ -5836,7 +5732,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 357,
+    "featureId": 349,
     "population": 111729
   },
   {
@@ -5863,12 +5759,12 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 358,
+    "featureId": 350,
     "population": 351713
   },
   {
     "county": "Salt Lake County",
-    "cases": 0,
+    "cases": 2,
     "state": "UT",
     "country": "USA",
     "url": "https://coronavirus.utah.gov/latest/",
@@ -5876,7 +5772,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 359,
+    "featureId": 351,
     "population": 1152633
   },
   {
@@ -5889,7 +5785,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 360,
+    "featureId": 352,
     "population": 15449
   },
   {
@@ -5908,7 +5804,7 @@
   },
   {
     "county": "Summit County",
-    "cases": 6,
+    "cases": 7,
     "state": "UT",
     "country": "USA",
     "url": "https://coronavirus.utah.gov/latest/",
@@ -5916,7 +5812,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 361,
+    "featureId": 353,
     "population": 41933
   },
   {
@@ -5929,7 +5825,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 362,
+    "featureId": 354,
     "population": 69907
   },
   {
@@ -5949,7 +5845,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 363,
+    "featureId": 355,
     "population": 622213
   },
   {
@@ -5962,7 +5858,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 364,
+    "featureId": 356,
     "population": 33240
   },
   {
@@ -5982,7 +5878,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 365,
+    "featureId": 357,
     "population": 39583
   },
   {
@@ -5995,7 +5891,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 366,
+    "featureId": 358,
     "population": 692587
   },
   {
@@ -6008,7 +5904,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 367,
+    "featureId": 359,
     "population": 364286
   },
   {
@@ -6021,7 +5917,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 368,
+    "featureId": 360,
     "population": 54012
   },
   {
@@ -6034,7 +5930,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 369,
+    "featureId": 361,
     "population": 465289
   },
   {
@@ -6047,7 +5943,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 370,
+    "featureId": 362,
     "population": 324890
   },
   {
@@ -6060,7 +5956,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 371,
+    "featureId": 363,
     "population": 935764
   },
   {
@@ -6073,7 +5969,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 372,
+    "featureId": 364,
     "population": 157668
   },
   {
@@ -6086,7 +5982,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 373,
+    "featureId": 365,
     "population": 231729
   },
   {
@@ -6106,7 +6002,7 @@
       -73.397813,
       41.3259525
     ],
-    "featureId": 374,
+    "featureId": 366,
     "population": 943823
   },
   {
@@ -6133,7 +6029,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 375,
+    "featureId": 367,
     "population": 857620
   }
 ]
