@@ -625,63 +625,44 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,New Castle County,DE,USA,559335,39.565300500000006,-75.5969975,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,4,,,,2020-03-13
 ,New Castle County,DE,USA,559335,39.565300500000006,-75.5969975,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,6,,,,2020-03-14
 ,New Castle County,DE,USA,559335,39.565300500000006,-75.5969975,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,7,,,,2020-03-16
-,Manatee County,FL,USA,394855,27.4272245,-82.4000485,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
-,Manatee County,FL,USA,394855,27.4272245,-82.4000485,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,4,,,,2020-03-14
-,Manatee County,FL,USA,394855,27.4272245,-82.4000485,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,4,,,,2020-03-16
-,Hillsborough County,FL,USA,1436888,27.909229500000002,-82.3526,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
-,Hillsborough County,FL,USA,1436888,27.909229500000002,-82.3526,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-14
-,Hillsborough County,FL,USA,1436888,27.909229500000002,-82.3526,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,4,,,,2020-03-16
-,Santa Rosa County,FL,USA,179349,30.669196499999998,-87.047978,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
-,Santa Rosa County,FL,USA,179349,30.669196499999998,-87.047978,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Santa Rosa County,FL,USA,179349,30.669196499999998,-87.047978,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-16
-,Broward County,FL,USA,1951260,26.1561005,-80.478035,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,11,,,,2020-03-13
-,Broward County,FL,USA,1951260,26.1561005,-80.478035,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,20,,,,2020-03-14
-,Broward County,FL,USA,1951260,26.1561005,-80.478035,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,36,,,,2020-03-16
-,Lee County,FL,USA,754610,26.5528805,-81.9169395,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,4,,,,2020-03-13
-,Lee County,FL,USA,754610,26.5528805,-81.9169395,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,4,,,,2020-03-14
-,Lee County,FL,USA,754610,26.5528805,-81.9169395,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,5,,,,2020-03-16
-,Charlotte County,FL,USA,184998,26.902401,-81.9689695,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
-,Charlotte County,FL,USA,184998,26.902401,-81.9689695,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Charlotte County,FL,USA,184998,26.902401,-81.9689695,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-16
-,Okaloosa County,FL,USA,207269,30.687763500000003,-86.59446449999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
-,Okaloosa County,FL,USA,207269,30.687763500000003,-86.59446449999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Okaloosa County,FL,USA,207269,30.687763500000003,-86.59446449999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-16
-,Volusia County,FL,USA,547538,29.0200235,-81.20657349999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,3,,,,2020-03-13
-,Volusia County,FL,USA,547538,29.0200235,-81.20657349999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,4,,,,2020-03-14
-,Volusia County,FL,USA,547538,29.0200235,-81.20657349999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,5,,,,2020-03-16
-,Nassau County,FL,USA,85832,30.550462500000002,-81.73892599999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
-,Nassau County,FL,USA,85832,30.550462500000002,-81.73892599999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Nassau County,FL,USA,85832,30.550462500000002,-81.73892599999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-16
-,Collier County,FL,USA,378488,26.1601955,-81.35938300000001,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,3,,,,2020-03-13
-,Collier County,FL,USA,378488,26.1601955,-81.35938300000001,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,3,,,,2020-03-14
-,Collier County,FL,USA,378488,26.1601955,-81.35938300000001,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,5,,,,2020-03-16
-,Pinellas County,FL,USA,975280,27.893119,-82.70897249999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
-,Pinellas County,FL,USA,975280,27.893119,-82.70897249999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-14
-,Pinellas County,FL,USA,975280,27.893119,-82.70897249999999,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-16
-,Pasco County,FL,USA,539630,28.3252435,-82.4298955,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
-,Pasco County,FL,USA,539630,28.3252435,-82.4298955,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Pasco County,FL,USA,539630,28.3252435,-82.4298955,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-16
-,Miami-Dade County,FL,USA,2761581,25.5606775,-80.495494,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
-,Miami-Dade County,FL,USA,2761581,25.5606775,-80.495494,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,8,,,,2020-03-14
-,Miami-Dade County,FL,USA,2761581,25.5606775,-80.495494,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,13,,,,2020-03-16
-,Seminole County,FL,USA,467832,28.745247499999998,-81.2234725,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
-,Seminole County,FL,USA,467832,28.745247499999998,-81.2234725,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Seminole County,FL,USA,467832,28.745247499999998,-81.2234725,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-16
-,Palm Beach County,FL,USA,1485941,26.645985500000002,-80.4587305,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
-,Palm Beach County,FL,USA,1485941,26.645985500000002,-80.4587305,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,5,,,,2020-03-14
-,Palm Beach County,FL,USA,1485941,26.645985500000002,-80.4587305,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,5,,,,2020-03-16
-,Sarasota County,FL,USA,426718,27.167500500000003,-82.349667,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
-,Sarasota County,FL,USA,426718,27.167500500000003,-82.349667,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Sarasota County,FL,USA,426718,27.167500500000003,-82.349667,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-16
-,Alachua County,FL,USA,269956,29.681131999999998,-82.3544225,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
-,Alachua County,FL,USA,269956,29.681131999999998,-82.3544225,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Alachua County,FL,USA,269956,29.681131999999998,-82.3544225,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-16
-,Duval County,FL,USA,950181,30.34499,-81.714645,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
-,Duval County,FL,USA,950181,30.34499,-81.714645,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Duval County,FL,USA,950181,30.34499,-81.714645,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,4,,,,2020-03-16
-,Clay County,FL,USA,216072,29.956068000000002,-81.815316,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
-,Clay County,FL,USA,216072,29.956068000000002,-81.815316,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Clay County,FL,USA,216072,29.956068000000002,-81.815316,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,3,,,,2020-03-16
+,Manatee County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
+,Manatee County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,4,,,,2020-03-14
+,Hillsborough County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
+,Hillsborough County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-14
+,Santa Rosa County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
+,Santa Rosa County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
+,Broward County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,11,,,,2020-03-13
+,Broward County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,20,,,,2020-03-14
+,Lee County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,4,,,,2020-03-13
+,Lee County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,4,,,,2020-03-14
+,Charlotte County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
+,Charlotte County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
+,Okaloosa County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
+,Okaloosa County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
+,Volusia County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,3,,,,2020-03-13
+,Volusia County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,4,,,,2020-03-14
+,Nassau County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
+,Nassau County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
+,Collier County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,3,,,,2020-03-13
+,Collier County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,3,,,,2020-03-14
+,Pinellas County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
+,Pinellas County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-14
+,Pasco County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
+,Pasco County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
+,Miami-Dade County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
+,Miami-Dade County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,8,,,,2020-03-14
+,Seminole County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
+,Seminole County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
+,Palm Beach County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
+,Palm Beach County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,5,,,,2020-03-14
+,Sarasota County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-13
+,Sarasota County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
+,Alachua County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
+,Alachua County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
+,Duval County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
+,Duval County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
+,Clay County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-13
+,Clay County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
 ,Westchester County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,148,,,,2020-03-13
 ,Westchester County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,172,,,,2020-03-14
 ,Nassau County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,41,,,,2020-03-13
@@ -750,7 +731,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Yolo County,CA,USA,220408,38.619189,-121.962515,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,2,,,,2020-03-16
 ,Sacramento County,CA,USA,1540975,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,17,1,,,2020-03-13
 ,Sacramento County,CA,USA,1540975,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,17,1,,,2020-03-14
-,Sacramento County,CA,USA,1540975,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,32,2,,,2020-03-16
+,Sacramento County,CA,USA,1540975,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,32,1,,,2020-03-16
 ,Fresno County,CA,USA,994400,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,1,,,,2020-03-13
 ,Fresno County,CA,USA,994400,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,1,,,,2020-03-14
 ,Fresno County,CA,USA,994400,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,2,,,,2020-03-16
@@ -873,10 +854,8 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,El Paso County,TX,USA,,,,https://www.dshs.state.tx.us/news/updates.shtm,1,,,,2020-03-14
 ,Galveston County,TX,USA,,,,https://www.dshs.state.tx.us/news/updates.shtm,1,,,,2020-03-14
 ,Lavaca County,TX,USA,,,,https://www.dshs.state.tx.us/news/updates.shtm,1,,,,2020-03-14
-,Orange County,FL,USA,1380645,28.566533999999997,-81.2607525,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Orange County,FL,USA,1380645,28.566533999999997,-81.2607525,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,2,,,,2020-03-16
-,Osceola County,FL,USA,367990,27.995169500000003,-81.2600415,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
-,Osceola County,FL,USA,367990,27.995169500000003,-81.2600415,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-16
+,Orange County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
+,Osceola County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
 ,Saratoga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,3,,,,2020-03-14
 ,Saratoga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,3,,,,2020-03-16
 ,Schenectady,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
@@ -955,8 +934,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,St. John the Baptist Parish,LA,USA,43184,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-16
 ,Caddo Parish,LA,USA,242922,32.6074585,-93.757198,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,3,,,,2020-03-16
 ,Bossier Parish,LA,USA,127185,32.627677000000006,-93.5978795,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-16
-,Citrus County,FL,USA,147929,28.858776,-82.4640235,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-16
-,St. Johns County,FL,USA,254261,29.937673,-81.4511455,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-16
 ,Albany,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,8,,,,2020-03-16
 ,Broome,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16
 ,Delaware,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16

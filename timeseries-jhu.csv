@@ -286,25 +286,25 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,New Castle County,DE,USA,39.565300500000006,-75.5969975,559335,,,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,6,,7
 ,Kent County,DE,USA,39.0977575,-75.5358555,178550,,,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,0
 ,Sussex County,DE,USA,38.706443,-75.38576900000001,229286,,,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,0
-,Manatee County,FL,USA,27.4272245,-82.4000485,394855,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,,4
-,Hillsborough County,FL,USA,27.909229500000002,-82.3526,1436888,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,4
-,Santa Rosa County,FL,USA,30.669196499999998,-87.047978,179349,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,1
-,Broward County,FL,USA,26.1561005,-80.478035,1951260,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,20,,36
-,Lee County,FL,USA,26.5528805,-81.9169395,754610,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,,5
-,Charlotte County,FL,USA,26.902401,-81.9689695,184998,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,1
-,Okaloosa County,FL,USA,30.687763500000003,-86.59446449999999,207269,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,1
-,Volusia County,FL,USA,29.0200235,-81.20657349999999,547538,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,,5
-,Nassau County,FL,USA,30.550462500000002,-81.73892599999999,85832,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,1
-,Collier County,FL,USA,26.1601955,-81.35938300000001,378488,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,5
-,Pinellas County,FL,USA,27.893119,-82.70897249999999,975280,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,2
-,Pasco County,FL,USA,28.3252435,-82.4298955,539630,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,2
-,Miami-Dade County,FL,USA,25.5606775,-80.495494,2761581,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,,13
-,Seminole County,FL,USA,28.745247499999998,-81.2234725,467832,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,1
-,Palm Beach County,FL,USA,26.645985500000002,-80.4587305,1485941,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,,5
-,Sarasota County,FL,USA,27.167500500000003,-82.349667,426718,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,,1
-,Alachua County,FL,USA,29.681131999999998,-82.3544225,269956,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,1
-,Duval County,FL,USA,30.34499,-81.714645,950181,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,4
-,Clay County,FL,USA,29.956068000000002,-81.815316,216072,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,3
+,Manatee County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,4,,
+,Hillsborough County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,
+,Santa Rosa County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
+,Broward County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,20,,
+,Lee County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4,4,,
+,Charlotte County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
+,Okaloosa County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
+,Volusia County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,4,,
+,Nassau County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
+,Collier County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,
+,Pinellas County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,
+,Pasco County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
+,Miami-Dade County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,8,,
+,Seminole County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
+,Palm Beach County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,5,,
+,Sarasota County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,1,,
+,Alachua County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
+,Duval County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
+,Clay County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
 ,Westchester County,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,148,172,,
 ,Nassau County,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,41,68,,
 ,Suffolk County,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,33,,
@@ -416,8 +416,8 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,El Paso County,TX,USA,,,,,,https://www.dshs.state.tx.us/news/updates.shtm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
 ,Galveston County,TX,USA,,,,,,https://www.dshs.state.tx.us/news/updates.shtm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
 ,Lavaca County,TX,USA,,,,,,https://www.dshs.state.tx.us/news/updates.shtm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
-,Orange County,FL,USA,28.566533999999997,-81.2607525,1380645,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,2
-,Osceola County,FL,USA,27.995169500000003,-81.2600415,367990,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,1
+,Orange County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
+,Osceola County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
 ,Saratoga,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,3
 ,Schenectady,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,2
 ,Tioga County,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
@@ -543,8 +543,6 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,St. Mary Parish,LA,USA,29.7141755,-91.48180049999999,49774,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 ,Cameron Parish,LA,USA,29.8158395,-93.27240900000001,6968,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 ,Iberia Parish,LA,USA,29.7982045,-91.632762,70941,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
-,Citrus County,FL,USA,28.858776,-82.4640235,147929,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,St. Johns County,FL,USA,29.937673,-81.4511455,254261,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Albany,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8
 ,Broome,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Delaware,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1

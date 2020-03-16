@@ -5279,305 +5279,6 @@
     "population": 229286
   },
   {
-    "county": "Manatee County",
-    "cases": 4,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -82.4000485,
-      27.4272245
-    ],
-    "featureId": 327,
-    "population": 394855
-  },
-  {
-    "county": "Hillsborough County",
-    "cases": 4,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -82.3526,
-      27.909229500000002
-    ],
-    "featureId": 328,
-    "population": 1436888
-  },
-  {
-    "county": "Santa Rosa County",
-    "cases": 1,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -87.047978,
-      30.669196499999998
-    ],
-    "featureId": 329,
-    "population": 179349
-  },
-  {
-    "county": "Broward County",
-    "cases": 36,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -80.478035,
-      26.1561005
-    ],
-    "featureId": 330,
-    "population": 1951260
-  },
-  {
-    "county": "Lee County",
-    "cases": 5,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -81.9169395,
-      26.5528805
-    ],
-    "featureId": 331,
-    "population": 754610
-  },
-  {
-    "county": "Charlotte County",
-    "cases": 1,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -81.9689695,
-      26.902401
-    ],
-    "featureId": 332,
-    "population": 184998
-  },
-  {
-    "county": "Okaloosa County",
-    "cases": 1,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -86.59446449999999,
-      30.687763500000003
-    ],
-    "featureId": 333,
-    "population": 207269
-  },
-  {
-    "county": "Volusia County",
-    "cases": 5,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -81.20657349999999,
-      29.0200235
-    ],
-    "featureId": 334,
-    "population": 547538
-  },
-  {
-    "county": "Nassau County",
-    "cases": 1,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -81.73892599999999,
-      30.550462500000002
-    ],
-    "featureId": 335,
-    "population": 85832
-  },
-  {
-    "county": "Collier County",
-    "cases": 5,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -81.35938300000001,
-      26.1601955
-    ],
-    "featureId": 336,
-    "population": 378488
-  },
-  {
-    "county": "Pinellas County",
-    "cases": 2,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -82.70897249999999,
-      27.893119
-    ],
-    "featureId": 337,
-    "population": 975280
-  },
-  {
-    "county": "Pasco County",
-    "cases": 2,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -82.4298955,
-      28.3252435
-    ],
-    "featureId": 338,
-    "population": 539630
-  },
-  {
-    "county": "Miami-Dade County",
-    "cases": 13,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -80.495494,
-      25.5606775
-    ],
-    "featureId": 339,
-    "population": 2761581
-  },
-  {
-    "county": "Seminole County",
-    "cases": 1,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -81.2234725,
-      28.745247499999998
-    ],
-    "featureId": 340,
-    "population": 467832
-  },
-  {
-    "county": "Palm Beach County",
-    "cases": 5,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -80.4587305,
-      26.645985500000002
-    ],
-    "featureId": 341,
-    "population": 1485941
-  },
-  {
-    "county": "Sarasota County",
-    "cases": 1,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -82.349667,
-      27.167500500000003
-    ],
-    "featureId": 342,
-    "population": 426718
-  },
-  {
-    "county": "Alachua County",
-    "cases": 1,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -82.3544225,
-      29.681131999999998
-    ],
-    "featureId": 343,
-    "population": 269956
-  },
-  {
-    "county": "Duval County",
-    "cases": 4,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -81.714645,
-      30.34499
-    ],
-    "featureId": 344,
-    "population": 950181
-  },
-  {
-    "county": "Clay County",
-    "cases": 3,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -81.815316,
-      29.956068000000002
-    ],
-    "featureId": 345,
-    "population": 216072
-  },
-  {
-    "county": "Orange County",
-    "cases": 2,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -81.2607525,
-      28.566533999999997
-    ],
-    "featureId": 346,
-    "population": 1380645
-  },
-  {
-    "county": "Osceola County",
-    "cases": 1,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -81.2600415,
-      27.995169500000003
-    ],
-    "featureId": 347,
-    "population": 367990
-  },
-  {
-    "county": "Citrus County",
-    "cases": 1,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -82.4640235,
-      28.858776
-    ],
-    "featureId": 348,
-    "population": 147929
-  },
-  {
-    "county": "St. Johns County",
-    "cases": 1,
-    "state": "FL",
-    "country": "USA",
-    "url": "http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html",
-    "coordinates": [
-      -81.4511455,
-      29.937673
-    ],
-    "featureId": 349,
-    "population": 254261
-  },
-  {
     "county": "Albany",
     "cases": 8,
     "state": "NY",
@@ -5735,7 +5436,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 350,
+    "featureId": 327,
     "population": 883305
   },
   {
@@ -5749,7 +5450,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 351,
+    "featureId": 328,
     "population": 769545
   },
   {
@@ -5763,7 +5464,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 352,
+    "featureId": 329,
     "population": 1666753
   },
   {
@@ -5776,7 +5477,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 353,
+    "featureId": 330,
     "population": 499942
   },
   {
@@ -5789,7 +5490,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 354,
+    "featureId": 331,
     "population": 274255
   },
   {
@@ -5802,7 +5503,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 355,
+    "featureId": 332,
     "population": 446610
   },
   {
@@ -5816,7 +5517,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 356,
+    "featureId": 333,
     "population": 1150215
   },
   {
@@ -5829,7 +5530,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 357,
+    "featureId": 334,
     "population": 549815
   },
   {
@@ -5842,12 +5543,12 @@
       -121.962515,
       38.619189
     ],
-    "featureId": 358,
+    "featureId": 335,
     "population": 220408
   },
   {
     "cases": 32,
-    "deaths": 2,
+    "deaths": 1,
     "county": "Sacramento County",
     "state": "CA",
     "country": "USA",
@@ -5856,7 +5557,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 359,
+    "featureId": 336,
     "population": 1540975
   },
   {
@@ -5870,7 +5571,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 360,
+    "featureId": 337,
     "population": 994400
   },
   {
@@ -5883,7 +5584,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 361,
+    "featureId": 338,
     "population": 157672
   },
   {
@@ -5897,7 +5598,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 362,
+    "featureId": 339,
     "population": 393149
   },
   {
@@ -5910,7 +5611,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 363,
+    "featureId": 340,
     "population": 180040
   },
   {
@@ -5924,7 +5625,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 364,
+    "featureId": 341,
     "population": 10105518
   },
   {
@@ -5938,7 +5639,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 365,
+    "featureId": 342,
     "population": 3185968
   },
   {
@@ -5951,7 +5652,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 366,
+    "featureId": 343,
     "population": 2450758
   },
   {
@@ -5965,7 +5666,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 367,
+    "featureId": 344,
     "population": 3343364
   },
   {
@@ -5979,7 +5680,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 368,
+    "featureId": 345,
     "population": 850967
   },
   {
@@ -5992,7 +5693,7 @@
       -89.4235435,
       43.069541
     ],
-    "featureId": 369,
+    "featureId": 346,
     "population": 542364
   },
   {
@@ -6005,7 +5706,7 @@
       -88.5234625,
       43.7405715
     ],
-    "featureId": 370,
+    "featureId": 347,
     "population": 103066
   },
   {
@@ -6018,7 +5719,7 @@
       -87.94847250000001,
       43.017386
     ],
-    "featureId": 371,
+    "featureId": 348,
     "population": 948201
   },
   {
@@ -6031,7 +5732,7 @@
       -92.47159500000001,
       44.7007885
     ],
-    "featureId": 372,
+    "featureId": 349,
     "population": 42555
   },
   {
@@ -6044,7 +5745,7 @@
       -88.0365295,
       42.72707
     ],
-    "featureId": 373,
+    "featureId": 350,
     "population": 196584
   },
   {
@@ -6057,7 +5758,7 @@
       -87.9311795,
       43.7172725
     ],
-    "featureId": 374,
+    "featureId": 351,
     "population": 115456
   },
   {
@@ -6070,7 +5771,7 @@
       -88.30268950000001,
       43.018702
     ],
-    "featureId": 375,
+    "featureId": 352,
     "population": 403072
   },
   {
@@ -6083,7 +5784,7 @@
       -88.644934,
       44.0685395
     ],
-    "featureId": 376,
+    "featureId": 353,
     "population": 171020
   },
   {
@@ -6096,7 +5797,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 377,
+    "featureId": 354,
     "population": 18883
   },
   {
@@ -6109,7 +5810,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 378,
+    "featureId": 355,
     "population": 6980
   },
   {
@@ -6122,7 +5823,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 379,
+    "featureId": 356,
     "population": 9338
   },
   {
@@ -6135,7 +5836,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 380,
+    "featureId": 357,
     "population": 19790
   },
   {
@@ -6148,7 +5849,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 381,
+    "featureId": 358,
     "population": 5546
   },
   {
@@ -6161,7 +5862,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 382,
+    "featureId": 359,
     "population": 192876
   },
   {
@@ -6174,7 +5875,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 383,
+    "featureId": 360,
     "population": 111729
   },
   {
@@ -6201,7 +5902,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 384,
+    "featureId": 361,
     "population": 351713
   },
   {
@@ -6214,7 +5915,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 385,
+    "featureId": 362,
     "population": 1152633
   },
   {
@@ -6227,7 +5928,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 386,
+    "featureId": 363,
     "population": 15449
   },
   {
@@ -6254,7 +5955,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 387,
+    "featureId": 364,
     "population": 41933
   },
   {
@@ -6267,7 +5968,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 388,
+    "featureId": 365,
     "population": 69907
   },
   {
@@ -6287,7 +5988,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 389,
+    "featureId": 366,
     "population": 622213
   },
   {
@@ -6300,7 +6001,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 390,
+    "featureId": 367,
     "population": 33240
   },
   {
@@ -6320,7 +6021,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 391,
+    "featureId": 368,
     "population": 39583
   },
   {
@@ -6333,7 +6034,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 392,
+    "featureId": 369,
     "population": 692587
   },
   {
@@ -6346,7 +6047,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 393,
+    "featureId": 370,
     "population": 364286
   },
   {
@@ -6359,7 +6060,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 394,
+    "featureId": 371,
     "population": 54012
   },
   {
@@ -6372,7 +6073,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 395,
+    "featureId": 372,
     "population": 465289
   },
   {
@@ -6385,7 +6086,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 396,
+    "featureId": 373,
     "population": 324890
   },
   {
@@ -6398,7 +6099,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 397,
+    "featureId": 374,
     "population": 935764
   },
   {
@@ -6411,7 +6112,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 398,
+    "featureId": 375,
     "population": 157668
   },
   {
@@ -6424,7 +6125,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 399,
+    "featureId": 376,
     "population": 231729
   },
   {
@@ -6437,7 +6138,7 @@
       -80.970149,
       40.011337999999995
     ],
-    "featureId": 400,
+    "featureId": 377,
     "population": 67505
   },
   {
@@ -6450,7 +6151,7 @@
       -84.5757445,
       39.441655499999996
     ],
-    "featureId": 401,
+    "featureId": 378,
     "population": 382378
   },
   {
@@ -6463,7 +6164,7 @@
       -81.67301699999999,
       41.453196000000005
     ],
-    "featureId": 402,
+    "featureId": 379,
     "population": 1243857
   },
   {
@@ -6476,7 +6177,7 @@
       -83.010875,
       39.9690415
     ],
-    "featureId": 403,
+    "featureId": 380,
     "population": 1310300
   },
   {
@@ -6489,7 +6190,7 @@
       -82.112518,
       41.289587999999995
     ],
-    "featureId": 404,
+    "featureId": 381,
     "population": 309461
   },
   {
@@ -6502,7 +6203,7 @@
       -83.5244735,
       41.573549
     ],
-    "featureId": 405,
+    "featureId": 382,
     "population": 429899
   },
   {
@@ -6515,7 +6216,7 @@
       -81.92915450000001,
       41.132868
     ],
-    "featureId": 406,
+    "featureId": 383,
     "population": 179146
   },
   {
@@ -6528,7 +6229,7 @@
       -81.3683635,
       40.811817000000005
     ],
-    "featureId": 407,
+    "featureId": 384,
     "population": 371574
   },
   {
@@ -6541,7 +6242,7 @@
       -81.5400925,
       41.1288115
     ],
-    "featureId": 408,
+    "featureId": 385,
     "population": 541918
   },
   {
@@ -6554,7 +6255,7 @@
       -80.76100600000001,
       41.3175365
     ],
-    "featureId": 409,
+    "featureId": 386,
     "population": 198627
   },
   {
@@ -6567,7 +6268,7 @@
       -81.488516,
       40.440586499999995
     ],
-    "featureId": 410,
+    "featureId": 387,
     "population": 92176
   },
   {
@@ -6580,7 +6281,7 @@
       -73.397813,
       41.3259525
     ],
-    "featureId": 411,
+    "featureId": 388,
     "population": 943823
   },
   {
@@ -6607,7 +6308,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 412,
+    "featureId": 389,
     "population": 857620
   }
 ]
