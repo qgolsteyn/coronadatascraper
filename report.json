@@ -1,0 +1,76 @@
+{
+  "scrape": {
+    "numCountries": 139,
+    "numStates": 131,
+    "numCounties": 502,
+    "numDuplicates": 11,
+    "numErrors": 2,
+    "errors": [
+      {
+        "name": "IA, USA",
+        "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+        "err": "Error: Invalid data: contains no case data"
+      },
+      {
+        "name": "TX, USA",
+        "url": "https://www.dshs.state.tx.us/news/updates.shtm",
+        "err": "Error: unable to verify the first certificate"
+      }
+    ]
+  },
+  "findFeatures": {
+    "numFeaturesFound": 749,
+    "missingFeatures": [
+      "PHL",
+      "NZL",
+      "MCO",
+      "MDV",
+      "Macau, CHN",
+      "Channel Islands, GBR",
+      "French Polynesia, FRA",
+      "GLP",
+      "VCT",
+      "Zurich, CHE",
+      "Friuli Venezia Giulia, ITA",
+      "Puglia, ITA",
+      "Sicilia, ITA",
+      "Unknown county County, CO, USA",
+      "LaSalle Parish, LA, USA",
+      "Bear River County, UT, USA",
+      "Central Utah County, UT, USA",
+      "Southeast Utah County, UT, USA",
+      "Southwest Utah County, UT, USA",
+      "Tri County, UT, USA",
+      "Weber-Morgan County, UT, USA"
+    ]
+  },
+  "findPopulation": {
+    "numLocationsWithPopulation": 748,
+    "missingPopulations": [
+      "PHL",
+      "NZL",
+      "MCO",
+      "MLT",
+      "MTQ",
+      "MDV",
+      "St Martin, FRA",
+      "Channel Islands, GBR",
+      "REU",
+      "French Polynesia, FRA",
+      "GLP",
+      "VCT",
+      "GU, USA",
+      "Zurich, CHE",
+      "Trentino-South Tyrol, ITA",
+      "Emilia-Romagna, ITA",
+      "Unknown county County, CO, USA",
+      "Bear River County, UT, USA",
+      "Central Utah County, UT, USA",
+      "Southeast Utah County, UT, USA",
+      "Southwest Utah County, UT, USA",
+      "Tri County, UT, USA",
+      "Weber-Morgan County, UT, USA",
+      "Baltimore City, MD, USA"
+    ]
+  }
+}
