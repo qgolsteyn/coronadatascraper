@@ -14649,7 +14649,7 @@
   "Davidson County, TN, USA": {
     "dates": {
       "2020-3-16": {
-        "cases": 17
+        "cases": 25
       }
     },
     "county": "Davidson County",
@@ -14731,6 +14731,23 @@
     "featureId": 362,
     "population": 324890
   },
+  "Sevier County, TN, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 1
+      }
+    },
+    "county": "Sevier County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -83.5242525,
+      35.8029015
+    ],
+    "featureId": 363,
+    "population": 97892
+  },
   "Shelby County, TN, USA": {
     "dates": {
       "2020-3-16": {
@@ -14745,7 +14762,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 363,
+    "featureId": 364,
     "population": 935764
   },
   "Sullivan County, TN, USA": {
@@ -14762,13 +14779,13 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 364,
+    "featureId": 365,
     "population": 157668
   },
   "Williamson County, TN, USA": {
     "dates": {
       "2020-3-16": {
-        "cases": 14
+        "cases": 18
       }
     },
     "county": "Williamson County",
@@ -14779,7 +14796,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 365,
+    "featureId": 366,
     "population": 231729
   },
   "2 County, OH, USA": {
@@ -14807,7 +14824,7 @@
       -73.397813,
       41.3259525
     ],
-    "featureId": 366,
+    "featureId": 367,
     "population": 943823
   },
   "Hartford County: 3, CT, USA": {
@@ -14846,7 +14863,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 367,
+    "featureId": 368,
     "population": 857620
   }
 }

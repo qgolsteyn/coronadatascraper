@@ -5883,7 +5883,7 @@
   },
   {
     "county": "Davidson County",
-    "cases": 17,
+    "cases": 25,
     "state": "TN",
     "country": "USA",
     "url": "https://www.tn.gov/health/cedep/ncov.html",
@@ -5947,6 +5947,19 @@
     "population": 324890
   },
   {
+    "county": "Sevier County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -83.5242525,
+      35.8029015
+    ],
+    "featureId": 363,
+    "population": 97892
+  },
+  {
     "county": "Shelby County",
     "cases": 2,
     "state": "TN",
@@ -5956,7 +5969,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 363,
+    "featureId": 364,
     "population": 935764
   },
   {
@@ -5969,12 +5982,12 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 364,
+    "featureId": 365,
     "population": 157668
   },
   {
     "county": "Williamson County",
-    "cases": 14,
+    "cases": 18,
     "state": "TN",
     "country": "USA",
     "url": "https://www.tn.gov/health/cedep/ncov.html",
@@ -5982,7 +5995,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 365,
+    "featureId": 366,
     "population": 231729
   },
   {
@@ -6002,7 +6015,7 @@
       -73.397813,
       41.3259525
     ],
-    "featureId": 366,
+    "featureId": 367,
     "population": 943823
   },
   {
@@ -6029,7 +6042,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 367,
+    "featureId": 368,
     "population": 857620
   }
 ]
