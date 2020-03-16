@@ -6311,188 +6311,6 @@
     "url": "https://coronavirus.utah.gov/latest/"
   },
   {
-    "county": "Allegheny County",
-    "cases": 3,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -80.02482499999999,
-      40.434321
-    ],
-    "featureId": 391,
-    "population": 1218452
-  },
-  {
-    "county": "Bucks County",
-    "cases": 4,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -75.1027805,
-      40.3287395
-    ],
-    "featureId": 392,
-    "population": 628195
-  },
-  {
-    "county": "Chester County",
-    "cases": 2,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -75.748325,
-      39.9833405
-    ],
-    "featureId": 393,
-    "population": 522046
-  },
-  {
-    "county": "Cumberland County",
-    "cases": 5,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -77.2432875,
-      40.1362805
-    ],
-    "featureId": 394,
-    "population": 251423
-  },
-  {
-    "county": "Delaware County",
-    "cases": 7,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -75.404395,
-      39.9336645
-    ],
-    "featureId": 395,
-    "population": 564751
-  },
-  {
-    "county": "Lehigh County",
-    "cases": 1,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -75.6124935,
-      40.602919
-    ],
-    "featureId": 396,
-    "population": 368100
-  },
-  {
-    "county": "Luzerne County",
-    "cases": 1,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -75.95966200000001,
-      41.164615999999995
-    ],
-    "featureId": 397,
-    "population": 317646
-  },
-  {
-    "county": "Monroe County",
-    "cases": 6,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -75.308198,
-      41.0334235
-    ],
-    "featureId": 398,
-    "population": 169507
-  },
-  {
-    "county": "Montgomery County",
-    "cases": 24,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -75.355924,
-      40.211977000000005
-    ],
-    "featureId": 399,
-    "population": 828604
-  },
-  {
-    "county": "Northampton County",
-    "cases": 1,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -75.32991200000001,
-      40.752713
-    ],
-    "featureId": 400,
-    "population": 304807
-  },
-  {
-    "county": "Philadelphia County",
-    "cases": 6,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -75.116323,
-      40.0018505
-    ],
-    "featureId": 401,
-    "population": 1584138
-  },
-  {
-    "county": "Pike County",
-    "cases": 1,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -75.02435,
-      41.340779
-    ],
-    "featureId": 402,
-    "population": 55933
-  },
-  {
-    "county": "Washington County",
-    "cases": 1,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -80.1791085,
-      40.2152165
-    ],
-    "featureId": 403,
-    "population": 207346
-  },
-  {
-    "county": "Wayne County",
-    "cases": 1,
-    "state": "PA",
-    "country": "USA",
-    "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx",
-    "coordinates": [
-      -75.2745845,
-      41.615992000000006
-    ],
-    "featureId": 404,
-    "population": 51276
-  },
-  {
     "county": "Campbell County",
     "cases": 1,
     "state": "TN",
@@ -6502,7 +6320,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 405,
+    "featureId": 391,
     "population": 39583
   },
   {
@@ -6515,7 +6333,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 406,
+    "featureId": 392,
     "population": 692587
   },
   {
@@ -6528,7 +6346,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 407,
+    "featureId": 393,
     "population": 364286
   },
   {
@@ -6541,7 +6359,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 408,
+    "featureId": 394,
     "population": 54012
   },
   {
@@ -6554,7 +6372,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 409,
+    "featureId": 395,
     "population": 465289
   },
   {
@@ -6567,7 +6385,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 410,
+    "featureId": 396,
     "population": 324890
   },
   {
@@ -6580,7 +6398,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 411,
+    "featureId": 397,
     "population": 935764
   },
   {
@@ -6593,7 +6411,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 412,
+    "featureId": 398,
     "population": 157668
   },
   {
@@ -6606,7 +6424,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 413,
+    "featureId": 399,
     "population": 231729
   },
   {
@@ -6619,7 +6437,7 @@
       -80.970149,
       40.011337999999995
     ],
-    "featureId": 414,
+    "featureId": 400,
     "population": 67505
   },
   {
@@ -6632,7 +6450,7 @@
       -84.5757445,
       39.441655499999996
     ],
-    "featureId": 415,
+    "featureId": 401,
     "population": 382378
   },
   {
@@ -6645,7 +6463,7 @@
       -81.67301699999999,
       41.453196000000005
     ],
-    "featureId": 416,
+    "featureId": 402,
     "population": 1243857
   },
   {
@@ -6658,7 +6476,7 @@
       -83.010875,
       39.9690415
     ],
-    "featureId": 417,
+    "featureId": 403,
     "population": 1310300
   },
   {
@@ -6671,7 +6489,7 @@
       -82.112518,
       41.289587999999995
     ],
-    "featureId": 418,
+    "featureId": 404,
     "population": 309461
   },
   {
@@ -6684,7 +6502,7 @@
       -83.5244735,
       41.573549
     ],
-    "featureId": 419,
+    "featureId": 405,
     "population": 429899
   },
   {
@@ -6697,7 +6515,7 @@
       -81.92915450000001,
       41.132868
     ],
-    "featureId": 420,
+    "featureId": 406,
     "population": 179146
   },
   {
@@ -6710,7 +6528,7 @@
       -81.3683635,
       40.811817000000005
     ],
-    "featureId": 421,
+    "featureId": 407,
     "population": 371574
   },
   {
@@ -6723,7 +6541,7 @@
       -81.5400925,
       41.1288115
     ],
-    "featureId": 422,
+    "featureId": 408,
     "population": 541918
   },
   {
@@ -6736,7 +6554,7 @@
       -80.76100600000001,
       41.3175365
     ],
-    "featureId": 423,
+    "featureId": 409,
     "population": 198627
   },
   {
@@ -6749,7 +6567,7 @@
       -81.488516,
       40.440586499999995
     ],
-    "featureId": 424,
+    "featureId": 410,
     "population": 92176
   },
   {
@@ -6762,7 +6580,7 @@
       -73.397813,
       41.3259525
     ],
-    "featureId": 425,
+    "featureId": 411,
     "population": 943823
   },
   {
@@ -6789,7 +6607,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 426,
+    "featureId": 412,
     "population": 857620
   }
 ]
