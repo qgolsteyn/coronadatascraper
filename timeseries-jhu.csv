@@ -249,7 +249,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Elmore County,AL,USA,32.5876855,-86.13298,81887,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,1
 ,Jefferson County,AL,USA,33.544622000000004,-86.92924049999999,659300,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,17
 ,Limestone County,AL,USA,34.774907,-87.030965,96174,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,1
-,Montgomery County,AL,USA,32.2330785,-86.2080335,225763,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,1
+,Montgomery County,AL,USA,32.2330785,-86.2080335,225763,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,2
 ,Tuscaloosa County,AL,USA,33.306606,-87.4532105,208911,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,3
 ,Clackamas County,OR,USA,45.1737,-122.26009400000001,416075,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,1
 ,Deschutes County,OR,USA,44.001645499999995,-120.94952,191996,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,4
@@ -336,7 +336,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Yakima County,WA,USA,,,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,,,
 ,San Francisco County,CA,USA,37.7901875,-122.4356335,883305,,,https://www.sfdph.org/dph/alerts/coronavirus.asp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21,28,,40
 ,San Mateo County,CA,USA,37.407824500000004,-122.30050299999999,769545,,,https://www.smchealth.org/coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,20,26,,41
-,Alameda County,CA,USA,37.6801065,-121.9024445,1666753,,,http://www.acphd.org/2019-ncov.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,0
+,Alameda County,CA,USA,,,,,,http://www.acphd.org/2019-ncov.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,
 ,Sonoma County,CA,USA,38.4810965,-122.946388,499942,,,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,5
 ,Santa Cruz County,CA,USA,37.0683515,-121.94941800000001,274255,,,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,,0
 ,Solano County,CA,USA,38.2871145,-122.0001255,446610,,,http://www.solanocounty.com/depts/ph/coronavirus.asp,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6,6,,9
@@ -574,6 +574,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Shelby County,TN,USA,35.2013885,-89.97153700000001,935764,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
 ,Sullivan County,TN,USA,36.5043,-82.2645105,157668,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Williamson County,TN,USA,35.875785500000006,-86.90776349999999,231729,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,18
+,2 County,OH,USA,,,,,,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 ,Fairfield County: 29,CT,USA,,,,,,https://portal.ct.gov/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 ,Hartford County: 4,CT,USA,,,,,,https://portal.ct.gov/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 ,Litchfield County: 4,CT,USA,,,,,,https://portal.ct.gov/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
