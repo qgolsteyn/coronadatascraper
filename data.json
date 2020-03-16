@@ -5240,45 +5240,6 @@
     "population": 434051
   },
   {
-    "county": "New Castle County",
-    "cases": 7,
-    "state": "DE",
-    "country": "USA",
-    "url": "https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html",
-    "coordinates": [
-      -75.5969975,
-      39.565300500000006
-    ],
-    "featureId": 324,
-    "population": 559335
-  },
-  {
-    "county": "Kent County",
-    "cases": 0,
-    "state": "DE",
-    "country": "USA",
-    "url": "https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html",
-    "coordinates": [
-      -75.5358555,
-      39.0977575
-    ],
-    "featureId": 325,
-    "population": 178550
-  },
-  {
-    "county": "Sussex County",
-    "cases": 0,
-    "state": "DE",
-    "country": "USA",
-    "url": "https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html",
-    "coordinates": [
-      -75.38576900000001,
-      38.706443
-    ],
-    "featureId": 326,
-    "population": 229286
-  },
-  {
     "county": "Albany",
     "cases": 8,
     "state": "NY",
@@ -5436,7 +5397,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 327,
+    "featureId": 324,
     "population": 883305
   },
   {
@@ -5450,7 +5411,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 328,
+    "featureId": 325,
     "population": 769545
   },
   {
@@ -5464,7 +5425,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 329,
+    "featureId": 326,
     "population": 1666753
   },
   {
@@ -5477,7 +5438,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 330,
+    "featureId": 327,
     "population": 499942
   },
   {
@@ -5490,7 +5451,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 331,
+    "featureId": 328,
     "population": 274255
   },
   {
@@ -5503,7 +5464,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 332,
+    "featureId": 329,
     "population": 446610
   },
   {
@@ -5517,7 +5478,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 333,
+    "featureId": 330,
     "population": 1150215
   },
   {
@@ -5530,7 +5491,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 334,
+    "featureId": 331,
     "population": 549815
   },
   {
@@ -5543,7 +5504,7 @@
       -121.962515,
       38.619189
     ],
-    "featureId": 335,
+    "featureId": 332,
     "population": 220408
   },
   {
@@ -5557,7 +5518,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 336,
+    "featureId": 333,
     "population": 1540975
   },
   {
@@ -5571,7 +5532,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 337,
+    "featureId": 334,
     "population": 994400
   },
   {
@@ -5584,7 +5545,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 338,
+    "featureId": 335,
     "population": 157672
   },
   {
@@ -5598,7 +5559,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 339,
+    "featureId": 336,
     "population": 393149
   },
   {
@@ -5611,7 +5572,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 340,
+    "featureId": 337,
     "population": 180040
   },
   {
@@ -5625,7 +5586,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 341,
+    "featureId": 338,
     "population": 10105518
   },
   {
@@ -5639,7 +5600,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 342,
+    "featureId": 339,
     "population": 3185968
   },
   {
@@ -5652,7 +5613,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 343,
+    "featureId": 340,
     "population": 2450758
   },
   {
@@ -5666,7 +5627,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 344,
+    "featureId": 341,
     "population": 3343364
   },
   {
@@ -5680,7 +5641,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 345,
+    "featureId": 342,
     "population": 850967
   },
   {
@@ -5693,7 +5654,7 @@
       -89.4235435,
       43.069541
     ],
-    "featureId": 346,
+    "featureId": 343,
     "population": 542364
   },
   {
@@ -5706,7 +5667,7 @@
       -88.5234625,
       43.7405715
     ],
-    "featureId": 347,
+    "featureId": 344,
     "population": 103066
   },
   {
@@ -5719,7 +5680,7 @@
       -87.94847250000001,
       43.017386
     ],
-    "featureId": 348,
+    "featureId": 345,
     "population": 948201
   },
   {
@@ -5732,7 +5693,7 @@
       -92.47159500000001,
       44.7007885
     ],
-    "featureId": 349,
+    "featureId": 346,
     "population": 42555
   },
   {
@@ -5745,7 +5706,7 @@
       -88.0365295,
       42.72707
     ],
-    "featureId": 350,
+    "featureId": 347,
     "population": 196584
   },
   {
@@ -5758,7 +5719,7 @@
       -87.9311795,
       43.7172725
     ],
-    "featureId": 351,
+    "featureId": 348,
     "population": 115456
   },
   {
@@ -5771,7 +5732,7 @@
       -88.30268950000001,
       43.018702
     ],
-    "featureId": 352,
+    "featureId": 349,
     "population": 403072
   },
   {
@@ -5784,7 +5745,7 @@
       -88.644934,
       44.0685395
     ],
-    "featureId": 353,
+    "featureId": 350,
     "population": 171020
   },
   {
@@ -5797,7 +5758,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 354,
+    "featureId": 351,
     "population": 18883
   },
   {
@@ -5810,7 +5771,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 355,
+    "featureId": 352,
     "population": 6980
   },
   {
@@ -5823,7 +5784,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 356,
+    "featureId": 353,
     "population": 9338
   },
   {
@@ -5836,7 +5797,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 357,
+    "featureId": 354,
     "population": 19790
   },
   {
@@ -5849,7 +5810,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 358,
+    "featureId": 355,
     "population": 5546
   },
   {
@@ -5862,7 +5823,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 359,
+    "featureId": 356,
     "population": 192876
   },
   {
@@ -5875,7 +5836,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 360,
+    "featureId": 357,
     "population": 111729
   },
   {
@@ -5902,7 +5863,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 361,
+    "featureId": 358,
     "population": 351713
   },
   {
@@ -5915,7 +5876,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 362,
+    "featureId": 359,
     "population": 1152633
   },
   {
@@ -5928,7 +5889,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 363,
+    "featureId": 360,
     "population": 15449
   },
   {
@@ -5955,7 +5916,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 364,
+    "featureId": 361,
     "population": 41933
   },
   {
@@ -5968,7 +5929,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 365,
+    "featureId": 362,
     "population": 69907
   },
   {
@@ -5988,7 +5949,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 366,
+    "featureId": 363,
     "population": 622213
   },
   {
@@ -6001,7 +5962,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 367,
+    "featureId": 364,
     "population": 33240
   },
   {
@@ -6021,7 +5982,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 368,
+    "featureId": 365,
     "population": 39583
   },
   {
@@ -6034,7 +5995,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 369,
+    "featureId": 366,
     "population": 692587
   },
   {
@@ -6047,7 +6008,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 370,
+    "featureId": 367,
     "population": 364286
   },
   {
@@ -6060,7 +6021,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 371,
+    "featureId": 368,
     "population": 54012
   },
   {
@@ -6073,7 +6034,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 372,
+    "featureId": 369,
     "population": 465289
   },
   {
@@ -6086,7 +6047,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 373,
+    "featureId": 370,
     "population": 324890
   },
   {
@@ -6099,7 +6060,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 374,
+    "featureId": 371,
     "population": 935764
   },
   {
@@ -6112,7 +6073,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 375,
+    "featureId": 372,
     "population": 157668
   },
   {
@@ -6125,151 +6086,8 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 376,
+    "featureId": 373,
     "population": 231729
-  },
-  {
-    "county": "Belmont County",
-    "cases": 2,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -80.970149,
-      40.011337999999995
-    ],
-    "featureId": 377,
-    "population": 67505
-  },
-  {
-    "county": "Butler County",
-    "cases": 6,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -84.5757445,
-      39.441655499999996
-    ],
-    "featureId": 378,
-    "population": 382378
-  },
-  {
-    "county": "Cuyahoga County",
-    "cases": 14,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -81.67301699999999,
-      41.453196000000005
-    ],
-    "featureId": 379,
-    "population": 1243857
-  },
-  {
-    "county": "Franklin County",
-    "cases": 3,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -83.010875,
-      39.9690415
-    ],
-    "featureId": 380,
-    "population": 1310300
-  },
-  {
-    "county": "Lorain County",
-    "cases": 2,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -82.112518,
-      41.289587999999995
-    ],
-    "featureId": 381,
-    "population": 309461
-  },
-  {
-    "county": "Lucas County",
-    "cases": 1,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -83.5244735,
-      41.573549
-    ],
-    "featureId": 382,
-    "population": 429899
-  },
-  {
-    "county": "Medina County",
-    "cases": 1,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -81.92915450000001,
-      41.132868
-    ],
-    "featureId": 383,
-    "population": 179146
-  },
-  {
-    "county": "Stark County",
-    "cases": 3,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -81.3683635,
-      40.811817000000005
-    ],
-    "featureId": 384,
-    "population": 371574
-  },
-  {
-    "county": "Summit County",
-    "cases": 2,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -81.5400925,
-      41.1288115
-    ],
-    "featureId": 385,
-    "population": 541918
-  },
-  {
-    "county": "Trumbull County",
-    "cases": 2,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -80.76100600000001,
-      41.3175365
-    ],
-    "featureId": 386,
-    "population": 198627
-  },
-  {
-    "county": "Tuscarawas County",
-    "cases": 1,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -81.488516,
-      40.440586499999995
-    ],
-    "featureId": 387,
-    "population": 92176
   },
   {
     "county": "Fairfield County",
@@ -6281,7 +6099,7 @@
       -73.397813,
       41.3259525
     ],
-    "featureId": 388,
+    "featureId": 374,
     "population": 943823
   },
   {
@@ -6308,7 +6126,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 389,
+    "featureId": 375,
     "population": 857620
   }
 ]
