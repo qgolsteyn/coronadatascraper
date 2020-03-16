@@ -312,88 +312,70 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Montgomery County,AL,USA,2,2,,,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,228,225763
 ,Shelby County,AL,USA,3,3,,,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,229,215707
 ,Tuscaloosa County,AL,USA,3,3,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,230,208911
-,Adams County,CO,USA,6,,,,39.87063,-104.3794855,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,231,511868
-,Arapahoe County,CO,USA,15,,,,39.6533655,-104.38034350000001,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,232,651215
-,Boulder County,CO,USA,3,,,,40.0878355,-105.37153699999999,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,233,326078
-,Clear Creek County,CO,USA,1,,,,39.7084305,-105.66211949999999,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,234,9605
-,Denver County,CO,USA,24,,,,39.76426,-104.855181,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,235,716492
-,Douglas County,CO,USA,8,,,,39.34788,-104.994923,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,236,342776
-,Eagle County,CO,USA,22,,,,39.6373275,-106.645068,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,237,54993
-,El Paso County,CO,USA,4,,,,38.824693999999994,-104.5619235,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,238,713856
-,Garfield County,CO,USA,1,,,,39.728802,-108.0417065,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,239,59770
-,Gunnison County,CO,USA,8,,,,38.702179,-106.94099,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,240,17246
-,Jefferson County,CO,USA,12,,,,39.5219745,-105.2238445,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,241,580233
-,Larimer County,CO,USA,1,,,,40.628046999999995,-105.5669625,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,242,350518
-,Mesa County,CO,USA,1,,,,38.933332,-108.21971400000001,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,243,153207
-,Pitkin County,CO,USA,2,,,,39.171949,-106.946222,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,244,17950
-,Pueblo County,CO,USA,1,,,,38.1285485,-104.5522995,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,245,167529
-,Summit County,CO,USA,1,,,,39.6416725,-106.10532549999999,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,246,31007
-,Weld County,CO,USA,5,,,,40.5011525,-104.315327,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,247,314305
-,Unknown county County,CO,USA,1,,,,,,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,,
-,De Soto Parish,LA,USA,0,0,,,32.0948115,-93.699102,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,248,27436
-,St. John the Baptist Parish,LA,USA,1,0,,,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,249,43184
-,Lafourche Parish,LA,USA,2,0,,,29.4895455,-90.50821049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,250,98115
-,Orleans Parish,LA,USA,79,0,,,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,251,391006
-,Sabine Parish,LA,USA,0,0,,,31.505406999999998,-93.557699,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,252,24032
-,Tangipahoa Parish,LA,USA,0,0,,,30.612403,-90.405269,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,253,133777
-,St. Tammany Parish,LA,USA,5,0,,,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,254,258111
-,Livingston Parish,LA,USA,0,0,,,30.412879,-90.696248,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,255,139567
-,St. Charles Parish,LA,USA,3,0,,,29.961458,-90.3585315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,256,52879
-,Calcasieu Parish,LA,USA,0,0,,,30.2639165,-93.326522,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,257,203112
-,Union Parish,LA,USA,0,0,,,32.7976865,-92.394117,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,258,22330
-,Caldwell Parish,LA,USA,0,0,,,32.102264500000004,-92.09278499999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,259,9960
-,Tensas Parish,LA,USA,0,0,,,31.991290499999998,-91.3045835,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,260,4462
-,Jackson Parish,LA,USA,0,0,,,32.3212645,-92.56701000000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,261,15902
-,Grant Parish,LA,USA,0,0,,,31.5926135,-92.58483,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,262,22482
-,Lincoln Parish,LA,USA,0,0,,,32.606269499999996,-92.64820449999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,263,47196
-,Jefferson Davis Parish,LA,USA,0,0,,,30.2628035,-92.857122,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,264,31582
-,Lafayette Parish,LA,USA,0,0,,,30.2075775,-92.0951095,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,265,242782
-,East Carroll Parish,LA,USA,0,0,,,32.7714455,-91.2303025,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,266,7037
-,East Feliciana Parish,LA,USA,0,0,,,30.824589,-91.0732675,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,267,19305
-,Iberville Parish,LA,USA,0,0,,,30.2613845,-91.3600815,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,268,32721
-,Richland Parish,LA,USA,0,0,,,32.409445500000004,-91.732693,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,269,20192
-,St. Martin Parish,LA,USA,0,0,,,30.09857,-91.53909150000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,270,53621
-,Claiborne Parish,LA,USA,0,0,,,32.8016545,-92.981675,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,271,15944
-,St. Landry Parish,LA,USA,0,0,,,30.573712,-92.08607749999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,272,82764
-,Pointe Coupee Parish,LA,USA,0,0,,,30.750701999999997,-91.5623665,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,273,21940
-,La Salle Parish,LA,USA,0,0,,,31.6257625,-92.186641,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,274,
-,Webster Parish,LA,USA,0,0,,,32.7143435,-93.3384255,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,275,38798
-,St. James Parish,LA,USA,0,0,,,30.027838,-90.8028455,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,276,21037
-,Morehouse Parish,LA,USA,0,0,,,32.7570325,-91.76029249999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,277,25398
-,Rapides Parish,LA,USA,0,0,,,31.203797,-92.5286315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,278,130562
-,Avoyelles Parish,LA,USA,0,0,,,31.095483,-91.97901999999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,279,40462
-,Winn Parish,LA,USA,0,0,,,31.928432,-92.64287350000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,280,14134
-,Catahoula Parish,LA,USA,0,0,,,31.5993165,-91.776279,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,281,9608
-,Assumption Parish,LA,USA,0,0,,,29.8539995,-91.0722915,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,282,22300
-,Caddo Parish,LA,USA,3,0,,,32.6074585,-93.757198,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,283,242922
-,Washington Parish,LA,USA,0,0,,,30.835068999999997,-90.03715650000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,284,46582
-,East Baton Rouge Parish,LA,USA,0,0,,,30.516002,-91.0821615,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,285,440956
-,Natchitoches Parish,LA,USA,0,0,,,31.747528000000003,-93.080363,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,286,38659
-,Bienville Parish,LA,USA,0,0,,,32.366091999999995,-93.10068150000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,287,13308
-,Bossier Parish,LA,USA,1,0,,,32.627677000000006,-93.5978795,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,288,127185
-,Allen Parish,LA,USA,0,0,,,30.661153,-92.856948,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,289,25605
-,Ouachita Parish,LA,USA,0,0,,,32.4907775,-92.159829,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,290,154475
-,St. Helena Parish,LA,USA,0,0,,,30.824559,-90.738279,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,291,10262
-,West Feliciana Parish,LA,USA,0,0,,,30.8493775,-91.46312950000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,292,15460
-,West Carroll Parish,LA,USA,0,0,,,32.7940275,-91.45007849999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,293,10982
-,Concordia Parish,LA,USA,0,0,,,31.366113,-91.622707,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,294,19572
-,West Baton Rouge Parish,LA,USA,0,0,,,30.490574000000002,-91.313597,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,295,26427
-,Madison Parish,LA,USA,0,0,,,32.341573,-91.216415,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,296,11161
-,Ascension Parish,LA,USA,0,0,,,30.204696499999997,-90.869644,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,297,124672
-,Acadia Parish,LA,USA,0,0,,,30.2652335,-92.38683499999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,298,62190
-,Beauregard Parish,LA,USA,0,0,,,30.6430015,-93.35856949999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,299,37253
-,Franklin Parish,LA,USA,0,0,,,32.1420035,-91.6867355,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,300,20156
-,Evangeline Parish,LA,USA,0,0,,,30.7409765,-92.40312349999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,301,33443
-,Vernon Parish,LA,USA,0,0,,,31.1119345,-93.19772900000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,302,48860
-,Red River Parish,LA,USA,0,0,,,32.062484,-93.367939,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,303,8477
-,Vermilion Parish,LA,USA,0,0,,,29.8402345,-92.351531,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,304,59830
-,Plaquemines Parish,LA,USA,0,0,,,29.4150075,-89.5381785,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,305,23410
-,St. Mary Parish,LA,USA,0,0,,,29.7141755,-91.48180049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,306,49774
-,Cameron Parish,LA,USA,0,0,,,29.8158395,-93.27240900000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,307,6968
-,Iberia Parish,LA,USA,0,0,,,29.7982045,-91.632762,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,308,70941
-,St. Bernard Parish,LA,USA,2,0,,,29.8500655,-89.4145595,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,309,46721
-,Terrebonne Parish,LA,USA,2,0,,,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,310,111021
-,Jefferson Parish,LA,USA,16,0,,,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,311,434051
+,De Soto Parish,LA,USA,0,0,,,32.0948115,-93.699102,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,231,27436
+,St. John the Baptist Parish,LA,USA,1,0,,,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,232,43184
+,Lafourche Parish,LA,USA,2,0,,,29.4895455,-90.50821049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,233,98115
+,Orleans Parish,LA,USA,79,0,,,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,234,391006
+,Sabine Parish,LA,USA,0,0,,,31.505406999999998,-93.557699,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,235,24032
+,Tangipahoa Parish,LA,USA,0,0,,,30.612403,-90.405269,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,236,133777
+,St. Tammany Parish,LA,USA,5,0,,,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,237,258111
+,Livingston Parish,LA,USA,0,0,,,30.412879,-90.696248,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,238,139567
+,St. Charles Parish,LA,USA,3,0,,,29.961458,-90.3585315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,239,52879
+,Calcasieu Parish,LA,USA,0,0,,,30.2639165,-93.326522,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,240,203112
+,Union Parish,LA,USA,0,0,,,32.7976865,-92.394117,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,241,22330
+,Caldwell Parish,LA,USA,0,0,,,32.102264500000004,-92.09278499999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,242,9960
+,Tensas Parish,LA,USA,0,0,,,31.991290499999998,-91.3045835,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,243,4462
+,Jackson Parish,LA,USA,0,0,,,32.3212645,-92.56701000000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,244,15902
+,Grant Parish,LA,USA,0,0,,,31.5926135,-92.58483,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,245,22482
+,Lincoln Parish,LA,USA,0,0,,,32.606269499999996,-92.64820449999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,246,47196
+,Jefferson Davis Parish,LA,USA,0,0,,,30.2628035,-92.857122,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,247,31582
+,Lafayette Parish,LA,USA,0,0,,,30.2075775,-92.0951095,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,248,242782
+,East Carroll Parish,LA,USA,0,0,,,32.7714455,-91.2303025,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,249,7037
+,East Feliciana Parish,LA,USA,0,0,,,30.824589,-91.0732675,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,250,19305
+,Iberville Parish,LA,USA,0,0,,,30.2613845,-91.3600815,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,251,32721
+,Richland Parish,LA,USA,0,0,,,32.409445500000004,-91.732693,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,252,20192
+,St. Martin Parish,LA,USA,0,0,,,30.09857,-91.53909150000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,253,53621
+,Claiborne Parish,LA,USA,0,0,,,32.8016545,-92.981675,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,254,15944
+,St. Landry Parish,LA,USA,0,0,,,30.573712,-92.08607749999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,255,82764
+,Pointe Coupee Parish,LA,USA,0,0,,,30.750701999999997,-91.5623665,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,256,21940
+,La Salle Parish,LA,USA,0,0,,,31.6257625,-92.186641,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,257,
+,Webster Parish,LA,USA,0,0,,,32.7143435,-93.3384255,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,258,38798
+,St. James Parish,LA,USA,0,0,,,30.027838,-90.8028455,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,259,21037
+,Morehouse Parish,LA,USA,0,0,,,32.7570325,-91.76029249999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,260,25398
+,Rapides Parish,LA,USA,0,0,,,31.203797,-92.5286315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,261,130562
+,Avoyelles Parish,LA,USA,0,0,,,31.095483,-91.97901999999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,262,40462
+,Winn Parish,LA,USA,0,0,,,31.928432,-92.64287350000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,263,14134
+,Catahoula Parish,LA,USA,0,0,,,31.5993165,-91.776279,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,264,9608
+,Assumption Parish,LA,USA,0,0,,,29.8539995,-91.0722915,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,265,22300
+,Caddo Parish,LA,USA,3,0,,,32.6074585,-93.757198,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,266,242922
+,Washington Parish,LA,USA,0,0,,,30.835068999999997,-90.03715650000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,267,46582
+,East Baton Rouge Parish,LA,USA,0,0,,,30.516002,-91.0821615,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,268,440956
+,Natchitoches Parish,LA,USA,0,0,,,31.747528000000003,-93.080363,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,269,38659
+,Bienville Parish,LA,USA,0,0,,,32.366091999999995,-93.10068150000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,270,13308
+,Bossier Parish,LA,USA,1,0,,,32.627677000000006,-93.5978795,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,271,127185
+,Allen Parish,LA,USA,0,0,,,30.661153,-92.856948,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,272,25605
+,Ouachita Parish,LA,USA,0,0,,,32.4907775,-92.159829,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,273,154475
+,St. Helena Parish,LA,USA,0,0,,,30.824559,-90.738279,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,274,10262
+,West Feliciana Parish,LA,USA,0,0,,,30.8493775,-91.46312950000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,275,15460
+,West Carroll Parish,LA,USA,0,0,,,32.7940275,-91.45007849999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,276,10982
+,Concordia Parish,LA,USA,0,0,,,31.366113,-91.622707,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,277,19572
+,West Baton Rouge Parish,LA,USA,0,0,,,30.490574000000002,-91.313597,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,278,26427
+,Madison Parish,LA,USA,0,0,,,32.341573,-91.216415,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,279,11161
+,Ascension Parish,LA,USA,0,0,,,30.204696499999997,-90.869644,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,280,124672
+,Acadia Parish,LA,USA,0,0,,,30.2652335,-92.38683499999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,281,62190
+,Beauregard Parish,LA,USA,0,0,,,30.6430015,-93.35856949999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,282,37253
+,Franklin Parish,LA,USA,0,0,,,32.1420035,-91.6867355,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,283,20156
+,Evangeline Parish,LA,USA,0,0,,,30.7409765,-92.40312349999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,284,33443
+,Vernon Parish,LA,USA,0,0,,,31.1119345,-93.19772900000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,285,48860
+,Red River Parish,LA,USA,0,0,,,32.062484,-93.367939,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,286,8477
+,Vermilion Parish,LA,USA,0,0,,,29.8402345,-92.351531,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,287,59830
+,Plaquemines Parish,LA,USA,0,0,,,29.4150075,-89.5381785,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,288,23410
+,St. Mary Parish,LA,USA,0,0,,,29.7141755,-91.48180049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,289,49774
+,Cameron Parish,LA,USA,0,0,,,29.8158395,-93.27240900000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,290,6968
+,Iberia Parish,LA,USA,0,0,,,29.7982045,-91.632762,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,291,70941
+,St. Bernard Parish,LA,USA,2,0,,,29.8500655,-89.4145595,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,292,46721
+,Terrebonne Parish,LA,USA,2,0,,,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,293,111021
+,Jefferson Parish,LA,USA,16,0,,,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,294,434051
 ,Westchester,NY,USA,220,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
 ,Nassau,NY,USA,109,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
 ,Suffolk,NY,USA,63,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
@@ -418,57 +400,57 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Onondaga,NY,USA,1,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
 ,Ontario,NY,USA,1,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
 ,New York City,NY,USA,463,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
-,San Francisco County,CA,USA,40,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,312,883305
-,San Mateo County,CA,USA,41,1,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,313,769545
-,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,314,1666753
-,Sonoma County,CA,USA,5,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,315,499942
-,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,316,274255
-,Solano County,CA,USA,9,,,,38.2871145,-122.0001255,http://www.solanocounty.com/depts/ph/coronavirus.asp,317,446610
-,Contra Costa County,CA,USA,34,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,318,1150215
-,Stanislaus County,CA,USA,3,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,319,549815
-,Yolo County,CA,USA,2,,,,38.619189,-121.962515,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,320,220408
-,Sacramento County,CA,USA,33,2,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,321,1540975
-,Fresno County,CA,USA,2,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,322,994400
-,Madera County,CA,USA,1,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,323,157672
-,Placer County,CA,USA,8,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,324,393149
-,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,325,180040
-,Los Angeles County,CA,USA,94,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,326,10105518
-,Orange County,CA,USA,17,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,327,3185968
-,Riverside County,CA,USA,1,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,328,2450758
-,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,329,3343364
-,Ventura County,CA,USA,0,,,0,34.058353,-119.1057185,https://www.ventura.org/covid19/,330,850967
-,Beadle County,SD,USA,1,,,,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,331,18883
-,Bon Homme County,SD,USA,1,,,,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,332,6980
-,Charles Mix County,SD,USA,1,,,,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,333,9338
-,Davison County,SD,USA,1,,,,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,334,19790
-,McCook County,SD,USA,1,,,,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,335,5546
-,Minnehaha County,SD,USA,4,,,,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,336,192876
-,Pennington County,SD,USA,1,,,,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,337,111729
+,San Francisco County,CA,USA,40,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,295,883305
+,San Mateo County,CA,USA,41,1,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,296,769545
+,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,297,1666753
+,Sonoma County,CA,USA,5,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,298,499942
+,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,299,274255
+,Solano County,CA,USA,9,,,,38.2871145,-122.0001255,http://www.solanocounty.com/depts/ph/coronavirus.asp,300,446610
+,Contra Costa County,CA,USA,34,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,301,1150215
+,Stanislaus County,CA,USA,3,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,302,549815
+,Yolo County,CA,USA,2,,,,38.619189,-121.962515,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,303,220408
+,Sacramento County,CA,USA,33,2,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,304,1540975
+,Fresno County,CA,USA,2,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,305,994400
+,Madera County,CA,USA,1,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,306,157672
+,Placer County,CA,USA,8,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,307,393149
+,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,308,180040
+,Los Angeles County,CA,USA,94,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,309,10105518
+,Orange County,CA,USA,17,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,310,3185968
+,Riverside County,CA,USA,1,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,311,2450758
+,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,312,3343364
+,Ventura County,CA,USA,0,,,0,34.058353,-119.1057185,https://www.ventura.org/covid19/,313,850967
+,Beadle County,SD,USA,1,,,,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,314,18883
+,Bon Homme County,SD,USA,1,,,,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,315,6980
+,Charles Mix County,SD,USA,1,,,,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,316,9338
+,Davison County,SD,USA,1,,,,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,317,19790
+,McCook County,SD,USA,1,,,,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,318,5546
+,Minnehaha County,SD,USA,4,,,,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,319,192876
+,Pennington County,SD,USA,1,,,,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,320,111729
 ,Bear River County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
 ,Central Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Davis County,UT,USA,0,,,,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,338,351713
-,Salt Lake County,UT,USA,2,,,,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,339,1152633
-,San Juan County,UT,USA,0,,,,37.748977499999995,-110.226921,https://coronavirus.utah.gov/latest/,340,15449
+,Davis County,UT,USA,0,,,,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,321,351713
+,Salt Lake County,UT,USA,2,,,,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,322,1152633
+,San Juan County,UT,USA,0,,,,37.748977499999995,-110.226921,https://coronavirus.utah.gov/latest/,323,15449
 ,Southeast Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
 ,Southwest Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Summit County,UT,USA,7,,,,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,341,41933
-,Tooele County,UT,USA,0,,,,40.490421,-113.09571600000001,https://coronavirus.utah.gov/latest/,342,69907
+,Summit County,UT,USA,7,,,,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,324,41933
+,Tooele County,UT,USA,0,,,,40.490421,-113.09571600000001,https://coronavirus.utah.gov/latest/,325,69907
 ,Tri County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Utah County,UT,USA,1,,,,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,343,622213
-,Wasatch County,UT,USA,0,,,,40.294765,-111.25642,https://coronavirus.utah.gov/latest/,344,33240
+,Utah County,UT,USA,1,,,,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,326,622213
+,Wasatch County,UT,USA,0,,,,40.294765,-111.25642,https://coronavirus.utah.gov/latest/,327,33240
 ,Weber-Morgan County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,345,39583
-,Davidson County,TN,USA,25,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,346,692587
-,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,347,364286
-,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,348,54012
-,Knox County,TN,USA,1,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,349,465289
-,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,350,324890
-,Sevier County,TN,USA,1,,,,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,351,97892
-,Shelby County,TN,USA,2,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,352,935764
-,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,353,157668
-,Williamson County,TN,USA,18,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,354,231729
+,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,328,39583
+,Davidson County,TN,USA,25,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,329,692587
+,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,330,364286
+,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,331,54012
+,Knox County,TN,USA,1,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,332,465289
+,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,333,324890
+,Sevier County,TN,USA,1,,,,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,334,97892
+,Shelby County,TN,USA,2,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,335,935764
+,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,336,157668
+,Williamson County,TN,USA,18,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,337,231729
 ,2 County,OH,USA,0,,,,,,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,,
 ,Fairfield County: 29,CT,USA,0,,,,,,https://portal.ct.gov/Coronavirus,,
 ,Hartford County: 4,CT,USA,0,,,,,,https://portal.ct.gov/Coronavirus,,
 ,Litchfield County: 4,CT,USA,0,,,,,,https://portal.ct.gov/Coronavirus,,
-,New Haven County,CT,USA,4,,,,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,355,857620
+,New Haven County,CT,USA,4,,,,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,338,857620
