@@ -318,7 +318,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Delaware County,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
 ,Herkimer County,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
 ,Broome County,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,
-,New York City,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95,213,,329
+,New York City,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,95,213,,463
 ,Clark County,WA,USA,,,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
 ,Columbia County,WA,USA,,,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
 ,Grant County,WA,USA,,,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,
@@ -418,8 +418,8 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Lavaca County,TX,USA,,,,,,https://www.dshs.state.tx.us/news/updates.shtm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
 ,Orange County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
 ,Osceola County,FL,USA,,,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
-,Saratoga,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,3
-,Schenectady,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,2
+,Saratoga,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,5
+,Schenectady,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,4
 ,Tioga County,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
 ,Tompkins County,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,
 ,Dane County,WI,USA,,,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5,,
@@ -543,24 +543,27 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,St. Mary Parish,LA,USA,29.7141755,-91.48180049999999,49774,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 ,Cameron Parish,LA,USA,29.8158395,-93.27240900000001,6968,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 ,Iberia Parish,LA,USA,29.7982045,-91.632762,70941,,,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
-,Albany,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8
+,Westchester,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,220
+,Nassau,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,109
+,Suffolk,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,63
+,Rockland,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,16
+,Albany,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,12
+,Orange,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11
+,Dutchess,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10
+,Monroe,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10
+,Ulster,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7
+,Erie,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6
+,Greene,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
+,Putnam,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
+,Allegany,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
 ,Broome,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Delaware,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,Dutchess,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7
-,Erie,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
-,Greene,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
 ,Herkimer,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,Monroe,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
-,Montgomery,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,Nassau,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,98
-,Orange,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,6
-,Putnam,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
-,Rockland,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,13
-,Suffolk,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,47
 ,Tioga,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Tompkins,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,Ulster,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,5
-,Westchester,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,196
+,Montgomery,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+,Onondaga,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+,Ontario,NY,USA,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Campbell County,TN,USA,36.3848795,-84.138375,39583,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Davidson County,TN,USA,36.186859999999996,-86.7851325,692587,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,25
 ,Hamilton County,TN,USA,35.2208105,-85.20821749999999,364286,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1

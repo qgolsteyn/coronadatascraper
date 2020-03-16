@@ -10848,7 +10848,7 @@
         "growthFactor": 2.2421052631578946
       },
       "2020-3-16": {
-        "cases": 329
+        "cases": 463
       }
     },
     "county": "New York City",
@@ -12370,7 +12370,7 @@
         "cases": 3
       },
       "2020-3-16": {
-        "cases": 3
+        "cases": 5
       }
     },
     "county": "Saratoga",
@@ -12384,7 +12384,7 @@
         "cases": 1
       },
       "2020-3-16": {
-        "cases": 2
+        "cases": 4
       }
     },
     "county": "Schenectady",
@@ -14431,13 +14431,145 @@
     "featureId": 320,
     "population": 70941
   },
+  "Westchester, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 220
+      }
+    },
+    "county": "Westchester",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Nassau, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 109
+      }
+    },
+    "county": "Nassau",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Suffolk, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 63
+      }
+    },
+    "county": "Suffolk",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Rockland, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 16
+      }
+    },
+    "county": "Rockland",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
   "Albany, NY, USA": {
     "dates": {
       "2020-3-16": {
-        "cases": 8
+        "cases": 12
       }
     },
     "county": "Albany",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Orange, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 11
+      }
+    },
+    "county": "Orange",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Dutchess, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 10
+      }
+    },
+    "county": "Dutchess",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Monroe, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 10
+      }
+    },
+    "county": "Monroe",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Ulster, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 7
+      }
+    },
+    "county": "Ulster",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Erie, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 6
+      }
+    },
+    "county": "Erie",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Greene, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 2
+      }
+    },
+    "county": "Greene",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Putnam, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 2
+      }
+    },
+    "county": "Putnam",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Allegany, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 2
+      }
+    },
+    "county": "Allegany",
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
@@ -14464,39 +14596,6 @@
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
-  "Dutchess, NY, USA": {
-    "dates": {
-      "2020-3-16": {
-        "cases": 7
-      }
-    },
-    "county": "Dutchess",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Erie, NY, USA": {
-    "dates": {
-      "2020-3-16": {
-        "cases": 3
-      }
-    },
-    "county": "Erie",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Greene, NY, USA": {
-    "dates": {
-      "2020-3-16": {
-        "cases": 2
-      }
-    },
-    "county": "Greene",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
   "Herkimer, NY, USA": {
     "dates": {
       "2020-3-16": {
@@ -14504,83 +14603,6 @@
       }
     },
     "county": "Herkimer",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Monroe, NY, USA": {
-    "dates": {
-      "2020-3-16": {
-        "cases": 2
-      }
-    },
-    "county": "Monroe",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Montgomery, NY, USA": {
-    "dates": {
-      "2020-3-16": {
-        "cases": 1
-      }
-    },
-    "county": "Montgomery",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Nassau, NY, USA": {
-    "dates": {
-      "2020-3-16": {
-        "cases": 98
-      }
-    },
-    "county": "Nassau",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Orange, NY, USA": {
-    "dates": {
-      "2020-3-16": {
-        "cases": 6
-      }
-    },
-    "county": "Orange",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Putnam, NY, USA": {
-    "dates": {
-      "2020-3-16": {
-        "cases": 2
-      }
-    },
-    "county": "Putnam",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Rockland, NY, USA": {
-    "dates": {
-      "2020-3-16": {
-        "cases": 13
-      }
-    },
-    "county": "Rockland",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Suffolk, NY, USA": {
-    "dates": {
-      "2020-3-16": {
-        "cases": 47
-      }
-    },
-    "county": "Suffolk",
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
@@ -14607,24 +14629,35 @@
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
-  "Ulster, NY, USA": {
+  "Montgomery, NY, USA": {
     "dates": {
       "2020-3-16": {
-        "cases": 5
+        "cases": 1
       }
     },
-    "county": "Ulster",
+    "county": "Montgomery",
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
-  "Westchester, NY, USA": {
+  "Onondaga, NY, USA": {
     "dates": {
       "2020-3-16": {
-        "cases": 196
+        "cases": 1
       }
     },
-    "county": "Westchester",
+    "county": "Onondaga",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Ontario, NY, USA": {
+    "dates": {
+      "2020-3-16": {
+        "cases": 1
+      }
+    },
+    "county": "Ontario",
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"

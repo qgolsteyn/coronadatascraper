@@ -689,7 +689,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Broome County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
 ,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,95,,,,2020-03-13
 ,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,213,,,,2020-03-14
-,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,329,,,,2020-03-16
+,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,463,,,,2020-03-16
 ,Clark County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
 ,Columbia County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
 ,Grant County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,1,,,2020-03-13
@@ -862,9 +862,9 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Orange County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
 ,Osceola County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
 ,Saratoga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,3,,,,2020-03-14
-,Saratoga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,3,,,,2020-03-16
+,Saratoga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,5,,,,2020-03-16
 ,Schenectady,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
-,Schenectady,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-16
+,Schenectady,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,4,,,,2020-03-16
 ,Tioga County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
 ,Tompkins County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
 ,Dane County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,5,,,,2020-03-14
@@ -933,24 +933,27 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,St. John the Baptist Parish,LA,USA,43184,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-16
 ,Caddo Parish,LA,USA,242922,32.6074585,-93.757198,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,3,,,,2020-03-16
 ,Bossier Parish,LA,USA,127185,32.627677000000006,-93.5978795,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-16
-,Albany,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,8,,,,2020-03-16
+,Westchester,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,220,,,,2020-03-16
+,Nassau,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,109,,,,2020-03-16
+,Suffolk,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,63,,,,2020-03-16
+,Rockland,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,16,,,,2020-03-16
+,Albany,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,12,,,,2020-03-16
+,Orange,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,11,,,,2020-03-16
+,Dutchess,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,10,,,,2020-03-16
+,Monroe,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,10,,,,2020-03-16
+,Ulster,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,7,,,,2020-03-16
+,Erie,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,6,,,,2020-03-16
+,Greene,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-16
+,Putnam,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-16
+,Allegany,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-16
 ,Broome,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16
 ,Delaware,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16
-,Dutchess,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,7,,,,2020-03-16
-,Erie,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,3,,,,2020-03-16
-,Greene,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-16
 ,Herkimer,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16
-,Monroe,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-16
-,Montgomery,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16
-,Nassau,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,98,,,,2020-03-16
-,Orange,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,6,,,,2020-03-16
-,Putnam,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-16
-,Rockland,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,13,,,,2020-03-16
-,Suffolk,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,47,,,,2020-03-16
 ,Tioga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16
 ,Tompkins,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16
-,Ulster,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,5,,,,2020-03-16
-,Westchester,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,196,,,,2020-03-16
+,Montgomery,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16
+,Onondaga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16
+,Ontario,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-16
 ,Campbell County,TN,USA,39583,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-16
 ,Davidson County,TN,USA,692587,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,25,,,,2020-03-16
 ,Hamilton County,TN,USA,364286,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-16
