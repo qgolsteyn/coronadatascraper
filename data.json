@@ -6610,149 +6610,6 @@
     "population": 231729
   },
   {
-    "county": "Belmont County",
-    "cases": 2,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -80.970149,
-      40.011337999999995
-    ],
-    "featureId": 414,
-    "population": 67505
-  },
-  {
-    "county": "Butler County",
-    "cases": 6,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -84.5757445,
-      39.441655499999996
-    ],
-    "featureId": 415,
-    "population": 382378
-  },
-  {
-    "county": "Cuyahoga County",
-    "cases": 14,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -81.67301699999999,
-      41.453196000000005
-    ],
-    "featureId": 416,
-    "population": 1243857
-  },
-  {
-    "county": "Franklin County",
-    "cases": 3,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -83.010875,
-      39.9690415
-    ],
-    "featureId": 417,
-    "population": 1310300
-  },
-  {
-    "county": "Lorain County",
-    "cases": 2,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -82.112518,
-      41.289587999999995
-    ],
-    "featureId": 418,
-    "population": 309461
-  },
-  {
-    "county": "Lucas County",
-    "cases": 1,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -83.5244735,
-      41.573549
-    ],
-    "featureId": 419,
-    "population": 429899
-  },
-  {
-    "county": "Medina County",
-    "cases": 1,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -81.92915450000001,
-      41.132868
-    ],
-    "featureId": 420,
-    "population": 179146
-  },
-  {
-    "county": "Stark County",
-    "cases": 3,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -81.3683635,
-      40.811817000000005
-    ],
-    "featureId": 421,
-    "population": 371574
-  },
-  {
-    "county": "Summit County",
-    "cases": 2,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -81.5400925,
-      41.1288115
-    ],
-    "featureId": 422,
-    "population": 541918
-  },
-  {
-    "county": "Trumbull County",
-    "cases": 2,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -80.76100600000001,
-      41.3175365
-    ],
-    "featureId": 423,
-    "population": 198627
-  },
-  {
-    "county": "Tuscarawas County",
-    "cases": 1,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/",
-    "coordinates": [
-      -81.488516,
-      40.440586499999995
-    ],
-    "featureId": 424,
-    "population": 92176
-  },
-  {
     "county": "Fairfield County",
     "cases": 16,
     "state": "CT",
@@ -6762,7 +6619,7 @@
       -73.397813,
       41.3259525
     ],
-    "featureId": 425,
+    "featureId": 414,
     "population": 943823
   },
   {
@@ -6789,7 +6646,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 426,
+    "featureId": 415,
     "population": 857620
   }
 ]
