@@ -344,11 +344,11 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Yamhill County,OR,USA,1,,,,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,259,107002
 ,De Soto Parish,LA,USA,0,0,,,32.0948115,-93.699102,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,260,27436
 ,St. John the Baptist Parish,LA,USA,1,0,,,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,261,43184
-,Lafourche Parish,LA,USA,1,0,,,29.4895455,-90.50821049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,262,98115
-,Orleans Parish,LA,USA,74,0,,,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,263,391006
+,Lafourche Parish,LA,USA,2,0,,,29.4895455,-90.50821049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,262,98115
+,Orleans Parish,LA,USA,79,0,,,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,263,391006
 ,Sabine Parish,LA,USA,0,0,,,31.505406999999998,-93.557699,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,264,24032
 ,Tangipahoa Parish,LA,USA,0,0,,,30.612403,-90.405269,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,265,133777
-,St. Tammany Parish,LA,USA,4,0,,,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,266,258111
+,St. Tammany Parish,LA,USA,5,0,,,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,266,258111
 ,Livingston Parish,LA,USA,0,0,,,30.412879,-90.696248,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,267,139567
 ,St. Charles Parish,LA,USA,3,0,,,29.961458,-90.3585315,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,268,52879
 ,Calcasieu Parish,LA,USA,0,0,,,30.2639165,-93.326522,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,269,203112
@@ -377,7 +377,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Winn Parish,LA,USA,0,0,,,31.928432,-92.64287350000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,292,14134
 ,Catahoula Parish,LA,USA,0,0,,,31.5993165,-91.776279,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,293,9608
 ,Assumption Parish,LA,USA,0,0,,,29.8539995,-91.0722915,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,294,22300
-,Caddo Parish,LA,USA,2,0,,,32.6074585,-93.757198,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,295,242922
+,Caddo Parish,LA,USA,3,0,,,32.6074585,-93.757198,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,295,242922
 ,Washington Parish,LA,USA,0,0,,,30.835068999999997,-90.03715650000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,296,46582
 ,East Baton Rouge Parish,LA,USA,0,0,,,30.516002,-91.0821615,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,297,440956
 ,Natchitoches Parish,LA,USA,0,0,,,31.747528000000003,-93.080363,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,298,38659
@@ -403,9 +403,9 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,St. Mary Parish,LA,USA,0,0,,,29.7141755,-91.48180049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,318,49774
 ,Cameron Parish,LA,USA,0,0,,,29.8158395,-93.27240900000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,319,6968
 ,Iberia Parish,LA,USA,0,0,,,29.7982045,-91.632762,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,320,70941
-,St. Bernard Parish,LA,USA,1,0,,,29.8500655,-89.4145595,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,321,46721
+,St. Bernard Parish,LA,USA,2,0,,,29.8500655,-89.4145595,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,321,46721
 ,Terrebonne Parish,LA,USA,2,0,,,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,322,111021
-,Jefferson Parish,LA,USA,14,0,,,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,323,434051
+,Jefferson Parish,LA,USA,16,0,,,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,323,434051
 ,New Castle County,DE,USA,7,,,,39.565300500000006,-75.5969975,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,324,559335
 ,Kent County,DE,USA,0,,,,39.0977575,-75.5358555,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,325,178550
 ,Sussex County,DE,USA,0,,,,38.706443,-75.38576900000001,https://www.dhss.delaware.gov/dhss/dph/epi/2019novelcoronavirus.html,326,229286
