@@ -419,7 +419,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,St Joseph County,IN,USA,,42.76080525150005,-75.8409706677239,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-16
 ,Marion County,IN,USA,954670,39.779657,-86.13272599999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-13
 ,Marion County,IN,USA,954670,39.779657,-86.13272599999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-14
-,Marion County,IN,USA,954670,39.779657,-86.13272599999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,7,,,,2020-03-16
+,Marion County,IN,USA,954670,39.779657,-86.13272599999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,7,1,,,2020-03-16
 ,Hamilton County,IN,USA,330086,40.0724955,-86.052323,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-16
 ,Hendricks County,IN,USA,167009,39.762399,-86.510613,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-13
 ,Hendricks County,IN,USA,167009,39.762399,-86.510613,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-14
@@ -724,7 +724,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Contra Costa County,CA,USA,1150215,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,34,,,,2020-03-16
 ,Stanislaus County,CA,USA,549815,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,2,,,,2020-03-13
 ,Stanislaus County,CA,USA,549815,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,2,,,,2020-03-14
-,Stanislaus County,CA,USA,549815,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,2,,,,2020-03-16
+,Stanislaus County,CA,USA,549815,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,3,,,,2020-03-16
 ,Yolo County,CA,USA,220408,38.619189,-121.962515,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,2,,,,2020-03-13
 ,Yolo County,CA,USA,220408,38.619189,-121.962515,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,2,,,,2020-03-14
 ,Yolo County,CA,USA,220408,38.619189,-121.962515,https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019,2,,,,2020-03-16
@@ -745,7 +745,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Shasta County,CA,USA,180040,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,1,,,,2020-03-16
 ,Los Angeles County,CA,USA,10105518,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,40,1,,,2020-03-13
 ,Los Angeles County,CA,USA,10105518,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,40,1,,,2020-03-14
-,Los Angeles County,CA,USA,10105518,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,69,1,,,2020-03-16
+,Los Angeles County,CA,USA,10105518,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,94,1,,,2020-03-16
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,36,,,,2020-03-13
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,13,,,,2020-03-14
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,17,,,,2020-03-16
