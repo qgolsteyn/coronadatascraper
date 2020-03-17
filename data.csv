@@ -281,7 +281,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,,WV,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
 ,,WI,USA,27,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
 ,,WY,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
-,Zurich,,CHE,270,1,0,0,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,,
+,Zurich,,CHE,294,0,0,0,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,,
 ,,Abruzzo,ITA,176,4,7,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1311580
 ,,Basilicata,ITA,12,0,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,562869
 ,,P.A. Bolzano,ITA,241,6,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,

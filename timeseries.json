@@ -3144,11 +3144,11 @@
         "tested": 0
       },
       "2020-3-17": {
-        "cases": 270,
-        "deaths": 1,
+        "cases": 294,
+        "deaths": 0,
         "recovered": 0,
         "tested": 0,
-        "growthFactor": 1
+        "growthFactor": 1.0888888888888888
       }
     },
     "country": "CHE",
