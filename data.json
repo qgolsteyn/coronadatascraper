@@ -5053,99 +5053,8 @@
     "population": 434051
   },
   {
-    "county": "Westchester",
-    "cases": 220,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Nassau",
-    "cases": 109,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Suffolk",
-    "cases": 63,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Rockland",
-    "cases": 16,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
     "county": "Albany",
-    "cases": 12,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Orange",
-    "cases": 11,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Dutchess",
-    "cases": 10,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Monroe",
-    "cases": 10,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Ulster",
-    "cases": 7,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Saratoga",
-    "cases": 5,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Erie",
-    "cases": 6,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Schenectady",
-    "cases": 4,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Greene",
-    "cases": 2,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Putnam",
-    "cases": 2,
+    "cases": 23,
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
@@ -5165,6 +5074,13 @@
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
   {
+    "county": "Clinton",
+    "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
     "county": "Delaware",
     "cases": 1,
     "state": "NY",
@@ -5172,7 +5088,119 @@
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
   {
+    "county": "Dutchess",
+    "cases": 16,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Erie",
+    "cases": 7,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Greene",
+    "cases": 2,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
     "county": "Herkimer",
+    "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Monroe",
+    "cases": 11,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Montgomery",
+    "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Nassau",
+    "cases": 131,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Onondaga",
+    "cases": 2,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Ontario",
+    "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Orange",
+    "cases": 15,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Putnam",
+    "cases": 2,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Rensselaer",
+    "cases": 1,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Rockland",
+    "cases": 22,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Saratoga",
+    "cases": 9,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Schenectady",
+    "cases": 5,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Suffolk",
+    "cases": 84,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Sullivan",
     "cases": 1,
     "state": "NY",
     "country": "USA",
@@ -5187,35 +5215,28 @@
   },
   {
     "county": "Tompkins",
-    "cases": 1,
+    "cases": 2,
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
   {
-    "county": "Montgomery",
-    "cases": 1,
+    "county": "Ulster",
+    "cases": 8,
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
   {
-    "county": "Onondaga",
-    "cases": 1,
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  {
-    "county": "Ontario",
-    "cases": 1,
+    "county": "Westchester",
+    "cases": 380,
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
   {
     "county": "New York City",
-    "cases": 463,
+    "cases": 644,
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
@@ -5315,19 +5336,6 @@
     "population": 549815
   },
   {
-    "cases": 2,
-    "county": "Yolo County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019",
-    "coordinates": [
-      -121.962515,
-      38.619189
-    ],
-    "featureId": 317,
-    "population": 220408
-  },
-  {
     "cases": 33,
     "deaths": 2,
     "county": "Sacramento County",
@@ -5338,7 +5346,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 318,
+    "featureId": 317,
     "population": 1540975
   },
   {
@@ -5352,7 +5360,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 319,
+    "featureId": 318,
     "population": 994400
   },
   {
@@ -5365,7 +5373,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 320,
+    "featureId": 319,
     "population": 157672
   },
   {
@@ -5379,7 +5387,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 321,
+    "featureId": 320,
     "population": 393149
   },
   {
@@ -5392,7 +5400,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 322,
+    "featureId": 321,
     "population": 180040
   },
   {
@@ -5406,7 +5414,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 323,
+    "featureId": 322,
     "population": 10105518
   },
   {
@@ -5420,7 +5428,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 324,
+    "featureId": 323,
     "population": 3185968
   },
   {
@@ -5433,7 +5441,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 325,
+    "featureId": 324,
     "population": 2450758
   },
   {
@@ -5447,7 +5455,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 326,
+    "featureId": 325,
     "population": 3343364
   },
   {
@@ -5460,7 +5468,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 327,
+    "featureId": 326,
     "population": 18883
   },
   {
@@ -5473,7 +5481,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 328,
+    "featureId": 327,
     "population": 6980
   },
   {
@@ -5486,7 +5494,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 329,
+    "featureId": 328,
     "population": 9338
   },
   {
@@ -5499,7 +5507,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 330,
+    "featureId": 329,
     "population": 19790
   },
   {
@@ -5512,7 +5520,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 331,
+    "featureId": 330,
     "population": 5546
   },
   {
@@ -5525,7 +5533,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 332,
+    "featureId": 331,
     "population": 192876
   },
   {
@@ -5538,7 +5546,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 333,
+    "featureId": 332,
     "population": 111729
   },
   {
@@ -5565,7 +5573,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 334,
+    "featureId": 333,
     "population": 351713
   },
   {
@@ -5578,7 +5586,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 335,
+    "featureId": 334,
     "population": 1152633
   },
   {
@@ -5591,7 +5599,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 336,
+    "featureId": 335,
     "population": 15449
   },
   {
@@ -5618,7 +5626,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 337,
+    "featureId": 336,
     "population": 41933
   },
   {
@@ -5631,7 +5639,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 338,
+    "featureId": 337,
     "population": 69907
   },
   {
@@ -5651,7 +5659,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 339,
+    "featureId": 338,
     "population": 622213
   },
   {
@@ -5664,7 +5672,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 340,
+    "featureId": 339,
     "population": 33240
   },
   {
@@ -5684,7 +5692,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 341,
+    "featureId": 340,
     "population": 39583
   },
   {
@@ -5697,7 +5705,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 342,
+    "featureId": 341,
     "population": 692587
   },
   {
@@ -5710,7 +5718,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 343,
+    "featureId": 342,
     "population": 364286
   },
   {
@@ -5723,7 +5731,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 344,
+    "featureId": 343,
     "population": 54012
   },
   {
@@ -5736,7 +5744,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 345,
+    "featureId": 344,
     "population": 465289
   },
   {
@@ -5749,7 +5757,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 346,
+    "featureId": 345,
     "population": 324890
   },
   {
@@ -5762,7 +5770,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 347,
+    "featureId": 346,
     "population": 97892
   },
   {
@@ -5775,7 +5783,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 348,
+    "featureId": 347,
     "population": 935764
   },
   {
@@ -5788,7 +5796,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 349,
+    "featureId": 348,
     "population": 157668
   },
   {
@@ -5801,7 +5809,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 350,
+    "featureId": 349,
     "population": 231729
   },
   {
@@ -5842,7 +5850,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 351,
+    "featureId": 350,
     "population": 857620
   }
 ]

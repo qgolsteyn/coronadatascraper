@@ -10981,7 +10981,7 @@
         "growthFactor": 2.2421052631578946
       },
       "2020-3-17": {
-        "cases": 463
+        "cases": 644
       }
     },
     "county": "New York City",
@@ -11381,21 +11381,12 @@
       "2020-3-14": {
         "cases": 2,
         "growthFactor": 1
-      },
-      "2020-3-17": {
-        "cases": 2
       }
     },
     "county": "Yolo County",
     "state": "CA",
     "country": "USA",
-    "url": "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019",
-    "coordinates": [
-      -121.962515,
-      38.619189
-    ],
-    "featureId": 318,
-    "population": 220408
+    "url": "https://www.yolocounty.org/health-human-services/adults/communicable-disease-investigation-and-control/novel-coronavirus-2019"
   },
   "Sacramento County, CA, USA": {
     "dates": {
@@ -11421,7 +11412,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 319,
+    "featureId": 318,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -11448,7 +11439,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 320,
+    "featureId": 319,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -11472,7 +11463,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 321,
+    "featureId": 320,
     "population": 157672
   },
   "Placer County, CA, USA": {
@@ -11499,7 +11490,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 322,
+    "featureId": 321,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -11523,7 +11514,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 323,
+    "featureId": 322,
     "population": 180040
   },
   "Los Angeles County, CA, USA": {
@@ -11550,7 +11541,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 324,
+    "featureId": 323,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -11577,7 +11568,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 325,
+    "featureId": 324,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -11601,7 +11592,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 326,
+    "featureId": 325,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -11628,7 +11619,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 327,
+    "featureId": 326,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -11655,7 +11646,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 328,
+    "featureId": 327,
     "population": 850967
   },
   "AL, USA": {
@@ -12503,7 +12494,7 @@
         "cases": 3
       },
       "2020-3-17": {
-        "cases": 5
+        "cases": 9
       }
     },
     "county": "Saratoga",
@@ -12517,7 +12508,7 @@
         "cases": 1
       },
       "2020-3-17": {
-        "cases": 4
+        "cases": 5
       }
     },
     "county": "Schenectady",
@@ -12641,7 +12632,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 329,
+    "featureId": 328,
     "population": 18883
   },
   "Bon Homme County, SD, USA": {
@@ -12661,7 +12652,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 330,
+    "featureId": 329,
     "population": 6980
   },
   "Charles Mix County, SD, USA": {
@@ -12681,7 +12672,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 331,
+    "featureId": 330,
     "population": 9338
   },
   "Davison County, SD, USA": {
@@ -12701,7 +12692,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 332,
+    "featureId": 331,
     "population": 19790
   },
   "McCook County, SD, USA": {
@@ -12721,7 +12712,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 333,
+    "featureId": 332,
     "population": 5546
   },
   "Minnehaha County, SD, USA": {
@@ -12741,7 +12732,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 334,
+    "featureId": 333,
     "population": 192876
   },
   "Pennington County, SD, USA": {
@@ -12761,7 +12752,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 335,
+    "featureId": 334,
     "population": 111729
   },
   "Bear River County, UT, USA": {
@@ -12809,7 +12800,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 336,
+    "featureId": 335,
     "population": 351713
   },
   "Salt Lake County, UT, USA": {
@@ -12829,7 +12820,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 337,
+    "featureId": 336,
     "population": 1152633
   },
   "San Juan County, UT, USA": {
@@ -12849,7 +12840,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 338,
+    "featureId": 337,
     "population": 15449
   },
   "Southeast Utah County, UT, USA": {
@@ -12897,7 +12888,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 339,
+    "featureId": 338,
     "population": 41933
   },
   "Tooele County, UT, USA": {
@@ -12917,7 +12908,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 340,
+    "featureId": 339,
     "population": 69907
   },
   "Tri County, UT, USA": {
@@ -12951,7 +12942,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 341,
+    "featureId": 340,
     "population": 622213
   },
   "Wasatch County, UT, USA": {
@@ -12971,7 +12962,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 342,
+    "featureId": 341,
     "population": 33240
   },
   "Weber-Morgan County, UT, USA": {
@@ -14317,134 +14308,13 @@
     "featureId": 306,
     "population": 70941
   },
-  "Westchester, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 220
-      }
-    },
-    "county": "Westchester",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Nassau, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 109
-      }
-    },
-    "county": "Nassau",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Suffolk, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 63
-      }
-    },
-    "county": "Suffolk",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Rockland, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 16
-      }
-    },
-    "county": "Rockland",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
   "Albany, NY, USA": {
     "dates": {
       "2020-3-17": {
-        "cases": 12
+        "cases": 23
       }
     },
     "county": "Albany",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Orange, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 11
-      }
-    },
-    "county": "Orange",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Dutchess, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 10
-      }
-    },
-    "county": "Dutchess",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Monroe, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 10
-      }
-    },
-    "county": "Monroe",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Ulster, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 7
-      }
-    },
-    "county": "Ulster",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Erie, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 6
-      }
-    },
-    "county": "Erie",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Greene, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 2
-      }
-    },
-    "county": "Greene",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Putnam, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 2
-      }
-    },
-    "county": "Putnam",
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
@@ -14471,6 +14341,17 @@
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
+  "Clinton, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 1
+      }
+    },
+    "county": "Clinton",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
   "Delaware, NY, USA": {
     "dates": {
       "2020-3-17": {
@@ -14478,6 +14359,39 @@
       }
     },
     "county": "Delaware",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Dutchess, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 16
+      }
+    },
+    "county": "Dutchess",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Erie, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 7
+      }
+    },
+    "county": "Erie",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Greene, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 2
+      }
+    },
+    "county": "Greene",
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
@@ -14493,24 +14407,13 @@
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
-  "Tioga, NY, USA": {
+  "Monroe, NY, USA": {
     "dates": {
       "2020-3-17": {
-        "cases": 1
+        "cases": 11
       }
     },
-    "county": "Tioga",
-    "state": "NY",
-    "country": "USA",
-    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
-  },
-  "Tompkins, NY, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 1
-      }
-    },
-    "county": "Tompkins",
+    "county": "Monroe",
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
@@ -14526,10 +14429,21 @@
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
+  "Nassau, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 131
+      }
+    },
+    "county": "Nassau",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
   "Onondaga, NY, USA": {
     "dates": {
       "2020-3-17": {
-        "cases": 1
+        "cases": 2
       }
     },
     "county": "Onondaga",
@@ -14548,6 +14462,116 @@
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
+  "Orange, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 15
+      }
+    },
+    "county": "Orange",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Putnam, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 2
+      }
+    },
+    "county": "Putnam",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Rensselaer, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 1
+      }
+    },
+    "county": "Rensselaer",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Rockland, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 22
+      }
+    },
+    "county": "Rockland",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Suffolk, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 84
+      }
+    },
+    "county": "Suffolk",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Sullivan, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 1
+      }
+    },
+    "county": "Sullivan",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Tioga, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 1
+      }
+    },
+    "county": "Tioga",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Tompkins, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 2
+      }
+    },
+    "county": "Tompkins",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Ulster, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 8
+      }
+    },
+    "county": "Ulster",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Westchester, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 380
+      }
+    },
+    "county": "Westchester",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
   "Campbell County, TN, USA": {
     "dates": {
       "2020-3-17": {
@@ -14562,7 +14586,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 343,
+    "featureId": 342,
     "population": 39583
   },
   "Davidson County, TN, USA": {
@@ -14579,7 +14603,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 344,
+    "featureId": 343,
     "population": 692587
   },
   "Hamilton County, TN, USA": {
@@ -14596,7 +14620,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 345,
+    "featureId": 344,
     "population": 364286
   },
   "Jefferson County, TN, USA": {
@@ -14613,7 +14637,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 346,
+    "featureId": 345,
     "population": 54012
   },
   "Knox County, TN, USA": {
@@ -14630,7 +14654,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 347,
+    "featureId": 346,
     "population": 465289
   },
   "Rutherford County, TN, USA": {
@@ -14647,7 +14671,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 348,
+    "featureId": 347,
     "population": 324890
   },
   "Sevier County, TN, USA": {
@@ -14664,7 +14688,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 349,
+    "featureId": 348,
     "population": 97892
   },
   "Shelby County, TN, USA": {
@@ -14681,7 +14705,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 350,
+    "featureId": 349,
     "population": 935764
   },
   "Sullivan County, TN, USA": {
@@ -14698,7 +14722,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 351,
+    "featureId": 350,
     "population": 157668
   },
   "Williamson County, TN, USA": {
@@ -14715,7 +14739,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 352,
+    "featureId": 351,
     "population": 231729
   },
   "2 County, OH, USA": {
@@ -14776,7 +14800,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 353,
+    "featureId": 352,
     "population": 857620
   }
 }
