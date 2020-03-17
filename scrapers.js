@@ -55,7 +55,7 @@ let scrapers = [
 
       let counties = [];
       for (let county of data) {
-        let countyName = parse.string(county.COUNTYNAME)
+        let countyName = parse.string(county.COUNTYNAME);
         countyName = this._countyMap[countyName] || countyName;
         counties.push({
           county: transform.addCounty(countyName),
@@ -113,7 +113,7 @@ let scrapers = [
     }
   },
   {
-    country: 'Canada',
+    country: 'CAN',
     url: 'https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html',
     type: 'table',
     _reject: [
@@ -244,8 +244,7 @@ let scrapers = [
               countyTotals[countyAndState].cases += parse.number(cases[index][date] || 0);
               countyTotals[countyAndState].deaths += parse.number(deaths[index][date] || 0);
               countyTotals[countyAndState].recovered += parse.number(recovered[index][date] || 0);
-            }
-            else {
+            } else {
               let [county, state] = countyAndState.split(', ');
               countyTotals[countyAndState] = {
                 county: county,
@@ -261,10 +260,7 @@ let scrapers = [
         }
 
         // These two incorrectly have a state set
-        if (
-          cases[index]['Province/State'] === 'United Kingdom' ||
-          cases[index]['Province/State'] === 'France'
-        ) {
+        if (cases[index]['Province/State'] === 'United Kingdom' || cases[index]['Province/State'] === 'France') {
           cases[index]['Province/State'] = '';
         }
 
@@ -278,8 +274,7 @@ let scrapers = [
             recovered: parse.number(recovered[index][date] || 0),
             deaths: parse.number(deaths[index][date] || 0)
           });
-        }
-        else if (rules.isAcceptable(cases[index], this._accept, this._reject)) {
+        } else if (rules.isAcceptable(cases[index], this._accept, this._reject)) {
           countries.push({
             country: parse.string(cases[index]['Country/Region']),
             state: parse.string(cases[index]['Province/State']),
@@ -311,8 +306,7 @@ let scrapers = [
         if ((matches = string.match(/(\d+) of (\d+)/))) {
           // Return the high number
           return parse.number(matches[2]);
-        }
-        else {
+        } else {
           return parse.number(string);
         }
       }
@@ -347,8 +341,7 @@ let scrapers = [
         // Find old date
         let date = datetime.getDDMMYYYY(new Date(process.env['SCRAPE_DATE']), '.');
         latestData = data.filter(dayData => dayData.Date === date)[0];
-      }
-      else {
+      } else {
         latestData = data[data.length - 1];
       }
 
@@ -541,11 +534,18 @@ let scrapers = [
 
       if (datetime.scrapeDateIs('2020-3-16')) {
         return {
-          cases: parse.number($('span:contains("Positive")').text().split(':')[1]),
-          tested: parse.number($('span:contains("Total number of people tested")').text().split(':')[1])
+          cases: parse.number(
+            $('span:contains("Positive")')
+              .text()
+              .split(':')[1]
+          ),
+          tested: parse.number(
+            $('span:contains("Total number of people tested")')
+              .text()
+              .split(':')[1]
+          )
         };
-      }
-      else if (datetime.scrapeDateIsBefore('2020-3-16')) {
+      } else if (datetime.scrapeDateIsBefore('2020-3-16')) {
         let counties = [];
 
         let $lis = $('p:contains("Positive cases by county of residence")')
@@ -572,9 +572,13 @@ let scrapers = [
         });
 
         let visitorCounties = [];
-        let $visitors = $('p:contains("Positive cases by county of residence")').nextAll('p').find('span');
+        let $visitors = $('p:contains("Positive cases by county of residence")')
+          .nextAll('p')
+          .find('span');
         $visitors.each((index, visitor) => {
-          let visitorInfo = $(visitor).text().match(/([A-Za-z]+) - (\d+)/);
+          let visitorInfo = $(visitor)
+            .text()
+            .match(/([A-Za-z]+) - (\d+)/);
           if (visitorInfo !== null && visitorInfo.length === 3) {
             let county = visitorInfo[1] + ' County';
             let cases = visitorInfo[2];
@@ -590,23 +594,20 @@ let scrapers = [
           }
         });
         counties.forEach(county => {
-          if(county['cases'] !== undefined && county['county'] !== undefined) {
-            visitorCounties.forEach(
-              visitorCounty => {
-                if(visitorCounty['cases'] !== undefined && visitorCounty['county'] !== undefined) {
-                  if(visitorCounty['county'] === county['county']){
-                    county['cases'] = visitorCounty['cases'] + county['cases'];
-                  }
+          if (county['cases'] !== undefined && county['county'] !== undefined) {
+            visitorCounties.forEach(visitorCounty => {
+              if (visitorCounty['cases'] !== undefined && visitorCounty['county'] !== undefined) {
+                if (visitorCounty['county'] === county['county']) {
+                  county['cases'] = visitorCounty['cases'] + county['cases'];
                 }
               }
-            )
+            });
           }
         });
         counties.push(transform.sumData(counties));
 
         return counties;
-      }
-      else {
+      } else {
         throw new Error('Hey remember how Colorado is awful at reporting data? You gotta do manual work again today to get it');
       }
     }
@@ -677,8 +678,7 @@ let scrapers = [
             cases: cases
           });
         });
-      }
-      else {
+      } else {
         this.url = 'https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv';
         this.type = 'csv';
 
@@ -721,12 +721,14 @@ let scrapers = [
 
       $trs.each((index, tr) => {
         let $tr = $(tr);
-        let county = transform.addCounty($tr
+        let county = transform.addCounty(
+          $tr
             .find('td:first-child')
             .text()
-            .replace(/[\d]*/g, ''));
+            .replace(/[\d]*/g, '')
+        );
         let cases = parse.number($tr.find('td:last-child').text());
-      
+
         counties.push({
           county: county,
           cases: cases
@@ -751,8 +753,7 @@ let scrapers = [
       let $table;
       if (datetime.scrapeDateIsBefore('2020-3-16')) {
         $table = $('table[summary="Texas COVID-19 Cases"]');
-      }
-      else {
+      } else {
         $table = $('table[summary="COVID-19 Cases in Texas Counties"]');
       }
 
@@ -760,10 +761,12 @@ let scrapers = [
 
       $trs.each((index, tr) => {
         let $tr = $(tr);
-        let county = transform.addCounty($tr
+        let county = transform.addCounty(
+          $tr
             .find('td:first-child')
             .text()
-            .replace(/[\d]*/g, ''));
+            .replace(/[\d]*/g, '')
+        );
         let cases = parse.number($tr.find('td:last-child').text());
         counties.push({
           county: county,
@@ -802,8 +805,7 @@ let scrapers = [
         counties.push(transform.sumData(counties));
 
         return counties;
-      }
-      else {
+      } else {
         this.url = 'http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv';
         let data = await fetch.csv(this.url);
 
@@ -848,11 +850,12 @@ let scrapers = [
           counties[county].cases += 1;
         });
 
-
         let countiesArray = transform.objectToArray(counties);
 
         // Add non florida as unassigned
-        let text = $('div:contains("Non-Florida Residents")').last().text();
+        let text = $('div:contains("Non-Florida Residents")')
+          .last()
+          .text();
         let nonFlorida = text.split(' – ')[0];
         if (nonFlorida) {
           countiesArray.push({ name: UNASSIGNED, cases: nonFlorida });
@@ -861,8 +864,7 @@ let scrapers = [
         countiesArray.push(transform.sumData(countiesArray));
 
         return countiesArray;
-      }
-      else {
+      } else {
         this.type = 'csv';
         this.url = 'https://opendata.arcgis.com/datasets/b4930af3f43a48138c70bca409b5c452_0.csv';
         let data = await fetch.csv(this.url);
@@ -887,7 +889,7 @@ let scrapers = [
     _countyMap: {
       // This is totally wrong, but otherwise we need less granular GeoJSON
       'New York City': 'New York County',
-      'Broom': 'Broome'
+      Broom: 'Broome'
     },
     scraper: async function() {
       let counties = [];
@@ -1300,9 +1302,11 @@ let scrapers = [
     scraper: async function() {
       let $ = await fetch.page(this.url);
 
-      let cases = parse.number($('h3:contains("COVID-19 CASES")')
-                    .parent()
-                    .attr('data-number-value'));
+      let cases = parse.number(
+        $('h3:contains("COVID-19 CASES")')
+          .parent()
+          .attr('data-number-value')
+      );
 
       return {
         cases: cases
@@ -1317,7 +1321,9 @@ let scrapers = [
     scraper: async function() {
       let $ = await fetch.page(this.url);
 
-      let h3 = $('h6:contains("confirmed cases of COVID-19")').first().text();
+      let h3 = $('h6:contains("confirmed cases of COVID-19")')
+        .first()
+        .text();
       let cases = parse.number(h3.match(/\((\d+)\)/)[1]);
 
       return {
@@ -1334,12 +1340,27 @@ let scrapers = [
       let $ = await fetch.page(this.url);
 
       let $table = $('h3:contains("Merced County COVID-19 Statistics")')
-                        .parent()
-                        .next('table');
+        .parent()
+        .next('table');
 
-      let cases = parse.number($table.find('td:contains("Cases")').next('td').text());
-      let deaths = parse.number($table.find('td:contains("Deaths")').next('td').text());
-      let recovered = parse.number($table.find('td:contains("Recoveries")').next('td').text());
+      let cases = parse.number(
+        $table
+          .find('td:contains("Cases")')
+          .next('td')
+          .text()
+      );
+      let deaths = parse.number(
+        $table
+          .find('td:contains("Deaths")')
+          .next('td')
+          .text()
+      );
+      let recovered = parse.number(
+        $table
+          .find('td:contains("Recoveries")')
+          .next('td')
+          .text()
+      );
 
       return {
         cases: cases,
@@ -1377,9 +1398,11 @@ let scrapers = [
 
       // This may be hacky but hopefully they keep the same formatting. We may need
       // to convert this to a table one available.
-      let cases = parse.number($('td:contains("Positive COVID-19 Tests")')
-                    .next()
-                    .text());
+      let cases = parse.number(
+        $('td:contains("Positive COVID-19 Tests")')
+          .next()
+          .text()
+      );
 
       return {
         cases: cases
@@ -1394,11 +1417,12 @@ let scrapers = [
     scraper: async function() {
       let $ = await fetch.page(this.url);
 
-      let cases = parse.number($('h2:contains("in Calaveras County:")')
-                    .first()
-                    .text()
-                    .match(/in Calaveras County: (\d+)/)[1]
-                    );
+      let cases = parse.number(
+        $('h2:contains("in Calaveras County:")')
+          .first()
+          .text()
+          .match(/in Calaveras County: (\d+)/)[1]
+      );
 
       return {
         cases: cases
@@ -1413,11 +1437,12 @@ let scrapers = [
     scraper: async function() {
       let $ = await fetch.page(this.url);
 
-      let cases = parse.number($('strong:contains("Confirmed Cases:")')
-                    .first()
-                    .text()
-                    .match(/Confirmed Cases: (\d+)/)[1]
-                    );
+      let cases = parse.number(
+        $('strong:contains("Confirmed Cases:")')
+          .first()
+          .text()
+          .match(/Confirmed Cases: (\d+)/)[1]
+      );
 
       return {
         cases: cases
@@ -1432,29 +1457,33 @@ let scrapers = [
     scraper: async function() {
       let $ = await fetch.page(this.url);
 
-      let cases = parse.number($('font:contains("Number of Confirmed Cases")')
-                    .first()
-                    .text()
-                    .match(/(\d+)/)[1]
-                    );
+      let cases = parse.number(
+        $('font:contains("Number of Confirmed Cases")')
+          .first()
+          .text()
+          .match(/(\d+)/)[1]
+      );
 
-      let pui = parse.number($('font:contains("Number of Persons Under Investigation")')
-                    .first()
-                    .text()
-                    .match(/(\d+)/)[1]
-                    );
+      let pui = parse.number(
+        $('font:contains("Number of Persons Under Investigation")')
+          .first()
+          .text()
+          .match(/(\d+)/)[1]
+      );
 
-      let pending = parse.number($('font:contains("Number of Specimens with Results Pending")')
-                    .first()
-                    .text()
-                    .match(/(\d+)/)[1]
-                    );
+      let pending = parse.number(
+        $('font:contains("Number of Specimens with Results Pending")')
+          .first()
+          .text()
+          .match(/(\d+)/)[1]
+      );
 
-      let negative = parse.number($('font:contains("Number of Negative Tests")')
-                    .first()
-                    .text()
-                    .match(/(\d+)/)[1]
-                    );
+      let negative = parse.number(
+        $('font:contains("Number of Negative Tests")')
+          .first()
+          .text()
+          .match(/(\d+)/)[1]
+      );
 
       let tested = pui + pending + negative;
 
@@ -1471,8 +1500,7 @@ let scrapers = [
     scraper: async function() {
       if (datetime.scrapeDateIsBefore('2020-3-16')) {
         this.url = 'https://www.countyofglenn.net/dept/health-human-services/public-health/welcome';
-      }
-      else {
+      } else {
         this.url = 'https://www.countyofglenn.net/dept/health-human-services/public-health/covid-19';
       }
 
@@ -1481,11 +1509,12 @@ let scrapers = [
       // Resource contains multiple updates shown chronologically however it is unclear now that
       // they will follow any reliable pattern. This captures the first one as the latest
 
-      let cases = parse.number($('font:contains("Glenn County COVID-19 Cases")')
-                    .first()
-                    .text()
-                    .match(/Cases: (\d+)/)[1]
-                    );
+      let cases = parse.number(
+        $('font:contains("Glenn County COVID-19 Cases")')
+          .first()
+          .text()
+          .match(/Cases: (\d+)/)[1]
+      );
 
       return {
         cases: cases
@@ -1500,10 +1529,11 @@ let scrapers = [
     scraper: async function() {
       let $ = await fetch.page(this.url);
 
-      let cases = parse.number($('h3:contains("Confirmed Cases")')
-                    .text()
-                    .match(/Confirmed Cases: (\d+)/)[1]
-                    );
+      let cases = parse.number(
+        $('h3:contains("Confirmed Cases")')
+          .text()
+          .match(/Confirmed Cases: (\d+)/)[1]
+      );
 
       return {
         cases: cases
@@ -1518,10 +1548,11 @@ let scrapers = [
     scraper: async function() {
       let $ = await fetch.page(this.url);
 
-      let cases = parse.number($('strong:contains("current cases of COVID-19")')
-                    .text()
-                    .match(/There are (\d+) current cases of/)[1]
-                    );
+      let cases = parse.number(
+        $('strong:contains("current cases of COVID-19")')
+          .text()
+          .match(/There are (\d+) current cases of/)[1]
+      );
 
       return {
         cases: cases
@@ -1629,8 +1660,7 @@ let scrapers = [
             .find('.count-number')
             .attr('data-from')
         );
-      }
-      else {
+      } else {
         cases += parse.number(
           $('td:contains("Positive cases")')
             .closest('table')
@@ -1682,9 +1712,10 @@ let scrapers = [
         });
 
         regions.push(transform.sumData(regions));
-      }
-      else {
-        let $table = $('h5:contains("Number of Positive Results by County")').nextAll('table').first();
+      } else {
+        let $table = $('h5:contains("Number of Positive Results by County")')
+          .nextAll('table')
+          .first();
         let $trs = $table.find('tbody > tr:not(:last-child)');
         $trs.each((index, tr) => {
           let $tr = $(tr);
@@ -1700,17 +1731,18 @@ let scrapers = [
             tested: 0
           };
 
-          let $table = $('h5:contains("Wisconsin COVID-19 Test Results")').nextAll('table').first();
+          let $table = $('h5:contains("Wisconsin COVID-19 Test Results")')
+            .nextAll('table')
+            .first();
           let $trs = $table.find('tbody > tr');
           $trs.each((index, tr) => {
             let $tr = $(tr);
             let label = parse.string($tr.find('td:first-child').text());
-            let value = parse.number($tr.find('td:last-child').text());;
+            let value = parse.number($tr.find('td:last-child').text());
             if (label === 'Positive') {
               stateData.cases = value;
               stateData.tested += value;
-            }
-            else if (label === 'Negative') {
+            } else if (label === 'Negative') {
               stateData.tested += value;
             }
           });
@@ -1749,7 +1781,7 @@ let scrapers = [
     country: 'USA',
     url: 'https://coronavirus.utah.gov/latest/',
     type: 'table',
-    scraper: async function () {
+    scraper: async function() {
       let $ = await fetch.page(this.url);
       let counties = [];
       let $table = $('th:contains("District")').closest('table');
@@ -1761,11 +1793,11 @@ let scrapers = [
         if (index > 0 && county.indexOf('Non-Utah') === -1) {
           counties.push({
             county: transform.addCounty(county),
-            cases,
+            cases
           });
         }
       });
-      return counties
+      return counties;
     }
   },
   {
@@ -1773,24 +1805,28 @@ let scrapers = [
     country: 'USA',
     url: 'https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx',
     type: 'list',
-    scraper: async function () {
+    scraper: async function() {
       let counties = [];
       let $ = await fetch.page(this.url);
       if (datetime.scrapeDateIsBefore('2020-3-16')) {
-        let $lis = $('li:contains("Counties impacted to date include")').nextAll('ul').first().find('li');
+        let $lis = $('li:contains("Counties impacted to date include")')
+          .nextAll('ul')
+          .first()
+          .find('li');
         $lis.each((index, li) => {
-          let matches = $(li).text().match(/([A-Za-z]+) \((\d+\))/);
+          let matches = $(li)
+            .text()
+            .match(/([A-Za-z]+) \((\d+\))/);
           if (matches) {
             let county = transform.addCounty(parse.string(matches[1]));
             let cases = parse.number(matches[2]);
             counties.push({
               county,
-              cases,
+              cases
             });
           }
         });
-      }
-      else {
+      } else {
         let $table = $('table.ms-rteTable-default').first();
         let $trs = $table.find('tbody > tr');
 
@@ -1835,8 +1871,8 @@ let scrapers = [
     state: 'OH',
     country: 'USA',
     scraper: async function() {
-      let counties = []
-      let arrayOfCounties  = []
+      let counties = [];
+      let arrayOfCounties = [];
       if (datetime.scrapeDateIsBefore('2020-3-16')) {
         this.url = 'https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/';
         let $ = await fetch.page(this.url);
@@ -1848,10 +1884,10 @@ let scrapers = [
         this.url = 'https://coronavirus.ohio.gov/wps/portal/gov/covid-19/';
         let $ = await fetch.page(this.url);
         let $paragraph = $('p:contains("Number of counties with cases:")').text();
-        let parsed = $paragraph.replace(/([()])/g, '').replace('* Number of counties with cases: ','');
-        arrayOfCounties= parsed.split(',');
+        let parsed = $paragraph.replace(/([()])/g, '').replace('* Number of counties with cases: ', '');
+        arrayOfCounties = parsed.split(',');
       }
-      
+
       arrayOfCounties.map(county => {
         let splitCounty = county.trim().split(' ');
         counties.push({
@@ -1871,20 +1907,22 @@ let scrapers = [
       let counties = [];
       let $ = await fetch.page(this.url);
       let $lis = $('span:contains("Latest COVID-19 Testing Data in Connecticut")')
-                  .nextAll('ul')
-                  .first()
-                  .find('li');
+        .nextAll('ul')
+        .first()
+        .find('li');
 
       $lis.each((index, li) => {
-        if(index < 1) {
-          return
+        if (index < 1) {
+          return;
         }
-        let countyData = $(li).text().split(/:\s*/);
+        let countyData = $(li)
+          .text()
+          .split(/:\s*/);
         counties.push({
           county: parse.string(countyData[0]),
           cases: parse.number(countyData[1])
         });
-      })
+      });
       return counties;
     }
   },
@@ -1936,20 +1974,20 @@ let scrapers = [
         date = datetime.getYYYYMMDD(new Date(process.env['SCRAPE_DATE']));
       }
       for (let row of data) {
-        let granularity = row.granularite !== undefined ? parse.string(row.granularite) : "";
-        let rowDate = row.date !== undefined ? parse.string(row.date) : "";
-        if ((granularity === "region" || granularity === "collectivite-outremer") && rowDate === date) {
-          let state = row.maille_nom !== undefined ? parse.string(row.maille_nom) : "";
+        let granularity = row.granularite !== undefined ? parse.string(row.granularite) : '';
+        let rowDate = row.date !== undefined ? parse.string(row.date) : '';
+        if ((granularity === 'region' || granularity === 'collectivite-outremer') && rowDate === date) {
+          let state = row.maille_nom !== undefined ? parse.string(row.maille_nom) : '';
           let cases = row.cas_confirmes !== undefined ? parse.number(row.cas_confirmes) : 0;
           let deaths = row.deces !== undefined ? parse.number(row.deces) : 0;
           let sourceUrl = row.source_url !== undefined ? parse.string(row.source_url) : this.url;
-          sourceUrl = sourceUrl === "" ? this.url : sourceUrl;
-          if (state !== "") {
+          sourceUrl = sourceUrl === '' ? this.url : sourceUrl;
+          if (state !== '') {
             let data = {
               state,
               cases,
               deaths,
-              url: sourceUrl,
+              url: sourceUrl
             };
             if (rules.isAcceptable(data, null, null)) {
               states.push(data);
@@ -1972,16 +2010,16 @@ let scrapers = [
       let data = await fetch.csv(this.url);
       let states = [];
       for (let row of data) {
-        let state = row.Texto !== undefined ? parse.string(row.Texto) : "";
+        let state = row.Texto !== undefined ? parse.string(row.Texto) : '';
         let cases = row.TotalConfirmados !== undefined ? parse.number(row.TotalConfirmados) : 0;
         let deaths = row.TotalFallecidos !== undefined ? parse.number(row.TotalFallecidos) : 0;
         let recovered = row.TotalRecuperados !== undefined ? parse.number(row.TotalRecuperados) : 0;
-        if(state !== "") {
+        if (state !== '') {
           let data = {
             state,
             cases,
             deaths,
-            recovered,
+            recovered
           };
           if (rules.isAcceptable(data, null, this._reject)) {
             states.push(data);
@@ -1995,28 +2033,62 @@ let scrapers = [
     }
   },
   {
+    country: 'CAN',
+    state: 'British Columbia',
+    url: 'http://www.bccdc.ca/health-info/diseases-conditions/covid-19/case-counts-press-statements',
+    priority: 1,
+    scraper: async function() {
+      let $ = await fetch.page(this.url);
+
+      let $table = $('h3:contains("British Columbia")')
+        .nextAll('div')
+        .first();
+
+      const cases = parse.number(
+        $table
+          .find('li:contains("confirmed cases")')
+          .text()
+          .match(/^[0-9,]+/g)[0]
+      );
+
+      const tested = parse.number(
+        $table
+          .find('li:contains("tested")')
+          .text()
+          .match(/^[0-9,]+/g)[0]
+      );
+
+      return {
+        cases,
+        tested
+      };
+    }
+  },
+  {
     state: 'MD',
     country: 'USA',
     url: 'https://coronavirus.maryland.gov/',
     scraper: async function() {
       let counties = [];
       let $ = await fetch.headless(this.url);
-      let paragraph = $('p:contains("Number of Confirmed Cases:")').next('p').text();
-  
+      let paragraph = $('p:contains("Number of Confirmed Cases:")')
+        .next('p')
+        .text();
+
       paragraph.split(')').map(splitCounty => {
-      if(splitCounty.length > 1){
-       let county = parse.string(splitCounty.substring(0, splitCounty.indexOf('(')).trim())
-       //check for Baltimore City
-       if (county !== 'Baltimore City') {
-         county = transform.addCounty(county)
-       }
-       let cases = parse.number(splitCounty.substring(splitCounty.indexOf('(')+1, splitCounty.length).trim())
-       counties.push({
-         county,
-         cases
-       })}
-       
-      })
+        if (splitCounty.length > 1) {
+          let county = parse.string(splitCounty.substring(0, splitCounty.indexOf('(')).trim());
+          //check for Baltimore City
+          if (county !== 'Baltimore City') {
+            county = transform.addCounty(county);
+          }
+          let cases = parse.number(splitCounty.substring(splitCounty.indexOf('(') + 1, splitCounty.length).trim());
+          counties.push({
+            county,
+            cases
+          });
+        }
+      });
       return counties;
     }
   },
