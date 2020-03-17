@@ -2287,14 +2287,14 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,GA,USA,10617423,5.003778723500062,46.67953211888616,https://github.com/CSSEGISandData/COVID-19,99,1,,98,,1.5,2020-03-15
 ,,GA,USA,10617423,5.003778723500062,46.67953211888616,https://github.com/CSSEGISandData/COVID-19,121,1,,120,,1.2222222222222223,2020-03-16
 ,,GA,USA,10617423,5.003778723500062,46.67953211888616,https://github.com/CSSEGISandData/COVID-19,121,1,,120,,1,2020-03-17
-,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://github.com/CSSEGISandData/COVID-19,15,,,15,,,2020-03-10
-,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://github.com/CSSEGISandData/COVID-19,34,,,34,,2.2666666666666666,2020-03-11
-,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://github.com/CSSEGISandData/COVID-19,45,,,45,,1.3235294117647058,2020-03-12
-,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://github.com/CSSEGISandData/COVID-19,49,,,49,,1.0888888888888888,2020-03-13
-,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://github.com/CSSEGISandData/COVID-19,98,,,98,,2,2020-03-14
-,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://github.com/CSSEGISandData/COVID-19,128,,,128,,1.3061224489795917,2020-03-15
-,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://github.com/CSSEGISandData/COVID-19,160,,,160,1216,1.25,2020-03-16
-,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://github.com/CSSEGISandData/COVID-19,160,1,,159,,1,2020-03-17
+,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,15,,,15,,,2020-03-10
+,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,34,,,34,,2.2666666666666666,2020-03-11
+,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,45,,,45,,1.3235294117647058,2020-03-12
+,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,49,,,49,,1.0888888888888888,2020-03-13
+,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,98,,,98,,2,2020-03-14
+,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,128,,,128,,1.3061224489795917,2020-03-15
+,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,160,,,160,1216,1.25,2020-03-16
+,,CO,USA,5758736,45.94117645058273,9.174864674246866,https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub,160,,,160,1216,1,2020-03-17
 ,,FL,USA,21477737,53.20875990795537,-3.1370130791734043,https://github.com/CSSEGISandData/COVID-19,15,2,,13,,,2020-03-10
 ,,FL,USA,21477737,53.20875990795537,-3.1370130791734043,https://github.com/CSSEGISandData/COVID-19,28,2,,26,,1.8666666666666667,2020-03-11
 ,,FL,USA,21477737,53.20875990795537,-3.1370130791734043,https://github.com/CSSEGISandData/COVID-19,35,2,,33,,1.25,2020-03-12
@@ -2318,7 +2318,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,OR,USA,4217737,-18.613514702841258,-67.60700517144237,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,36,,,36,,1.2,2020-03-14
 ,,OR,USA,4217737,-18.613514702841258,-67.60700517144237,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,39,,,39,,1.0833333333333333,2020-03-15
 ,,OR,USA,4217737,-18.613514702841258,-67.60700517144237,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,39,,,39,,1,2020-03-16
-,,OR,USA,4217737,-18.613514702841258,-67.60700517144237,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,47,,,47,,1.205128205128205,2020-03-17
+,,OR,USA,4217737,-18.613514702841258,-67.60700517144237,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,39,,,39,,1,2020-03-17
 ,,TX,USA,28995881,31.177528238191037,-100.0884705015624,https://www.dshs.state.tx.us/news/updates.shtm,13,,,13,,,2020-03-10
 ,,TX,USA,28995881,31.177528238191037,-100.0884705015624,https://www.dshs.state.tx.us/news/updates.shtm,21,,,21,,1.6153846153846154,2020-03-11
 ,,TX,USA,28995881,31.177528238191037,-100.0884705015624,https://www.dshs.state.tx.us/news/updates.shtm,27,,,27,,1.2857142857142858,2020-03-12
@@ -2341,14 +2341,14 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,PA,USA,12801989,-32.0391034891347,-57.22248977138129,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,41,,,41,,1.8636363636363635,2020-03-13
 ,,PA,USA,12801989,-32.0391034891347,-57.22248977138129,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,47,,,47,,1.146341463414634,2020-03-14
 ,,PA,USA,12801989,-32.0391034891347,-57.22248977138129,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,66,,,66,,1.4042553191489362,2020-03-15
-,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://github.com/CSSEGISandData/COVID-19,8,,,8,,,2020-03-10
-,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://github.com/CSSEGISandData/COVID-19,13,,,13,,1.625,2020-03-11
-,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://github.com/CSSEGISandData/COVID-19,16,,,16,,1.2307692307692308,2020-03-12
-,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://github.com/CSSEGISandData/COVID-19,17,,,17,,1.0625,2020-03-13
-,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://github.com/CSSEGISandData/COVID-19,18,,,18,,1.0588235294117647,2020-03-14
-,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://github.com/CSSEGISandData/COVID-19,18,,,18,,1,2020-03-15
-,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://github.com/CSSEGISandData/COVID-19,22,,,22,,1.2222222222222223,2020-03-16
-,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://github.com/CSSEGISandData/COVID-19,23,,,23,,1.0454545454545454,2020-03-17
+,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,8,,,8,,,2020-03-10
+,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,13,,,13,,1.625,2020-03-11
+,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,16,,,16,,1.2307692307692308,2020-03-12
+,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,17,,,17,,1.0625,2020-03-13
+,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,18,,,18,,1.0588235294117647,2020-03-14
+,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,18,,,18,,1,2020-03-15
+,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,22,,,22,,1.2222222222222223,2020-03-16
+,,IA,USA,3155070,46.933647162536516,28.787421502350412,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,22,,,22,,1,2020-03-17
 ,,MD,USA,6045680,-11.649295559249765,-70.53651199773051,https://github.com/CSSEGISandData/COVID-19,8,,,8,,,2020-03-10
 ,,MD,USA,6045680,-11.649295559249765,-70.53651199773051,https://github.com/CSSEGISandData/COVID-19,9,,,9,,1.125,2020-03-11
 ,,MD,USA,6045680,-11.649295559249765,-70.53651199773051,https://github.com/CSSEGISandData/COVID-19,12,,,12,,1.3333333333333333,2020-03-12
@@ -2420,7 +2420,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,DC,USA,705749,38.899451555326564,-77.0145477695639,https://coronavirus.dc.gov/page/coronavirus-data,16,,,16,115,1.6,2020-03-14
 ,,DC,USA,705749,38.899451555326564,-77.0145477695639,https://coronavirus.dc.gov/page/coronavirus-data,17,,,17,120,1.0625,2020-03-15
 ,,DC,USA,705749,38.899451555326564,-77.0145477695639,https://coronavirus.dc.gov/page/coronavirus-data,17,,,17,120,1,2020-03-16
-,,DC,USA,705749,38.899451555326564,-77.0145477695639,https://coronavirus.dc.gov/page/coronavirus-data,252,,,252,126,14.823529411764707,2020-03-17
+,,DC,USA,705749,38.899451555326564,-77.0145477695639,https://coronavirus.dc.gov/page/coronavirus-data,17,,,17,120,1,2020-03-17
 ,,NV,USA,3080156,41.01050781662638,21.66318692014022,https://github.com/CSSEGISandData/COVID-19,4,,,4,,,2020-03-10
 ,,NV,USA,3080156,41.01050781662638,21.66318692014022,https://github.com/CSSEGISandData/COVID-19,7,,,7,,1.75,2020-03-11
 ,,NV,USA,3080156,41.01050781662638,21.66318692014022,https://github.com/CSSEGISandData/COVID-19,14,,,14,,2,2020-03-12
@@ -2792,60 +2792,60 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,,KOR,51181299,35.91235993050006,127.85698489700007,https://github.com/CSSEGISandData/COVID-19,8162,75,510,7577,,1.0093989611674499,2020-03-15
 ,,,KOR,51181299,35.91235993050006,127.85698489700007,https://github.com/CSSEGISandData/COVID-19,8236,75,1137,7024,,1.0090664052928204,2020-03-16
 ,,,KOR,51181299,35.91235993050006,127.85698489700007,https://github.com/CSSEGISandData/COVID-19,8236,75,1137,7024,,1,2020-03-17
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,2,,,2,,,2020-01-24
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1.5,2020-01-25
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-01-26
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,3,,,3,,1,2020-01-27
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,4,,,4,,1.3333333333333333,2020-01-28
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,5,,,5,,1.25,2020-01-29
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,5,,,5,,1,2020-01-30
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,5,,,5,,1,2020-01-31
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,6,,,6,,1.2,2020-02-01
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,6,,,6,,1,2020-02-02
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,6,,,6,,1,2020-02-03
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,6,,,6,,1,2020-02-04
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,6,,,6,,1,2020-02-05
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,6,,,6,,1,2020-02-06
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,6,,,6,,1,2020-02-07
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,11,,,11,,1.8333333333333333,2020-02-08
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,11,,,11,,1,2020-02-09
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,11,,,11,,1,2020-02-10
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,11,,,11,,1,2020-02-11
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,11,,2,9,,1,2020-02-12
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,11,,2,9,,1,2020-02-13
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,11,,2,9,,1,2020-02-14
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,12,1,4,7,,1.0909090909090908,2020-02-15
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,12,1,4,7,,1,2020-02-16
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,12,1,4,7,,1,2020-02-17
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,12,1,4,7,,1,2020-02-18
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,12,1,4,7,,1,2020-02-19
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,12,1,4,7,,1,2020-02-20
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,12,1,4,7,,1,2020-02-21
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,12,1,4,7,,1,2020-02-22
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,12,1,4,7,,1,2020-02-23
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,12,1,4,7,,1,2020-02-24
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,14,1,11,2,,1.1666666666666667,2020-02-25
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,18,2,11,5,,1.2857142857142858,2020-02-26
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,38,2,11,25,,2.111111111111111,2020-02-27
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,57,2,11,44,,1.5,2020-02-28
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,100,2,12,86,,1.7543859649122806,2020-02-29
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,130,2,12,116,,1.3,2020-03-01
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,191,3,12,176,,1.4692307692307693,2020-03-02
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,204,4,12,188,,1.068062827225131,2020-03-03
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,285,,,285,,1.3970588235294117,2020-03-04
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,423,,,423,,1.4842105263157894,2020-03-05
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,613,,,613,,1.4491725768321513,2020-03-06
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,949,,,949,,1.5481239804241436,2020-03-07
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,262,3,,259,,0.2760800842992624,2020-03-08
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,1209,19,12,1178,,4.614503816793893,2020-03-09
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,1784,,,1784,,1.4755996691480562,2020-03-10
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,2281,,,2281,,1.2785874439461884,2020-03-11
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,2876,,,2876,,1.26085050416484,2020-03-12
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,3661,,,3661,,1.2729485396383866,2020-03-13
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,4499,,,4499,,1.2288992078667031,2020-03-14
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,5423,,,5423,,1.2053789731051345,2020-03-15
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,6633,,,6633,,1.2231237322515214,2020-03-16
-,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://github.com/CSSEGISandData/COVID-19,6633,148,12,6473,,1,2020-03-17
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,,2020-01-24
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,1.5,2020-01-25
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,1,2020-01-26
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,1,2020-01-27
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,4,,,4,,1.3333333333333333,2020-01-28
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1.25,2020-01-29
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1,2020-01-30
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1,2020-01-31
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1.2,2020-02-01
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1,2020-02-02
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1,2020-02-03
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1,2020-02-04
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1,2020-02-05
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1,2020-02-06
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1,2020-02-07
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1.8333333333333333,2020-02-08
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1,2020-02-09
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1,2020-02-10
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1,2020-02-11
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,2,9,,1,2020-02-12
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,2,9,,1,2020-02-13
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,2,9,,1,2020-02-14
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,12,1,4,7,,1.0909090909090908,2020-02-15
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,12,1,4,7,,1,2020-02-16
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,12,1,4,7,,1,2020-02-17
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,12,1,4,7,,1,2020-02-18
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,12,1,4,7,,1,2020-02-19
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,12,1,4,7,,1,2020-02-20
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,12,1,4,7,,1,2020-02-21
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,12,1,4,7,,1,2020-02-22
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,12,1,4,7,,1,2020-02-23
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,12,1,4,7,,1,2020-02-24
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,14,1,11,2,,1.1666666666666667,2020-02-25
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,18,2,11,5,,1.2857142857142858,2020-02-26
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,38,2,11,25,,2.111111111111111,2020-02-27
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,57,2,11,44,,1.5,2020-02-28
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,100,2,12,86,,1.7543859649122806,2020-02-29
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,130,2,12,116,,1.3,2020-03-01
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,191,3,12,176,,1.4692307692307693,2020-03-02
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,204,4,12,188,,1.068062827225131,2020-03-03
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,285,,,285,,1.3970588235294117,2020-03-04
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,423,,,423,,1.4842105263157894,2020-03-05
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,613,,,613,,1.4491725768321513,2020-03-06
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,949,,,949,,1.5481239804241436,2020-03-07
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,262,3,,259,,0.2760800842992624,2020-03-08
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1209,19,12,1178,,4.614503816793893,2020-03-09
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1784,,,1784,,1.4755996691480562,2020-03-10
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2281,,,2281,,1.2785874439461884,2020-03-11
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2876,,,2876,,1.26085050416484,2020-03-12
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3661,,,3661,,1.2729485396383866,2020-03-13
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,4499,,,4499,,1.2288992078667031,2020-03-14
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5423,,,5423,,1.2053789731051345,2020-03-15
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6633,,,6633,,1.2231237322515214,2020-03-16
+,,,FRA,67106161,14.862000781359463,-2.9882706369999426,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6633,,,6633,,1,2020-03-17
 ,,Guangdong,CHN,113460000,22.876783758944043,113.41792352680932,https://github.com/CSSEGISandData/COVID-19,26,,,26,,,2020-01-22
 ,,Guangdong,CHN,113460000,22.876783758944043,113.41792352680932,https://github.com/CSSEGISandData/COVID-19,32,,2,30,,1.2307692307692308,2020-01-23
 ,,Guangdong,CHN,113460000,22.876783758944043,113.41792352680932,https://github.com/CSSEGISandData/COVID-19,53,,2,51,,1.65625,2020-01-24
@@ -5018,12 +5018,13 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Prince George's County,MD,USA,909308,38.8331695,-76.87822,https://coronavirus.maryland.gov/,9,,,9,,,2020-03-15
 ,Prince George's County,MD,USA,909308,38.8331695,-76.87822,https://coronavirus.maryland.gov/,10,,,10,,1.1111111111111112,2020-03-16
 ,Prince George's County,MD,USA,909308,38.8331695,-76.87822,https://coronavirus.maryland.gov/,10,,,10,,1,2020-03-17
-,Pottawattamie County,IA,USA,,41.3912,-95.4778,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-10
-,Pottawattamie County,IA,USA,,41.3912,-95.4778,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-11
-,Pottawattamie County,IA,USA,,41.3912,-95.4778,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-13
-,Pottawattamie County,IA,USA,,41.3912,-95.4778,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-14
-,Pottawattamie County,IA,USA,,41.3912,-95.4778,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-15
-,Pottawattamie County,IA,USA,,41.3912,-95.4778,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-16
+,Pottawattamie County,IA,USA,93533,41.3330975,-95.5872695,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-10
+,Pottawattamie County,IA,USA,93533,41.3330975,-95.5872695,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-11
+,Pottawattamie County,IA,USA,93533,41.3330975,-95.5872695,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-13
+,Pottawattamie County,IA,USA,93533,41.3330975,-95.5872695,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-14
+,Pottawattamie County,IA,USA,93533,41.3330975,-95.5872695,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-15
+,Pottawattamie County,IA,USA,93533,41.3330975,-95.5872695,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-16
+,Pottawattamie County,IA,USA,93533,41.3330975,-95.5872695,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-17
 ,Kershaw County,SC,USA,,34.2465,-80.607,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-07
 ,Kershaw County,SC,USA,,34.2465,-80.607,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-08
 ,Kershaw County,SC,USA,,34.2465,-80.607,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-09
@@ -5111,13 +5112,14 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Harrison County,KY,USA,,38.4333,-84.3542,https://github.com/CSSEGISandData/COVID-19,2,,,2,,,2020-03-09
 ,Harrison County,KY,USA,,38.4333,-84.3542,https://github.com/CSSEGISandData/COVID-19,2,,,2,,1,2020-03-10
 ,Harrison County,KY,USA,,38.4333,-84.3542,https://github.com/CSSEGISandData/COVID-19,5,,,5,,2.5,2020-03-11
-,Johnson County,IA,USA,,41.6699,-91.5984,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,3,,,3,,,2020-03-09
-,Johnson County,IA,USA,,41.6699,-91.5984,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,7,,,7,,2.3333333333333335,2020-03-10
-,Johnson County,IA,USA,,41.6699,-91.5984,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,12,,,12,,1.7142857142857142,2020-03-11
-,Johnson County,IA,USA,,41.6699,-91.5984,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,14,,,14,,,2020-03-13
-,Johnson County,IA,USA,,41.6699,-91.5984,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,14,,,14,,1,2020-03-14
-,Johnson County,IA,USA,,41.6699,-91.5984,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,14,,,14,,1,2020-03-15
-,Johnson County,IA,USA,,41.6699,-91.5984,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,15,,,15,,1.0714285714285714,2020-03-16
+,Johnson County,IA,USA,151260,41.6426345,-91.5995785,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,3,,,3,,,2020-03-09
+,Johnson County,IA,USA,151260,41.6426345,-91.5995785,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,7,,,7,,2.3333333333333335,2020-03-10
+,Johnson County,IA,USA,151260,41.6426345,-91.5995785,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,12,,,12,,1.7142857142857142,2020-03-11
+,Johnson County,IA,USA,151260,41.6426345,-91.5995785,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,14,,,14,,,2020-03-13
+,Johnson County,IA,USA,151260,41.6426345,-91.5995785,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,14,,,14,,1,2020-03-14
+,Johnson County,IA,USA,151260,41.6426345,-91.5995785,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,14,,,14,,1,2020-03-15
+,Johnson County,IA,USA,151260,41.6426345,-91.5995785,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,15,,,15,,1.0714285714285714,2020-03-16
+,Johnson County,IA,USA,151260,41.6426345,-91.5995785,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,15,,,15,,1,2020-03-17
 ,Berkshire County,MA,USA,,42.3118,-73.1822,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-08
 ,Berkshire County,MA,USA,,42.3118,-73.1822,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-09
 ,Berkshire County,MA,USA,,42.3118,-73.1822,https://github.com/CSSEGISandData/COVID-19,5,,,5,,5,2020-03-10
@@ -5201,7 +5203,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Marion County,OR,USA,346868,44.984239,-122.4575375,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,2,,1,2020-03-14
 ,Marion County,OR,USA,346868,44.984239,-122.4575375,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,2,,1,2020-03-15
 ,Marion County,OR,USA,346868,44.984239,-122.4575375,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,2,,1,2020-03-16
-,Marion County,OR,USA,346868,44.984239,-122.4575375,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,3,,,3,,1.5,2020-03-17
+,Marion County,OR,USA,346868,44.984239,-122.4575375,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,2,,1,2020-03-17
 ,Okaloosa County,FL,USA,,30.5773,-86.6611,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,1,,,2020-03-08
 ,Okaloosa County,FL,USA,,30.5773,-86.6611,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,1,,1,2020-03-09
 ,Okaloosa County,FL,USA,,30.5773,-86.6611,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,1,,1,2020-03-10
@@ -5576,7 +5578,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Santa Clara County,CA,USA,1937570,37.190824000000006,-121.70515,https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx,91,2,,89,,1.1518987341772151,2020-03-14
 ,Santa Clara County,CA,USA,1937570,37.190824000000006,-121.70515,https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx,114,2,,112,,1.2527472527472527,2020-03-15
 ,Santa Clara County,CA,USA,1937570,37.190824000000006,-121.70515,https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx,138,2,,136,,1.2105263157894737,2020-03-16
-,Santa Clara County,CA,USA,1937570,37.190824000000006,-121.70515,https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx,138,4,,134,,1,2020-03-17
+,Santa Clara County,CA,USA,1937570,37.190824000000006,-121.70515,https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx,138,2,,136,,1,2020-03-17
 ,Clark County,NV,USA,,36.0796,-115.094,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-05
 ,Clark County,NV,USA,,36.0796,-115.094,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-06
 ,Clark County,NV,USA,,36.0796,-115.094,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-07
@@ -5758,6 +5760,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Contra Costa County,CA,USA,1150215,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,29,,,29,,1.16,2020-03-14
 ,Contra Costa County,CA,USA,1150215,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,29,,,29,,1,2020-03-15
 ,Contra Costa County,CA,USA,1150215,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,34,,,34,,1.1724137931034482,2020-03-16
+,Contra Costa County,CA,USA,1150215,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,34,,,34,,1,2020-03-17
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,1,,,1,,,2020-01-26
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,1,,,1,,1,2020-01-27
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,1,,,1,,1,2020-01-28
@@ -5808,7 +5811,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,14,,,14,,0.3888888888888889,2020-03-14
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,17,,,17,,1.2142857142857142,2020-03-15
 ,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,17,,,17,,1,2020-03-16
-,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,22,,,22,,1.2941176470588236,2020-03-17
+,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,17,,,17,,1,2020-03-17
 ,Norfolk County,MA,USA,,42.1767,-71.1449,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-03
 ,Norfolk County,MA,USA,,42.1767,-71.1449,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-04
 ,Norfolk County,MA,USA,,42.1767,-71.1449,https://github.com/CSSEGISandData/COVID-19,1,,,1,,1,2020-03-05
@@ -5961,7 +5964,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Sonoma County,CA,USA,499942,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,4,,,4,,1.3333333333333333,2020-03-14
 ,Sonoma County,CA,USA,499942,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,5,,,5,,1.25,2020-03-15
 ,Sonoma County,CA,USA,499942,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,5,,,5,,1,2020-03-16
-,Sonoma County,CA,USA,499942,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,6,,,6,,1.2,2020-03-17
+,Sonoma County,CA,USA,499942,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,5,,,5,,1,2020-03-17
 ,Umatilla County,OR,USA,77516,45.4984405,-118.7037805,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,,2020-03-02
 ,Umatilla County,OR,USA,77516,45.4984405,-118.7037805,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-03
 ,Umatilla County,OR,USA,77516,45.4984405,-118.7037805,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-04
@@ -6002,7 +6005,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Washington County,OR,USA,597695,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,13,,,13,,1.3,2020-03-14
 ,Washington County,OR,USA,597695,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,13,,,13,,1,2020-03-15
 ,Washington County,OR,USA,597695,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,13,,,13,,1,2020-03-16
-,Washington County,OR,USA,597695,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,14,,,14,,1.0769230769230769,2020-03-17
+,Washington County,OR,USA,597695,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,13,,,13,,1,2020-03-17
 ,Snohomish County,WA,USA,814901,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,,2020-02-29
 ,Snohomish County,WA,USA,814901,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,2,,2,2020-03-01
 ,Snohomish County,WA,USA,814901,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,4,1,,3,,2,2020-03-02
@@ -6315,7 +6318,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Marin County,CA,USA,259666,38.071675,-122.731167,https://coronavirus.marinhhs.org/surveillance,1,,,1,,1,2020-03-11
 ,Marin County,CA,USA,259666,38.071675,-122.731167,https://coronavirus.marinhhs.org/surveillance,5,,,5,,,2020-03-15
 ,Marin County,CA,USA,259666,38.071675,-122.731167,https://coronavirus.marinhhs.org/surveillance,5,,,5,,1,2020-03-16
-,Marin County,CA,USA,259666,38.071675,-122.731167,https://coronavirus.marinhhs.org/surveillance,9,,,9,,1.8,2020-03-17
+,Marin County,CA,USA,259666,38.071675,-122.731167,https://coronavirus.marinhhs.org/surveillance,5,,,5,,1,2020-03-17
 ,Calaveras County,CA,USA,45602,38.170645500000006,-120.507724,https://covid19.calaverasgov.us/,2,,,2,,,2020-03-11
 ,Calaveras County,CA,USA,45602,38.170645500000006,-120.507724,https://covid19.calaverasgov.us/,2,,,2,,,2020-03-16
 ,Calaveras County,CA,USA,45602,38.170645500000006,-120.507724,https://covid19.calaverasgov.us/,2,,,2,,1,2020-03-17
@@ -6379,7 +6382,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Multnomah County,OR,USA,811880,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-14
 ,Multnomah County,OR,USA,811880,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-15
 ,Multnomah County,OR,USA,811880,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-16
-,Multnomah County,OR,USA,811880,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,2,,2,2020-03-17
+,Multnomah County,OR,USA,811880,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-17
 ,Polk County,OR,USA,85234,44.8977695,-123.38289850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,,2020-03-11
 ,Polk County,OR,USA,85234,44.8977695,-123.38289850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,,2020-03-13
 ,Polk County,OR,USA,85234,44.8977695,-123.38289850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-14
@@ -6391,7 +6394,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Deschutes County,OR,USA,191996,44.001645499999995,-120.94952,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,3,,,3,,3,2020-03-14
 ,Deschutes County,OR,USA,191996,44.001645499999995,-120.94952,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,4,,1.3333333333333333,2020-03-15
 ,Deschutes County,OR,USA,191996,44.001645499999995,-120.94952,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,4,,1,2020-03-16
-,Deschutes County,OR,USA,191996,44.001645499999995,-120.94952,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,6,,,6,,1.5,2020-03-17
+,Deschutes County,OR,USA,191996,44.001645499999995,-120.94952,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,4,,,4,,1,2020-03-17
 ,McHenry County,IL,USA,,42.3334,-88.2668,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-11
 ,Lake County,IL,USA,,42.3689,-87.8272,https://github.com/CSSEGISandData/COVID-19,1,,,1,,,2020-03-11
 ,Bucks County,PA,USA,,40.4108,-75.2479,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,1,,,1,,,2020-03-11
@@ -6921,6 +6924,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Saint-Barthélemy,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,1,2020-03-14
 ,,Saint-Barthélemy,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,3,2020-03-15
 ,,Saint-Barthélemy,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,1,2020-03-16
+,,Saint-Barthélemy,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,1,2020-03-17
 ,,Saint-Martin,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,,2020-03-04
 ,,Saint-Martin,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,1,2020-03-05
 ,,Saint-Martin,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,1,2020-03-06
@@ -6932,19 +6936,22 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Saint-Martin,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,1,2020-03-14
 ,,Saint-Martin,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,1,2020-03-15
 ,,Saint-Martin,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,1,2020-03-16
-,,Guadeloupe,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,,2020-03-13
-,,Guadeloupe,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,3,2020-03-14
-,,Guadeloupe,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,2,2020-03-15
-,,Guadeloupe,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,18,,,18,,3,2020-03-16
-,,Martinique,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,,2020-03-06
-,,Martinique,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,1,2020-03-07
-,,Martinique,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,,2020-03-10
-,,Martinique,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,1,2020-03-11
-,,Martinique,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,4,,,4,,1.3333333333333333,2020-03-12
-,,Martinique,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1.5,2020-03-13
-,,Martinique,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,10,,,10,,1.6666666666666667,2020-03-14
-,,Martinique,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,15,,,15,,1.5,2020-03-15
-,,Martinique,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,16,,,16,,1.0666666666666667,2020-03-16
+,,Saint-Martin,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,1,2020-03-17
+,,Guadeloupe,FRA,,16.196804103500057,-61.49286861849993,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,,2020-03-13
+,,Guadeloupe,FRA,,16.196804103500057,-61.49286861849993,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,3,2020-03-14
+,,Guadeloupe,FRA,,16.196804103500057,-61.49286861849993,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,2,2020-03-15
+,,Guadeloupe,FRA,,16.196804103500057,-61.49286861849993,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,18,,,18,,3,2020-03-16
+,,Guadeloupe,FRA,,16.196804103500057,-61.49286861849993,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,18,,,18,,1,2020-03-17
+,,Martinique,FRA,,14.669175522500069,-61.019622362499945,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,,2020-03-06
+,,Martinique,FRA,,14.669175522500069,-61.019622362499945,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,1,2020-03-07
+,,Martinique,FRA,,14.669175522500069,-61.019622362499945,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,,2020-03-10
+,,Martinique,FRA,,14.669175522500069,-61.019622362499945,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,1,2020-03-11
+,,Martinique,FRA,,14.669175522500069,-61.019622362499945,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,4,,,4,,1.3333333333333333,2020-03-12
+,,Martinique,FRA,,14.669175522500069,-61.019622362499945,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1.5,2020-03-13
+,,Martinique,FRA,,14.669175522500069,-61.019622362499945,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,10,,,10,,1.6666666666666667,2020-03-14
+,,Martinique,FRA,,14.669175522500069,-61.019622362499945,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,15,,,15,,1.5,2020-03-15
+,,Martinique,FRA,,14.669175522500069,-61.019622362499945,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,16,,,16,,1.0666666666666667,2020-03-16
+,,Martinique,FRA,,14.669175522500069,-61.019622362499945,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,16,,,16,,1,2020-03-17
 ,,Guyane,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,,2020-03-05
 ,,Guyane,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1,2020-03-06
 ,,Guyane,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1,2020-03-07
@@ -6955,15 +6962,18 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Guyane,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,7,,,7,,1.1666666666666667,2020-03-14
 ,,Guyane,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,7,,,7,,1,2020-03-15
 ,,Guyane,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1.5714285714285714,2020-03-16
-,,La Réunion,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,,2020-03-11
-,,La Réunion,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,3,2020-03-12
-,,La Réunion,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1.6666666666666667,2020-03-13
-,,La Réunion,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1.2,2020-03-14
-,,La Réunion,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,9,,,9,,1.5,2020-03-15
-,,La Réunion,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,9,,,9,,1,2020-03-16
-,,Mayotte,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,,2020-03-14
-,,Mayotte,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,1,2020-03-15
-,,Mayotte,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,1,2020-03-16
+,,Guyane,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1,2020-03-17
+,,La Réunion,FRA,,-21.115329685499916,55.53996829500005,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,,2020-03-11
+,,La Réunion,FRA,,-21.115329685499916,55.53996829500005,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,3,2020-03-12
+,,La Réunion,FRA,,-21.115329685499916,55.53996829500005,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1.6666666666666667,2020-03-13
+,,La Réunion,FRA,,-21.115329685499916,55.53996829500005,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,1.2,2020-03-14
+,,La Réunion,FRA,,-21.115329685499916,55.53996829500005,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,9,,,9,,1.5,2020-03-15
+,,La Réunion,FRA,,-21.115329685499916,55.53996829500005,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,9,,,9,,1,2020-03-16
+,,La Réunion,FRA,,-21.115329685499916,55.53996829500005,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,9,,,9,,1,2020-03-17
+,,Mayotte,FRA,,-12.856052341999913,45.150157097500085,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,,2020-03-14
+,,Mayotte,FRA,,-12.856052341999913,45.150157097500085,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,1,2020-03-15
+,,Mayotte,FRA,,-12.856052341999913,45.150157097500085,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,1,2020-03-16
+,,Mayotte,FRA,,-12.856052341999913,45.150157097500085,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1,,,1,,1,2020-03-17
 ,,Ile-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,55,,,55,,,2020-03-04
 ,,Ile-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,76,,,76,,1.3818181818181818,2020-03-05
 ,,Ile-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,89,,,89,,1.1710526315789473,2020-03-06
@@ -6975,6 +6985,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Ile-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,949,,,949,,1.31622746185853,2020-03-14
 ,,Ile-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1209,,,1209,,1.273972602739726,2020-03-15
 ,,Ile-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1762,,,1762,,1.457402812241522,2020-03-16
+,,Ile-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1762,,,1762,,1,2020-03-17
 ,,Centre-Val de Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,,2020-03-05
 ,,Centre-Val de Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,5.5,2020-03-06
 ,,Centre-Val de Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,16,,,16,,1.4545454545454546,2020-03-07
@@ -6985,6 +6996,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Centre-Val de Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,54,,,54,,1.6363636363636365,2020-03-14
 ,,Centre-Val de Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,71,,,71,,1.3148148148148149,2020-03-15
 ,,Centre-Val de Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,90,,,90,,1.267605633802817,2020-03-16
+,,Centre-Val de Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,90,,,90,,1,2020-03-17
 ,,Bourgogne-Franche-Comté,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,16,,,16,,,2020-03-04
 ,,Bourgogne-Franche-Comté,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,39,,,39,,2.4375,2020-03-05
 ,,Bourgogne-Franche-Comté,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,78,,,78,,2,2020-03-06
@@ -6996,6 +7008,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Bourgogne-Franche-Comté,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,339,,,339,,1.2463235294117647,2020-03-14
 ,,Bourgogne-Franche-Comté,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,412,,,412,,1.2153392330383481,2020-03-15
 ,,Bourgogne-Franche-Comté,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,507,,,507,,1.2305825242718447,2020-03-16
+,,Bourgogne-Franche-Comté,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,507,,,507,,1,2020-03-17
 ,,Normandie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,2,,,2,,,2020-03-04
 ,,Normandie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,6,,,6,,3,2020-03-05
 ,,Normandie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1.8333333333333333,2020-03-06
@@ -7007,6 +7020,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Normandie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,127,,,127,,1.309278350515464,2020-03-14
 ,,Normandie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,143,,,143,,1.125984251968504,2020-03-15
 ,,Normandie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,156,,,156,,1.0909090909090908,2020-03-16
+,,Normandie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,156,,,156,,1,2020-03-17
 ,,Hauts-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,65,,,65,,,2020-03-04
 ,,Hauts-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,74,,,74,,1.1384615384615384,2020-03-05
 ,,Hauts-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,97,,,97,,1.3108108108108107,2020-03-06
@@ -7018,6 +7032,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Hauts-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,466,,,466,,1.1738035264483626,2020-03-14
 ,,Hauts-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,507,,,507,,1.0879828326180256,2020-03-15
 ,,Hauts-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,585,,,585,,1.1538461538461537,2020-03-16
+,,Hauts-de-France,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,585,,,585,,1,2020-03-17
 ,,Grand Est,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,38,,,38,,,2020-03-04
 ,,Grand Est,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,77,,,77,,2.026315789473684,2020-03-05
 ,,Grand Est,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,136,,,136,,1.7662337662337662,2020-03-06
@@ -7030,28 +7045,31 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Grand Est,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1085,,,1085,,1.1909989023051593,2020-03-14
 ,,Grand Est,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1378,,,1378,,1.2700460829493088,2020-03-15
 ,,Grand Est,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1543,,,1543,,1.1197387518142234,2020-03-16
-,,Pays de la Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,7,,,7,,,2020-03-04
-,,Pays de la Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,8,,,8,,1.1428571428571428,2020-03-05
-,,Pays de la Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,16,,,16,,2,2020-03-06
-,,Pays de la Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,18,,,18,,1.125,2020-03-07
-,,Pays de la Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,27,,,27,,,2020-03-10
-,,Pays de la Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,34,,,34,,1.2592592592592593,2020-03-11
-,,Pays de la Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,41,,,41,,1.2058823529411764,2020-03-12
-,,Pays de la Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,55,,,55,,1.3414634146341464,2020-03-13
-,,Pays de la Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,82,,,82,,1.490909090909091,2020-03-14
-,,Pays de la Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,98,,,98,,1.1951219512195121,2020-03-15
-,,Pays de la Loire,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,108,,,108,,1.1020408163265305,2020-03-16
-,,Bretagne,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,23,,,23,,,2020-03-04
-,,Bretagne,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,29,,,29,,1.2608695652173914,2020-03-05
-,,Bretagne,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,32,,,32,,1.103448275862069,2020-03-06
-,,Bretagne,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,40,,,40,,1.25,2020-03-07
-,,Bretagne,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,81,,,81,,,2020-03-10
-,,Bretagne,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,94,,,94,,1.1604938271604939,2020-03-11
-,,Bretagne,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,117,,,117,,1.2446808510638299,2020-03-12
-,,Bretagne,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,155,,,155,,1.3247863247863247,2020-03-13
-,,Bretagne,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,182,,,182,,1.1741935483870967,2020-03-14
-,,Bretagne,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,207,,,207,,1.1373626373626373,2020-03-15
-,,Bretagne,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,233,,,233,,1.1256038647342994,2020-03-16
+,,Grand Est,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,1543,,,1543,,1,2020-03-17
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,7,,,7,,,2020-03-04
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,8,,,8,,1.1428571428571428,2020-03-05
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,16,,,16,,2,2020-03-06
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,18,,,18,,1.125,2020-03-07
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,27,,,27,,,2020-03-10
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,34,,,34,,1.2592592592592593,2020-03-11
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,41,,,41,,1.2058823529411764,2020-03-12
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,55,,,55,,1.3414634146341464,2020-03-13
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,82,,,82,,1.490909090909091,2020-03-14
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,98,,,98,,1.1951219512195121,2020-03-15
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,108,,,108,,1.1020408163265305,2020-03-16
+,,Pays de la Loire,FRA,,46.68028475254144,-1.3420896595558247,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,108,,,108,,1,2020-03-17
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,23,,,23,,,2020-03-04
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,29,,,29,,1.2608695652173914,2020-03-05
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,32,,,32,,1.103448275862069,2020-03-06
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,40,,,40,,1.25,2020-03-07
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,81,,,81,,,2020-03-10
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,94,,,94,,1.1604938271604939,2020-03-11
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,117,,,117,,1.2446808510638299,2020-03-12
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,155,,,155,,1.3247863247863247,2020-03-13
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,182,,,182,,1.1741935483870967,2020-03-14
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,207,,,207,,1.1373626373626373,2020-03-15
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,233,,,233,,1.1256038647342994,2020-03-16
+,,Bretagne,FRA,,47.83005411656552,-2.89110042139734,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,233,,,233,,1,2020-03-17
 ,,Nouvelle-Aquitaine,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,,2020-03-04
 ,,Nouvelle-Aquitaine,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,8,,,8,,1.6,2020-03-05
 ,,Nouvelle-Aquitaine,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1.375,2020-03-06
@@ -7063,6 +7081,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Nouvelle-Aquitaine,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,130,,,130,,1.1403508771929824,2020-03-14
 ,,Nouvelle-Aquitaine,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,144,,,144,,1.1076923076923078,2020-03-15
 ,,Nouvelle-Aquitaine,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,178,,,178,,1.2361111111111112,2020-03-16
+,,Nouvelle-Aquitaine,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,178,,,178,,1,2020-03-17
 ,,Occitanie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,9,,,9,,,2020-03-04
 ,,Occitanie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,11,,,11,,1.2222222222222223,2020-03-05
 ,,Occitanie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,18,,,18,,1.6363636363636365,2020-03-06
@@ -7074,6 +7093,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Occitanie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,214,,,214,,1.244186046511628,2020-03-14
 ,,Occitanie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,243,,,243,,1.1355140186915889,2020-03-15
 ,,Occitanie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,262,,,262,,1.0781893004115226,2020-03-16
+,,Occitanie,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,262,,,262,,1,2020-03-17
 ,,Auvergne-Rhône-Alpes,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,49,,,49,,,2020-03-04
 ,,Auvergne-Rhône-Alpes,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,64,,,64,,1.3061224489795917,2020-03-05
 ,,Auvergne-Rhône-Alpes,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,75,,,75,,1.171875,2020-03-06
@@ -7085,6 +7105,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Auvergne-Rhône-Alpes,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,454,,,454,,1.0913461538461537,2020-03-14
 ,,Auvergne-Rhône-Alpes,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,523,,,523,,1.1519823788546255,2020-03-15
 ,,Auvergne-Rhône-Alpes,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,618,,,618,,1.181644359464627,2020-03-16
+,,Auvergne-Rhône-Alpes,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,618,,,618,,1,2020-03-17
 ,,Provence-Alpes-Côte d’Azur,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,13,,,13,,,2020-03-04
 ,,Provence-Alpes-Côte d’Azur,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,18,,,18,,1.3846153846153846,2020-03-05
 ,,Provence-Alpes-Côte d’Azur,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,26,,,26,,1.4444444444444444,2020-03-06
@@ -7096,16 +7117,18 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,Provence-Alpes-Côte d’Azur,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,281,,,281,,1.3254716981132075,2020-03-14
 ,,Provence-Alpes-Côte d’Azur,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,330,,,330,,1.1743772241992882,2020-03-15
 ,,Provence-Alpes-Côte d’Azur,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,405,,,405,,1.2272727272727273,2020-03-16
-,,Corse,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,,2020-03-05
-,,Corse,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,1,2020-03-06
-,,Corse,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1.6666666666666667,2020-03-07
-,,Corse,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,42,,,42,,,2020-03-10
-,,Corse,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,51,,,51,,1.2142857142857142,2020-03-11
-,,Corse,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,64,,,64,,1.2549019607843137,2020-03-12
-,,Corse,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,85,,,85,,1.328125,2020-03-13
-,,Corse,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,106,,,106,,1.2470588235294118,2020-03-14
-,,Corse,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,115,,,115,,1.0849056603773586,2020-03-15
-,,Corse,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,126,,,126,,1.0956521739130434,2020-03-16
+,,Provence-Alpes-Côte d’Azur,FRA,,,,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,405,,,405,,1,2020-03-17
+,,Corse,FRA,,42.42572715736796,9.06503339891242,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,,2020-03-05
+,,Corse,FRA,,42.42572715736796,9.06503339891242,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,3,,,3,,1,2020-03-06
+,,Corse,FRA,,42.42572715736796,9.06503339891242,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,5,,,5,,1.6666666666666667,2020-03-07
+,,Corse,FRA,,42.42572715736796,9.06503339891242,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,42,,,42,,,2020-03-10
+,,Corse,FRA,,42.42572715736796,9.06503339891242,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,51,,,51,,1.2142857142857142,2020-03-11
+,,Corse,FRA,,42.42572715736796,9.06503339891242,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,64,,,64,,1.2549019607843137,2020-03-12
+,,Corse,FRA,,42.42572715736796,9.06503339891242,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,85,,,85,,1.328125,2020-03-13
+,,Corse,FRA,,42.42572715736796,9.06503339891242,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,106,,,106,,1.2470588235294118,2020-03-14
+,,Corse,FRA,,42.42572715736796,9.06503339891242,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,115,,,115,,1.0849056603773586,2020-03-15
+,,Corse,FRA,,42.42572715736796,9.06503339891242,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,126,,,126,,1.0956521739130434,2020-03-16
+,,Corse,FRA,,42.42572715736796,9.06503339891242,https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv,126,,,126,,1,2020-03-17
 ,,,CUB,11147407,21.528102931500058,-79.28561357349994,https://github.com/CSSEGISandData/COVID-19,3,,,3,,,2020-03-12
 ,,,CUB,11147407,21.528102931500058,-79.28561357349994,https://github.com/CSSEGISandData/COVID-19,4,,,4,,1.3333333333333333,2020-03-13
 ,,,CUB,11147407,21.528102931500058,-79.28561357349994,https://github.com/CSSEGISandData/COVID-19,4,,,4,,1,2020-03-14
@@ -7425,35 +7448,35 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,,British Columbia,CAN,5071000,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,73,,,73,,1.3773584905660377,2020-03-14
 ,,British Columbia,CAN,5071000,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,73,,,73,,1,2020-03-15
 ,,British Columbia,CAN,5071000,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,73,,,73,,1,2020-03-16
-,,British Columbia,CAN,5071000,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,103,,,103,,1.4109589041095891,2020-03-17
+,,British Columbia,CAN,5071000,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,73,,,73,,1,2020-03-17
 ,,Alberta,CAN,4067175,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,23,,,23,,,2020-03-13
 ,,Alberta,CAN,4067175,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,39,,,39,,1.6956521739130435,2020-03-14
 ,,Alberta,CAN,4067175,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,39,,,39,,1,2020-03-15
 ,,Alberta,CAN,4067175,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,56,,,56,,1.435897435897436,2020-03-16
-,,Alberta,CAN,4067175,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,74,,,74,,1.3214285714285714,2020-03-17
+,,Alberta,CAN,4067175,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,56,,,56,,1,2020-03-17
 ,,Saskatchewan,CAN,1098352,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,,2020-03-15
 ,,Saskatchewan,CAN,1098352,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,1,2020-03-16
-,,Saskatchewan,CAN,1098352,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,2,,,2,,2,2020-03-17
+,,Saskatchewan,CAN,1098352,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,1,2020-03-17
 ,,Manitoba,CAN,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,,2020-03-13
 ,,Manitoba,CAN,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,4,,,4,,4,2020-03-14
 ,,Manitoba,CAN,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,4,,,4,,1,2020-03-15
 ,,Manitoba,CAN,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,4,,,4,,1,2020-03-16
-,,Manitoba,CAN,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,7,,,7,,1.75,2020-03-17
+,,Manitoba,CAN,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,4,,,4,,1,2020-03-17
 ,,Ontario,CAN,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,79,,,79,,,2020-03-13
 ,,Ontario,CAN,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,101,,,101,,1.2784810126582278,2020-03-14
 ,,Ontario,CAN,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,142,,,142,,1.4059405940594059,2020-03-15
 ,,Ontario,CAN,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,145,,,145,,1.0211267605633803,2020-03-16
-,,Ontario,CAN,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,177,,,177,,1.2206896551724138,2020-03-17
+,,Ontario,CAN,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,145,,,145,,1,2020-03-17
 ,,Quebec,CAN,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,17,,,17,,,2020-03-13
 ,,Quebec,CAN,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,21,,,21,,1.2352941176470589,2020-03-14
 ,,Quebec,CAN,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,39,,,39,,1.8571428571428572,2020-03-15
 ,,Quebec,CAN,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,39,,,39,,1,2020-03-16
-,,Quebec,CAN,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,50,,,50,,1.2820512820512822,2020-03-17
+,,Quebec,CAN,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,39,,,39,,1,2020-03-17
 ,,New Brunswick,CAN,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,,2020-03-13
 ,,New Brunswick,CAN,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,1,2020-03-14
 ,,New Brunswick,CAN,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,1,2020-03-15
 ,,New Brunswick,CAN,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,1,2020-03-16
-,,New Brunswick,CAN,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,2,,,2,,2,2020-03-17
+,,New Brunswick,CAN,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,1,,1,2020-03-17
 ,Elmore County,AL,USA,81887,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,,2020-03-14
 ,Elmore County,AL,USA,81887,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,1,2020-03-15
 ,Elmore County,AL,USA,81887,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,,,1,,1,2020-03-16
@@ -7478,7 +7501,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-14
 ,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-15
 ,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-16
-,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,2,,2,2020-03-17
+,Clackamas County,OR,USA,416075,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,1,,1,2020-03-17
 ,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,8,,,8,,,2020-03-13
 ,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,9,,,9,,1.125,2020-03-14
 ,Linn County,OR,USA,127335,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,10,,,10,,1.1111111111111112,2020-03-15
@@ -7503,14 +7526,16 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Terrebonne Parish,LA,USA,111021,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,2,,,2,,2,2020-03-15
 ,Terrebonne Parish,LA,USA,111021,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,2,,,2,,1,2020-03-16
 ,Terrebonne Parish,LA,USA,111021,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,2,,,2,,1,2020-03-17
-,Carroll County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-13
-,Carroll County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-14
-,Carroll County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-15
-,Carroll County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-16
-,Harrison County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-13
-,Harrison County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-14
-,Harrison County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-15
-,Harrison County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-16
+,Carroll County,IA,USA,20154,42.0363995,-94.8607925,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-13
+,Carroll County,IA,USA,20154,42.0363995,-94.8607925,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-14
+,Carroll County,IA,USA,20154,42.0363995,-94.8607925,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-15
+,Carroll County,IA,USA,20154,42.0363995,-94.8607925,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-16
+,Carroll County,IA,USA,20154,42.0363995,-94.8607925,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-17
+,Harrison County,IA,USA,14134,41.6857895,-95.8184015,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-13
+,Harrison County,IA,USA,14134,41.6857895,-95.8184015,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-14
+,Harrison County,IA,USA,14134,41.6857895,-95.8184015,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-15
+,Harrison County,IA,USA,14134,41.6857895,-95.8184015,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-16
+,Harrison County,IA,USA,14134,41.6857895,-95.8184015,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-17
 ,Bell County,TX,USA,355642,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,1,,,1,,,2020-03-13
 ,Bell County,TX,USA,355642,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,1,,,1,,1,2020-03-14
 ,Bell County,TX,USA,355642,31.0362865,-97.4920175,https://www.dshs.state.tx.us/news/updates.shtm,1,,,1,,1,2020-03-15
@@ -7634,9 +7659,10 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Bossier Parish,LA,USA,127185,32.627677000000006,-93.5978795,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,1,,1,2020-03-17
 ,Ascension Parish,LA,USA,124672,30.204696499999997,-90.869644,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,1,,,2020-03-16
 ,Ascension Parish,LA,USA,124672,30.204696499999997,-90.869644,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,1,,1,2020-03-17
-,Dallas County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-14
-,Dallas County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-15
-,Dallas County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-16
+,Dallas County,IA,USA,90180,41.683413,-94.03547599999999,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-14
+,Dallas County,IA,USA,90180,41.683413,-94.03547599999999,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-15
+,Dallas County,IA,USA,90180,41.683413,-94.03547599999999,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-16
+,Dallas County,IA,USA,90180,41.683413,-94.03547599999999,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-17
 ,Bexar County,TX,USA,1986049,29.4374885,-98.4636305,https://www.dshs.state.tx.us/news/updates.shtm,1,,,1,,,2020-03-14
 ,Bexar County,TX,USA,1986049,29.4374885,-98.4636305,https://www.dshs.state.tx.us/news/updates.shtm,3,,,3,,3,2020-03-15
 ,Bexar County,TX,USA,1986049,29.4374885,-98.4636305,https://www.dshs.state.tx.us/news/updates.shtm,3,,,3,,1,2020-03-16
@@ -7831,7 +7857,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Lincoln County,WA,USA,10740,47.609032,-118.399462,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,1,,1,2020-03-17
 ,San Bernardino County,CA,USA,2171603,34.840230000000005,-115.96848299999999,http://wp.sbcounty.gov/dph/coronavirus/,1,,,1,,,2020-03-15
 ,San Bernardino County,CA,USA,2171603,34.840230000000005,-115.96848299999999,http://wp.sbcounty.gov/dph/coronavirus/,1,,,1,,1,2020-03-16
-,San Bernardino County,CA,USA,2171603,34.840230000000005,-115.96848299999999,http://wp.sbcounty.gov/dph/coronavirus/,2,,,2,,2,2020-03-17
+,San Bernardino County,CA,USA,2171603,34.840230000000005,-115.96848299999999,http://wp.sbcounty.gov/dph/coronavirus/,1,,,1,,1,2020-03-17
 ,San Joaquin County,CA,USA,752660,37.891017500000004,-121.2534915,http://www.sjcphs.org/coronavirus.aspx#res,8,,,8,,,2020-03-15
 ,San Joaquin County,CA,USA,752660,37.891017500000004,-121.2534915,http://www.sjcphs.org/coronavirus.aspx#res,9,,,9,,1.125,2020-03-16
 ,San Joaquin County,CA,USA,752660,37.891017500000004,-121.2534915,http://www.sjcphs.org/coronavirus.aspx#res,9,,,9,,1,2020-03-17
@@ -8137,8 +8163,10 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Monroe County,MS,USA,35564,33.8697745,-88.4618815,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,1,,1,2020-03-17
 ,Total County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",12,,,12,,,2020-03-16
 ,Total County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",12,,,12,,1,2020-03-17
-,Allamakee County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,2,,,2,,,2020-03-16
-,Polk County,IA,USA,,,,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-16
+,Allamakee County,IA,USA,13832,43.290620000000004,-91.3343975,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,2,,,2,,,2020-03-16
+,Allamakee County,IA,USA,13832,43.290620000000004,-91.3343975,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,2,,,2,,1,2020-03-17
+,Polk County,IA,USA,487204,41.6727085,-93.571967,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,,2020-03-16
+,Polk County,IA,USA,487204,41.6727085,-93.571967,https://idph.iowa.gov/emerging-health-issues/novel-coronavirus,1,,,1,,1,2020-03-17
 ,New Castle,DE,USA,,,,http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv,8,,,8,,,2020-03-16
 ,New Castle,DE,USA,,,,http://opendata.arcgis.com/datasets/c8d4efa2a6bd48a1a7ae074a8166c6fa_0.csv,8,,,8,,1,2020-03-17
 ,Alachua,FL,USA,,,,https://opendata.arcgis.com/datasets/b4930af3f43a48138c70bca409b5c452_0.csv,2,,,2,,,2020-03-16
@@ -8278,4 +8306,3 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,active,
 ,Talbot County,MD,USA,36968,38.7587675,-76.122386,https://coronavirus.maryland.gov/,1,,,1,,,2020-03-16
 ,Talbot County,MD,USA,36968,38.7587675,-76.122386,https://coronavirus.maryland.gov/,1,,,1,,1,2020-03-17
 ,,,Hong Kong,7191503,22.41313304250005,114.21021569100003,https://github.com/CSSEGISandData/COVID-19,155,4,84,67,,,2020-03-17
-,Benton County,OR,USA,92101,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,2,,,2,,,2020-03-17

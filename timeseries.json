@@ -160724,9 +160724,8 @@
     },
     "100": {
       "cases": 160,
-      "deaths": 1,
-      "recovered": 0,
-      "active": 159,
+      "active": 160,
+      "tested": 1216,
       "growthFactor": 1
     },
     "101": {
@@ -160743,9 +160742,9 @@
       "growthFactor": 1
     },
     "103": {
-      "cases": 47,
-      "active": 47,
-      "growthFactor": 1.205128205128205
+      "cases": 39,
+      "active": 39,
+      "growthFactor": 1
     },
     "104": {
       "cases": 55,
@@ -160765,11 +160764,9 @@
       "growthFactor": null
     },
     "107": {
-      "cases": 23,
-      "deaths": 0,
-      "recovered": 0,
-      "active": 23,
-      "growthFactor": 1.0454545454545454
+      "cases": 22,
+      "active": 22,
+      "growthFactor": 1
     },
     "108": {
       "cases": 41,
@@ -160826,10 +160823,10 @@
       "growthFactor": 1
     },
     "116": {
-      "cases": 252,
-      "active": 252,
-      "tested": 126,
-      "growthFactor": 14.823529411764707
+      "cases": 17,
+      "active": 17,
+      "tested": 120,
+      "growthFactor": 1
     },
     "117": {
       "cases": 45,
@@ -161071,9 +161068,7 @@
     },
     "152": {
       "cases": 6633,
-      "deaths": 148,
-      "recovered": 12,
-      "active": 6473,
+      "active": 6633,
       "growthFactor": 1
     },
     "153": {
@@ -161467,6 +161462,11 @@
       "active": 10,
       "growthFactor": 1
     },
+    "229": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
     "232": {
       "cases": 1,
       "deaths": 0,
@@ -161504,6 +161504,11 @@
     "246": {
       "cases": 1,
       "active": 1,
+      "growthFactor": 1
+    },
+    "249": {
+      "cases": 15,
+      "active": 15,
       "growthFactor": 1
     },
     "251": {
@@ -161547,9 +161552,9 @@
       "growthFactor": 1
     },
     "260": {
-      "cases": 3,
-      "active": 3,
-      "growthFactor": 1.5
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
     },
     "263": {
       "cases": 1,
@@ -161650,8 +161655,8 @@
     },
     "304": {
       "cases": 138,
-      "deaths": 4,
-      "active": 134,
+      "deaths": 2,
+      "active": 136,
       "growthFactor": 1
     },
     "306": {
@@ -161698,16 +161703,16 @@
       "growthFactor": 1
     },
     "318": {
-      "cases": 0,
+      "cases": 34,
       "deaths": 0,
-      "active": 0,
-      "growthFactor": 0
+      "active": 34,
+      "growthFactor": 1
     },
     "319": {
-      "cases": 22,
+      "cases": 17,
       "deaths": 0,
-      "active": 22,
-      "growthFactor": 1.2941176470588236
+      "active": 17,
+      "growthFactor": 1
     },
     "322": {
       "cases": 14,
@@ -161733,9 +161738,9 @@
       "growthFactor": 1
     },
     "328": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1.2
+      "cases": 5,
+      "active": 5,
+      "growthFactor": 1
     },
     "329": {
       "cases": 2,
@@ -161743,9 +161748,9 @@
       "growthFactor": 1
     },
     "331": {
-      "cases": 14,
-      "active": 14,
-      "growthFactor": 1.0769230769230769
+      "cases": 13,
+      "active": 13,
+      "growthFactor": 1
     },
     "332": {
       "cases": 200,
@@ -161803,9 +161808,9 @@
       "growthFactor": 1
     },
     "343": {
-      "cases": 9,
-      "active": 9,
-      "growthFactor": 1.8
+      "cases": 5,
+      "active": 5,
+      "growthFactor": 1
     },
     "344": {
       "cases": 2,
@@ -161839,9 +161844,9 @@
       "growthFactor": 1
     },
     "358": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 2
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
     },
     "359": {
       "cases": 1,
@@ -161849,9 +161854,9 @@
       "growthFactor": 1
     },
     "360": {
-      "cases": 6,
-      "active": 6,
-      "growthFactor": 1.5
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 1
     },
     "366": {
       "cases": 1,
@@ -162082,6 +162087,126 @@
       "recovered": 0,
       "active": 269,
       "tested": 0,
+      "growthFactor": 1
+    },
+    "411": {
+      "cases": 3,
+      "deaths": 0,
+      "active": 3,
+      "growthFactor": 1
+    },
+    "412": {
+      "cases": 2,
+      "deaths": 0,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "413": {
+      "cases": 18,
+      "deaths": 0,
+      "active": 18,
+      "growthFactor": 1
+    },
+    "414": {
+      "cases": 16,
+      "deaths": 0,
+      "active": 16,
+      "growthFactor": 1
+    },
+    "415": {
+      "cases": 11,
+      "deaths": 0,
+      "active": 11,
+      "growthFactor": 1
+    },
+    "416": {
+      "cases": 9,
+      "deaths": 0,
+      "active": 9,
+      "growthFactor": 1
+    },
+    "417": {
+      "cases": 1,
+      "deaths": 0,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "418": {
+      "cases": 1762,
+      "deaths": 0,
+      "active": 1762,
+      "growthFactor": 1
+    },
+    "419": {
+      "cases": 90,
+      "deaths": 0,
+      "active": 90,
+      "growthFactor": 1
+    },
+    "420": {
+      "cases": 507,
+      "deaths": 0,
+      "active": 507,
+      "growthFactor": 1
+    },
+    "421": {
+      "cases": 156,
+      "deaths": 0,
+      "active": 156,
+      "growthFactor": 1
+    },
+    "422": {
+      "cases": 585,
+      "deaths": 0,
+      "active": 585,
+      "growthFactor": 1
+    },
+    "423": {
+      "cases": 1543,
+      "deaths": 0,
+      "active": 1543,
+      "growthFactor": 1
+    },
+    "424": {
+      "cases": 108,
+      "deaths": 0,
+      "active": 108,
+      "growthFactor": 1
+    },
+    "425": {
+      "cases": 233,
+      "deaths": 0,
+      "active": 233,
+      "growthFactor": 1
+    },
+    "426": {
+      "cases": 178,
+      "deaths": 0,
+      "active": 178,
+      "growthFactor": 1
+    },
+    "427": {
+      "cases": 262,
+      "deaths": 0,
+      "active": 262,
+      "growthFactor": 1
+    },
+    "428": {
+      "cases": 618,
+      "deaths": 0,
+      "active": 618,
+      "growthFactor": 1
+    },
+    "429": {
+      "cases": 405,
+      "deaths": 0,
+      "active": 405,
+      "growthFactor": 1
+    },
+    "430": {
+      "cases": 126,
+      "deaths": 0,
+      "active": 126,
       "growthFactor": 1
     },
     "431": {
@@ -163705,39 +163830,39 @@
       "growthFactor": 1
     },
     "679": {
-      "cases": 103,
-      "active": 103,
-      "growthFactor": 1.4109589041095891
+      "cases": 73,
+      "active": 73,
+      "growthFactor": 1
     },
     "680": {
-      "cases": 74,
-      "active": 74,
-      "growthFactor": 1.3214285714285714
+      "cases": 56,
+      "active": 56,
+      "growthFactor": 1
     },
     "681": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 2
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
     },
     "682": {
-      "cases": 7,
-      "active": 7,
-      "growthFactor": 1.75
+      "cases": 4,
+      "active": 4,
+      "growthFactor": 1
     },
     "683": {
-      "cases": 177,
-      "active": 177,
-      "growthFactor": 1.2206896551724138
+      "cases": 145,
+      "active": 145,
+      "growthFactor": 1
     },
     "684": {
-      "cases": 50,
-      "active": 50,
-      "growthFactor": 1.2820512820512822
+      "cases": 39,
+      "active": 39,
+      "growthFactor": 1
     },
     "685": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 2
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
     },
     "686": {
       "cases": 1,
@@ -163765,9 +163890,9 @@
       "growthFactor": 1
     },
     "691": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 2
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
     },
     "692": {
       "cases": 10,
@@ -163796,6 +163921,16 @@
       "cases": 2,
       "deaths": 0,
       "active": 2,
+      "growthFactor": 1
+    },
+    "697": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
+    "698": {
+      "cases": 1,
+      "active": 1,
       "growthFactor": 1
     },
     "699": {
@@ -164225,6 +164360,11 @@
       "active": 0,
       "growthFactor": null
     },
+    "786": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
     "787": {
       "cases": 3,
       "active": 3,
@@ -164513,9 +164653,9 @@
       "growthFactor": 1
     },
     "858": {
-      "cases": 2,
-      "active": 2,
-      "growthFactor": 2
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
     },
     "859": {
       "cases": 9,
@@ -165344,6 +165484,16 @@
       "active": 12,
       "growthFactor": 1
     },
+    "1026": {
+      "cases": 2,
+      "active": 2,
+      "growthFactor": 1
+    },
+    "1027": {
+      "cases": 1,
+      "active": 1,
+      "growthFactor": 1
+    },
     "1028": {
       "cases": 8,
       "recovered": 0,
@@ -165775,10 +165925,6 @@
       "deaths": 4,
       "recovered": 84,
       "active": 67
-    },
-    "1105": {
-      "cases": 2,
-      "active": 2
     }
   }
 }

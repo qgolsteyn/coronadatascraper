@@ -2547,57 +2547,57 @@
   },
   {
     "state": "British Columbia",
-    "cases": 103,
+    "cases": 73,
     "country": "CAN",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "type": "table",
     "rating": 0.3125,
-    "active": 103
+    "active": 73
   },
   {
     "state": "Alberta",
-    "cases": 74,
+    "cases": 56,
     "country": "CAN",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "type": "table",
     "rating": 0.3125,
-    "active": 74
+    "active": 56
   },
   {
     "state": "Saskatchewan",
-    "cases": 2,
+    "cases": 1,
     "country": "CAN",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "type": "table",
     "rating": 0.3125,
-    "active": 2
+    "active": 1
   },
   {
     "state": "Manitoba",
-    "cases": 7,
+    "cases": 4,
     "country": "CAN",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "type": "table",
     "rating": 0.3125,
-    "active": 7
+    "active": 4
   },
   {
     "state": "Ontario",
-    "cases": 177,
+    "cases": 145,
     "country": "CAN",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "type": "table",
     "rating": 0.3125,
-    "active": 177
+    "active": 145
   },
   {
     "state": "Quebec",
-    "cases": 50,
+    "cases": 39,
     "country": "CAN",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "type": "table",
     "rating": 0.3125,
-    "active": 50
+    "active": 39
   },
   {
     "state": "Newfoundland and Labrador",
@@ -2610,12 +2610,12 @@
   },
   {
     "state": "New Brunswick",
-    "cases": 2,
+    "cases": 1,
     "country": "CAN",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
     "type": "table",
     "rating": 0.3125,
-    "active": 2
+    "active": 1
   },
   {
     "state": "Nova Scotia",
@@ -3979,17 +3979,6 @@
   },
   {
     "country": "USA",
-    "state": "CO",
-    "cases": 160,
-    "recovered": 0,
-    "deaths": 1,
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "timeseries": true,
-    "rating": 0.65625,
-    "active": 159
-  },
-  {
-    "country": "USA",
     "state": "FL",
     "cases": 155,
     "recovered": 0,
@@ -4009,17 +3998,6 @@
     "timeseries": true,
     "rating": 0.65625,
     "active": 103
-  },
-  {
-    "country": "USA",
-    "state": "IA",
-    "cases": 23,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://github.com/CSSEGISandData/COVID-19",
-    "timeseries": true,
-    "rating": 0.65625,
-    "active": 23
   },
   {
     "country": "USA",
@@ -7409,13 +7387,13 @@
     "active": 24
   },
   {
-    "cases": 252,
-    "tested": 126,
+    "cases": 17,
+    "tested": 120,
     "state": "DC",
     "country": "USA",
     "url": "https://coronavirus.dc.gov/page/coronavirus-data",
     "rating": 0.40625,
-    "active": 252
+    "active": 17
   },
   {
     "county": "Baldwin County",
@@ -7507,34 +7485,34 @@
     "active": 29
   },
   {
-    "county": "Benton County",
-    "cases": 2,
-    "state": "OR",
+    "cases": 160,
+    "tested": 1216,
+    "state": "CO",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "type": "table",
-    "rating": 0.4375,
-    "active": 2
+    "url": "https://docs.google.com/document/d/e/2PACX-1vRSxDeeJEaDxir0cCd9Sfji8ZPKzNaCPZnvRCbG63Oa1ztz4B4r7xG_wsoC9ucd_ei3--Pz7UD50yQD/pub",
+    "type": "list",
+    "rating": 0.40625,
+    "active": 160
   },
   {
     "county": "Clackamas County",
-    "cases": 2,
+    "cases": 1,
     "state": "OR",
     "country": "USA",
     "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
     "type": "table",
     "rating": 0.4375,
-    "active": 2
+    "active": 1
   },
   {
     "county": "Deschutes County",
-    "cases": 6,
+    "cases": 4,
     "state": "OR",
     "country": "USA",
     "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
     "type": "table",
     "rating": 0.4375,
-    "active": 6
+    "active": 4
   },
   {
     "county": "Douglas County",
@@ -7578,16 +7556,6 @@
   },
   {
     "county": "Marion County",
-    "cases": 3,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "type": "table",
-    "rating": 0.4375,
-    "active": 3
-  },
-  {
-    "county": "Multnomah County",
     "cases": 2,
     "state": "OR",
     "country": "USA",
@@ -7595,6 +7563,16 @@
     "type": "table",
     "rating": 0.4375,
     "active": 2
+  },
+  {
+    "county": "Multnomah County",
+    "cases": 1,
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "type": "table",
+    "rating": 0.4375,
+    "active": 1
   },
   {
     "county": "Polk County",
@@ -7618,13 +7596,13 @@
   },
   {
     "county": "Washington County",
-    "cases": 14,
+    "cases": 13,
     "state": "OR",
     "country": "USA",
     "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
     "type": "table",
     "rating": 0.4375,
-    "active": 14
+    "active": 13
   },
   {
     "county": "Yamhill County",
@@ -7637,13 +7615,13 @@
     "active": 1
   },
   {
-    "cases": 47,
+    "cases": 39,
     "state": "OR",
     "country": "USA",
     "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
     "type": "table",
     "rating": 0.3125,
-    "active": 47
+    "active": 39
   },
   {
     "county": "De Soto Parish",
@@ -8357,6 +8335,93 @@
     "type": "csv",
     "rating": 0.34375,
     "active": 136
+  },
+  {
+    "county": "Allamakee County",
+    "cases": 2,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "type": "table",
+    "headless": true,
+    "rating": 0.375,
+    "active": 2
+  },
+  {
+    "county": "Carroll County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "type": "table",
+    "headless": true,
+    "rating": 0.375,
+    "active": 1
+  },
+  {
+    "county": "Dallas County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "type": "table",
+    "headless": true,
+    "rating": 0.375,
+    "active": 1
+  },
+  {
+    "county": "Harrison County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "type": "table",
+    "headless": true,
+    "rating": 0.375,
+    "active": 1
+  },
+  {
+    "county": "Johnson County",
+    "cases": 15,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "type": "table",
+    "headless": true,
+    "rating": 0.375,
+    "active": 15
+  },
+  {
+    "county": "Polk County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "type": "table",
+    "headless": true,
+    "rating": 0.375,
+    "active": 1
+  },
+  {
+    "county": "Pottawattamie County",
+    "cases": 1,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "type": "table",
+    "headless": true,
+    "rating": 0.375,
+    "active": 1
+  },
+  {
+    "cases": 22,
+    "state": "IA",
+    "country": "USA",
+    "url": "https://idph.iowa.gov/emerging-health-issues/novel-coronavirus",
+    "type": "table",
+    "headless": true,
+    "rating": 0.25,
+    "active": 22
   },
   {
     "county": "Bell County",
@@ -9388,13 +9453,13 @@
     "active": 0
   },
   {
-    "cases": 6,
+    "cases": 5,
     "county": "Sonoma County",
     "state": "CA",
     "country": "USA",
     "url": "https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/",
     "rating": 0.40625,
-    "active": 6
+    "active": 5
   },
   {
     "cases": 9,
@@ -9407,13 +9472,13 @@
   },
   {
     "cases": 138,
-    "deaths": 4,
+    "deaths": 2,
     "county": "Santa Clara County",
     "state": "CA",
     "country": "USA",
     "url": "https://www.sccgov.org/sites/phd/DiseaseInformation/novel-coronavirus/Pages/home.aspx",
     "rating": 0.53125,
-    "active": 134
+    "active": 136
   },
   {
     "cases": 9,
@@ -9423,6 +9488,16 @@
     "url": "http://www.solanocounty.com/depts/ph/coronavirus.asp",
     "rating": 0.375,
     "active": 9
+  },
+  {
+    "cases": 34,
+    "deaths": 0,
+    "county": "Contra Costa County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.coronavirus.cchealth.org/",
+    "rating": 0.53125,
+    "active": 34
   },
   {
     "cases": 3,
@@ -9501,13 +9576,13 @@
     "active": 93
   },
   {
-    "cases": 2,
+    "cases": 1,
     "county": "San Bernardino County",
     "state": "CA",
     "country": "USA",
     "url": "http://wp.sbcounty.gov/dph/coronavirus/",
     "rating": 0.375,
-    "active": 2
+    "active": 1
   },
   {
     "cases": 9,
@@ -9530,13 +9605,13 @@
     "active": 0
   },
   {
-    "cases": 9,
+    "cases": 5,
     "county": "Marin County",
     "state": "CA",
     "country": "USA",
     "url": "https://coronavirus.marinhhs.org/surveillance",
     "rating": 0.40625,
-    "active": 9
+    "active": 5
   },
   {
     "cases": 0,
@@ -9603,14 +9678,14 @@
     "active": 0
   },
   {
-    "cases": 22,
+    "cases": 17,
     "deaths": 0,
     "county": "Orange County",
     "state": "CA",
     "country": "USA",
     "url": "http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus",
     "rating": 0.5,
-    "active": 22
+    "active": 17
   },
   {
     "cases": 1,
@@ -10349,6 +10424,235 @@
     "url": "https://hhsa.cosb.us/publichealth/communicable-disease/coronavirus/",
     "rating": 0.65625,
     "active": 1
+  },
+  {
+    "state": "Saint-Barthélemy",
+    "cases": 3,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 3
+  },
+  {
+    "state": "Saint-Martin",
+    "cases": 2,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 2
+  },
+  {
+    "state": "Guadeloupe",
+    "cases": 18,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 18
+  },
+  {
+    "state": "Martinique",
+    "cases": 16,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 16
+  },
+  {
+    "state": "Guyane",
+    "cases": 11,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 11
+  },
+  {
+    "state": "La Réunion",
+    "cases": 9,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 9
+  },
+  {
+    "state": "Mayotte",
+    "cases": 1,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 1
+  },
+  {
+    "state": "Ile-de-France",
+    "cases": 1762,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 1762
+  },
+  {
+    "state": "Centre-Val de Loire",
+    "cases": 90,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 90
+  },
+  {
+    "state": "Bourgogne-Franche-Comté",
+    "cases": 507,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 507
+  },
+  {
+    "state": "Normandie",
+    "cases": 156,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 156
+  },
+  {
+    "state": "Hauts-de-France",
+    "cases": 585,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 585
+  },
+  {
+    "state": "Grand Est",
+    "cases": 1543,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 1543
+  },
+  {
+    "state": "Pays de la Loire",
+    "cases": 108,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 108
+  },
+  {
+    "state": "Bretagne",
+    "cases": 233,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 233
+  },
+  {
+    "state": "Nouvelle-Aquitaine",
+    "cases": 178,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 178
+  },
+  {
+    "state": "Occitanie",
+    "cases": 262,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 262
+  },
+  {
+    "state": "Auvergne-Rhône-Alpes",
+    "cases": 618,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 618
+  },
+  {
+    "state": "Provence-Alpes-Côte d’Azur",
+    "cases": 405,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 405
+  },
+  {
+    "state": "Corse",
+    "cases": 126,
+    "deaths": 0,
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "country": "FRA",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.59375,
+    "active": 126
+  },
+  {
+    "cases": 6633,
+    "country": "FRA",
+    "url": "https://raw.githubusercontent.com/opencovid19-fr/data/master/dist/chiffres-cles.csv",
+    "timeseries": true,
+    "type": "csv",
+    "rating": 0.40625,
+    "active": 6633
   },
   {
     "state": "Andalucía",
