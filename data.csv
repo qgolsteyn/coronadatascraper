@@ -328,7 +328,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,De Soto Parish,LA,USA,0,0,,,32.0948115,-93.699102,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,244,27436
 ,St. John the Baptist Parish,LA,USA,1,0,,,30.0930385,-90.4833525,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,245,43184
 ,Lafourche Parish,LA,USA,2,0,,,29.4895455,-90.50821049999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,246,98115
-,Orleans Parish,LA,USA,94,0,,,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,247,391006
+,Orleans Parish,LA,USA,116,0,,,30.033868,-89.88147699999999,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,247,391006
 ,Sabine Parish,LA,USA,0,0,,,31.505406999999998,-93.557699,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,248,24032
 ,Tangipahoa Parish,LA,USA,0,0,,,30.612403,-90.405269,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,249,133777
 ,St. Tammany Parish,LA,USA,6,0,,,30.43073,-89.891049,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,250,258111
@@ -360,8 +360,8 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Winn Parish,LA,USA,0,0,,,31.928432,-92.64287350000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,276,14134
 ,Catahoula Parish,LA,USA,0,0,,,31.5993165,-91.776279,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,277,9608
 ,Assumption Parish,LA,USA,0,0,,,29.8539995,-91.0722915,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,278,22300
-,Caddo Parish,LA,USA,3,0,,,32.6074585,-93.757198,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,279,242922
-,Washington Parish,LA,USA,0,0,,,30.835068999999997,-90.03715650000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,280,46582
+,Caddo Parish,LA,USA,4,0,,,32.6074585,-93.757198,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,279,242922
+,Washington Parish,LA,USA,1,0,,,30.835068999999997,-90.03715650000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,280,46582
 ,East Baton Rouge Parish,LA,USA,0,0,,,30.516002,-91.0821615,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,281,440956
 ,Natchitoches Parish,LA,USA,0,0,,,31.747528000000003,-93.080363,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,282,38659
 ,Bienville Parish,LA,USA,0,0,,,32.366091999999995,-93.10068150000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,283,13308
@@ -387,8 +387,8 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Cameron Parish,LA,USA,0,0,,,29.8158395,-93.27240900000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,303,6968
 ,Iberia Parish,LA,USA,0,0,,,29.7982045,-91.632762,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,304,70941
 ,St. Bernard Parish,LA,USA,2,0,,,29.8500655,-89.4145595,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,305,46721
-,Terrebonne Parish,LA,USA,2,0,,,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,306,111021
-,Jefferson Parish,LA,USA,21,0,,,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,307,434051
+,Terrebonne Parish,LA,USA,3,0,,,29.406244,-90.8557755,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,306,111021
+,Jefferson Parish,LA,USA,31,0,,,29.696731,-90.114832,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,307,434051
 ,Westchester,NY,USA,220,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
 ,Nassau,NY,USA,109,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
 ,Suffolk,NY,USA,63,,,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,,
