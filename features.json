@@ -85832,8 +85832,266 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Solano County, CA",
+        "name": "Santa Cruz County, CA",
         "id": 314
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.015966,
+              37.165658
+            ],
+            [
+              -121.99109,
+              37.14427
+            ],
+            [
+              -121.82402,
+              37.08757
+            ],
+            [
+              -121.809185,
+              37.069369
+            ],
+            [
+              -121.75562,
+              37.0491
+            ],
+            [
+              -121.736186,
+              37.015342
+            ],
+            [
+              -121.718762,
+              37.007557
+            ],
+            [
+              -121.738627,
+              36.990085
+            ],
+            [
+              -121.717878,
+              36.995561
+            ],
+            [
+              -121.695358,
+              36.98515
+            ],
+            [
+              -121.693303,
+              36.96823
+            ],
+            [
+              -121.66613,
+              36.96434
+            ],
+            [
+              -121.654038,
+              36.950584
+            ],
+            [
+              -121.645791,
+              36.93233
+            ],
+            [
+              -121.624755,
+              36.940451
+            ],
+            [
+              -121.581154,
+              36.919252
+            ],
+            [
+              -121.581354,
+              36.899152
+            ],
+            [
+              -121.629489,
+              36.911681
+            ],
+            [
+              -121.644001,
+              36.893996
+            ],
+            [
+              -121.657474,
+              36.913699
+            ],
+            [
+              -121.680621,
+              36.903285
+            ],
+            [
+              -121.706795,
+              36.911196
+            ],
+            [
+              -121.715417,
+              36.908871
+            ],
+            [
+              -121.745288,
+              36.909341
+            ],
+            [
+              -121.773882,
+              36.883409
+            ],
+            [
+              -121.787014,
+              36.88497
+            ],
+            [
+              -121.810552,
+              36.850648
+            ],
+            [
+              -121.827664,
+              36.879353
+            ],
+            [
+              -121.862266,
+              36.931552
+            ],
+            [
+              -121.880167,
+              36.950151
+            ],
+            [
+              -121.894667,
+              36.961851
+            ],
+            [
+              -121.906468,
+              36.96895
+            ],
+            [
+              -121.930069,
+              36.97815
+            ],
+            [
+              -121.93947,
+              36.97805
+            ],
+            [
+              -121.95167,
+              36.97145
+            ],
+            [
+              -121.972771,
+              36.954151
+            ],
+            [
+              -121.975871,
+              36.954051
+            ],
+            [
+              -121.983896,
+              36.958727
+            ],
+            [
+              -122.012373,
+              36.96455
+            ],
+            [
+              -122.023373,
+              36.96215
+            ],
+            [
+              -122.027174,
+              36.95115
+            ],
+            [
+              -122.050122,
+              36.948523
+            ],
+            [
+              -122.066421,
+              36.948271
+            ],
+            [
+              -122.079356,
+              36.950783
+            ],
+            [
+              -122.105976,
+              36.955951
+            ],
+            [
+              -122.140578,
+              36.97495
+            ],
+            [
+              -122.155078,
+              36.98085
+            ],
+            [
+              -122.186879,
+              37.00345
+            ],
+            [
+              -122.20618,
+              37.013949
+            ],
+            [
+              -122.252181,
+              37.059448
+            ],
+            [
+              -122.260481,
+              37.072548
+            ],
+            [
+              -122.284882,
+              37.101747
+            ],
+            [
+              -122.292974,
+              37.107318
+            ],
+            [
+              -122.317682,
+              37.186945
+            ],
+            [
+              -122.24266,
+              37.190035
+            ],
+            [
+              -122.242573,
+              37.215134
+            ],
+            [
+              -122.152774,
+              37.215444
+            ],
+            [
+              -122.152278,
+              37.286055
+            ],
+            [
+              -122.08981,
+              37.22327
+            ],
+            [
+              -122.055064,
+              37.212683
+            ],
+            [
+              -122.015966,
+              37.165658
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Solano County, CA",
+        "id": 315
       },
       "geometry": {
         "type": "Polygon",
@@ -86095,7 +86353,7 @@
       "type": "Feature",
       "properties": {
         "name": "Stanislaus County, CA",
-        "id": 315
+        "id": 316
       },
       "geometry": {
         "type": "Polygon",
@@ -86349,7 +86607,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sacramento County, CA",
-        "id": 316
+        "id": 317
       },
       "geometry": {
         "type": "Polygon",
@@ -86711,7 +86969,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fresno County, CA",
-        "id": 317
+        "id": 318
       },
       "geometry": {
         "type": "Polygon",
@@ -87389,7 +87647,7 @@
       "type": "Feature",
       "properties": {
         "name": "Madera County, CA",
-        "id": 318
+        "id": 319
       },
       "geometry": {
         "type": "Polygon",
@@ -87903,7 +88161,7 @@
       "type": "Feature",
       "properties": {
         "name": "Placer County, CA",
-        "id": 319
+        "id": 320
       },
       "geometry": {
         "type": "Polygon",
@@ -88305,7 +88563,7 @@
       "type": "Feature",
       "properties": {
         "name": "Shasta County, CA",
-        "id": 320
+        "id": 321
       },
       "geometry": {
         "type": "Polygon",
@@ -88587,7 +88845,7 @@
       "type": "Feature",
       "properties": {
         "name": "Los Angeles County, CA",
-        "id": 321
+        "id": 322
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -89367,7 +89625,7 @@
       "type": "Feature",
       "properties": {
         "name": "Orange County, CA",
-        "id": 322
+        "id": 323
       },
       "geometry": {
         "type": "Polygon",
@@ -89605,7 +89863,7 @@
       "type": "Feature",
       "properties": {
         "name": "Riverside County, CA",
-        "id": 323
+        "id": 324
       },
       "geometry": {
         "type": "Polygon",
@@ -90451,7 +90709,7 @@
       "type": "Feature",
       "properties": {
         "name": "San Diego County, CA",
-        "id": 324
+        "id": 325
       },
       "geometry": {
         "type": "Polygon",
@@ -90777,7 +91035,7 @@
       "type": "Feature",
       "properties": {
         "name": "Beadle County, SD",
-        "id": 325
+        "id": 326
       },
       "geometry": {
         "type": "Polygon",
@@ -90835,7 +91093,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bon Homme County, SD",
-        "id": 326
+        "id": 327
       },
       "geometry": {
         "type": "Polygon",
@@ -91185,7 +91443,7 @@
       "type": "Feature",
       "properties": {
         "name": "Charles Mix County, SD",
-        "id": 327
+        "id": 328
       },
       "geometry": {
         "type": "Polygon",
@@ -91595,7 +91853,7 @@
       "type": "Feature",
       "properties": {
         "name": "Davison County, SD",
-        "id": 328
+        "id": 329
       },
       "geometry": {
         "type": "Polygon",
@@ -91633,7 +91891,7 @@
       "type": "Feature",
       "properties": {
         "name": "McCook County, SD",
-        "id": 329
+        "id": 330
       },
       "geometry": {
         "type": "Polygon",
@@ -91695,7 +91953,7 @@
       "type": "Feature",
       "properties": {
         "name": "Minnehaha County, SD",
-        "id": 330
+        "id": 331
       },
       "geometry": {
         "type": "Polygon",
@@ -91793,7 +92051,7 @@
       "type": "Feature",
       "properties": {
         "name": "Pennington County, SD",
-        "id": 331
+        "id": 332
       },
       "geometry": {
         "type": "Polygon",
@@ -92027,7 +92285,7 @@
       "type": "Feature",
       "properties": {
         "name": "Davis County, UT",
-        "id": 332
+        "id": 333
       },
       "geometry": {
         "type": "Polygon",
@@ -92185,7 +92443,7 @@
       "type": "Feature",
       "properties": {
         "name": "Salt Lake County, UT",
-        "id": 333
+        "id": 334
       },
       "geometry": {
         "type": "Polygon",
@@ -92431,7 +92689,7 @@
       "type": "Feature",
       "properties": {
         "name": "San Juan County, UT",
-        "id": 334
+        "id": 335
       },
       "geometry": {
         "type": "Polygon",
@@ -93153,7 +93411,7 @@
       "type": "Feature",
       "properties": {
         "name": "Summit County, UT",
-        "id": 335
+        "id": 336
       },
       "geometry": {
         "type": "Polygon",
@@ -93535,7 +93793,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tooele County, UT",
-        "id": 336
+        "id": 337
       },
       "geometry": {
         "type": "Polygon",
@@ -93805,7 +94063,7 @@
       "type": "Feature",
       "properties": {
         "name": "Utah County, UT",
-        "id": 337
+        "id": 338
       },
       "geometry": {
         "type": "Polygon",
@@ -94315,7 +94573,7 @@
       "type": "Feature",
       "properties": {
         "name": "Wasatch County, UT",
-        "id": 338
+        "id": 339
       },
       "geometry": {
         "type": "Polygon",
@@ -94617,7 +94875,7 @@
       "type": "Feature",
       "properties": {
         "name": "Campbell County, TN",
-        "id": 339
+        "id": 340
       },
       "geometry": {
         "type": "Polygon",
@@ -94855,7 +95113,7 @@
       "type": "Feature",
       "properties": {
         "name": "Davidson County, TN",
-        "id": 340
+        "id": 341
       },
       "geometry": {
         "type": "Polygon",
@@ -95133,7 +95391,7 @@
       "type": "Feature",
       "properties": {
         "name": "Hamilton County, TN",
-        "id": 341
+        "id": 342
       },
       "geometry": {
         "type": "Polygon",
@@ -95387,7 +95645,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jefferson County, TN",
-        "id": 342
+        "id": 343
       },
       "geometry": {
         "type": "Polygon",
@@ -95685,7 +95943,7 @@
       "type": "Feature",
       "properties": {
         "name": "Knox County, TN",
-        "id": 343
+        "id": 344
       },
       "geometry": {
         "type": "Polygon",
@@ -95955,7 +96213,7 @@
       "type": "Feature",
       "properties": {
         "name": "Rutherford County, TN",
-        "id": 344
+        "id": 345
       },
       "geometry": {
         "type": "Polygon",
@@ -96249,7 +96507,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sevier County, TN",
-        "id": 345
+        "id": 346
       },
       "geometry": {
         "type": "Polygon",
@@ -96823,7 +97081,7 @@
       "type": "Feature",
       "properties": {
         "name": "Shelby County, TN",
-        "id": 346
+        "id": 347
       },
       "geometry": {
         "type": "Polygon",
@@ -97393,7 +97651,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sullivan County, TN",
-        "id": 347
+        "id": 348
       },
       "geometry": {
         "type": "Polygon",
@@ -97651,7 +97909,7 @@
       "type": "Feature",
       "properties": {
         "name": "Williamson County, TN",
-        "id": 348
+        "id": 349
       },
       "geometry": {
         "type": "Polygon",
@@ -97853,7 +98111,7 @@
       "type": "Feature",
       "properties": {
         "name": "New Haven County, CT",
-        "id": 349
+        "id": 350
       },
       "geometry": {
         "type": "Polygon",

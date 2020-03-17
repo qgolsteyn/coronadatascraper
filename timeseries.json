@@ -11279,12 +11279,21 @@
       "2020-3-14": {
         "cases": 7,
         "growthFactor": 1
+      },
+      "2020-3-17": {
+        "cases": 0
       }
     },
     "county": "Santa Cruz County",
     "state": "CA",
     "country": "USA",
-    "url": "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx"
+    "url": "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx",
+    "coordinates": [
+      -121.94941800000001,
+      37.0683515
+    ],
+    "featureId": 314,
+    "population": 274255
   },
   "Solano County, CA, USA": {
     "dates": {
@@ -11307,7 +11316,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 314,
+    "featureId": 315,
     "population": 446610
   },
   "Contra Costa County, CA, USA": {
@@ -11334,7 +11343,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 315,
+    "featureId": 316,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -11358,7 +11367,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 316,
+    "featureId": 317,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -11400,7 +11409,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 317,
+    "featureId": 318,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -11427,7 +11436,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 318,
+    "featureId": 319,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -11451,7 +11460,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 319,
+    "featureId": 320,
     "population": 157672
   },
   "Placer County, CA, USA": {
@@ -11478,7 +11487,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 320,
+    "featureId": 321,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -11502,7 +11511,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 321,
+    "featureId": 322,
     "population": 180040
   },
   "Los Angeles County, CA, USA": {
@@ -11529,7 +11538,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 322,
+    "featureId": 323,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -11556,7 +11565,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 323,
+    "featureId": 324,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -11580,7 +11589,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 324,
+    "featureId": 325,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -11607,7 +11616,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 325,
+    "featureId": 326,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -11634,7 +11643,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 326,
+    "featureId": 327,
     "population": 850967
   },
   "AL, USA": {
@@ -12614,7 +12623,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 327,
+    "featureId": 328,
     "population": 18883
   },
   "Bon Homme County, SD, USA": {
@@ -12634,7 +12643,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 328,
+    "featureId": 329,
     "population": 6980
   },
   "Charles Mix County, SD, USA": {
@@ -12654,7 +12663,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 329,
+    "featureId": 330,
     "population": 9338
   },
   "Davison County, SD, USA": {
@@ -12674,7 +12683,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 330,
+    "featureId": 331,
     "population": 19790
   },
   "McCook County, SD, USA": {
@@ -12694,7 +12703,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 331,
+    "featureId": 332,
     "population": 5546
   },
   "Minnehaha County, SD, USA": {
@@ -12714,7 +12723,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 332,
+    "featureId": 333,
     "population": 192876
   },
   "Pennington County, SD, USA": {
@@ -12734,7 +12743,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 333,
+    "featureId": 334,
     "population": 111729
   },
   "Bear River County, UT, USA": {
@@ -12782,7 +12791,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 334,
+    "featureId": 335,
     "population": 351713
   },
   "Salt Lake County, UT, USA": {
@@ -12802,7 +12811,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 335,
+    "featureId": 336,
     "population": 1152633
   },
   "San Juan County, UT, USA": {
@@ -12822,7 +12831,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 336,
+    "featureId": 337,
     "population": 15449
   },
   "Southeast Utah County, UT, USA": {
@@ -12870,7 +12879,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 337,
+    "featureId": 338,
     "population": 41933
   },
   "Tooele County, UT, USA": {
@@ -12890,7 +12899,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 338,
+    "featureId": 339,
     "population": 69907
   },
   "Tri County, UT, USA": {
@@ -12924,7 +12933,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 339,
+    "featureId": 340,
     "population": 622213
   },
   "Wasatch County, UT, USA": {
@@ -12944,7 +12953,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 340,
+    "featureId": 341,
     "population": 33240
   },
   "Weber-Morgan County, UT, USA": {
@@ -14304,7 +14313,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 341,
+    "featureId": 342,
     "population": 39583
   },
   "Davidson County, TN, USA": {
@@ -14321,7 +14330,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 342,
+    "featureId": 343,
     "population": 692587
   },
   "Hamilton County, TN, USA": {
@@ -14338,7 +14347,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 343,
+    "featureId": 344,
     "population": 364286
   },
   "Jefferson County, TN, USA": {
@@ -14355,7 +14364,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 344,
+    "featureId": 345,
     "population": 54012
   },
   "Knox County, TN, USA": {
@@ -14372,7 +14381,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 345,
+    "featureId": 346,
     "population": 465289
   },
   "Rutherford County, TN, USA": {
@@ -14389,7 +14398,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 346,
+    "featureId": 347,
     "population": 324890
   },
   "Sevier County, TN, USA": {
@@ -14406,7 +14415,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 347,
+    "featureId": 348,
     "population": 97892
   },
   "Shelby County, TN, USA": {
@@ -14423,7 +14432,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 348,
+    "featureId": 349,
     "population": 935764
   },
   "Sullivan County, TN, USA": {
@@ -14440,7 +14449,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 349,
+    "featureId": 350,
     "population": 157668
   },
   "Williamson County, TN, USA": {
@@ -14457,19 +14466,8 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 350,
+    "featureId": 351,
     "population": 231729
-  },
-  "2 County, OH, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0
-      }
-    },
-    "county": "2 County",
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/"
   },
   "Fairfield County: 29, CT, USA": {
     "dates": {
@@ -14518,7 +14516,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 351,
+    "featureId": 352,
     "population": 857620
   }
 }

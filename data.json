@@ -5108,6 +5108,19 @@
     "population": 499942
   },
   {
+    "cases": 0,
+    "county": "Santa Cruz County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx",
+    "coordinates": [
+      -121.94941800000001,
+      37.0683515
+    ],
+    "featureId": 314,
+    "population": 274255
+  },
+  {
     "cases": 9,
     "county": "Solano County",
     "state": "CA",
@@ -5117,7 +5130,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 314,
+    "featureId": 315,
     "population": 446610
   },
   {
@@ -5130,7 +5143,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 315,
+    "featureId": 316,
     "population": 549815
   },
   {
@@ -5144,7 +5157,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 316,
+    "featureId": 317,
     "population": 1540975
   },
   {
@@ -5158,7 +5171,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 317,
+    "featureId": 318,
     "population": 994400
   },
   {
@@ -5171,7 +5184,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 318,
+    "featureId": 319,
     "population": 157672
   },
   {
@@ -5185,7 +5198,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 319,
+    "featureId": 320,
     "population": 393149
   },
   {
@@ -5198,7 +5211,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 320,
+    "featureId": 321,
     "population": 180040
   },
   {
@@ -5212,7 +5225,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 321,
+    "featureId": 322,
     "population": 10105518
   },
   {
@@ -5226,7 +5239,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 322,
+    "featureId": 323,
     "population": 3185968
   },
   {
@@ -5239,7 +5252,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 323,
+    "featureId": 324,
     "population": 2450758
   },
   {
@@ -5253,7 +5266,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 324,
+    "featureId": 325,
     "population": 3343364
   },
   {
@@ -5266,7 +5279,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 325,
+    "featureId": 326,
     "population": 18883
   },
   {
@@ -5279,7 +5292,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 326,
+    "featureId": 327,
     "population": 6980
   },
   {
@@ -5292,7 +5305,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 327,
+    "featureId": 328,
     "population": 9338
   },
   {
@@ -5305,7 +5318,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 328,
+    "featureId": 329,
     "population": 19790
   },
   {
@@ -5318,7 +5331,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 329,
+    "featureId": 330,
     "population": 5546
   },
   {
@@ -5331,7 +5344,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 330,
+    "featureId": 331,
     "population": 192876
   },
   {
@@ -5344,7 +5357,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 331,
+    "featureId": 332,
     "population": 111729
   },
   {
@@ -5371,7 +5384,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 332,
+    "featureId": 333,
     "population": 351713
   },
   {
@@ -5384,7 +5397,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 333,
+    "featureId": 334,
     "population": 1152633
   },
   {
@@ -5397,7 +5410,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 334,
+    "featureId": 335,
     "population": 15449
   },
   {
@@ -5424,7 +5437,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 335,
+    "featureId": 336,
     "population": 41933
   },
   {
@@ -5437,7 +5450,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 336,
+    "featureId": 337,
     "population": 69907
   },
   {
@@ -5457,7 +5470,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 337,
+    "featureId": 338,
     "population": 622213
   },
   {
@@ -5470,7 +5483,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 338,
+    "featureId": 339,
     "population": 33240
   },
   {
@@ -5490,7 +5503,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 339,
+    "featureId": 340,
     "population": 39583
   },
   {
@@ -5503,7 +5516,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 340,
+    "featureId": 341,
     "population": 692587
   },
   {
@@ -5516,7 +5529,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 341,
+    "featureId": 342,
     "population": 364286
   },
   {
@@ -5529,7 +5542,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 342,
+    "featureId": 343,
     "population": 54012
   },
   {
@@ -5542,7 +5555,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 343,
+    "featureId": 344,
     "population": 465289
   },
   {
@@ -5555,7 +5568,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 344,
+    "featureId": 345,
     "population": 324890
   },
   {
@@ -5568,7 +5581,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 345,
+    "featureId": 346,
     "population": 97892
   },
   {
@@ -5581,7 +5594,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 346,
+    "featureId": 347,
     "population": 935764
   },
   {
@@ -5594,7 +5607,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 347,
+    "featureId": 348,
     "population": 157668
   },
   {
@@ -5607,15 +5620,8 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 348,
+    "featureId": 349,
     "population": 231729
-  },
-  {
-    "county": "2 County",
-    "cases": 0,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/"
   },
   {
     "county": "Fairfield County: 29",
@@ -5648,7 +5654,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 349,
+    "featureId": 350,
     "population": 857620
   }
 ]
