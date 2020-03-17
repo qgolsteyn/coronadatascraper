@@ -10113,148 +10113,78 @@
     "dates": {
       "2020-3-13": {
         "cases": 3
-      },
-      "2020-3-17": {
-        "cases": 31,
-        "deaths": 0
       }
     },
     "county": "Jefferson Parish",
     "state": "LA",
     "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -90.114832,
-      29.696731
-    ],
-    "featureId": 309,
-    "population": 434051
+    "url": "http://ldh.la.gov/Coronavirus/"
   },
   "Lafourche Parish, LA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 1
-      },
-      "2020-3-17": {
-        "cases": 2,
-        "deaths": 0
       }
     },
     "county": "Lafourche Parish",
     "state": "LA",
     "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -90.50821049999999,
-      29.4895455
-    ],
-    "featureId": 248,
-    "population": 98115
+    "url": "http://ldh.la.gov/Coronavirus/"
   },
   "Orleans Parish, LA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 26
-      },
-      "2020-3-17": {
-        "cases": 116,
-        "deaths": 0
       }
     },
     "county": "Orleans Parish",
     "state": "LA",
     "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -89.88147699999999,
-      30.033868
-    ],
-    "featureId": 249,
-    "population": 391006
+    "url": "http://ldh.la.gov/Coronavirus/"
   },
   "St. Bernard Parish, LA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 1
-      },
-      "2020-3-17": {
-        "cases": 2,
-        "deaths": 0
       }
     },
     "county": "St. Bernard Parish",
     "state": "LA",
     "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -89.4145595,
-      29.8500655
-    ],
-    "featureId": 307,
-    "population": 46721
+    "url": "http://ldh.la.gov/Coronavirus/"
   },
   "St. Charles Parish, LA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 1
-      },
-      "2020-3-17": {
-        "cases": 3,
-        "deaths": 0
       }
     },
     "county": "St. Charles Parish",
     "state": "LA",
     "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -90.3585315,
-      29.961458
-    ],
-    "featureId": 254,
-    "population": 52879
+    "url": "http://ldh.la.gov/Coronavirus/"
   },
   "St. Tammany Parish, LA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 2
-      },
-      "2020-3-17": {
-        "cases": 6,
-        "deaths": 0
       }
     },
     "county": "St. Tammany Parish",
     "state": "LA",
     "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -89.891049,
-      30.43073
-    ],
-    "featureId": 252,
-    "population": 258111
+    "url": "http://ldh.la.gov/Coronavirus/"
   },
   "Terrebonne Parish, LA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 1
-      },
-      "2020-3-17": {
-        "cases": 3,
-        "deaths": 0
       }
     },
     "county": "Terrebonne Parish",
     "state": "LA",
     "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -90.8557755,
-      29.406244
-    ],
-    "featureId": 308,
-    "population": 111021
+    "url": "http://ldh.la.gov/Coronavirus/"
   },
   "Carroll County, IA, USA": {
     "dates": {
@@ -11190,7 +11120,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 310,
+    "featureId": 246,
     "population": 883305
   },
   "San Mateo County, CA, USA": {
@@ -11217,7 +11147,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 311,
+    "featureId": 247,
     "population": 769545
   },
   "Alameda County, CA, USA": {
@@ -11244,7 +11174,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 312,
+    "featureId": 248,
     "population": 1666753
   },
   "Sonoma County, CA, USA": {
@@ -11268,7 +11198,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 313,
+    "featureId": 249,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -11292,7 +11222,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 314,
+    "featureId": 250,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -11316,7 +11246,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 315,
+    "featureId": 251,
     "population": 446610
   },
   "Contra Costa County, CA, USA": {
@@ -11343,7 +11273,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 316,
+    "featureId": 252,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -11367,7 +11297,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 317,
+    "featureId": 253,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -11409,7 +11339,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 318,
+    "featureId": 254,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -11436,7 +11366,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 319,
+    "featureId": 255,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -11460,7 +11390,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 320,
+    "featureId": 256,
     "population": 157672
   },
   "Placer County, CA, USA": {
@@ -11487,7 +11417,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 321,
+    "featureId": 257,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -11511,7 +11441,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 322,
+    "featureId": 258,
     "population": 180040
   },
   "Los Angeles County, CA, USA": {
@@ -11538,7 +11468,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 323,
+    "featureId": 259,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -11565,7 +11495,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 324,
+    "featureId": 260,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -11589,7 +11519,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 325,
+    "featureId": 261,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -11616,7 +11546,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 326,
+    "featureId": 262,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -11643,7 +11573,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 327,
+    "featureId": 263,
     "population": 850967
   },
   "AL, USA": {
@@ -12623,7 +12553,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 328,
+    "featureId": 264,
     "population": 18883
   },
   "Bon Homme County, SD, USA": {
@@ -12643,7 +12573,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 329,
+    "featureId": 265,
     "population": 6980
   },
   "Charles Mix County, SD, USA": {
@@ -12663,7 +12593,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 330,
+    "featureId": 266,
     "population": 9338
   },
   "Davison County, SD, USA": {
@@ -12683,7 +12613,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 331,
+    "featureId": 267,
     "population": 19790
   },
   "McCook County, SD, USA": {
@@ -12703,7 +12633,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 332,
+    "featureId": 268,
     "population": 5546
   },
   "Minnehaha County, SD, USA": {
@@ -12723,7 +12653,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 333,
+    "featureId": 269,
     "population": 192876
   },
   "Pennington County, SD, USA": {
@@ -12743,7 +12673,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 334,
+    "featureId": 270,
     "population": 111729
   },
   "Bear River County, UT, USA": {
@@ -12791,7 +12721,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 335,
+    "featureId": 271,
     "population": 351713
   },
   "Salt Lake County, UT, USA": {
@@ -12811,7 +12741,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 336,
+    "featureId": 272,
     "population": 1152633
   },
   "San Juan County, UT, USA": {
@@ -12831,7 +12761,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 337,
+    "featureId": 273,
     "population": 15449
   },
   "Southeast Utah County, UT, USA": {
@@ -12879,7 +12809,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 338,
+    "featureId": 274,
     "population": 41933
   },
   "Tooele County, UT, USA": {
@@ -12899,7 +12829,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 339,
+    "featureId": 275,
     "population": 69907
   },
   "Tri County, UT, USA": {
@@ -12933,7 +12863,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 340,
+    "featureId": 276,
     "population": 622213
   },
   "Wasatch County, UT, USA": {
@@ -12953,7 +12883,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 341,
+    "featureId": 277,
     "population": 33240
   },
   "Weber-Morgan County, UT, USA": {
@@ -13274,1031 +13204,6 @@
     "featureId": 245,
     "population": 107002
   },
-  "De Soto Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "De Soto Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.699102,
-      32.0948115
-    ],
-    "featureId": 246,
-    "population": 27436
-  },
-  "St. John the Baptist Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 1,
-        "deaths": 0
-      }
-    },
-    "county": "St. John the Baptist Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -90.4833525,
-      30.0930385
-    ],
-    "featureId": 247,
-    "population": 43184
-  },
-  "Sabine Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Sabine Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.557699,
-      31.505406999999998
-    ],
-    "featureId": 250,
-    "population": 24032
-  },
-  "Tangipahoa Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Tangipahoa Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -90.405269,
-      30.612403
-    ],
-    "featureId": 251,
-    "population": 133777
-  },
-  "Livingston Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Livingston Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -90.696248,
-      30.412879
-    ],
-    "featureId": 253,
-    "population": 139567
-  },
-  "Calcasieu Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Calcasieu Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.326522,
-      30.2639165
-    ],
-    "featureId": 255,
-    "population": 203112
-  },
-  "Union Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Union Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.394117,
-      32.7976865
-    ],
-    "featureId": 256,
-    "population": 22330
-  },
-  "Caldwell Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Caldwell Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.09278499999999,
-      32.102264500000004
-    ],
-    "featureId": 257,
-    "population": 9960
-  },
-  "Tensas Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Tensas Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.3045835,
-      31.991290499999998
-    ],
-    "featureId": 258,
-    "population": 4462
-  },
-  "Jackson Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Jackson Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.56701000000001,
-      32.3212645
-    ],
-    "featureId": 259,
-    "population": 15902
-  },
-  "Grant Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Grant Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.58483,
-      31.5926135
-    ],
-    "featureId": 260,
-    "population": 22482
-  },
-  "Lincoln Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Lincoln Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.64820449999999,
-      32.606269499999996
-    ],
-    "featureId": 261,
-    "population": 47196
-  },
-  "Jefferson Davis Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Jefferson Davis Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.857122,
-      30.2628035
-    ],
-    "featureId": 262,
-    "population": 31582
-  },
-  "Lafayette Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Lafayette Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.0951095,
-      30.2075775
-    ],
-    "featureId": 263,
-    "population": 242782
-  },
-  "East Carroll Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "East Carroll Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.2303025,
-      32.7714455
-    ],
-    "featureId": 264,
-    "population": 7037
-  },
-  "East Feliciana Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "East Feliciana Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.0732675,
-      30.824589
-    ],
-    "featureId": 265,
-    "population": 19305
-  },
-  "Iberville Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Iberville Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.3600815,
-      30.2613845
-    ],
-    "featureId": 266,
-    "population": 32721
-  },
-  "Richland Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Richland Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.732693,
-      32.409445500000004
-    ],
-    "featureId": 267,
-    "population": 20192
-  },
-  "St. Martin Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "St. Martin Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.53909150000001,
-      30.09857
-    ],
-    "featureId": 268,
-    "population": 53621
-  },
-  "Claiborne Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Claiborne Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.981675,
-      32.8016545
-    ],
-    "featureId": 269,
-    "population": 15944
-  },
-  "St. Landry Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "St. Landry Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.08607749999999,
-      30.573712
-    ],
-    "featureId": 270,
-    "population": 82764
-  },
-  "Pointe Coupee Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Pointe Coupee Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.5623665,
-      30.750701999999997
-    ],
-    "featureId": 271,
-    "population": 21940
-  },
-  "La Salle Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "La Salle Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.186641,
-      31.6257625
-    ],
-    "featureId": 272
-  },
-  "Webster Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Webster Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.3384255,
-      32.7143435
-    ],
-    "featureId": 273,
-    "population": 38798
-  },
-  "St. James Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "St. James Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -90.8028455,
-      30.027838
-    ],
-    "featureId": 274,
-    "population": 21037
-  },
-  "Morehouse Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Morehouse Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.76029249999999,
-      32.7570325
-    ],
-    "featureId": 275,
-    "population": 25398
-  },
-  "Rapides Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Rapides Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.5286315,
-      31.203797
-    ],
-    "featureId": 276,
-    "population": 130562
-  },
-  "Avoyelles Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Avoyelles Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.97901999999999,
-      31.095483
-    ],
-    "featureId": 277,
-    "population": 40462
-  },
-  "Winn Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Winn Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.64287350000001,
-      31.928432
-    ],
-    "featureId": 278,
-    "population": 14134
-  },
-  "Catahoula Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Catahoula Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.776279,
-      31.5993165
-    ],
-    "featureId": 279,
-    "population": 9608
-  },
-  "Assumption Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Assumption Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.0722915,
-      29.8539995
-    ],
-    "featureId": 280,
-    "population": 22300
-  },
-  "Caddo Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 4,
-        "deaths": 0
-      }
-    },
-    "county": "Caddo Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.757198,
-      32.6074585
-    ],
-    "featureId": 281,
-    "population": 242922
-  },
-  "Washington Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 1,
-        "deaths": 0
-      }
-    },
-    "county": "Washington Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -90.03715650000001,
-      30.835068999999997
-    ],
-    "featureId": 282,
-    "population": 46582
-  },
-  "East Baton Rouge Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "East Baton Rouge Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.0821615,
-      30.516002
-    ],
-    "featureId": 283,
-    "population": 440956
-  },
-  "Natchitoches Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Natchitoches Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.080363,
-      31.747528000000003
-    ],
-    "featureId": 284,
-    "population": 38659
-  },
-  "Bienville Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Bienville Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.10068150000001,
-      32.366091999999995
-    ],
-    "featureId": 285,
-    "population": 13308
-  },
-  "Bossier Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 1,
-        "deaths": 0
-      }
-    },
-    "county": "Bossier Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.5978795,
-      32.627677000000006
-    ],
-    "featureId": 286,
-    "population": 127185
-  },
-  "Allen Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Allen Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.856948,
-      30.661153
-    ],
-    "featureId": 287,
-    "population": 25605
-  },
-  "Ouachita Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Ouachita Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.159829,
-      32.4907775
-    ],
-    "featureId": 288,
-    "population": 154475
-  },
-  "St. Helena Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "St. Helena Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -90.738279,
-      30.824559
-    ],
-    "featureId": 289,
-    "population": 10262
-  },
-  "West Feliciana Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "West Feliciana Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.46312950000001,
-      30.8493775
-    ],
-    "featureId": 290,
-    "population": 15460
-  },
-  "West Carroll Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "West Carroll Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.45007849999999,
-      32.7940275
-    ],
-    "featureId": 291,
-    "population": 10982
-  },
-  "Concordia Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Concordia Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.622707,
-      31.366113
-    ],
-    "featureId": 292,
-    "population": 19572
-  },
-  "West Baton Rouge Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "West Baton Rouge Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.313597,
-      30.490574000000002
-    ],
-    "featureId": 293,
-    "population": 26427
-  },
-  "Madison Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Madison Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.216415,
-      32.341573
-    ],
-    "featureId": 294,
-    "population": 11161
-  },
-  "Ascension Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 1,
-        "deaths": 0
-      }
-    },
-    "county": "Ascension Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -90.869644,
-      30.204696499999997
-    ],
-    "featureId": 295,
-    "population": 124672
-  },
-  "Acadia Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Acadia Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.38683499999999,
-      30.2652335
-    ],
-    "featureId": 296,
-    "population": 62190
-  },
-  "Beauregard Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Beauregard Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.35856949999999,
-      30.6430015
-    ],
-    "featureId": 297,
-    "population": 37253
-  },
-  "Franklin Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Franklin Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.6867355,
-      32.1420035
-    ],
-    "featureId": 298,
-    "population": 20156
-  },
-  "Evangeline Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Evangeline Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.40312349999999,
-      30.7409765
-    ],
-    "featureId": 299,
-    "population": 33443
-  },
-  "Vernon Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Vernon Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.19772900000001,
-      31.1119345
-    ],
-    "featureId": 300,
-    "population": 48860
-  },
-  "Red River Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Red River Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.367939,
-      32.062484
-    ],
-    "featureId": 301,
-    "population": 8477
-  },
-  "Vermilion Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Vermilion Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -92.351531,
-      29.8402345
-    ],
-    "featureId": 302,
-    "population": 59830
-  },
-  "Plaquemines Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Plaquemines Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -89.5381785,
-      29.4150075
-    ],
-    "featureId": 303,
-    "population": 23410
-  },
-  "St. Mary Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "St. Mary Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.48180049999999,
-      29.7141755
-    ],
-    "featureId": 304,
-    "population": 49774
-  },
-  "Cameron Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Cameron Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -93.27240900000001,
-      29.8158395
-    ],
-    "featureId": 305,
-    "population": 6968
-  },
-  "Iberia Parish, LA, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0,
-        "deaths": 0
-      }
-    },
-    "county": "Iberia Parish",
-    "state": "LA",
-    "country": "USA",
-    "url": "https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv",
-    "coordinates": [
-      -91.632762,
-      29.7982045
-    ],
-    "featureId": 306,
-    "population": 70941
-  },
   "Campbell County, TN, USA": {
     "dates": {
       "2020-3-17": {
@@ -14313,7 +13218,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 342,
+    "featureId": 278,
     "population": 39583
   },
   "Davidson County, TN, USA": {
@@ -14330,7 +13235,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 343,
+    "featureId": 279,
     "population": 692587
   },
   "Hamilton County, TN, USA": {
@@ -14347,7 +13252,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 344,
+    "featureId": 280,
     "population": 364286
   },
   "Jefferson County, TN, USA": {
@@ -14364,7 +13269,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 345,
+    "featureId": 281,
     "population": 54012
   },
   "Knox County, TN, USA": {
@@ -14381,7 +13286,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 346,
+    "featureId": 282,
     "population": 465289
   },
   "Rutherford County, TN, USA": {
@@ -14398,7 +13303,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 347,
+    "featureId": 283,
     "population": 324890
   },
   "Sevier County, TN, USA": {
@@ -14415,7 +13320,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 348,
+    "featureId": 284,
     "population": 97892
   },
   "Shelby County, TN, USA": {
@@ -14432,7 +13337,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 349,
+    "featureId": 285,
     "population": 935764
   },
   "Sullivan County, TN, USA": {
@@ -14449,7 +13354,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 350,
+    "featureId": 286,
     "population": 157668
   },
   "Williamson County, TN, USA": {
@@ -14466,7 +13371,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 351,
+    "featureId": 287,
     "population": 231729
   },
   "Fairfield County: 48, CT, USA": {
@@ -14516,7 +13421,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 352,
+    "featureId": 288,
     "population": 857620
   }
 }
