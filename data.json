@@ -5221,258 +5221,6 @@
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
   },
   {
-    "county": "Clark County",
-    "cases": 4,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -122.5203415,
-      45.80125099999999
-    ],
-    "featureId": 310,
-    "population": 481857
-  },
-  {
-    "county": "Columbia County",
-    "cases": 1,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -117.92289099999999,
-      46.3118295
-    ],
-    "featureId": 311,
-    "population": 4059
-  },
-  {
-    "county": "Grant County",
-    "cases": 3,
-    "deaths": 1,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -119.508134,
-      47.293631
-    ],
-    "featureId": 312,
-    "population": 97331
-  },
-  {
-    "county": "Grays Harbor County",
-    "cases": 1,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -123.756045,
-      47.162482
-    ],
-    "featureId": 313,
-    "population": 73901
-  },
-  {
-    "county": "Island County",
-    "cases": 7,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -122.559821,
-      48.157794
-    ],
-    "featureId": 314,
-    "population": 84460
-  },
-  {
-    "county": "Jefferson County",
-    "cases": 3,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -123.61055200000001,
-      47.8304245
-    ],
-    "featureId": 315,
-    "population": 31729
-  },
-  {
-    "county": "King County",
-    "cases": 488,
-    "deaths": 43,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -121.7969185,
-      47.4324805
-    ],
-    "featureId": 316,
-    "population": 2233163
-  },
-  {
-    "county": "Kitsap County",
-    "cases": 7,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -122.7433825,
-      47.6719585
-    ],
-    "featureId": 317,
-    "population": 269805
-  },
-  {
-    "county": "Kittitas County",
-    "cases": 3,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -120.688514,
-      47.167153
-    ],
-    "featureId": 318,
-    "population": 47364
-  },
-  {
-    "county": "Lewis County",
-    "cases": 1,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -122.3615475,
-      46.5893095
-    ],
-    "featureId": 319,
-    "population": 79604
-  },
-  {
-    "county": "Lincoln County",
-    "cases": 1,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -118.399462,
-      47.609032
-    ],
-    "featureId": 320,
-    "population": 10740
-  },
-  {
-    "county": "Pierce County",
-    "cases": 38,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -122.10319799999999,
-      47.066154
-    ],
-    "featureId": 321,
-    "population": 891299
-  },
-  {
-    "county": "Skagit County",
-    "cases": 7,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -121.712645,
-      48.476543
-    ],
-    "featureId": 322,
-    "population": 128206
-  },
-  {
-    "county": "Snohomish County",
-    "cases": 200,
-    "deaths": 4,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -121.65598399999999,
-      48.037258
-    ],
-    "featureId": 323,
-    "population": 814901
-  },
-  {
-    "county": "Spokane County",
-    "cases": 3,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -117.431769,
-      47.653568500000006
-    ],
-    "featureId": 324,
-    "population": 514631
-  },
-  {
-    "county": "Thurston County",
-    "cases": 4,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -122.7023935,
-      46.9761355
-    ],
-    "featureId": 325,
-    "population": 286419
-  },
-  {
-    "county": "Whatcom County",
-    "cases": 3,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -121.884438,
-      48.821715499999996
-    ],
-    "featureId": 326,
-    "population": 225685
-  },
-  {
-    "county": "Yakima County",
-    "cases": 4,
-    "deaths": 0,
-    "state": "WA",
-    "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
-    "coordinates": [
-      -120.69510149999999,
-      46.564808
-    ],
-    "featureId": 327,
-    "population": 251446
-  },
-  {
     "cases": 40,
     "deaths": 0,
     "county": "San Francisco County",
@@ -5483,7 +5231,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 328,
+    "featureId": 310,
     "population": 883305
   },
   {
@@ -5497,7 +5245,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 329,
+    "featureId": 311,
     "population": 769545
   },
   {
@@ -5511,7 +5259,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 330,
+    "featureId": 312,
     "population": 1666753
   },
   {
@@ -5524,7 +5272,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 331,
+    "featureId": 313,
     "population": 499942
   },
   {
@@ -5537,7 +5285,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 332,
+    "featureId": 314,
     "population": 274255
   },
   {
@@ -5550,7 +5298,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 333,
+    "featureId": 315,
     "population": 446610
   },
   {
@@ -5563,7 +5311,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 334,
+    "featureId": 316,
     "population": 549815
   },
   {
@@ -5576,7 +5324,7 @@
       -121.962515,
       38.619189
     ],
-    "featureId": 335,
+    "featureId": 317,
     "population": 220408
   },
   {
@@ -5590,7 +5338,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 336,
+    "featureId": 318,
     "population": 1540975
   },
   {
@@ -5604,7 +5352,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 337,
+    "featureId": 319,
     "population": 994400
   },
   {
@@ -5617,7 +5365,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 338,
+    "featureId": 320,
     "population": 157672
   },
   {
@@ -5631,7 +5379,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 339,
+    "featureId": 321,
     "population": 393149
   },
   {
@@ -5644,7 +5392,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 340,
+    "featureId": 322,
     "population": 180040
   },
   {
@@ -5658,7 +5406,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 341,
+    "featureId": 323,
     "population": 10105518
   },
   {
@@ -5672,7 +5420,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 342,
+    "featureId": 324,
     "population": 3185968
   },
   {
@@ -5685,7 +5433,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 343,
+    "featureId": 325,
     "population": 2450758
   },
   {
@@ -5699,7 +5447,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 344,
+    "featureId": 326,
     "population": 3343364
   },
   {
@@ -5712,7 +5460,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 345,
+    "featureId": 327,
     "population": 18883
   },
   {
@@ -5725,7 +5473,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 346,
+    "featureId": 328,
     "population": 6980
   },
   {
@@ -5738,7 +5486,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 347,
+    "featureId": 329,
     "population": 9338
   },
   {
@@ -5751,7 +5499,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 348,
+    "featureId": 330,
     "population": 19790
   },
   {
@@ -5764,7 +5512,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 349,
+    "featureId": 331,
     "population": 5546
   },
   {
@@ -5777,7 +5525,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 350,
+    "featureId": 332,
     "population": 192876
   },
   {
@@ -5790,7 +5538,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 351,
+    "featureId": 333,
     "population": 111729
   },
   {
@@ -5817,7 +5565,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 352,
+    "featureId": 334,
     "population": 351713
   },
   {
@@ -5830,7 +5578,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 353,
+    "featureId": 335,
     "population": 1152633
   },
   {
@@ -5843,7 +5591,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 354,
+    "featureId": 336,
     "population": 15449
   },
   {
@@ -5870,7 +5618,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 355,
+    "featureId": 337,
     "population": 41933
   },
   {
@@ -5883,7 +5631,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 356,
+    "featureId": 338,
     "population": 69907
   },
   {
@@ -5903,7 +5651,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 357,
+    "featureId": 339,
     "population": 622213
   },
   {
@@ -5916,7 +5664,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 358,
+    "featureId": 340,
     "population": 33240
   },
   {
@@ -5936,7 +5684,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 359,
+    "featureId": 341,
     "population": 39583
   },
   {
@@ -5949,7 +5697,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 360,
+    "featureId": 342,
     "population": 692587
   },
   {
@@ -5962,7 +5710,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 361,
+    "featureId": 343,
     "population": 364286
   },
   {
@@ -5975,7 +5723,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 362,
+    "featureId": 344,
     "population": 54012
   },
   {
@@ -5988,7 +5736,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 363,
+    "featureId": 345,
     "population": 465289
   },
   {
@@ -6001,7 +5749,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 364,
+    "featureId": 346,
     "population": 324890
   },
   {
@@ -6014,7 +5762,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 365,
+    "featureId": 347,
     "population": 97892
   },
   {
@@ -6027,7 +5775,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 366,
+    "featureId": 348,
     "population": 935764
   },
   {
@@ -6040,7 +5788,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 367,
+    "featureId": 349,
     "population": 157668
   },
   {
@@ -6053,7 +5801,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 368,
+    "featureId": 350,
     "population": 231729
   },
   {
@@ -6094,7 +5842,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 369,
+    "featureId": 351,
     "population": 857620
   }
 ]
