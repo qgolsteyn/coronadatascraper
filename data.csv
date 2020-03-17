@@ -133,7 +133,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Yancey County,NC,USA,0,0,0,,35.888507000000004,-82.31928300000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,129,17903
 ,Madison County,NC,USA,0,0,0,,35.8719975,-82.685785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,130,21763
 ,Martin County,NC,USA,0,0,0,,35.8664985,-77.084982,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,131,22671
-,Wake County,NC,USA,14,0,0,,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,132,1092305
+,Wake County,NC,USA,15,0,0,,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,132,1092305
 ,Davie County,NC,USA,0,0,0,,35.9026525,-80.5364645,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,133,42733
 ,Washington County,NC,USA,0,0,0,,35.840892999999994,-76.6003345,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,134,11859
 ,Burke County,NC,USA,0,0,0,,35.7791955,-81.675545,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,135,90382
@@ -154,7 +154,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Lee County,NC,USA,0,0,0,,35.467607,-79.16466,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,150,61452
 ,Cleveland County,NC,USA,0,0,0,,35.371596499999995,-81.54468800000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,151,97645
 ,Jackson County,NC,USA,0,0,0,,35.26292,-83.1417865,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,152,43327
-,Harnett County,NC,USA,2,0,0,,35.3876225,-78.87648899999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,153,134214
+,Harnett County,NC,USA,3,0,0,,35.3876225,-78.87648899999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,153,134214
 ,Graham County,NC,USA,0,0,0,,35.342066,-83.810297,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,154,8484
 ,Henderson County,NC,USA,0,0,0,,35.322029,-82.5033325,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,155,116748
 ,Moore County,NC,USA,0,0,0,,35.2805435,-79.43270749999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,156,98682
@@ -167,7 +167,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Macon County,NC,USA,0,0,0,,35.162244,-83.42341,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,163,35285
 ,Cherokee County,NC,USA,0,0,0,,35.139748499999996,-84.0097475,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,164,28383
 ,Pamlico County,NC,USA,0,0,0,,35.1507535,-76.72772499999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,165,12670
-,Sampson County,NC,USA,0,0,0,,34.9345395,-78.3926405,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,166,63626
+,Sampson County,NC,USA,1,0,0,,34.9345395,-78.3926405,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,166,63626
 ,Cumberland County,NC,USA,0,0,0,,35.0502155,-78.8038205,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,167,332330
 ,Clay County,NC,USA,0,0,0,,35.0712515,-83.7441825,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,168,11139
 ,Jones County,NC,USA,0,0,0,,35.014189,-77.39021650000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,169,9637
@@ -185,10 +185,10 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Columbus County,NC,USA,0,0,0,,34.2134885,-78.6167595,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,181,55655
 ,New Hanover County,NC,USA,0,0,0,,34.15828500000001,-77.872919,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,182,232274
 ,Brunswick County,NC,USA,1,0,0,,34.1056615,-78.292874,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,183,136744
-,Iredell County,NC,USA,0,0,0,,35.7732565,-80.901307,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,184,178435
+,Iredell County,NC,USA,1,0,0,,35.7732565,-80.901307,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,184,178435
 ,Rowan County,NC,USA,0,0,0,,35.6830585,-80.47710000000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,185,141262
 ,Lincoln County,NC,USA,0,0,0,,35.484821999999994,-81.24025,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,186,83770
-,Mecklenburg County,NC,USA,4,0,0,,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,187,1093901
+,Mecklenburg County,NC,USA,7,0,0,,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,187,1093901
 ,Cabarrus County,NC,USA,1,0,0,,35.3456055,-80.541589,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,188,211342
 ,Gaston County,NC,USA,0,0,0,,35.284431999999995,-81.1896935,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,189,222846
 ,Atlantic County,NJ,USA,0,,,0,39.509258,-74.6437035,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,190,265429
@@ -460,7 +460,6 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Shelby County,TN,USA,2,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,346,935764
 ,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,347,157668
 ,Williamson County,TN,USA,18,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,348,231729
-,2 County,OH,USA,0,,,,,,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,,
 ,Fairfield County: 29,CT,USA,0,,,,,,https://portal.ct.gov/Coronavirus,,
 ,Hartford County: 4,CT,USA,0,,,,,,https://portal.ct.gov/Coronavirus,,
 ,Litchfield County: 4,CT,USA,0,,,,,,https://portal.ct.gov/Coronavirus,,

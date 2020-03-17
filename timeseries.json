@@ -7176,7 +7176,7 @@
         "growthFactor": 1.375
       },
       "2020-3-17": {
-        "cases": 14,
+        "cases": 15,
         "deaths": 0,
         "recovered": 0
       }
@@ -7806,7 +7806,7 @@
         "growthFactor": null
       },
       "2020-3-17": {
-        "cases": 2,
+        "cases": 3,
         "deaths": 0,
         "recovered": 0
       }
@@ -8196,7 +8196,7 @@
         "growthFactor": null
       },
       "2020-3-17": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0
       }
@@ -8736,7 +8736,7 @@
         "growthFactor": null
       },
       "2020-3-17": {
-        "cases": 0,
+        "cases": 1,
         "deaths": 0,
         "recovered": 0
       }
@@ -8826,7 +8826,7 @@
         "growthFactor": 1
       },
       "2020-3-17": {
-        "cases": 4,
+        "cases": 7,
         "deaths": 0,
         "recovered": 0
       }
@@ -14681,17 +14681,6 @@
     ],
     "featureId": 350,
     "population": 231729
-  },
-  "2 County, OH, USA": {
-    "dates": {
-      "2020-3-17": {
-        "cases": 0
-      }
-    },
-    "county": "2 County",
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/"
   },
   "Fairfield County: 29, CT, USA": {
     "dates": {

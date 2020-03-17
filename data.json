@@ -1998,7 +1998,7 @@
   },
   {
     "county": "Wake County",
-    "cases": 14,
+    "cases": 15,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2313,7 +2313,7 @@
   },
   {
     "county": "Harnett County",
-    "cases": 2,
+    "cases": 3,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2508,7 +2508,7 @@
   },
   {
     "county": "Sampson County",
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2778,7 +2778,7 @@
   },
   {
     "county": "Iredell County",
-    "cases": 0,
+    "cases": 1,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2823,7 +2823,7 @@
   },
   {
     "county": "Mecklenburg County",
-    "cases": 4,
+    "cases": 7,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -5775,13 +5775,6 @@
     ],
     "featureId": 348,
     "population": 231729
-  },
-  {
-    "county": "2 County",
-    "cases": 0,
-    "state": "OH",
-    "country": "USA",
-    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/"
   },
   {
     "county": "Fairfield County: 29",
