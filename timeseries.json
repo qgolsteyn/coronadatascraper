@@ -9722,8 +9722,8 @@
         "growthFactor": null
       },
       "2020-3-17": {
-        "cases": 1,
-        "deaths": 1
+        "cases": 2,
+        "deaths": 2
       }
     },
     "county": "Elmore County",
@@ -9749,8 +9749,8 @@
         "growthFactor": null
       },
       "2020-3-17": {
-        "cases": 17,
-        "deaths": 17
+        "cases": 20,
+        "deaths": 20
       }
     },
     "county": "Jefferson County",
@@ -9815,7 +9815,7 @@
       -86.2080335,
       32.2330785
     ],
-    "featureId": 228,
+    "featureId": 229,
     "population": 225763
   },
   "Tuscaloosa County, AL, USA": {
@@ -9842,7 +9842,7 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 230,
+    "featureId": 232,
     "population": 208911
   },
   "Clackamas County, OR, USA": {
@@ -9866,7 +9866,7 @@
       -122.26009400000001,
       45.1737
     ],
-    "featureId": 232,
+    "featureId": 234,
     "population": 416075
   },
   "Deschutes County, OR, USA": {
@@ -9890,7 +9890,7 @@
       -120.94952,
       44.001645499999995
     ],
-    "featureId": 233,
+    "featureId": 235,
     "population": 191996
   },
   "Douglas County, OR, USA": {
@@ -9914,7 +9914,7 @@
       -123.0963585,
       43.3222345
     ],
-    "featureId": 234,
+    "featureId": 236,
     "population": 110283
   },
   "Jackson County, OR, USA": {
@@ -9938,7 +9938,7 @@
       -122.756742,
       42.4995805
     ],
-    "featureId": 235,
+    "featureId": 237,
     "population": 219564
   },
   "Klamath County, OR, USA": {
@@ -9962,7 +9962,7 @@
       -121.58491599999999,
       42.804975999999996
     ],
-    "featureId": 236,
+    "featureId": 238,
     "population": 67653
   },
   "Linn County, OR, USA": {
@@ -9986,7 +9986,7 @@
       -122.5272075,
       44.496468
     ],
-    "featureId": 237,
+    "featureId": 239,
     "population": 127335
   },
   "Marion County, OR, USA": {
@@ -10010,7 +10010,7 @@
       -122.4575375,
       44.984239
     ],
-    "featureId": 238,
+    "featureId": 240,
     "population": 346868
   },
   "Multnomah County, OR, USA": {
@@ -10034,7 +10034,7 @@
       -122.374808,
       45.580658
     ],
-    "featureId": 239,
+    "featureId": 241,
     "population": 811880
   },
   "Polk County, OR, USA": {
@@ -10058,7 +10058,7 @@
       -123.38289850000001,
       44.8977695
     ],
-    "featureId": 240,
+    "featureId": 242,
     "population": 85234
   },
   "Umatilla County, OR, USA": {
@@ -10082,7 +10082,7 @@
       -118.7037805,
       45.4984405
     ],
-    "featureId": 241,
+    "featureId": 243,
     "population": 77516
   },
   "Washington County, OR, USA": {
@@ -10106,7 +10106,7 @@
       -123.114875,
       45.5483985
     ],
-    "featureId": 242,
+    "featureId": 244,
     "population": 597695
   },
   "Jefferson Parish, LA, USA": {
@@ -10127,7 +10127,7 @@
       -90.114832,
       29.696731
     ],
-    "featureId": 307,
+    "featureId": 309,
     "population": 434051
   },
   "Lafourche Parish, LA, USA": {
@@ -10148,7 +10148,7 @@
       -90.50821049999999,
       29.4895455
     ],
-    "featureId": 246,
+    "featureId": 248,
     "population": 98115
   },
   "Orleans Parish, LA, USA": {
@@ -10169,7 +10169,7 @@
       -89.88147699999999,
       30.033868
     ],
-    "featureId": 247,
+    "featureId": 249,
     "population": 391006
   },
   "St. Bernard Parish, LA, USA": {
@@ -10190,7 +10190,7 @@
       -89.4145595,
       29.8500655
     ],
-    "featureId": 305,
+    "featureId": 307,
     "population": 46721
   },
   "St. Charles Parish, LA, USA": {
@@ -10211,7 +10211,7 @@
       -90.3585315,
       29.961458
     ],
-    "featureId": 252,
+    "featureId": 254,
     "population": 52879
   },
   "St. Tammany Parish, LA, USA": {
@@ -10232,7 +10232,7 @@
       -89.891049,
       30.43073
     ],
-    "featureId": 250,
+    "featureId": 252,
     "population": 258111
   },
   "Terrebonne Parish, LA, USA": {
@@ -10253,7 +10253,7 @@
       -90.8557755,
       29.406244
     ],
-    "featureId": 306,
+    "featureId": 308,
     "population": 111021
   },
   "Carroll County, IA, USA": {
@@ -11193,7 +11193,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 308,
+    "featureId": 310,
     "population": 883305
   },
   "San Mateo County, CA, USA": {
@@ -11220,7 +11220,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 309,
+    "featureId": 311,
     "population": 769545
   },
   "Alameda County, CA, USA": {
@@ -11247,7 +11247,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 310,
+    "featureId": 312,
     "population": 1666753
   },
   "Sonoma County, CA, USA": {
@@ -11271,7 +11271,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 311,
+    "featureId": 313,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -11295,7 +11295,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 312,
+    "featureId": 314,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -11319,7 +11319,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 313,
+    "featureId": 315,
     "population": 446610
   },
   "Contra Costa County, CA, USA": {
@@ -11346,7 +11346,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 314,
+    "featureId": 316,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -11370,7 +11370,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 315,
+    "featureId": 317,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -11394,7 +11394,7 @@
       -121.962515,
       38.619189
     ],
-    "featureId": 316,
+    "featureId": 318,
     "population": 220408
   },
   "Sacramento County, CA, USA": {
@@ -11421,7 +11421,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 317,
+    "featureId": 319,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -11448,7 +11448,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 318,
+    "featureId": 320,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -11472,7 +11472,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 319,
+    "featureId": 321,
     "population": 157672
   },
   "Placer County, CA, USA": {
@@ -11499,7 +11499,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 320,
+    "featureId": 322,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -11523,7 +11523,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 321,
+    "featureId": 323,
     "population": 180040
   },
   "Los Angeles County, CA, USA": {
@@ -11550,7 +11550,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 322,
+    "featureId": 324,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -11577,7 +11577,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 323,
+    "featureId": 325,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -11601,7 +11601,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 324,
+    "featureId": 326,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -11628,7 +11628,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 325,
+    "featureId": 327,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -11655,7 +11655,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 326,
+    "featureId": 328,
     "population": 850967
   },
   "AL, USA": {
@@ -12641,7 +12641,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 327,
+    "featureId": 329,
     "population": 18883
   },
   "Bon Homme County, SD, USA": {
@@ -12661,7 +12661,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 328,
+    "featureId": 330,
     "population": 6980
   },
   "Charles Mix County, SD, USA": {
@@ -12681,7 +12681,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 329,
+    "featureId": 331,
     "population": 9338
   },
   "Davison County, SD, USA": {
@@ -12701,7 +12701,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 330,
+    "featureId": 332,
     "population": 19790
   },
   "McCook County, SD, USA": {
@@ -12721,7 +12721,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 331,
+    "featureId": 333,
     "population": 5546
   },
   "Minnehaha County, SD, USA": {
@@ -12741,7 +12741,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 332,
+    "featureId": 334,
     "population": 192876
   },
   "Pennington County, SD, USA": {
@@ -12761,7 +12761,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 333,
+    "featureId": 335,
     "population": 111729
   },
   "Bear River County, UT, USA": {
@@ -12809,7 +12809,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 334,
+    "featureId": 336,
     "population": 351713
   },
   "Salt Lake County, UT, USA": {
@@ -12829,7 +12829,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 335,
+    "featureId": 337,
     "population": 1152633
   },
   "San Juan County, UT, USA": {
@@ -12849,7 +12849,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 336,
+    "featureId": 338,
     "population": 15449
   },
   "Southeast Utah County, UT, USA": {
@@ -12897,7 +12897,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 337,
+    "featureId": 339,
     "population": 41933
   },
   "Tooele County, UT, USA": {
@@ -12917,7 +12917,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 338,
+    "featureId": 340,
     "population": 69907
   },
   "Tri County, UT, USA": {
@@ -12951,7 +12951,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 339,
+    "featureId": 341,
     "population": 622213
   },
   "Wasatch County, UT, USA": {
@@ -12971,7 +12971,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 340,
+    "featureId": 342,
     "population": 33240
   },
   "Weber-Morgan County, UT, USA": {
@@ -13204,11 +13204,29 @@
     "featureId": 225,
     "population": 163941
   },
+  "Madison County, AL, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 1,
+        "deaths": 1
+      }
+    },
+    "county": "Madison County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -86.52351200000001,
+      34.7338515
+    ],
+    "featureId": 228,
+    "population": 366519
+  },
   "Shelby County, AL, USA": {
     "dates": {
       "2020-3-17": {
-        "cases": 3,
-        "deaths": 3
+        "cases": 4,
+        "deaths": 4
       }
     },
     "county": "Shelby County",
@@ -13219,8 +13237,26 @@
       -86.6839795,
       33.2828065
     ],
-    "featureId": 229,
+    "featureId": 230,
     "population": 215707
+  },
+  "St. Clair County, AL, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 1,
+        "deaths": 1
+      }
+    },
+    "county": "St. Clair County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -86.310896,
+      33.690028999999996
+    ],
+    "featureId": 231,
+    "population": 88690
   },
   "Benton County, OR, USA": {
     "dates": {
@@ -13236,7 +13272,7 @@
       -123.44528700000001,
       44.498886
     ],
-    "featureId": 231,
+    "featureId": 233,
     "population": 92101
   },
   "Yamhill County, OR, USA": {
@@ -13253,7 +13289,7 @@
       -123.31725850000001,
       45.254474
     ],
-    "featureId": 243,
+    "featureId": 245,
     "population": 107002
   },
   "De Soto Parish, LA, USA": {
@@ -13271,7 +13307,7 @@
       -93.699102,
       32.0948115
     ],
-    "featureId": 244,
+    "featureId": 246,
     "population": 27436
   },
   "St. John the Baptist Parish, LA, USA": {
@@ -13289,7 +13325,7 @@
       -90.4833525,
       30.0930385
     ],
-    "featureId": 245,
+    "featureId": 247,
     "population": 43184
   },
   "Sabine Parish, LA, USA": {
@@ -13307,7 +13343,7 @@
       -93.557699,
       31.505406999999998
     ],
-    "featureId": 248,
+    "featureId": 250,
     "population": 24032
   },
   "Tangipahoa Parish, LA, USA": {
@@ -13325,7 +13361,7 @@
       -90.405269,
       30.612403
     ],
-    "featureId": 249,
+    "featureId": 251,
     "population": 133777
   },
   "Livingston Parish, LA, USA": {
@@ -13343,7 +13379,7 @@
       -90.696248,
       30.412879
     ],
-    "featureId": 251,
+    "featureId": 253,
     "population": 139567
   },
   "Calcasieu Parish, LA, USA": {
@@ -13361,7 +13397,7 @@
       -93.326522,
       30.2639165
     ],
-    "featureId": 253,
+    "featureId": 255,
     "population": 203112
   },
   "Union Parish, LA, USA": {
@@ -13379,7 +13415,7 @@
       -92.394117,
       32.7976865
     ],
-    "featureId": 254,
+    "featureId": 256,
     "population": 22330
   },
   "Caldwell Parish, LA, USA": {
@@ -13397,7 +13433,7 @@
       -92.09278499999999,
       32.102264500000004
     ],
-    "featureId": 255,
+    "featureId": 257,
     "population": 9960
   },
   "Tensas Parish, LA, USA": {
@@ -13415,7 +13451,7 @@
       -91.3045835,
       31.991290499999998
     ],
-    "featureId": 256,
+    "featureId": 258,
     "population": 4462
   },
   "Jackson Parish, LA, USA": {
@@ -13433,7 +13469,7 @@
       -92.56701000000001,
       32.3212645
     ],
-    "featureId": 257,
+    "featureId": 259,
     "population": 15902
   },
   "Grant Parish, LA, USA": {
@@ -13451,7 +13487,7 @@
       -92.58483,
       31.5926135
     ],
-    "featureId": 258,
+    "featureId": 260,
     "population": 22482
   },
   "Lincoln Parish, LA, USA": {
@@ -13469,7 +13505,7 @@
       -92.64820449999999,
       32.606269499999996
     ],
-    "featureId": 259,
+    "featureId": 261,
     "population": 47196
   },
   "Jefferson Davis Parish, LA, USA": {
@@ -13487,7 +13523,7 @@
       -92.857122,
       30.2628035
     ],
-    "featureId": 260,
+    "featureId": 262,
     "population": 31582
   },
   "Lafayette Parish, LA, USA": {
@@ -13505,7 +13541,7 @@
       -92.0951095,
       30.2075775
     ],
-    "featureId": 261,
+    "featureId": 263,
     "population": 242782
   },
   "East Carroll Parish, LA, USA": {
@@ -13523,7 +13559,7 @@
       -91.2303025,
       32.7714455
     ],
-    "featureId": 262,
+    "featureId": 264,
     "population": 7037
   },
   "East Feliciana Parish, LA, USA": {
@@ -13541,7 +13577,7 @@
       -91.0732675,
       30.824589
     ],
-    "featureId": 263,
+    "featureId": 265,
     "population": 19305
   },
   "Iberville Parish, LA, USA": {
@@ -13559,7 +13595,7 @@
       -91.3600815,
       30.2613845
     ],
-    "featureId": 264,
+    "featureId": 266,
     "population": 32721
   },
   "Richland Parish, LA, USA": {
@@ -13577,7 +13613,7 @@
       -91.732693,
       32.409445500000004
     ],
-    "featureId": 265,
+    "featureId": 267,
     "population": 20192
   },
   "St. Martin Parish, LA, USA": {
@@ -13595,7 +13631,7 @@
       -91.53909150000001,
       30.09857
     ],
-    "featureId": 266,
+    "featureId": 268,
     "population": 53621
   },
   "Claiborne Parish, LA, USA": {
@@ -13613,7 +13649,7 @@
       -92.981675,
       32.8016545
     ],
-    "featureId": 267,
+    "featureId": 269,
     "population": 15944
   },
   "St. Landry Parish, LA, USA": {
@@ -13631,7 +13667,7 @@
       -92.08607749999999,
       30.573712
     ],
-    "featureId": 268,
+    "featureId": 270,
     "population": 82764
   },
   "Pointe Coupee Parish, LA, USA": {
@@ -13649,7 +13685,7 @@
       -91.5623665,
       30.750701999999997
     ],
-    "featureId": 269,
+    "featureId": 271,
     "population": 21940
   },
   "La Salle Parish, LA, USA": {
@@ -13667,7 +13703,7 @@
       -92.186641,
       31.6257625
     ],
-    "featureId": 270
+    "featureId": 272
   },
   "Webster Parish, LA, USA": {
     "dates": {
@@ -13684,7 +13720,7 @@
       -93.3384255,
       32.7143435
     ],
-    "featureId": 271,
+    "featureId": 273,
     "population": 38798
   },
   "St. James Parish, LA, USA": {
@@ -13702,7 +13738,7 @@
       -90.8028455,
       30.027838
     ],
-    "featureId": 272,
+    "featureId": 274,
     "population": 21037
   },
   "Morehouse Parish, LA, USA": {
@@ -13720,7 +13756,7 @@
       -91.76029249999999,
       32.7570325
     ],
-    "featureId": 273,
+    "featureId": 275,
     "population": 25398
   },
   "Rapides Parish, LA, USA": {
@@ -13738,7 +13774,7 @@
       -92.5286315,
       31.203797
     ],
-    "featureId": 274,
+    "featureId": 276,
     "population": 130562
   },
   "Avoyelles Parish, LA, USA": {
@@ -13756,7 +13792,7 @@
       -91.97901999999999,
       31.095483
     ],
-    "featureId": 275,
+    "featureId": 277,
     "population": 40462
   },
   "Winn Parish, LA, USA": {
@@ -13774,7 +13810,7 @@
       -92.64287350000001,
       31.928432
     ],
-    "featureId": 276,
+    "featureId": 278,
     "population": 14134
   },
   "Catahoula Parish, LA, USA": {
@@ -13792,7 +13828,7 @@
       -91.776279,
       31.5993165
     ],
-    "featureId": 277,
+    "featureId": 279,
     "population": 9608
   },
   "Assumption Parish, LA, USA": {
@@ -13810,7 +13846,7 @@
       -91.0722915,
       29.8539995
     ],
-    "featureId": 278,
+    "featureId": 280,
     "population": 22300
   },
   "Caddo Parish, LA, USA": {
@@ -13828,7 +13864,7 @@
       -93.757198,
       32.6074585
     ],
-    "featureId": 279,
+    "featureId": 281,
     "population": 242922
   },
   "Washington Parish, LA, USA": {
@@ -13846,7 +13882,7 @@
       -90.03715650000001,
       30.835068999999997
     ],
-    "featureId": 280,
+    "featureId": 282,
     "population": 46582
   },
   "East Baton Rouge Parish, LA, USA": {
@@ -13864,7 +13900,7 @@
       -91.0821615,
       30.516002
     ],
-    "featureId": 281,
+    "featureId": 283,
     "population": 440956
   },
   "Natchitoches Parish, LA, USA": {
@@ -13882,7 +13918,7 @@
       -93.080363,
       31.747528000000003
     ],
-    "featureId": 282,
+    "featureId": 284,
     "population": 38659
   },
   "Bienville Parish, LA, USA": {
@@ -13900,7 +13936,7 @@
       -93.10068150000001,
       32.366091999999995
     ],
-    "featureId": 283,
+    "featureId": 285,
     "population": 13308
   },
   "Bossier Parish, LA, USA": {
@@ -13918,7 +13954,7 @@
       -93.5978795,
       32.627677000000006
     ],
-    "featureId": 284,
+    "featureId": 286,
     "population": 127185
   },
   "Allen Parish, LA, USA": {
@@ -13936,7 +13972,7 @@
       -92.856948,
       30.661153
     ],
-    "featureId": 285,
+    "featureId": 287,
     "population": 25605
   },
   "Ouachita Parish, LA, USA": {
@@ -13954,7 +13990,7 @@
       -92.159829,
       32.4907775
     ],
-    "featureId": 286,
+    "featureId": 288,
     "population": 154475
   },
   "St. Helena Parish, LA, USA": {
@@ -13972,7 +14008,7 @@
       -90.738279,
       30.824559
     ],
-    "featureId": 287,
+    "featureId": 289,
     "population": 10262
   },
   "West Feliciana Parish, LA, USA": {
@@ -13990,7 +14026,7 @@
       -91.46312950000001,
       30.8493775
     ],
-    "featureId": 288,
+    "featureId": 290,
     "population": 15460
   },
   "West Carroll Parish, LA, USA": {
@@ -14008,7 +14044,7 @@
       -91.45007849999999,
       32.7940275
     ],
-    "featureId": 289,
+    "featureId": 291,
     "population": 10982
   },
   "Concordia Parish, LA, USA": {
@@ -14026,7 +14062,7 @@
       -91.622707,
       31.366113
     ],
-    "featureId": 290,
+    "featureId": 292,
     "population": 19572
   },
   "West Baton Rouge Parish, LA, USA": {
@@ -14044,7 +14080,7 @@
       -91.313597,
       30.490574000000002
     ],
-    "featureId": 291,
+    "featureId": 293,
     "population": 26427
   },
   "Madison Parish, LA, USA": {
@@ -14062,7 +14098,7 @@
       -91.216415,
       32.341573
     ],
-    "featureId": 292,
+    "featureId": 294,
     "population": 11161
   },
   "Ascension Parish, LA, USA": {
@@ -14080,7 +14116,7 @@
       -90.869644,
       30.204696499999997
     ],
-    "featureId": 293,
+    "featureId": 295,
     "population": 124672
   },
   "Acadia Parish, LA, USA": {
@@ -14098,7 +14134,7 @@
       -92.38683499999999,
       30.2652335
     ],
-    "featureId": 294,
+    "featureId": 296,
     "population": 62190
   },
   "Beauregard Parish, LA, USA": {
@@ -14116,7 +14152,7 @@
       -93.35856949999999,
       30.6430015
     ],
-    "featureId": 295,
+    "featureId": 297,
     "population": 37253
   },
   "Franklin Parish, LA, USA": {
@@ -14134,7 +14170,7 @@
       -91.6867355,
       32.1420035
     ],
-    "featureId": 296,
+    "featureId": 298,
     "population": 20156
   },
   "Evangeline Parish, LA, USA": {
@@ -14152,7 +14188,7 @@
       -92.40312349999999,
       30.7409765
     ],
-    "featureId": 297,
+    "featureId": 299,
     "population": 33443
   },
   "Vernon Parish, LA, USA": {
@@ -14170,7 +14206,7 @@
       -93.19772900000001,
       31.1119345
     ],
-    "featureId": 298,
+    "featureId": 300,
     "population": 48860
   },
   "Red River Parish, LA, USA": {
@@ -14188,7 +14224,7 @@
       -93.367939,
       32.062484
     ],
-    "featureId": 299,
+    "featureId": 301,
     "population": 8477
   },
   "Vermilion Parish, LA, USA": {
@@ -14206,7 +14242,7 @@
       -92.351531,
       29.8402345
     ],
-    "featureId": 300,
+    "featureId": 302,
     "population": 59830
   },
   "Plaquemines Parish, LA, USA": {
@@ -14224,7 +14260,7 @@
       -89.5381785,
       29.4150075
     ],
-    "featureId": 301,
+    "featureId": 303,
     "population": 23410
   },
   "St. Mary Parish, LA, USA": {
@@ -14242,7 +14278,7 @@
       -91.48180049999999,
       29.7141755
     ],
-    "featureId": 302,
+    "featureId": 304,
     "population": 49774
   },
   "Cameron Parish, LA, USA": {
@@ -14260,7 +14296,7 @@
       -93.27240900000001,
       29.8158395
     ],
-    "featureId": 303,
+    "featureId": 305,
     "population": 6968
   },
   "Iberia Parish, LA, USA": {
@@ -14278,7 +14314,7 @@
       -91.632762,
       29.7982045
     ],
-    "featureId": 304,
+    "featureId": 306,
     "population": 70941
   },
   "Westchester, NY, USA": {
@@ -14526,7 +14562,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 341,
+    "featureId": 343,
     "population": 39583
   },
   "Davidson County, TN, USA": {
@@ -14543,7 +14579,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 342,
+    "featureId": 344,
     "population": 692587
   },
   "Hamilton County, TN, USA": {
@@ -14560,7 +14596,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 343,
+    "featureId": 345,
     "population": 364286
   },
   "Jefferson County, TN, USA": {
@@ -14577,7 +14613,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 344,
+    "featureId": 346,
     "population": 54012
   },
   "Knox County, TN, USA": {
@@ -14594,7 +14630,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 345,
+    "featureId": 347,
     "population": 465289
   },
   "Rutherford County, TN, USA": {
@@ -14611,7 +14647,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 346,
+    "featureId": 348,
     "population": 324890
   },
   "Sevier County, TN, USA": {
@@ -14628,7 +14664,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 347,
+    "featureId": 349,
     "population": 97892
   },
   "Shelby County, TN, USA": {
@@ -14645,7 +14681,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 348,
+    "featureId": 350,
     "population": 935764
   },
   "Sullivan County, TN, USA": {
@@ -14662,7 +14698,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 349,
+    "featureId": 351,
     "population": 157668
   },
   "Williamson County, TN, USA": {
@@ -14679,7 +14715,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 350,
+    "featureId": 352,
     "population": 231729
   },
   "2 County, OH, USA": {
@@ -14740,7 +14776,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 351,
+    "featureId": 353,
     "population": 857620
   }
 }
