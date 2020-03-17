@@ -716,7 +716,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Broome County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
 ,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,95,,,,2020-03-13
 ,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,213,,,,2020-03-14
-,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,644,,,,2020-03-17
 ,Clark County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
 ,Columbia County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
 ,Grant County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,1,,,2020-03-13
@@ -887,9 +886,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Orange County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
 ,Osceola County,FL,USA,,,,http://www.floridahealth.gov/diseases-and-conditions/COVID-19/index.html,1,,,,2020-03-14
 ,Saratoga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,3,,,,2020-03-14
-,Saratoga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,9,,,,2020-03-17
 ,Schenectady,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
-,Schenectady,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,5,,,,2020-03-17
 ,Tioga County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
 ,Tompkins County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
 ,Dane County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,5,,,,2020-03-14
@@ -945,39 +942,14 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Washington Parish,LA,USA,46582,30.835068999999997,-90.03715650000001,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-17
 ,Bossier Parish,LA,USA,127185,32.627677000000006,-93.5978795,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-17
 ,Ascension Parish,LA,USA,124672,30.204696499999997,-90.869644,https://opendata.arcgis.com/datasets/cba425c2e5b8421c88827dc0ec8c663b_0.csv,1,,,,2020-03-17
-,Albany,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,23,,,,2020-03-17
-,Allegany,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-17
-,Broome,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-17
-,Clinton,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-17
-,Delaware,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-17
-,Dutchess,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,16,,,,2020-03-17
-,Erie,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,7,,,,2020-03-17
-,Greene,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-17
-,Herkimer,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-17
-,Monroe,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,10,,,,2020-03-17
-,Montgomery,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-17
-,Nassau,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,131,,,,2020-03-17
-,Onondaga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-17
-,Ontario,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-17
-,Orange,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,15,,,,2020-03-17
-,Putnam,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-17
-,Rensselaer,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-17
-,Rockland,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,22,,,,2020-03-17
-,Suffolk,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,84,,,,2020-03-17
-,Sullivan,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-17
-,Tioga,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-17
-,Tompkins,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,2,,,,2020-03-17
-,Ulster,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,8,,,,2020-03-17
-,Westchester,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,380,,,,2020-03-17
-,Wyoming,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-17
 ,Campbell County,TN,USA,39583,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-17
-,Davidson County,TN,USA,692587,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,25,,,,2020-03-17
+,Davidson County,TN,USA,692587,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,42,,,,2020-03-17
 ,Hamilton County,TN,USA,364286,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-17
 ,Jefferson County,TN,USA,54012,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-17
-,Knox County,TN,USA,465289,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-17
+,Knox County,TN,USA,465289,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,2,,,,2020-03-17
 ,Rutherford County,TN,USA,324890,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-17
 ,Sevier County,TN,USA,97892,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-17
 ,Shelby County,TN,USA,935764,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,2,,,,2020-03-17
 ,Sullivan County,TN,USA,157668,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-17
-,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,18,,,,2020-03-17
+,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,21,,,,2020-03-17
 ,New Haven County,CT,USA,857620,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,4,,,,2020-03-17
