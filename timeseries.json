@@ -14410,7 +14410,7 @@
   "Monroe, NY, USA": {
     "dates": {
       "2020-3-17": {
-        "cases": 11
+        "cases": 10
       }
     },
     "county": "Monroe",
@@ -14568,6 +14568,17 @@
       }
     },
     "county": "Westchester",
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  "Wyoming, NY, USA": {
+    "dates": {
+      "2020-3-17": {
+        "cases": 1
+      }
+    },
+    "county": "Wyoming",
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"

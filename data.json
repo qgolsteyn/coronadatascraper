@@ -5117,7 +5117,7 @@
   },
   {
     "county": "Monroe",
-    "cases": 11,
+    "cases": 10,
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
@@ -5230,6 +5230,13 @@
   {
     "county": "Westchester",
     "cases": 380,
+    "state": "NY",
+    "country": "USA",
+    "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
+  },
+  {
+    "county": "Wyoming",
+    "cases": 1,
     "state": "NY",
     "country": "USA",
     "url": "https://www.health.ny.gov/diseases/communicable/coronavirus/"
