@@ -2,7 +2,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,DeKalb County,IN,USA,0,0,,0,41.397172,-84.998833,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,0,43226
 ,Boone County,IN,USA,1,0,,0,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,66999
 ,Tippecanoe County,IN,USA,0,0,,0,40.388631000000004,-86.89501100000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,193048
-,Johnson County,IN,USA,3,0,,0,39.4900085,-86.101242,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,156225
+,Johnson County,IN,USA,3,1,,0,39.4900085,-86.101242,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,156225
 ,Elkhart County,IN,USA,0,0,,0,41.598169999999996,-85.858041,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,4,205560
 ,Adams County,IN,USA,1,0,,0,40.745404,-84.93797749999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,5,35636
 ,Noble County,IN,USA,1,0,,0,41.3952975,-85.42342049999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,6,47532
