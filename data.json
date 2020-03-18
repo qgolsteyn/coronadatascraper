@@ -4003,188 +4003,6 @@
     "population": 208911
   },
   {
-    "county": "Benton County",
-    "cases": 3,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -123.44528700000001,
-      44.498886
-    ],
-    "featureId": 234,
-    "population": 92101
-  },
-  {
-    "county": "Clackamas County",
-    "cases": 6,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -122.26009400000001,
-      45.1737
-    ],
-    "featureId": 235,
-    "population": 416075
-  },
-  {
-    "county": "Deschutes County",
-    "cases": 6,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -120.94952,
-      44.001645499999995
-    ],
-    "featureId": 236,
-    "population": 191996
-  },
-  {
-    "county": "Douglas County",
-    "cases": 1,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -123.0963585,
-      43.3222345
-    ],
-    "featureId": 237,
-    "population": 110283
-  },
-  {
-    "county": "Jackson County",
-    "cases": 2,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -122.756742,
-      42.4995805
-    ],
-    "featureId": 238,
-    "population": 219564
-  },
-  {
-    "county": "Klamath County",
-    "cases": 1,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -121.58491599999999,
-      42.804975999999996
-    ],
-    "featureId": 239,
-    "population": 67653
-  },
-  {
-    "county": "Lane County",
-    "cases": 2,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -122.963617,
-      43.863845
-    ],
-    "featureId": 240,
-    "population": 379611
-  },
-  {
-    "county": "Linn County",
-    "cases": 15,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -122.5272075,
-      44.496468
-    ],
-    "featureId": 241,
-    "population": 127335
-  },
-  {
-    "county": "Marion County",
-    "cases": 8,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -122.4575375,
-      44.984239
-    ],
-    "featureId": 242,
-    "population": 346868
-  },
-  {
-    "county": "Multnomah County",
-    "cases": 3,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -122.374808,
-      45.580658
-    ],
-    "featureId": 243,
-    "population": 811880
-  },
-  {
-    "county": "Polk County",
-    "cases": 1,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -123.38289850000001,
-      44.8977695
-    ],
-    "featureId": 244,
-    "population": 85234
-  },
-  {
-    "county": "Umatilla County",
-    "cases": 2,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -118.7037805,
-      45.4984405
-    ],
-    "featureId": 245,
-    "population": 77516
-  },
-  {
-    "county": "Washington County",
-    "cases": 23,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -123.114875,
-      45.5483985
-    ],
-    "featureId": 246,
-    "population": 597695
-  },
-  {
-    "county": "Yamhill County",
-    "cases": 2,
-    "state": "OR",
-    "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
-    "coordinates": [
-      -123.31725850000001,
-      45.254474
-    ],
-    "featureId": 247,
-    "population": 107002
-  },
-  {
     "cases": 51,
     "deaths": 0,
     "county": "San Francisco County",
@@ -4195,7 +4013,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 248,
+    "featureId": 234,
     "population": 883305
   },
   {
@@ -4209,7 +4027,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 249,
+    "featureId": 235,
     "population": 769545
   },
   {
@@ -4223,7 +4041,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 250,
+    "featureId": 236,
     "population": 1666753
   },
   {
@@ -4236,7 +4054,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 251,
+    "featureId": 237,
     "population": 499942
   },
   {
@@ -4249,7 +4067,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 252,
+    "featureId": 238,
     "population": 274255
   },
   {
@@ -4262,7 +4080,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 253,
+    "featureId": 239,
     "population": 446610
   },
   {
@@ -4276,7 +4094,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 254,
+    "featureId": 240,
     "population": 1150215
   },
   {
@@ -4289,7 +4107,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 255,
+    "featureId": 241,
     "population": 549815
   },
   {
@@ -4303,7 +4121,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 256,
+    "featureId": 242,
     "population": 1540975
   },
   {
@@ -4317,7 +4135,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 257,
+    "featureId": 243,
     "population": 994400
   },
   {
@@ -4330,7 +4148,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 258,
+    "featureId": 244,
     "population": 157672
   },
   {
@@ -4344,7 +4162,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 259,
+    "featureId": 245,
     "population": 393149
   },
   {
@@ -4357,7 +4175,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 260,
+    "featureId": 246,
     "population": 180040
   },
   {
@@ -4371,7 +4189,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 261,
+    "featureId": 247,
     "population": 10105518
   },
   {
@@ -4385,7 +4203,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 262,
+    "featureId": 248,
     "population": 3185968
   },
   {
@@ -4398,7 +4216,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 263,
+    "featureId": 249,
     "population": 2450758
   },
   {
@@ -4412,7 +4230,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 264,
+    "featureId": 250,
     "population": 3343364
   },
   {
@@ -4425,7 +4243,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 265,
+    "featureId": 251,
     "population": 18883
   },
   {
@@ -4438,7 +4256,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 266,
+    "featureId": 252,
     "population": 6980
   },
   {
@@ -4451,7 +4269,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 267,
+    "featureId": 253,
     "population": 9338
   },
   {
@@ -4464,7 +4282,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 268,
+    "featureId": 254,
     "population": 19790
   },
   {
@@ -4477,7 +4295,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 269,
+    "featureId": 255,
     "population": 5546
   },
   {
@@ -4490,7 +4308,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 270,
+    "featureId": 256,
     "population": 192876
   },
   {
@@ -4503,7 +4321,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 271,
+    "featureId": 257,
     "population": 111729
   },
   {
@@ -4530,7 +4348,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 272,
+    "featureId": 258,
     "population": 351713
   },
   {
@@ -4543,7 +4361,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 273,
+    "featureId": 259,
     "population": 1152633
   },
   {
@@ -4556,7 +4374,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 274,
+    "featureId": 260,
     "population": 15449
   },
   {
@@ -4583,7 +4401,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 275,
+    "featureId": 261,
     "population": 41933
   },
   {
@@ -4596,7 +4414,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 276,
+    "featureId": 262,
     "population": 69907
   },
   {
@@ -4616,7 +4434,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 277,
+    "featureId": 263,
     "population": 622213
   },
   {
@@ -4629,7 +4447,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 278,
+    "featureId": 264,
     "population": 33240
   },
   {
@@ -4649,7 +4467,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 279,
+    "featureId": 265,
     "population": 39583
   },
   {
@@ -4662,7 +4480,7 @@
       -87.0963775,
       36.248385999999996
     ],
-    "featureId": 280,
+    "featureId": 266,
     "population": 40439
   },
   {
@@ -4675,7 +4493,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 281,
+    "featureId": 267,
     "population": 692587
   },
   {
@@ -4688,7 +4506,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 282,
+    "featureId": 268,
     "population": 364286
   },
   {
@@ -4701,7 +4519,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 283,
+    "featureId": 269,
     "population": 54012
   },
   {
@@ -4714,7 +4532,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 284,
+    "featureId": 270,
     "population": 465289
   },
   {
@@ -4727,7 +4545,7 @@
       -86.8573125,
       36.501744
     ],
-    "featureId": 285,
+    "featureId": 271,
     "population": 71012
   },
   {
@@ -4740,7 +4558,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 286,
+    "featureId": 272,
     "population": 324890
   },
   {
@@ -4753,7 +4571,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 287,
+    "featureId": 273,
     "population": 97892
   },
   {
@@ -4766,7 +4584,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 288,
+    "featureId": 274,
     "population": 935764
   },
   {
@@ -4779,7 +4597,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 289,
+    "featureId": 275,
     "population": 157668
   },
   {
@@ -4792,7 +4610,7 @@
       -86.4801315,
       36.448775
     ],
-    "featureId": 290,
+    "featureId": 276,
     "population": 187149
   },
   {
@@ -4805,7 +4623,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 291,
+    "featureId": 277,
     "population": 231729
   },
   {
@@ -4839,7 +4657,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 292,
+    "featureId": 278,
     "population": 857620
   }
 ]
