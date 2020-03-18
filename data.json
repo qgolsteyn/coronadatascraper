@@ -4627,6 +4627,136 @@
     "url": "https://coronavirus.utah.gov/latest/"
   },
   {
+    "county": "Campbell County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -84.138375,
+      36.3848795
+    ],
+    "featureId": 278,
+    "population": 39583
+  },
+  {
+    "county": "Davidson County",
+    "cases": 42,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -86.7851325,
+      36.186859999999996
+    ],
+    "featureId": 279,
+    "population": 692587
+  },
+  {
+    "county": "Hamilton County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -85.20821749999999,
+      35.2208105
+    ],
+    "featureId": 280,
+    "population": 364286
+  },
+  {
+    "county": "Jefferson County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -83.47225449999999,
+      36.039116
+    ],
+    "featureId": 281,
+    "population": 54012
+  },
+  {
+    "county": "Knox County",
+    "cases": 2,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -83.96127200000001,
+      35.9910705
+    ],
+    "featureId": 282,
+    "population": 465289
+  },
+  {
+    "county": "Rutherford County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -86.4205235,
+      35.8595905
+    ],
+    "featureId": 283,
+    "population": 324890
+  },
+  {
+    "county": "Sevier County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -83.5242525,
+      35.8029015
+    ],
+    "featureId": 284,
+    "population": 97892
+  },
+  {
+    "county": "Shelby County",
+    "cases": 2,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -89.97153700000001,
+      35.2013885
+    ],
+    "featureId": 285,
+    "population": 935764
+  },
+  {
+    "county": "Sullivan County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -82.2645105,
+      36.5043
+    ],
+    "featureId": 286,
+    "population": 157668
+  },
+  {
+    "county": "Williamson County",
+    "cases": 21,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -86.90776349999999,
+      35.875785500000006
+    ],
+    "featureId": 287,
+    "population": 231729
+  },
+  {
     "county": "Fairfield County: 48",
     "cases": 0,
     "state": "CT",
@@ -4657,7 +4787,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 278,
+    "featureId": 288,
     "population": 857620
   }
 ]
