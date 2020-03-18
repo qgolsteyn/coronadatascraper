@@ -4809,14 +4809,14 @@
     "population": 231729
   },
   {
-    "county": "Fairfield County: 48",
+    "county": "Fairfield County: 69",
     "cases": 0,
     "state": "CT",
     "country": "USA",
     "url": "https://portal.ct.gov/Coronavirus"
   },
   {
-    "county": "Hartford County: 7",
+    "county": "Hartford County: 11",
     "cases": 0,
     "state": "CT",
     "country": "USA",
@@ -4830,8 +4830,15 @@
     "url": "https://portal.ct.gov/Coronavirus"
   },
   {
+    "county": "Middlesex County: 1",
+    "cases": 0,
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus"
+  },
+  {
     "county": "New Haven County",
-    "cases": 8,
+    "cases": 10,
     "state": "CT",
     "country": "USA",
     "url": "https://portal.ct.gov/Coronavirus",

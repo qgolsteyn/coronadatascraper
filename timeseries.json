@@ -13593,24 +13593,24 @@
     "featureId": 292,
     "population": 231729
   },
-  "Fairfield County: 48, CT, USA": {
+  "Fairfield County: 69, CT, USA": {
     "dates": {
       "2020-3-18": {
         "cases": 0
       }
     },
-    "county": "Fairfield County: 48",
+    "county": "Fairfield County: 69",
     "state": "CT",
     "country": "USA",
     "url": "https://portal.ct.gov/Coronavirus"
   },
-  "Hartford County: 7, CT, USA": {
+  "Hartford County: 11, CT, USA": {
     "dates": {
       "2020-3-18": {
         "cases": 0
       }
     },
-    "county": "Hartford County: 7",
+    "county": "Hartford County: 11",
     "state": "CT",
     "country": "USA",
     "url": "https://portal.ct.gov/Coronavirus"
@@ -13626,10 +13626,21 @@
     "country": "USA",
     "url": "https://portal.ct.gov/Coronavirus"
   },
+  "Middlesex County: 1, CT, USA": {
+    "dates": {
+      "2020-3-18": {
+        "cases": 0
+      }
+    },
+    "county": "Middlesex County: 1",
+    "state": "CT",
+    "country": "USA",
+    "url": "https://portal.ct.gov/Coronavirus"
+  },
   "New Haven County, CT, USA": {
     "dates": {
       "2020-3-18": {
-        "cases": 8
+        "cases": 10
       }
     },
     "county": "New Haven County",
