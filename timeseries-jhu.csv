@@ -251,17 +251,17 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Limestone County,AL,USA,34.774907,-87.030965,96174,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,1
 ,Montgomery County,AL,USA,32.2330785,-86.2080335,225763,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,2
 ,Tuscaloosa County,AL,USA,33.306606,-87.4532105,208911,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,3
-,Clackamas County,OR,USA,45.1737,-122.26009400000001,416075,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,6
-,Deschutes County,OR,USA,44.001645499999995,-120.94952,191996,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,6
-,Douglas County,OR,USA,43.3222345,-123.0963585,110283,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,1
-,Jackson County,OR,USA,42.4995805,-122.756742,219564,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,,,2
-,Klamath County,OR,USA,42.804975999999996,-121.58491599999999,67653,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,1
-,Linn County,OR,USA,44.496468,-122.5272075,127335,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,8,,,,15
-,Marion County,OR,USA,44.984239,-122.4575375,346868,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,,,8
-,Multnomah County,OR,USA,45.580658,-122.374808,811880,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,3
-,Polk County,OR,USA,44.8977695,-123.38289850000001,85234,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,1
-,Umatilla County,OR,USA,45.4984405,-118.7037805,77516,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,,,2
-,Washington County,OR,USA,45.5483985,-123.114875,597695,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,,,,23
+,Clackamas County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,
+,Deschutes County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,
+,Douglas County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,
+,Jackson County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,,,
+,Klamath County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,
+,Linn County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,8,,,,
+,Marion County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,,,
+,Multnomah County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,
+,Polk County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,
+,Umatilla County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2,2,,,,
+,Washington County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,,,,
 ,Jefferson Parish,LA,USA,,,,,,http://ldh.la.gov/Coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,,,,,
 ,Lafourche Parish,LA,USA,,,,,,http://ldh.la.gov/Coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,,
 ,Orleans Parish,LA,USA,,,,,,http://ldh.la.gov/Coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,26,,,,,
@@ -470,19 +470,19 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Madison County,AL,USA,34.7338515,-86.52351200000001,366519,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Shelby County,AL,USA,33.2828065,-86.6839795,215707,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4
 ,St. Clair County,AL,USA,33.690028999999996,-86.310896,88690,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,Benton County,OR,USA,44.498886,-123.44528700000001,92101,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
-,Lane County,OR,USA,43.863845,-122.963617,379611,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
-,Yamhill County,OR,USA,45.254474,-123.31725850000001,107002,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
 ,Campbell County,TN,USA,36.3848795,-84.138375,39583,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,Davidson County,TN,USA,36.186859999999996,-86.7851325,692587,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,42
+,Cheatham County,TN,USA,36.248385999999996,-87.0963775,40439,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+,Davidson County,TN,USA,36.186859999999996,-86.7851325,692587,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,58
 ,Hamilton County,TN,USA,35.2208105,-85.20821749999999,364286,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Jefferson County,TN,USA,36.039116,-83.47225449999999,54012,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Knox County,TN,USA,35.9910705,-83.96127200000001,465289,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
+,Robertson County,TN,USA,36.501744,-86.8573125,71012,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Rutherford County,TN,USA,35.8595905,-86.4205235,324890,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Sevier County,TN,USA,35.8029015,-83.5242525,97892,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,Shelby County,TN,USA,35.2013885,-89.97153700000001,935764,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
+,Shelby County,TN,USA,35.2013885,-89.97153700000001,935764,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4
 ,Sullivan County,TN,USA,36.5043,-82.2645105,157668,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,Williamson County,TN,USA,35.875785500000006,-86.90776349999999,231729,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21
+,Sumner County,TN,USA,36.448775,-86.4801315,187149,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
+,Williamson County,TN,USA,35.875785500000006,-86.90776349999999,231729,,,https://www.tn.gov/health/cedep/ncov.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24
 ,Fairfield County: 48,CT,USA,,,,,,https://portal.ct.gov/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 ,Hartford County: 7,CT,USA,,,,,,https://portal.ct.gov/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
 ,Litchfield County: 5,CT,USA,,,,,,https://portal.ct.gov/Coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
