@@ -315,71 +315,57 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Shelby County,AL,USA,4,4,,,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,231,215707
 ,St. Clair County,AL,USA,1,1,,,33.690028999999996,-86.310896,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,232,88690
 ,Tuscaloosa County,AL,USA,3,3,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,233,208911
-,Benton County,OR,USA,3,,,,44.498886,-123.44528700000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,234,92101
-,Clackamas County,OR,USA,6,,,,45.1737,-122.26009400000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,235,416075
-,Deschutes County,OR,USA,6,,,,44.001645499999995,-120.94952,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,236,191996
-,Douglas County,OR,USA,1,,,,43.3222345,-123.0963585,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,237,110283
-,Jackson County,OR,USA,2,,,,42.4995805,-122.756742,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,238,219564
-,Klamath County,OR,USA,1,,,,42.804975999999996,-121.58491599999999,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,239,67653
-,Lane County,OR,USA,2,,,,43.863845,-122.963617,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,240,379611
-,Linn County,OR,USA,15,,,,44.496468,-122.5272075,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,241,127335
-,Marion County,OR,USA,8,,,,44.984239,-122.4575375,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,242,346868
-,Multnomah County,OR,USA,3,,,,45.580658,-122.374808,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,243,811880
-,Polk County,OR,USA,1,,,,44.8977695,-123.38289850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,244,85234
-,Umatilla County,OR,USA,2,,,,45.4984405,-118.7037805,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,245,77516
-,Washington County,OR,USA,23,,,,45.5483985,-123.114875,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,246,597695
-,Yamhill County,OR,USA,2,,,,45.254474,-123.31725850000001,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,247,107002
-,San Francisco County,CA,USA,51,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,248,883305
-,San Mateo County,CA,USA,80,1,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,249,769545
-,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,250,1666753
-,Sonoma County,CA,USA,8,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,251,499942
-,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,252,274255
-,Solano County,CA,USA,8,,,,38.2871145,-122.0001255,http://www.solanocounty.com/depts/ph/coronavirus.asp,253,446610
-,Contra Costa County,CA,USA,38,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,254,1150215
-,Stanislaus County,CA,USA,5,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,255,549815
-,Sacramento County,CA,USA,40,2,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,256,1540975
-,Fresno County,CA,USA,2,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,257,994400
-,Madera County,CA,USA,1,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,258,157672
-,Placer County,CA,USA,9,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,259,393149
-,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,260,180040
-,Los Angeles County,CA,USA,144,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,261,10105518
-,Orange County,CA,USA,29,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,262,3185968
-,Riverside County,CA,USA,1,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,263,2450758
-,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,264,3343364
-,Beadle County,SD,USA,1,,,,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,265,18883
-,Bon Homme County,SD,USA,1,,,,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,266,6980
-,Charles Mix County,SD,USA,1,,,,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,267,9338
-,Davison County,SD,USA,1,,,,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,268,19790
-,McCook County,SD,USA,1,,,,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,269,5546
-,Minnehaha County,SD,USA,5,,,,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,270,192876
-,Pennington County,SD,USA,1,,,,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,271,111729
+,San Francisco County,CA,USA,51,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,234,883305
+,San Mateo County,CA,USA,80,1,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,235,769545
+,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,236,1666753
+,Sonoma County,CA,USA,8,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,237,499942
+,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,238,274255
+,Solano County,CA,USA,8,,,,38.2871145,-122.0001255,http://www.solanocounty.com/depts/ph/coronavirus.asp,239,446610
+,Contra Costa County,CA,USA,38,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,240,1150215
+,Stanislaus County,CA,USA,5,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,241,549815
+,Sacramento County,CA,USA,40,2,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,242,1540975
+,Fresno County,CA,USA,2,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,243,994400
+,Madera County,CA,USA,1,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,244,157672
+,Placer County,CA,USA,9,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,245,393149
+,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,246,180040
+,Los Angeles County,CA,USA,144,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,247,10105518
+,Orange County,CA,USA,29,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,248,3185968
+,Riverside County,CA,USA,1,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,249,2450758
+,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,250,3343364
+,Beadle County,SD,USA,1,,,,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,251,18883
+,Bon Homme County,SD,USA,1,,,,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,252,6980
+,Charles Mix County,SD,USA,1,,,,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,253,9338
+,Davison County,SD,USA,1,,,,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,254,19790
+,McCook County,SD,USA,1,,,,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,255,5546
+,Minnehaha County,SD,USA,5,,,,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,256,192876
+,Pennington County,SD,USA,1,,,,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,257,111729
 ,Bear River County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
 ,Central Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Davis County,UT,USA,0,,,,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,272,351713
-,Salt Lake County,UT,USA,2,,,,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,273,1152633
-,San Juan County,UT,USA,0,,,,37.748977499999995,-110.226921,https://coronavirus.utah.gov/latest/,274,15449
+,Davis County,UT,USA,0,,,,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,258,351713
+,Salt Lake County,UT,USA,2,,,,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,259,1152633
+,San Juan County,UT,USA,0,,,,37.748977499999995,-110.226921,https://coronavirus.utah.gov/latest/,260,15449
 ,Southeast Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
 ,Southwest Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Summit County,UT,USA,7,,,,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,275,41933
-,Tooele County,UT,USA,0,,,,40.490421,-113.09571600000001,https://coronavirus.utah.gov/latest/,276,69907
+,Summit County,UT,USA,7,,,,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,261,41933
+,Tooele County,UT,USA,0,,,,40.490421,-113.09571600000001,https://coronavirus.utah.gov/latest/,262,69907
 ,Tri County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Utah County,UT,USA,1,,,,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,277,622213
-,Wasatch County,UT,USA,0,,,,40.294765,-111.25642,https://coronavirus.utah.gov/latest/,278,33240
+,Utah County,UT,USA,1,,,,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,263,622213
+,Wasatch County,UT,USA,0,,,,40.294765,-111.25642,https://coronavirus.utah.gov/latest/,264,33240
 ,Weber-Morgan County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,279,39583
-,Cheatham County,TN,USA,1,,,,36.248385999999996,-87.0963775,https://www.tn.gov/health/cedep/ncov.html,280,40439
-,Davidson County,TN,USA,58,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,281,692587
-,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,282,364286
-,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,283,54012
-,Knox County,TN,USA,2,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,284,465289
-,Robertson County,TN,USA,1,,,,36.501744,-86.8573125,https://www.tn.gov/health/cedep/ncov.html,285,71012
-,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,286,324890
-,Sevier County,TN,USA,1,,,,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,287,97892
-,Shelby County,TN,USA,4,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,288,935764
-,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,289,157668
-,Sumner County,TN,USA,2,,,,36.448775,-86.4801315,https://www.tn.gov/health/cedep/ncov.html,290,187149
-,Williamson County,TN,USA,24,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,291,231729
+,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,265,39583
+,Cheatham County,TN,USA,1,,,,36.248385999999996,-87.0963775,https://www.tn.gov/health/cedep/ncov.html,266,40439
+,Davidson County,TN,USA,58,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,267,692587
+,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,268,364286
+,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,269,54012
+,Knox County,TN,USA,2,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,270,465289
+,Robertson County,TN,USA,1,,,,36.501744,-86.8573125,https://www.tn.gov/health/cedep/ncov.html,271,71012
+,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,272,324890
+,Sevier County,TN,USA,1,,,,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,273,97892
+,Shelby County,TN,USA,4,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,274,935764
+,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,275,157668
+,Sumner County,TN,USA,2,,,,36.448775,-86.4801315,https://www.tn.gov/health/cedep/ncov.html,276,187149
+,Williamson County,TN,USA,24,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,277,231729
 ,Fairfield County: 48,CT,USA,0,,,,,,https://portal.ct.gov/Coronavirus,,
 ,Hartford County: 7,CT,USA,0,,,,,,https://portal.ct.gov/Coronavirus,,
 ,Litchfield County: 5,CT,USA,0,,,,,,https://portal.ct.gov/Coronavirus,,
-,New Haven County,CT,USA,8,,,,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,292,857620
+,New Haven County,CT,USA,8,,,,41.4056375,-72.93228500000001,https://portal.ct.gov/Coronavirus,278,857620
