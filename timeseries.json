@@ -9986,12 +9986,21 @@
       "2020-3-14": {
         "cases": 1,
         "growthFactor": 1
+      },
+      "2020-3-18": {
+        "cases": 6
       }
     },
     "county": "Clackamas County",
     "state": "OR",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx"
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -122.26009400000001,
+      45.1737
+    ],
+    "featureId": 235,
+    "population": 416075
   },
   "Deschutes County, OR, USA": {
     "dates": {
@@ -10001,12 +10010,21 @@
       "2020-3-14": {
         "cases": 1,
         "growthFactor": 1
+      },
+      "2020-3-18": {
+        "cases": 6
       }
     },
     "county": "Deschutes County",
     "state": "OR",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx"
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -120.94952,
+      44.001645499999995
+    ],
+    "featureId": 236,
+    "population": 191996
   },
   "Douglas County, OR, USA": {
     "dates": {
@@ -10016,12 +10034,21 @@
       "2020-3-14": {
         "cases": 1,
         "growthFactor": 1
+      },
+      "2020-3-18": {
+        "cases": 1
       }
     },
     "county": "Douglas County",
     "state": "OR",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx"
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -123.0963585,
+      43.3222345
+    ],
+    "featureId": 237,
+    "population": 110283
   },
   "Jackson County, OR, USA": {
     "dates": {
@@ -10031,12 +10058,21 @@
       "2020-3-14": {
         "cases": 2,
         "growthFactor": 1
+      },
+      "2020-3-18": {
+        "cases": 2
       }
     },
     "county": "Jackson County",
     "state": "OR",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx"
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -122.756742,
+      42.4995805
+    ],
+    "featureId": 238,
+    "population": 219564
   },
   "Klamath County, OR, USA": {
     "dates": {
@@ -10046,12 +10082,21 @@
       "2020-3-14": {
         "cases": 1,
         "growthFactor": 1
+      },
+      "2020-3-18": {
+        "cases": 1
       }
     },
     "county": "Klamath County",
     "state": "OR",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx"
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -121.58491599999999,
+      42.804975999999996
+    ],
+    "featureId": 239,
+    "population": 67653
   },
   "Linn County, OR, USA": {
     "dates": {
@@ -10061,12 +10106,21 @@
       "2020-3-14": {
         "cases": 8,
         "growthFactor": 1
+      },
+      "2020-3-18": {
+        "cases": 15
       }
     },
     "county": "Linn County",
     "state": "OR",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx"
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -122.5272075,
+      44.496468
+    ],
+    "featureId": 241,
+    "population": 127335
   },
   "Marion County, OR, USA": {
     "dates": {
@@ -10076,12 +10130,21 @@
       "2020-3-14": {
         "cases": 2,
         "growthFactor": 1
+      },
+      "2020-3-18": {
+        "cases": 8
       }
     },
     "county": "Marion County",
     "state": "OR",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx"
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -122.4575375,
+      44.984239
+    ],
+    "featureId": 242,
+    "population": 346868
   },
   "Multnomah County, OR, USA": {
     "dates": {
@@ -10091,12 +10154,21 @@
       "2020-3-14": {
         "cases": 1,
         "growthFactor": 1
+      },
+      "2020-3-18": {
+        "cases": 3
       }
     },
     "county": "Multnomah County",
     "state": "OR",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx"
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -122.374808,
+      45.580658
+    ],
+    "featureId": 243,
+    "population": 811880
   },
   "Polk County, OR, USA": {
     "dates": {
@@ -10106,12 +10178,21 @@
       "2020-3-14": {
         "cases": 1,
         "growthFactor": 1
+      },
+      "2020-3-18": {
+        "cases": 1
       }
     },
     "county": "Polk County",
     "state": "OR",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx"
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -123.38289850000001,
+      44.8977695
+    ],
+    "featureId": 244,
+    "population": 85234
   },
   "Umatilla County, OR, USA": {
     "dates": {
@@ -10121,12 +10202,21 @@
       "2020-3-14": {
         "cases": 2,
         "growthFactor": 1
+      },
+      "2020-3-18": {
+        "cases": 2
       }
     },
     "county": "Umatilla County",
     "state": "OR",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx"
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -118.7037805,
+      45.4984405
+    ],
+    "featureId": 245,
+    "population": 77516
   },
   "Washington County, OR, USA": {
     "dates": {
@@ -10136,12 +10226,21 @@
       "2020-3-14": {
         "cases": 10,
         "growthFactor": 1
+      },
+      "2020-3-18": {
+        "cases": 23
       }
     },
     "county": "Washington County",
     "state": "OR",
     "country": "USA",
-    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx"
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -123.114875,
+      45.5483985
+    ],
+    "featureId": 246,
+    "population": 597695
   },
   "Jefferson Parish, LA, USA": {
     "dates": {
@@ -11154,7 +11253,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 234,
+    "featureId": 248,
     "population": 883305
   },
   "San Mateo County, CA, USA": {
@@ -11181,7 +11280,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 235,
+    "featureId": 249,
     "population": 769545
   },
   "Alameda County, CA, USA": {
@@ -11208,7 +11307,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 236,
+    "featureId": 250,
     "population": 1666753
   },
   "Sonoma County, CA, USA": {
@@ -11232,7 +11331,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 237,
+    "featureId": 251,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -11256,7 +11355,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 238,
+    "featureId": 252,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -11280,7 +11379,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 239,
+    "featureId": 253,
     "population": 446610
   },
   "Contra Costa County, CA, USA": {
@@ -11307,7 +11406,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 240,
+    "featureId": 254,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -11331,7 +11430,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 241,
+    "featureId": 255,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -11373,7 +11472,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 242,
+    "featureId": 256,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -11400,7 +11499,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 243,
+    "featureId": 257,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -11424,7 +11523,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 244,
+    "featureId": 258,
     "population": 157672
   },
   "Placer County, CA, USA": {
@@ -11451,7 +11550,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 245,
+    "featureId": 259,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -11475,7 +11574,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 246,
+    "featureId": 260,
     "population": 180040
   },
   "Los Angeles County, CA, USA": {
@@ -11502,7 +11601,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 247,
+    "featureId": 261,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -11529,7 +11628,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 248,
+    "featureId": 262,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -11553,7 +11652,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 249,
+    "featureId": 263,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -11580,7 +11679,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 250,
+    "featureId": 264,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -11607,7 +11706,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 251,
+    "featureId": 265,
     "population": 850967
   },
   "AL, USA": {
@@ -12587,7 +12686,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 252,
+    "featureId": 266,
     "population": 18883
   },
   "Bon Homme County, SD, USA": {
@@ -12607,7 +12706,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 253,
+    "featureId": 267,
     "population": 6980
   },
   "Charles Mix County, SD, USA": {
@@ -12627,7 +12726,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 254,
+    "featureId": 268,
     "population": 9338
   },
   "Davison County, SD, USA": {
@@ -12647,7 +12746,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 255,
+    "featureId": 269,
     "population": 19790
   },
   "McCook County, SD, USA": {
@@ -12667,7 +12766,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 256,
+    "featureId": 270,
     "population": 5546
   },
   "Minnehaha County, SD, USA": {
@@ -12687,7 +12786,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 257,
+    "featureId": 271,
     "population": 192876
   },
   "Pennington County, SD, USA": {
@@ -12707,7 +12806,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 258,
+    "featureId": 272,
     "population": 111729
   },
   "Bear River County, UT, USA": {
@@ -12755,7 +12854,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 259,
+    "featureId": 273,
     "population": 351713
   },
   "Salt Lake County, UT, USA": {
@@ -12775,7 +12874,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 260,
+    "featureId": 274,
     "population": 1152633
   },
   "San Juan County, UT, USA": {
@@ -12795,7 +12894,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 261,
+    "featureId": 275,
     "population": 15449
   },
   "Southeast Utah County, UT, USA": {
@@ -12843,7 +12942,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 262,
+    "featureId": 276,
     "population": 41933
   },
   "Tooele County, UT, USA": {
@@ -12863,7 +12962,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 263,
+    "featureId": 277,
     "population": 69907
   },
   "Tri County, UT, USA": {
@@ -12897,7 +12996,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 264,
+    "featureId": 278,
     "population": 622213
   },
   "Wasatch County, UT, USA": {
@@ -12917,7 +13016,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 265,
+    "featureId": 279,
     "population": 33240
   },
   "Weber-Morgan County, UT, USA": {
@@ -13222,6 +13321,57 @@
     "featureId": 232,
     "population": 88690
   },
+  "Benton County, OR, USA": {
+    "dates": {
+      "2020-3-18": {
+        "cases": 3
+      }
+    },
+    "county": "Benton County",
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -123.44528700000001,
+      44.498886
+    ],
+    "featureId": 234,
+    "population": 92101
+  },
+  "Lane County, OR, USA": {
+    "dates": {
+      "2020-3-18": {
+        "cases": 2
+      }
+    },
+    "county": "Lane County",
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -122.963617,
+      43.863845
+    ],
+    "featureId": 240,
+    "population": 379611
+  },
+  "Yamhill County, OR, USA": {
+    "dates": {
+      "2020-3-18": {
+        "cases": 2
+      }
+    },
+    "county": "Yamhill County",
+    "state": "OR",
+    "country": "USA",
+    "url": "https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx",
+    "coordinates": [
+      -123.31725850000001,
+      45.254474
+    ],
+    "featureId": 247,
+    "population": 107002
+  },
   "Campbell County, TN, USA": {
     "dates": {
       "2020-3-18": {
@@ -13236,7 +13386,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 266,
+    "featureId": 280,
     "population": 39583
   },
   "Cheatham County, TN, USA": {
@@ -13253,7 +13403,7 @@
       -87.0963775,
       36.248385999999996
     ],
-    "featureId": 267,
+    "featureId": 281,
     "population": 40439
   },
   "Davidson County, TN, USA": {
@@ -13270,7 +13420,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 268,
+    "featureId": 282,
     "population": 692587
   },
   "Hamilton County, TN, USA": {
@@ -13287,7 +13437,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 269,
+    "featureId": 283,
     "population": 364286
   },
   "Jefferson County, TN, USA": {
@@ -13304,7 +13454,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 270,
+    "featureId": 284,
     "population": 54012
   },
   "Knox County, TN, USA": {
@@ -13321,7 +13471,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 271,
+    "featureId": 285,
     "population": 465289
   },
   "Robertson County, TN, USA": {
@@ -13338,7 +13488,7 @@
       -86.8573125,
       36.501744
     ],
-    "featureId": 272,
+    "featureId": 286,
     "population": 71012
   },
   "Rutherford County, TN, USA": {
@@ -13355,7 +13505,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 273,
+    "featureId": 287,
     "population": 324890
   },
   "Sevier County, TN, USA": {
@@ -13372,7 +13522,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 274,
+    "featureId": 288,
     "population": 97892
   },
   "Shelby County, TN, USA": {
@@ -13389,7 +13539,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 275,
+    "featureId": 289,
     "population": 935764
   },
   "Sullivan County, TN, USA": {
@@ -13406,7 +13556,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 276,
+    "featureId": 290,
     "population": 157668
   },
   "Sumner County, TN, USA": {
@@ -13423,7 +13573,7 @@
       -86.4801315,
       36.448775
     ],
-    "featureId": 277,
+    "featureId": 291,
     "population": 187149
   },
   "Williamson County, TN, USA": {
@@ -13440,7 +13590,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 278,
+    "featureId": 292,
     "population": 231729
   },
   "Fairfield County: 48, CT, USA": {
@@ -13490,7 +13640,7 @@
       -72.93228500000001,
       41.4056375
     ],
-    "featureId": 279,
+    "featureId": 293,
     "population": 857620
   }
 }
