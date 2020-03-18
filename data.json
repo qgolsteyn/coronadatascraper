@@ -4239,6 +4239,20 @@
     "population": 446610
   },
   {
+    "cases": 39,
+    "deaths": 0,
+    "county": "Contra Costa County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.coronavirus.cchealth.org/",
+    "coordinates": [
+      -121.983341,
+      37.9092535
+    ],
+    "featureId": 252,
+    "population": 1150215
+  },
+  {
     "cases": 4,
     "county": "Stanislaus County",
     "state": "CA",
@@ -4248,7 +4262,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 252,
+    "featureId": 253,
     "population": 549815
   },
   {
@@ -4262,7 +4276,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 253,
+    "featureId": 254,
     "population": 1540975
   },
   {
@@ -4276,7 +4290,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 254,
+    "featureId": 255,
     "population": 994400
   },
   {
@@ -4289,7 +4303,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 255,
+    "featureId": 256,
     "population": 157672
   },
   {
@@ -4303,7 +4317,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 256,
+    "featureId": 257,
     "population": 393149
   },
   {
@@ -4316,7 +4330,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 257,
+    "featureId": 258,
     "population": 180040
   },
   {
@@ -4330,22 +4344,8 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 258,
-    "population": 10105518
-  },
-  {
-    "cases": 29,
-    "deaths": 0,
-    "county": "Orange County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus",
-    "coordinates": [
-      -117.76484500000001,
-      33.66652
-    ],
     "featureId": 259,
-    "population": 3185968
+    "population": 10105518
   },
   {
     "cases": 1,
