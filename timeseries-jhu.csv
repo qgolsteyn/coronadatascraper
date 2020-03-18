@@ -237,9 +237,9 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,,British Columbia,Canada,54.15716767014678,-126.56202337499991,5071000,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,53,64,,,,186
 ,,Alberta,Canada,54.49628672664678,-115.00016854279502,4067175,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,29,,,,97
 ,,Saskatchewan,Canada,54.496338403094796,-105.6821561755884,1098352,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,2
-,,Manitoba,Canada,54.496368513369816,-95.4742987434922,1278365,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,8
-,,Ontario,Canada,49.26501413726137,-84.7533750036988,13448494,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79,79,,,,189
-,,Quebec,Canada,53.79378896700006,-68.38833574149993,8164361,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,17,,,,74
+,,Manitoba,Canada,54.496368513369816,-95.4742987434922,1278365,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,15
+,,Ontario,Canada,49.26501413726137,-84.7533750036988,13448494,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79,79,,,,212
+,,Quebec,Canada,53.79378896700006,-68.38833574149993,8164361,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,17,,,,94
 ,,New Brunswick,Canada,46.36274594300005,-66.43830941249992,747101,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,2
 ,Copiah County,MS,USA,,,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,
 ,Pearl River County,MS,USA,,,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,
@@ -462,7 +462,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Washington County,PA,USA,,,,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
 ,Wayne County,PA,USA,,,,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,,,,
 ,,Newfoundland and Labrador,Canada,53.46112743006114,-60.21844100481229,519716,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
-,,Nova Scotia,Canada,45.266872463000055,-63.021209276499945,923598,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+,,Nova Scotia,Canada,45.266872463000055,-63.021209276499945,923598,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
 ,,Prince Edward Island,Canada,46.49290599200006,-63.21041826049995,142907,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Baldwin County,AL,USA,30.765086,-87.69793150000001,218022,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Calhoun County,AL,USA,33.7622675,-85.837497,114277,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
