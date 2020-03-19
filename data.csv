@@ -212,16 +212,19 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Warren County,NJ,USA,1,,,2,40.8430415,-74.985897,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,208,105779
 ,Morris County,NJ,USA,19,,,19,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,209,494228
 ,Middlesex County,NJ,USA,40,,,44,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,210,829685
-,,British Columbia,Canada,186,,,,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,211,5071000
-,,Alberta,Canada,97,,,,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,212,4067175
+,,British Columbia,Canada,231,,,,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,211,5071000
+,,Alberta,Canada,119,,,,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,212,4067175
 ,,Saskatchewan,Canada,2,,,,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,213,1098352
 ,,Manitoba,Canada,15,,,,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,214,1278365
-,,Ontario,Canada,212,,,,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,215,13448494
+,,Ontario,Canada,214,,,,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,215,13448494
 ,,Quebec,Canada,94,,,,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,216,8164361
 ,,Newfoundland and Labrador,Canada,0,,,,53.46112743006114,-60.21844100481229,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,217,519716
 ,,New Brunswick,Canada,2,,,,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,218,747101
 ,,Nova Scotia,Canada,3,,,,45.266872463000055,-63.021209276499945,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,219,923598
 ,,Prince Edward Island,Canada,1,,,,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,220,142907
+,,Yukon,Canada,0,,,,64.82713023550005,-132.41233364551596,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,221,35874
+,,Northwest Territories,Canada,0,,,,69.38320119914675,-119.22198188100899,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,222,41786
+,,Nunavut,Canada,0,,,,67.52741120000007,-90.88314938052307,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,223,35944
 ,,AL,USA,39,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
 ,,AK,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
 ,,AS,USA,0,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
@@ -231,7 +234,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,,CO,USA,183,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
 ,,CT,USA,68,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
 ,,DE,USA,16,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
-,,District of Columbia,USA,31,,,,38.899451555326564,-77.0145477695639,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,221,705749
+,,District of Columbia,USA,31,,,,38.899451555326564,-77.0145477695639,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,224,705749
 ,,FL,USA,195,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
 ,,GA,USA,178,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
 ,,GU,USA,15,,,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,,
@@ -290,7 +293,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,,Emilia Romagna,ITA,4525,458,152,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4459477
 ,,Friuli Venezia Giulia,ITA,462,31,15,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1215220
 ,,Lazio,ITA,724,32,42,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5879082
-,,Liguria,ITA,887,73,70,,44.448917926372275,9.063233530652923,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,222,1550640
+,,Liguria,ITA,887,73,70,,44.448917926372275,9.063233530652923,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,225,1550640
 ,,Lombardia,ITA,17713,1959,3488,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,10060574
 ,,Marche,ITA,1568,92,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1525271
 ,,Molise,ITA,28,1,6,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,305617
@@ -304,64 +307,64 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,,Valle d'Aosta,ITA,165,3,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,125666
 ,,Veneto,ITA,3214,94,167,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4905854
 ,,DC,USA,0,,,0,,,https://coronavirus.dc.gov/page/coronavirus-data,,
-,Baldwin County,AL,USA,1,1,,,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,223,218022
-,Calhoun County,AL,USA,1,1,,,33.7622675,-85.837497,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,224,114277
-,Elmore County,AL,USA,4,4,,,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,225,81887
-,Lee County,AL,USA,8,8,,,32.578877500000004,-85.348772,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,226,163941
-,Jefferson County,AL,USA,25,25,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,227,659300
-,Limestone County,AL,USA,1,1,,,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,228,96174
-,Madison County,AL,USA,1,1,,,34.7338515,-86.52351200000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,229,366519
-,Montgomery County,AL,USA,2,2,,,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,230,225763
-,Shelby County,AL,USA,4,4,,,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,231,215707
-,St. Clair County,AL,USA,1,1,,,33.690028999999996,-86.310896,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,232,88690
-,Tuscaloosa County,AL,USA,3,3,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,233,208911
-,San Francisco County,CA,USA,51,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,234,883305
-,San Mateo County,CA,USA,80,1,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,235,769545
-,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,236,1666753
-,Sonoma County,CA,USA,0,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,237,499942
-,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,238,274255
-,Solano County,CA,USA,8,,,,38.2871145,-122.0001255,http://www.solanocounty.com/depts/ph/coronavirus.asp,239,446610
-,Contra Costa County,CA,USA,41,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,240,1150215
-,Stanislaus County,CA,USA,5,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,241,549815
-,Sacramento County,CA,USA,40,2,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,242,1540975
-,Fresno County,CA,USA,3,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,243,994400
-,Madera County,CA,USA,1,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,244,157672
-,Placer County,CA,USA,9,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,245,393149
-,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,246,180040
-,Los Angeles County,CA,USA,190,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,247,10105518
-,Orange County,CA,USA,0,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,248,3185968
-,Riverside County,CA,USA,1,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,249,2450758
-,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,250,3343364
-,Beadle County,SD,USA,1,,,,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,251,18883
-,Bon Homme County,SD,USA,1,,,,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,252,6980
-,Charles Mix County,SD,USA,1,,,,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,253,9338
-,Davison County,SD,USA,1,,,,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,254,19790
-,McCook County,SD,USA,1,,,,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,255,5546
-,Minnehaha County,SD,USA,5,,,,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,256,192876
-,Pennington County,SD,USA,1,,,,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,257,111729
+,Baldwin County,AL,USA,1,1,,,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,226,218022
+,Calhoun County,AL,USA,1,1,,,33.7622675,-85.837497,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,227,114277
+,Elmore County,AL,USA,4,4,,,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,228,81887
+,Lee County,AL,USA,8,8,,,32.578877500000004,-85.348772,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,229,163941
+,Jefferson County,AL,USA,25,25,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,230,659300
+,Limestone County,AL,USA,1,1,,,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,231,96174
+,Madison County,AL,USA,1,1,,,34.7338515,-86.52351200000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,232,366519
+,Montgomery County,AL,USA,2,2,,,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,233,225763
+,Shelby County,AL,USA,4,4,,,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,234,215707
+,St. Clair County,AL,USA,1,1,,,33.690028999999996,-86.310896,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,235,88690
+,Tuscaloosa County,AL,USA,3,3,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,236,208911
+,San Francisco County,CA,USA,51,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,237,883305
+,San Mateo County,CA,USA,80,1,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,238,769545
+,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,239,1666753
+,Sonoma County,CA,USA,0,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,240,499942
+,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,241,274255
+,Solano County,CA,USA,8,,,,38.2871145,-122.0001255,http://www.solanocounty.com/depts/ph/coronavirus.asp,242,446610
+,Contra Costa County,CA,USA,41,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,243,1150215
+,Stanislaus County,CA,USA,5,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,244,549815
+,Sacramento County,CA,USA,40,2,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,245,1540975
+,Fresno County,CA,USA,3,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,246,994400
+,Madera County,CA,USA,1,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,247,157672
+,Placer County,CA,USA,9,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,248,393149
+,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,249,180040
+,Los Angeles County,CA,USA,190,1,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,250,10105518
+,Orange County,CA,USA,0,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,251,3185968
+,Riverside County,CA,USA,1,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,252,2450758
+,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,253,3343364
+,Beadle County,SD,USA,1,,,,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,254,18883
+,Bon Homme County,SD,USA,1,,,,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,255,6980
+,Charles Mix County,SD,USA,1,,,,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,256,9338
+,Davison County,SD,USA,1,,,,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,257,19790
+,McCook County,SD,USA,1,,,,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,258,5546
+,Minnehaha County,SD,USA,5,,,,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,259,192876
+,Pennington County,SD,USA,1,,,,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,260,111729
 ,Bear River County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
 ,Central Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Davis County,UT,USA,0,,,,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,258,351713
-,Salt Lake County,UT,USA,2,,,,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,259,1152633
-,San Juan County,UT,USA,0,,,,37.748977499999995,-110.226921,https://coronavirus.utah.gov/latest/,260,15449
+,Davis County,UT,USA,0,,,,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,261,351713
+,Salt Lake County,UT,USA,2,,,,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,262,1152633
+,San Juan County,UT,USA,0,,,,37.748977499999995,-110.226921,https://coronavirus.utah.gov/latest/,263,15449
 ,Southeast Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
 ,Southwest Utah County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Summit County,UT,USA,7,,,,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,261,41933
-,Tooele County,UT,USA,0,,,,40.490421,-113.09571600000001,https://coronavirus.utah.gov/latest/,262,69907
+,Summit County,UT,USA,7,,,,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,264,41933
+,Tooele County,UT,USA,0,,,,40.490421,-113.09571600000001,https://coronavirus.utah.gov/latest/,265,69907
 ,Tri County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Utah County,UT,USA,1,,,,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,263,622213
-,Wasatch County,UT,USA,0,,,,40.294765,-111.25642,https://coronavirus.utah.gov/latest/,264,33240
+,Utah County,UT,USA,1,,,,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,266,622213
+,Wasatch County,UT,USA,0,,,,40.294765,-111.25642,https://coronavirus.utah.gov/latest/,267,33240
 ,Weber-Morgan County,UT,USA,0,,,,,,https://coronavirus.utah.gov/latest/,,
-,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,265,39583
-,Cheatham County,TN,USA,1,,,,36.248385999999996,-87.0963775,https://www.tn.gov/health/cedep/ncov.html,266,40439
-,Davidson County,TN,USA,58,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,267,692587
-,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,268,364286
-,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,269,54012
-,Knox County,TN,USA,2,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,270,465289
-,Robertson County,TN,USA,1,,,,36.501744,-86.8573125,https://www.tn.gov/health/cedep/ncov.html,271,71012
-,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,272,324890
-,Sevier County,TN,USA,1,,,,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,273,97892
-,Shelby County,TN,USA,4,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,274,935764
-,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,275,157668
-,Sumner County,TN,USA,2,,,,36.448775,-86.4801315,https://www.tn.gov/health/cedep/ncov.html,276,187149
-,Williamson County,TN,USA,24,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,277,231729
+,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,268,39583
+,Cheatham County,TN,USA,1,,,,36.248385999999996,-87.0963775,https://www.tn.gov/health/cedep/ncov.html,269,40439
+,Davidson County,TN,USA,58,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,270,692587
+,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,271,364286
+,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,272,54012
+,Knox County,TN,USA,2,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,273,465289
+,Robertson County,TN,USA,1,,,,36.501744,-86.8573125,https://www.tn.gov/health/cedep/ncov.html,274,71012
+,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,275,324890
+,Sevier County,TN,USA,1,,,,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,276,97892
+,Shelby County,TN,USA,4,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,277,935764
+,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,278,157668
+,Sumner County,TN,USA,2,,,,36.448775,-86.4801315,https://www.tn.gov/health/cedep/ncov.html,279,187149
+,Williamson County,TN,USA,24,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,280,231729
