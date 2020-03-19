@@ -4361,139 +4361,6 @@
     "population": 111729
   },
   {
-    "county": "Bear River County",
-    "cases": 0,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/"
-  },
-  {
-    "county": "Central Utah County",
-    "cases": 0,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/"
-  },
-  {
-    "county": "Davis County",
-    "cases": 0,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -112.115984,
-      40.963095499999994
-    ],
-    "featureId": 261,
-    "population": 351713
-  },
-  {
-    "county": "Salt Lake County",
-    "cases": 2,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -111.9083075,
-      40.66808399999999
-    ],
-    "featureId": 262,
-    "population": 1152633
-  },
-  {
-    "county": "San Juan County",
-    "cases": 0,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -110.226921,
-      37.748977499999995
-    ],
-    "featureId": 263,
-    "population": 15449
-  },
-  {
-    "county": "Southeast Utah County",
-    "cases": 0,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/"
-  },
-  {
-    "county": "Southwest Utah County",
-    "cases": 0,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/"
-  },
-  {
-    "county": "Summit County",
-    "cases": 7,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -110.82489050000001,
-      40.9000835
-    ],
-    "featureId": 264,
-    "population": 41933
-  },
-  {
-    "county": "Tooele County",
-    "cases": 0,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -113.09571600000001,
-      40.490421
-    ],
-    "featureId": 265,
-    "population": 69907
-  },
-  {
-    "county": "Tri County",
-    "cases": 0,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/"
-  },
-  {
-    "county": "Utah County",
-    "cases": 1,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -111.5347685,
-      40.176925999999995
-    ],
-    "featureId": 266,
-    "population": 622213
-  },
-  {
-    "county": "Wasatch County",
-    "cases": 0,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -111.25642,
-      40.294765
-    ],
-    "featureId": 267,
-    "population": 33240
-  },
-  {
-    "county": "Weber-Morgan County",
-    "cases": 0,
-    "state": "UT",
-    "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/"
-  },
-  {
     "county": "Campbell County",
     "cases": 1,
     "state": "TN",
@@ -4503,7 +4370,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 268,
+    "featureId": 261,
     "population": 39583
   },
   {
@@ -4516,7 +4383,7 @@
       -87.0963775,
       36.248385999999996
     ],
-    "featureId": 269,
+    "featureId": 262,
     "population": 40439
   },
   {
@@ -4529,7 +4396,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 270,
+    "featureId": 263,
     "population": 692587
   },
   {
@@ -4542,7 +4409,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 271,
+    "featureId": 264,
     "population": 364286
   },
   {
@@ -4555,7 +4422,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 272,
+    "featureId": 265,
     "population": 54012
   },
   {
@@ -4568,7 +4435,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 273,
+    "featureId": 266,
     "population": 465289
   },
   {
@@ -4581,7 +4448,7 @@
       -86.8573125,
       36.501744
     ],
-    "featureId": 274,
+    "featureId": 267,
     "population": 71012
   },
   {
@@ -4594,7 +4461,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 275,
+    "featureId": 268,
     "population": 324890
   },
   {
@@ -4607,7 +4474,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 276,
+    "featureId": 269,
     "population": 97892
   },
   {
@@ -4620,7 +4487,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 277,
+    "featureId": 270,
     "population": 935764
   },
   {
@@ -4633,7 +4500,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 278,
+    "featureId": 271,
     "population": 157668
   },
   {
@@ -4646,7 +4513,7 @@
       -86.4801315,
       36.448775
     ],
-    "featureId": 279,
+    "featureId": 272,
     "population": 187149
   },
   {
@@ -4659,7 +4526,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 280,
+    "featureId": 273,
     "population": 231729
   }
 ]

@@ -12847,9 +12847,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 0
-      },
-      "2020-3-19": {
-        "cases": 0
       }
     },
     "county": "Bear River County",
@@ -12860,9 +12857,6 @@
   "Central Utah County, UT, USA": {
     "dates": {
       "2020-3-14": {
-        "cases": 0
-      },
-      "2020-3-19": {
         "cases": 0
       }
     },
@@ -12875,68 +12869,38 @@
     "dates": {
       "2020-3-14": {
         "cases": 1
-      },
-      "2020-3-19": {
-        "cases": 0
       }
     },
     "county": "Davis County",
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -112.115984,
-      40.963095499999994
-    ],
-    "featureId": 262,
-    "population": 351713
+    "url": "https://coronavirus.utah.gov/latest/"
   },
   "Salt Lake County, UT, USA": {
     "dates": {
       "2020-3-14": {
         "cases": 5
-      },
-      "2020-3-19": {
-        "cases": 2
       }
     },
     "county": "Salt Lake County",
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -111.9083075,
-      40.66808399999999
-    ],
-    "featureId": 263,
-    "population": 1152633
+    "url": "https://coronavirus.utah.gov/latest/"
   },
   "San Juan County, UT, USA": {
     "dates": {
       "2020-3-14": {
-        "cases": 0
-      },
-      "2020-3-19": {
         "cases": 0
       }
     },
     "county": "San Juan County",
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -110.226921,
-      37.748977499999995
-    ],
-    "featureId": 264,
-    "population": 15449
+    "url": "https://coronavirus.utah.gov/latest/"
   },
   "Southeast Utah County, UT, USA": {
     "dates": {
       "2020-3-14": {
-        "cases": 0
-      },
-      "2020-3-19": {
         "cases": 0
       }
     },
@@ -12949,9 +12913,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 0
-      },
-      "2020-3-19": {
-        "cases": 0
       }
     },
     "county": "Southwest Utah County",
@@ -12963,48 +12924,27 @@
     "dates": {
       "2020-3-14": {
         "cases": 2
-      },
-      "2020-3-19": {
-        "cases": 7
       }
     },
     "county": "Summit County",
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -110.82489050000001,
-      40.9000835
-    ],
-    "featureId": 265,
-    "population": 41933
+    "url": "https://coronavirus.utah.gov/latest/"
   },
   "Tooele County, UT, USA": {
     "dates": {
       "2020-3-14": {
-        "cases": 0
-      },
-      "2020-3-19": {
         "cases": 0
       }
     },
     "county": "Tooele County",
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -113.09571600000001,
-      40.490421
-    ],
-    "featureId": 266,
-    "population": 69907
+    "url": "https://coronavirus.utah.gov/latest/"
   },
   "Tri County, UT, USA": {
     "dates": {
       "2020-3-14": {
-        "cases": 0
-      },
-      "2020-3-19": {
         "cases": 0
       }
     },
@@ -13017,49 +12957,28 @@
     "dates": {
       "2020-3-14": {
         "cases": 0
-      },
-      "2020-3-19": {
-        "cases": 1
       }
     },
     "county": "Utah County",
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -111.5347685,
-      40.176925999999995
-    ],
-    "featureId": 267,
-    "population": 622213
+    "url": "https://coronavirus.utah.gov/latest/"
   },
   "Wasatch County, UT, USA": {
     "dates": {
       "2020-3-14": {
-        "cases": 0
-      },
-      "2020-3-19": {
         "cases": 0
       }
     },
     "county": "Wasatch County",
     "state": "UT",
     "country": "USA",
-    "url": "https://coronavirus.utah.gov/latest/",
-    "coordinates": [
-      -111.25642,
-      40.294765
-    ],
-    "featureId": 268,
-    "population": 33240
+    "url": "https://coronavirus.utah.gov/latest/"
   },
   "Weber-Morgan County, UT, USA": {
     "dates": {
       "2020-3-14": {
         "cases": 1
-      },
-      "2020-3-19": {
-        "cases": 0
       }
     },
     "county": "Weber-Morgan County",
@@ -13417,7 +13336,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 269,
+    "featureId": 262,
     "population": 39583
   },
   "Cheatham County, TN, USA": {
@@ -13434,7 +13353,7 @@
       -87.0963775,
       36.248385999999996
     ],
-    "featureId": 270,
+    "featureId": 263,
     "population": 40439
   },
   "Davidson County, TN, USA": {
@@ -13451,7 +13370,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 271,
+    "featureId": 264,
     "population": 692587
   },
   "Hamilton County, TN, USA": {
@@ -13468,7 +13387,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 272,
+    "featureId": 265,
     "population": 364286
   },
   "Jefferson County, TN, USA": {
@@ -13485,7 +13404,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 273,
+    "featureId": 266,
     "population": 54012
   },
   "Knox County, TN, USA": {
@@ -13502,7 +13421,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 274,
+    "featureId": 267,
     "population": 465289
   },
   "Robertson County, TN, USA": {
@@ -13519,7 +13438,7 @@
       -86.8573125,
       36.501744
     ],
-    "featureId": 275,
+    "featureId": 268,
     "population": 71012
   },
   "Rutherford County, TN, USA": {
@@ -13536,7 +13455,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 276,
+    "featureId": 269,
     "population": 324890
   },
   "Sevier County, TN, USA": {
@@ -13553,7 +13472,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 277,
+    "featureId": 270,
     "population": 97892
   },
   "Shelby County, TN, USA": {
@@ -13570,7 +13489,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 278,
+    "featureId": 271,
     "population": 935764
   },
   "Sullivan County, TN, USA": {
@@ -13587,7 +13506,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 279,
+    "featureId": 272,
     "population": 157668
   },
   "Sumner County, TN, USA": {
@@ -13604,7 +13523,7 @@
       -86.4801315,
       36.448775
     ],
-    "featureId": 280,
+    "featureId": 273,
     "population": 187149
   },
   "Williamson County, TN, USA": {
@@ -13621,7 +13540,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 281,
+    "featureId": 274,
     "population": 231729
   }
 }

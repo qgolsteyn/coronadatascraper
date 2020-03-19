@@ -942,12 +942,9 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Minnehaha County,SD,USA,192876,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,5,,,,2020-03-19
 ,Pennington County,SD,USA,111729,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
 ,Pennington County,SD,USA,111729,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-19
-,Davis County,UT,USA,351713,40.963095499999994,-112.115984,https://coronavirus.utah.gov/latest/,1,,,,2020-03-14
-,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,5,,,,2020-03-14
-,Salt Lake County,UT,USA,1152633,40.66808399999999,-111.9083075,https://coronavirus.utah.gov/latest/,2,,,,2020-03-19
-,Summit County,UT,USA,41933,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,2,,,,2020-03-14
-,Summit County,UT,USA,41933,40.9000835,-110.82489050000001,https://coronavirus.utah.gov/latest/,7,,,,2020-03-19
-,Utah County,UT,USA,622213,40.176925999999995,-111.5347685,https://coronavirus.utah.gov/latest/,1,,,,2020-03-19
+,Davis County,UT,USA,,,,https://coronavirus.utah.gov/latest/,1,,,,2020-03-14
+,Salt Lake County,UT,USA,,,,https://coronavirus.utah.gov/latest/,5,,,,2020-03-14
+,Summit County,UT,USA,,,,https://coronavirus.utah.gov/latest/,2,,,,2020-03-14
 ,Weber-Morgan County,UT,USA,,,,https://coronavirus.utah.gov/latest/,1,,,,2020-03-14
 ,Allegheny County,PA,USA,,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,2,,,,2020-03-14
 ,Bucks County,PA,USA,,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,3,,,,2020-03-14
