@@ -3596,8 +3596,8 @@
   },
   {
     "county": "Jefferson County",
-    "cases": 31,
-    "deaths": 31,
+    "cases": 34,
+    "deaths": 34,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3624,8 +3624,8 @@
   },
   {
     "county": "Madison County",
-    "cases": 1,
-    "deaths": 1,
+    "cases": 5,
+    "deaths": 5,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3638,8 +3638,8 @@
   },
   {
     "county": "Montgomery County",
-    "cases": 2,
-    "deaths": 2,
+    "cases": 3,
+    "deaths": 3,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3652,8 +3652,8 @@
   },
   {
     "county": "Shelby County",
-    "cases": 8,
-    "deaths": 8,
+    "cases": 9,
+    "deaths": 9,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3951,97 +3951,6 @@
     "population": 3343364
   },
   {
-    "county": "Beadle County",
-    "cases": 1,
-    "state": "SD",
-    "country": "USA",
-    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
-    "coordinates": [
-      -98.279395,
-      44.414696
-    ],
-    "featureId": 256,
-    "population": 18883
-  },
-  {
-    "county": "Bon Homme County",
-    "cases": 1,
-    "state": "SD",
-    "country": "USA",
-    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
-    "coordinates": [
-      -97.899183,
-      42.965534500000004
-    ],
-    "featureId": 257,
-    "population": 6980
-  },
-  {
-    "county": "Charles Mix County",
-    "cases": 1,
-    "state": "SD",
-    "country": "USA",
-    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
-    "coordinates": [
-      -98.6895585,
-      43.1683905
-    ],
-    "featureId": 258,
-    "population": 9338
-  },
-  {
-    "county": "Davison County",
-    "cases": 1,
-    "state": "SD",
-    "country": "USA",
-    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
-    "coordinates": [
-      -98.145127,
-      43.6746775
-    ],
-    "featureId": 259,
-    "population": 19790
-  },
-  {
-    "county": "McCook County",
-    "cases": 1,
-    "state": "SD",
-    "country": "USA",
-    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
-    "coordinates": [
-      -97.368803,
-      43.674370999999994
-    ],
-    "featureId": 260,
-    "population": 5546
-  },
-  {
-    "county": "Minnehaha County",
-    "cases": 5,
-    "state": "SD",
-    "country": "USA",
-    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
-    "coordinates": [
-      -96.7912635,
-      43.674592
-    ],
-    "featureId": 261,
-    "population": 192876
-  },
-  {
-    "county": "Pennington County",
-    "cases": 1,
-    "state": "SD",
-    "country": "USA",
-    "url": "https://doh.sd.gov/news/Coronavirus.aspx#SD",
-    "coordinates": [
-      -103.02822599999999,
-      44.098381
-    ],
-    "featureId": 262,
-    "population": 111729
-  },
-  {
     "county": "Campbell County",
     "cases": 1,
     "state": "TN",
@@ -4051,7 +3960,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 263,
+    "featureId": 256,
     "population": 39583
   },
   {
@@ -4064,7 +3973,7 @@
       -87.0963775,
       36.248385999999996
     ],
-    "featureId": 264,
+    "featureId": 257,
     "population": 40439
   },
   {
@@ -4077,7 +3986,7 @@
       -84.974996,
       35.9586935
     ],
-    "featureId": 265,
+    "featureId": 258,
     "population": 59673
   },
   {
@@ -4090,7 +3999,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 266,
+    "featureId": 259,
     "population": 692587
   },
   {
@@ -4103,7 +4012,7 @@
       -89.4437795,
       36.0468635
     ],
-    "featureId": 267,
+    "featureId": 260,
     "population": 37320
   },
   {
@@ -4116,7 +4025,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 268,
+    "featureId": 261,
     "population": 364286
   },
   {
@@ -4129,7 +4038,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 269,
+    "featureId": 262,
     "population": 54012
   },
   {
@@ -4142,7 +4051,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 270,
+    "featureId": 263,
     "population": 465289
   },
   {
@@ -4155,7 +4064,7 @@
       -87.3780645,
       36.477428
     ],
-    "featureId": 271,
+    "featureId": 264,
     "population": 205950
   },
   {
@@ -4168,7 +4077,7 @@
       -86.8573125,
       36.501744
     ],
-    "featureId": 272,
+    "featureId": 265,
     "population": 71012
   },
   {
@@ -4181,7 +4090,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 273,
+    "featureId": 266,
     "population": 324890
   },
   {
@@ -4194,7 +4103,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 274,
+    "featureId": 267,
     "population": 97892
   },
   {
@@ -4207,7 +4116,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 275,
+    "featureId": 268,
     "population": 935764
   },
   {
@@ -4220,7 +4129,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 276,
+    "featureId": 269,
     "population": 157668
   },
   {
@@ -4233,7 +4142,7 @@
       -86.4801315,
       36.448775
     ],
-    "featureId": 277,
+    "featureId": 270,
     "population": 187149
   },
   {
@@ -4246,7 +4155,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 278,
+    "featureId": 271,
     "population": 231729
   },
   {
@@ -4259,7 +4168,7 @@
       -86.30456749999999,
       36.156231000000005
     ],
-    "featureId": 279,
+    "featureId": 272,
     "population": 140625
   },
   {

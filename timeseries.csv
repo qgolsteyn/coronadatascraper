@@ -631,9 +631,9 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,,DC,USA,,,,https://coronavirus.dc.gov/page/coronavirus-data,10,,,69,2020-03-13
 ,,DC,USA,,,,https://coronavirus.dc.gov/page/coronavirus-data,10,,,69,2020-03-14
 ,Elmore County,AL,USA,81887,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,5,5,,,2020-03-19
-,Jefferson County,AL,USA,659300,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,31,31,,,2020-03-19
+,Jefferson County,AL,USA,659300,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,34,34,,,2020-03-19
 ,Limestone County,AL,USA,96174,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-19
-,Montgomery County,AL,USA,225763,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,2,2,,,2020-03-19
+,Montgomery County,AL,USA,225763,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,3,3,,,2020-03-19
 ,Tuscaloosa County,AL,USA,208911,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,4,4,,,2020-03-19
 ,Clackamas County,OR,USA,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,2020-03-13
 ,Clackamas County,OR,USA,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,1,,,,2020-03-14
@@ -881,20 +881,13 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Racine County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-14
 ,Sheboygan County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,3,,,,2020-03-14
 ,Waukesha County,WI,USA,,,,https://www.dhs.wisconsin.gov/outbreaks/index.htm,1,,,,2020-03-14
-,Beadle County,SD,USA,18883,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
-,Beadle County,SD,USA,18883,44.414696,-98.279395,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-19
-,Bon Homme County,SD,USA,6980,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
-,Bon Homme County,SD,USA,6980,42.965534500000004,-97.899183,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-19
-,Charles Mix County,SD,USA,9338,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
-,Charles Mix County,SD,USA,9338,43.1683905,-98.6895585,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-19
-,Davison County,SD,USA,19790,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
-,Davison County,SD,USA,19790,43.6746775,-98.145127,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-19
-,McCook County,SD,USA,5546,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
-,McCook County,SD,USA,5546,43.674370999999994,-97.368803,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-19
-,Minnehaha County,SD,USA,192876,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,3,,,,2020-03-14
-,Minnehaha County,SD,USA,192876,43.674592,-96.7912635,https://doh.sd.gov/news/Coronavirus.aspx#SD,5,,,,2020-03-19
-,Pennington County,SD,USA,111729,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
-,Pennington County,SD,USA,111729,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-19
+,Beadle County,SD,USA,,,,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
+,Bon Homme County,SD,USA,,,,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
+,Charles Mix County,SD,USA,,,,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
+,Davison County,SD,USA,,,,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
+,McCook County,SD,USA,,,,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
+,Minnehaha County,SD,USA,,,,https://doh.sd.gov/news/Coronavirus.aspx#SD,3,,,,2020-03-14
+,Pennington County,SD,USA,,,,https://doh.sd.gov/news/Coronavirus.aspx#SD,1,,,,2020-03-14
 ,Davis County,UT,USA,,,,https://coronavirus.utah.gov/latest/,1,,,,2020-03-14
 ,Salt Lake County,UT,USA,,,,https://coronavirus.utah.gov/latest/,5,,,,2020-03-14
 ,Summit County,UT,USA,,,,https://coronavirus.utah.gov/latest/,2,,,,2020-03-14
@@ -918,8 +911,8 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Calhoun County,AL,USA,114277,33.7622675,-85.837497,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-19
 ,Chambers County,AL,USA,33615,32.9183035,-85.3626035,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-19
 ,Lee County,AL,USA,163941,32.578877500000004,-85.348772,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,10,10,,,2020-03-19
-,Madison County,AL,USA,366519,34.7338515,-86.52351200000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-19
-,Shelby County,AL,USA,215707,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,8,8,,,2020-03-19
+,Madison County,AL,USA,366519,34.7338515,-86.52351200000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,5,5,,,2020-03-19
+,Shelby County,AL,USA,215707,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,9,9,,,2020-03-19
 ,St. Clair County,AL,USA,88690,33.690028999999996,-86.310896,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-19
 ,Talladega County,AL,USA,79828,33.4003975,-86.148843,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-19
 ,Walker County,AL,USA,,33.7590165,-87.294891,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-19
