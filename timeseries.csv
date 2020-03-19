@@ -748,36 +748,21 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Broome County,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,1,,,,2020-03-14
 ,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,95,,,,2020-03-13
 ,New York City,NY,USA,,,,https://www.health.ny.gov/diseases/communicable/coronavirus/,213,,,,2020-03-14
-,Clark County,WA,USA,481857,45.80125099999999,-122.5203415,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
-,Clark County,WA,USA,481857,45.80125099999999,-122.5203415,https://www.doh.wa.gov/Emergencies/Coronavirus,4,3,,,2020-03-19
-,Columbia County,WA,USA,4059,46.3118295,-117.92289099999999,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
-,Columbia County,WA,USA,4059,46.3118295,-117.92289099999999,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-19
-,Grant County,WA,USA,97331,47.293631,-119.508134,https://www.doh.wa.gov/Emergencies/Coronavirus,1,1,,,2020-03-13
-,Grant County,WA,USA,97331,47.293631,-119.508134,https://www.doh.wa.gov/Emergencies/Coronavirus,8,1,,,2020-03-19
-,Grays Harbor County,WA,USA,73901,47.162482,-123.756045,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
-,Grays Harbor County,WA,USA,73901,47.162482,-123.756045,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-19
-,Island County,WA,USA,84460,48.157794,-122.559821,https://www.doh.wa.gov/Emergencies/Coronavirus,3,,,,2020-03-13
-,Island County,WA,USA,84460,48.157794,-122.559821,https://www.doh.wa.gov/Emergencies/Coronavirus,16,,,,2020-03-19
-,Jefferson County,WA,USA,31729,47.8304245,-123.61055200000001,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
-,Jefferson County,WA,USA,31729,47.8304245,-123.61055200000001,https://www.doh.wa.gov/Emergencies/Coronavirus,4,,,,2020-03-19
-,King County,WA,USA,2233163,47.4324805,-121.7969185,https://www.doh.wa.gov/Emergencies/Coronavirus,328,32,,,2020-03-13
-,King County,WA,USA,2233163,47.4324805,-121.7969185,https://www.doh.wa.gov/Emergencies/Coronavirus,562,56,,,2020-03-19
-,Kitsap County,WA,USA,269805,47.6719585,-122.7433825,https://www.doh.wa.gov/Emergencies/Coronavirus,3,,,,2020-03-13
-,Kitsap County,WA,USA,269805,47.6719585,-122.7433825,https://www.doh.wa.gov/Emergencies/Coronavirus,9,,,,2020-03-19
-,Kittitas County,WA,USA,47364,47.167153,-120.688514,https://www.doh.wa.gov/Emergencies/Coronavirus,3,,,,2020-03-13
-,Kittitas County,WA,USA,47364,47.167153,-120.688514,https://www.doh.wa.gov/Emergencies/Coronavirus,4,,,,2020-03-19
-,Pierce County,WA,USA,891299,47.066154,-122.10319799999999,https://www.doh.wa.gov/Emergencies/Coronavirus,19,,,,2020-03-13
-,Pierce County,WA,USA,891299,47.066154,-122.10319799999999,https://www.doh.wa.gov/Emergencies/Coronavirus,56,,,,2020-03-19
-,Skagit County,WA,USA,128206,48.476543,-121.712645,https://www.doh.wa.gov/Emergencies/Coronavirus,3,,,,2020-03-13
-,Skagit County,WA,USA,128206,48.476543,-121.712645,https://www.doh.wa.gov/Emergencies/Coronavirus,14,,,,2020-03-19
-,Snohomish County,WA,USA,814901,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,133,4,,,2020-03-13
-,Snohomish County,WA,USA,814901,48.037258,-121.65598399999999,https://www.doh.wa.gov/Emergencies/Coronavirus,310,6,,,2020-03-19
-,Thurston County,WA,USA,286419,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
-,Thurston County,WA,USA,286419,46.9761355,-122.7023935,https://www.doh.wa.gov/Emergencies/Coronavirus,6,,,,2020-03-19
-,Whatcom County,WA,USA,225685,48.821715499999996,-121.884438,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
-,Whatcom County,WA,USA,225685,48.821715499999996,-121.884438,https://www.doh.wa.gov/Emergencies/Coronavirus,7,,,,2020-03-19
-,Yakima County,WA,USA,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,,2020-03-13
-,Yakima County,WA,USA,251446,46.564808,-120.69510149999999,https://www.doh.wa.gov/Emergencies/Coronavirus,7,,,,2020-03-19
+,Clark County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
+,Columbia County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
+,Grant County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,1,,,2020-03-13
+,Grays Harbor County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
+,Island County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,3,,,,2020-03-13
+,Jefferson County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
+,King County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,328,32,,,2020-03-13
+,Kitsap County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,3,,,,2020-03-13
+,Kittitas County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,3,,,,2020-03-13
+,Pierce County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,19,,,,2020-03-13
+,Skagit County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,3,,,,2020-03-13
+,Snohomish County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,133,4,,,2020-03-13
+,Thurston County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
+,Whatcom County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-13
+,Yakima County,WA,USA,,,,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,,2020-03-13
 ,San Francisco County,CA,USA,883305,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,21,,,,2020-03-13
 ,San Francisco County,CA,USA,883305,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,28,,,,2020-03-14
 ,San Francisco County,CA,USA,883305,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,51,,,,2020-03-19
@@ -984,13 +969,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Madison County,AL,USA,366519,34.7338515,-86.52351200000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-19
 ,Shelby County,AL,USA,215707,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,4,4,,,2020-03-19
 ,St. Clair County,AL,USA,88690,33.690028999999996,-86.310896,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-19
-,Chelan County,WA,USA,77036,47.905806999999996,-120.52038999999999,https://www.doh.wa.gov/Emergencies/Coronavirus,2,,,,2020-03-19
-,Franklin County,WA,USA,94347,46.465897,-118.8288585,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-19
-,Klickitat County,WA,USA,22107,45.825073,-120.739452,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-19
-,Lewis County,WA,USA,79604,46.5893095,-122.3615475,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-19
-,Lincoln County,WA,USA,10740,47.609032,-118.399462,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-19
-,Mason County,WA,USA,65507,47.344863000000004,-123.153076,https://www.doh.wa.gov/Emergencies/Coronavirus,1,,,,2020-03-19
-,Spokane County,WA,USA,514631,47.653568500000006,-117.431769,https://www.doh.wa.gov/Emergencies/Coronavirus,4,,,,2020-03-19
 ,Campbell County,TN,USA,39583,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-19
 ,Cheatham County,TN,USA,40439,36.248385999999996,-87.0963775,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-19
 ,Davidson County,TN,USA,692587,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,58,,,,2020-03-19
