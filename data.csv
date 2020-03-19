@@ -274,28 +274,29 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Sacramento County,CA,USA,45,3,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,248,1540975
 ,Fresno County,CA,USA,3,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,249,994400
 ,Madera County,CA,USA,2,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,250,157672
-,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,251,180040
-,Los Angeles County,CA,USA,231,2,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,252,10105518
-,Orange County,CA,USA,0,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,253,3185968
-,Riverside County,CA,USA,2,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,254,2450758
-,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,255,3343364
-,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,256,39583
-,Cheatham County,TN,USA,1,,,,36.248385999999996,-87.0963775,https://www.tn.gov/health/cedep/ncov.html,257,40439
-,Cumberland County,TN,USA,1,,,,35.9586935,-84.974996,https://www.tn.gov/health/cedep/ncov.html,258,59673
-,Davidson County,TN,USA,75,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,259,692587
-,Dyer County,TN,USA,1,,,,36.0468635,-89.4437795,https://www.tn.gov/health/cedep/ncov.html,260,37320
-,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,261,364286
-,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,262,54012
-,Knox County,TN,USA,2,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,263,465289
-,Montgomery County,TN,USA,1,,,,36.477428,-87.3780645,https://www.tn.gov/health/cedep/ncov.html,264,205950
-,Robertson County,TN,USA,2,,,,36.501744,-86.8573125,https://www.tn.gov/health/cedep/ncov.html,265,71012
-,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,266,324890
-,Sevier County,TN,USA,1,,,,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,267,97892
-,Shelby County,TN,USA,4,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,268,935764
-,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,269,157668
-,Sumner County,TN,USA,3,,,,36.448775,-86.4801315,https://www.tn.gov/health/cedep/ncov.html,270,187149
-,Williamson County,TN,USA,30,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,271,231729
-,Wilson County,TN,USA,1,,,,36.156231000000005,-86.30456749999999,https://www.tn.gov/health/cedep/ncov.html,272,140625
+,Placer County,CA,USA,9,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,251,393149
+,Shasta County,CA,USA,1,,,,40.7359105,-122.192699,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,252,180040
+,Los Angeles County,CA,USA,231,2,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,253,10105518
+,Orange County,CA,USA,0,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,254,3185968
+,Riverside County,CA,USA,2,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,255,2450758
+,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,256,3343364
+,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,257,39583
+,Cheatham County,TN,USA,1,,,,36.248385999999996,-87.0963775,https://www.tn.gov/health/cedep/ncov.html,258,40439
+,Cumberland County,TN,USA,1,,,,35.9586935,-84.974996,https://www.tn.gov/health/cedep/ncov.html,259,59673
+,Davidson County,TN,USA,75,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,260,692587
+,Dyer County,TN,USA,1,,,,36.0468635,-89.4437795,https://www.tn.gov/health/cedep/ncov.html,261,37320
+,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,262,364286
+,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,263,54012
+,Knox County,TN,USA,2,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,264,465289
+,Montgomery County,TN,USA,1,,,,36.477428,-87.3780645,https://www.tn.gov/health/cedep/ncov.html,265,205950
+,Robertson County,TN,USA,2,,,,36.501744,-86.8573125,https://www.tn.gov/health/cedep/ncov.html,266,71012
+,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,267,324890
+,Sevier County,TN,USA,1,,,,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,268,97892
+,Shelby County,TN,USA,4,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,269,935764
+,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,270,157668
+,Sumner County,TN,USA,3,,,,36.448775,-86.4801315,https://www.tn.gov/health/cedep/ncov.html,271,187149
+,Williamson County,TN,USA,30,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,272,231729
+,Wilson County,TN,USA,1,,,,36.156231000000005,-86.30456749999999,https://www.tn.gov/health/cedep/ncov.html,273,140625
 ,Residents of Other States/Countries County,TN,USA,26,,,,,,https://www.tn.gov/health/cedep/ncov.html,,
 ,Unknown County,TN,USA,1,,,,,,https://www.tn.gov/health/cedep/ncov.html,,
 ,Grand Total County,TN,USA,154,,,,,,https://www.tn.gov/health/cedep/ncov.html,,
