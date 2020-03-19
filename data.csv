@@ -288,14 +288,21 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Pennington County,SD,USA,1,,,,44.098381,-103.02822599999999,https://doh.sd.gov/news/Coronavirus.aspx#SD,262,111729
 ,Campbell County,TN,USA,1,,,,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,263,39583
 ,Cheatham County,TN,USA,1,,,,36.248385999999996,-87.0963775,https://www.tn.gov/health/cedep/ncov.html,264,40439
-,Davidson County,TN,USA,58,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,265,692587
-,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,266,364286
-,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,267,54012
-,Knox County,TN,USA,2,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,268,465289
-,Robertson County,TN,USA,1,,,,36.501744,-86.8573125,https://www.tn.gov/health/cedep/ncov.html,269,71012
-,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,270,324890
-,Sevier County,TN,USA,1,,,,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,271,97892
-,Shelby County,TN,USA,4,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,272,935764
-,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,273,157668
-,Sumner County,TN,USA,2,,,,36.448775,-86.4801315,https://www.tn.gov/health/cedep/ncov.html,274,187149
-,Williamson County,TN,USA,24,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,275,231729
+,Cumberland County,TN,USA,1,,,,35.9586935,-84.974996,https://www.tn.gov/health/cedep/ncov.html,265,59673
+,Davidson County,TN,USA,75,,,,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,266,692587
+,Dyer County,TN,USA,1,,,,36.0468635,-89.4437795,https://www.tn.gov/health/cedep/ncov.html,267,37320
+,Hamilton County,TN,USA,1,,,,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,268,364286
+,Jefferson County,TN,USA,1,,,,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,269,54012
+,Knox County,TN,USA,2,,,,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,270,465289
+,Montgomery County,TN,USA,1,,,,36.477428,-87.3780645,https://www.tn.gov/health/cedep/ncov.html,271,205950
+,Robertson County,TN,USA,2,,,,36.501744,-86.8573125,https://www.tn.gov/health/cedep/ncov.html,272,71012
+,Rutherford County,TN,USA,1,,,,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,273,324890
+,Sevier County,TN,USA,1,,,,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,274,97892
+,Shelby County,TN,USA,4,,,,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,275,935764
+,Sullivan County,TN,USA,1,,,,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,276,157668
+,Sumner County,TN,USA,3,,,,36.448775,-86.4801315,https://www.tn.gov/health/cedep/ncov.html,277,187149
+,Williamson County,TN,USA,30,,,,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,278,231729
+,Wilson County,TN,USA,1,,,,36.156231000000005,-86.30456749999999,https://www.tn.gov/health/cedep/ncov.html,279,140625
+,Residents of Other States/Countries County,TN,USA,26,,,,,,https://www.tn.gov/health/cedep/ncov.html,,
+,Unknown County,TN,USA,1,,,,,,https://www.tn.gov/health/cedep/ncov.html,,
+,Grand Total County,TN,USA,154,,,,,,https://www.tn.gov/health/cedep/ncov.html,,

@@ -13226,10 +13226,27 @@
     "featureId": 265,
     "population": 40439
   },
+  "Cumberland County, TN, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 1
+      }
+    },
+    "county": "Cumberland County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -84.974996,
+      35.9586935
+    ],
+    "featureId": 266,
+    "population": 59673
+  },
   "Davidson County, TN, USA": {
     "dates": {
       "2020-3-19": {
-        "cases": 58
+        "cases": 75
       }
     },
     "county": "Davidson County",
@@ -13240,8 +13257,25 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 266,
+    "featureId": 267,
     "population": 692587
+  },
+  "Dyer County, TN, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 1
+      }
+    },
+    "county": "Dyer County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -89.4437795,
+      36.0468635
+    ],
+    "featureId": 268,
+    "population": 37320
   },
   "Hamilton County, TN, USA": {
     "dates": {
@@ -13257,7 +13291,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 267,
+    "featureId": 269,
     "population": 364286
   },
   "Jefferson County, TN, USA": {
@@ -13274,7 +13308,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 268,
+    "featureId": 270,
     "population": 54012
   },
   "Knox County, TN, USA": {
@@ -13291,13 +13325,30 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 269,
+    "featureId": 271,
     "population": 465289
+  },
+  "Montgomery County, TN, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 1
+      }
+    },
+    "county": "Montgomery County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -87.3780645,
+      36.477428
+    ],
+    "featureId": 272,
+    "population": 205950
   },
   "Robertson County, TN, USA": {
     "dates": {
       "2020-3-19": {
-        "cases": 1
+        "cases": 2
       }
     },
     "county": "Robertson County",
@@ -13308,7 +13359,7 @@
       -86.8573125,
       36.501744
     ],
-    "featureId": 270,
+    "featureId": 273,
     "population": 71012
   },
   "Rutherford County, TN, USA": {
@@ -13325,7 +13376,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 271,
+    "featureId": 274,
     "population": 324890
   },
   "Sevier County, TN, USA": {
@@ -13342,7 +13393,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 272,
+    "featureId": 275,
     "population": 97892
   },
   "Shelby County, TN, USA": {
@@ -13359,7 +13410,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 273,
+    "featureId": 276,
     "population": 935764
   },
   "Sullivan County, TN, USA": {
@@ -13376,13 +13427,13 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 274,
+    "featureId": 277,
     "population": 157668
   },
   "Sumner County, TN, USA": {
     "dates": {
       "2020-3-19": {
-        "cases": 2
+        "cases": 3
       }
     },
     "county": "Sumner County",
@@ -13393,13 +13444,13 @@
       -86.4801315,
       36.448775
     ],
-    "featureId": 275,
+    "featureId": 278,
     "population": 187149
   },
   "Williamson County, TN, USA": {
     "dates": {
       "2020-3-19": {
-        "cases": 24
+        "cases": 30
       }
     },
     "county": "Williamson County",
@@ -13410,7 +13461,57 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 276,
+    "featureId": 279,
     "population": 231729
+  },
+  "Wilson County, TN, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 1
+      }
+    },
+    "county": "Wilson County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html",
+    "coordinates": [
+      -86.30456749999999,
+      36.156231000000005
+    ],
+    "featureId": 280,
+    "population": 140625
+  },
+  "Residents of Other States/Countries County, TN, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 26
+      }
+    },
+    "county": "Residents of Other States/Countries County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "Unknown County, TN, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 1
+      }
+    },
+    "county": "Unknown County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "Grand Total County, TN, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 154
+      }
+    },
+    "county": "Grand Total County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   }
 }
