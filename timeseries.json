@@ -1413,7 +1413,7 @@
       9.063233530652923,
       44.448917926372275
     ],
-    "featureId": 225,
+    "featureId": 224,
     "population": 1550640
   },
   "Lombardia, ITA": {
@@ -10000,7 +10000,7 @@
       -86.13298,
       32.5876855
     ],
-    "featureId": 229,
+    "featureId": 228,
     "population": 81887
   },
   "Jefferson County, AL, USA": {
@@ -10027,7 +10027,7 @@
       -86.92924049999999,
       33.544622000000004
     ],
-    "featureId": 231,
+    "featureId": 230,
     "population": 659300
   },
   "Limestone County, AL, USA": {
@@ -10054,7 +10054,7 @@
       -87.030965,
       34.774907
     ],
-    "featureId": 232,
+    "featureId": 231,
     "population": 96174
   },
   "Montgomery County, AL, USA": {
@@ -10081,7 +10081,7 @@
       -86.2080335,
       32.2330785
     ],
-    "featureId": 234,
+    "featureId": 233,
     "population": 225763
   },
   "Tuscaloosa County, AL, USA": {
@@ -10108,7 +10108,7 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 238,
+    "featureId": 237,
     "population": 208911
   },
   "Clackamas County, OR, USA": {
@@ -11287,7 +11287,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 240,
+    "featureId": 239,
     "population": 883305
   },
   "San Mateo County, CA, USA": {
@@ -11314,7 +11314,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 241,
+    "featureId": 240,
     "population": 769545
   },
   "Alameda County, CA, USA": {
@@ -11341,7 +11341,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 242,
+    "featureId": 241,
     "population": 1666753
   },
   "Sonoma County, CA, USA": {
@@ -11365,7 +11365,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 243,
+    "featureId": 242,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -11389,7 +11389,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 244,
+    "featureId": 243,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -11413,7 +11413,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 245,
+    "featureId": 244,
     "population": 446610
   },
   "Contra Costa County, CA, USA": {
@@ -11440,7 +11440,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 246,
+    "featureId": 245,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -11464,7 +11464,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 247,
+    "featureId": 246,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -11506,7 +11506,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 248,
+    "featureId": 247,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -11533,7 +11533,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 249,
+    "featureId": 248,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -11557,7 +11557,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 250,
+    "featureId": 249,
     "population": 157672
   },
   "Placer County, CA, USA": {
@@ -11584,7 +11584,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 251,
+    "featureId": 250,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -11608,7 +11608,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 252,
+    "featureId": 251,
     "population": 180040
   },
   "Los Angeles County, CA, USA": {
@@ -11635,7 +11635,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 253,
+    "featureId": 252,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -11662,7 +11662,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 254,
+    "featureId": 253,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -11686,7 +11686,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 255,
+    "featureId": 254,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -11713,7 +11713,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 256,
+    "featureId": 255,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -11740,16 +11740,13 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 257,
+    "featureId": 256,
     "population": 850967
   },
   "AL, USA": {
     "dates": {
       "2020-3-14": {
         "cases": 0
-      },
-      "2020-3-19": {
-        "cases": 39
       }
     },
     "state": "AL",
@@ -11760,9 +11757,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 0
-      },
-      "2020-3-19": {
-        "cases": 15
       }
     },
     "state": "AK",
@@ -11772,9 +11766,6 @@
   "AS, USA": {
     "dates": {
       "2020-3-14": {
-        "cases": 0
-      },
-      "2020-3-19": {
         "cases": 0
       }
     },
@@ -11786,9 +11777,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 9
-      },
-      "2020-3-19": {
-        "cases": 18
       }
     },
     "state": "AZ",
@@ -11799,9 +11787,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 6
-      },
-      "2020-3-19": {
-        "cases": 24
       }
     },
     "state": "AR",
@@ -11812,9 +11797,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 224
-      },
-      "2020-3-19": {
-        "cases": 596
       }
     },
     "state": "CA",
@@ -11825,9 +11807,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 49
-      },
-      "2020-3-19": {
-        "cases": 183
       }
     },
     "state": "CO",
@@ -11838,9 +11817,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 7
-      },
-      "2020-3-19": {
-        "cases": 68
       }
     },
     "state": "CT",
@@ -11851,9 +11827,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 16
       }
     },
     "state": "DE",
@@ -11864,28 +11837,16 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 31
       }
     },
     "state": "District of Columbia",
     "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
-    "coordinates": [
-      -77.0145477695639,
-      38.899451555326564
-    ],
-    "featureId": 224,
-    "population": 705749
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
   },
   "FL, USA": {
     "dates": {
       "2020-3-14": {
         "cases": 31
-      },
-      "2020-3-19": {
-        "cases": 195
       }
     },
     "state": "FL",
@@ -11896,9 +11857,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 45
-      },
-      "2020-3-19": {
-        "cases": 178
       }
     },
     "state": "GA",
@@ -11909,9 +11867,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 0
-      },
-      "2020-3-19": {
-        "cases": 15
       }
     },
     "state": "GU",
@@ -11922,9 +11877,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 13
       }
     },
     "state": "HI",
@@ -11935,9 +11887,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 0
-      },
-      "2020-3-19": {
-        "cases": 15
       }
     },
     "state": "ID",
@@ -11948,9 +11897,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 32
-      },
-      "2020-3-19": {
-        "cases": 160
       }
     },
     "state": "IL",
@@ -11961,9 +11907,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 12
-      },
-      "2020-3-19": {
-        "cases": 30
       }
     },
     "state": "IN",
@@ -11974,9 +11917,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 16
-      },
-      "2020-3-19": {
-        "cases": 29
       }
     },
     "state": "IA",
@@ -11987,9 +11927,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 16
       }
     },
     "state": "KS",
@@ -12000,9 +11937,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 11
-      },
-      "2020-3-19": {
-        "cases": 26
       }
     },
     "state": "KY",
@@ -12013,9 +11947,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 14
-      },
-      "2020-3-19": {
-        "cases": 190
       }
     },
     "state": "LA",
@@ -12026,9 +11957,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 32
       }
     },
     "state": "ME",
@@ -12038,9 +11966,6 @@
   "MH, USA": {
     "dates": {
       "2020-3-14": {
-        "cases": 0
-      },
-      "2020-3-19": {
         "cases": 0
       }
     },
@@ -12052,9 +11977,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 12
-      },
-      "2020-3-19": {
-        "cases": 85
       }
     },
     "state": "MD",
@@ -12065,9 +11987,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 108
-      },
-      "2020-3-19": {
-        "cases": 218
       }
     },
     "state": "MA",
@@ -12078,9 +11997,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 65
       }
     },
     "state": "MI",
@@ -12090,9 +12006,6 @@
   "Micronesia, USA": {
     "dates": {
       "2020-3-14": {
-        "cases": 0
-      },
-      "2020-3-19": {
         "cases": 0
       }
     },
@@ -12104,9 +12017,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 10
-      },
-      "2020-3-19": {
-        "cases": 77
       }
     },
     "state": "MN",
@@ -12117,9 +12027,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 34
       }
     },
     "state": "MS",
@@ -12130,9 +12037,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 13
       }
     },
     "state": "MO",
@@ -12143,9 +12047,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 11
       }
     },
     "state": "MT",
@@ -12156,9 +12057,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 10
-      },
-      "2020-3-19": {
-        "cases": 21
       }
     },
     "state": "NE",
@@ -12169,9 +12067,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 11
-      },
-      "2020-3-19": {
-        "cases": 55
       }
     },
     "state": "NV",
@@ -12182,9 +12077,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 6
-      },
-      "2020-3-19": {
-        "cases": 26
       }
     },
     "state": "NH",
@@ -12195,9 +12087,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 29
-      },
-      "2020-3-19": {
-        "cases": 267
       }
     },
     "state": "NJ",
@@ -12208,9 +12097,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 23
       }
     },
     "state": "NM",
@@ -12221,9 +12107,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 325
-      },
-      "2020-3-19": {
-        "cases": 2601
       }
     },
     "state": "NY",
@@ -12234,9 +12117,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 62
       }
     },
     "state": "NC",
@@ -12246,9 +12126,6 @@
   "ND, USA": {
     "dates": {
       "2020-3-14": {
-        "cases": 15
-      },
-      "2020-3-19": {
         "cases": 15
       }
     },
@@ -12260,9 +12137,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 0
-      },
-      "2020-3-19": {
-        "cases": 0
       }
     },
     "state": "Northern Marianas",
@@ -12273,9 +12147,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 67
       }
     },
     "state": "OH",
@@ -12286,9 +12157,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 19
       }
     },
     "state": "OK",
@@ -12299,9 +12167,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 24
-      },
-      "2020-3-19": {
-        "cases": 65
       }
     },
     "state": "OR",
@@ -12311,9 +12176,6 @@
   "PW, USA": {
     "dates": {
       "2020-3-14": {
-        "cases": 0
-      },
-      "2020-3-19": {
         "cases": 0
       }
     },
@@ -12325,9 +12187,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 23
-      },
-      "2020-3-19": {
-        "cases": 96
       }
     },
     "state": "PA",
@@ -12338,9 +12197,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 0
-      },
-      "2020-3-19": {
-        "cases": 15
       }
     },
     "state": "PR",
@@ -12351,9 +12207,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 23
       }
     },
     "state": "RI",
@@ -12364,9 +12217,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 12
-      },
-      "2020-3-19": {
-        "cases": 47
       }
     },
     "state": "SC",
@@ -12377,9 +12227,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 8
-      },
-      "2020-3-19": {
-        "cases": 11
       }
     },
     "state": "SD",
@@ -12390,9 +12237,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 18
-      },
-      "2020-3-19": {
-        "cases": 73
       }
     },
     "state": "TN",
@@ -12403,9 +12247,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 24
-      },
-      "2020-3-19": {
-        "cases": 64
       }
     },
     "state": "TX",
@@ -12416,9 +12257,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 41
       }
     },
     "state": "UT",
@@ -12429,9 +12267,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 10
       }
     },
     "state": "VT",
@@ -12442,9 +12277,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 0
-      },
-      "2020-3-19": {
-        "cases": 15
       }
     },
     "state": "VI",
@@ -12455,9 +12287,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 29
-      },
-      "2020-3-19": {
-        "cases": 68
       }
     },
     "state": "VA",
@@ -12468,9 +12297,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 457
-      },
-      "2020-3-19": {
-        "cases": 930
       }
     },
     "state": "WA",
@@ -12481,9 +12307,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 0
-      },
-      "2020-3-19": {
-        "cases": 15
       }
     },
     "state": "WV",
@@ -12494,9 +12317,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 8
-      },
-      "2020-3-19": {
-        "cases": 88
       }
     },
     "state": "WI",
@@ -12507,9 +12327,6 @@
     "dates": {
       "2020-3-14": {
         "cases": 15
-      },
-      "2020-3-19": {
-        "cases": 11
       }
     },
     "state": "WY",
@@ -12720,7 +12537,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 258,
+    "featureId": 257,
     "population": 18883
   },
   "Bon Homme County, SD, USA": {
@@ -12740,7 +12557,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 259,
+    "featureId": 258,
     "population": 6980
   },
   "Charles Mix County, SD, USA": {
@@ -12760,7 +12577,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 260,
+    "featureId": 259,
     "population": 9338
   },
   "Davison County, SD, USA": {
@@ -12780,7 +12597,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 261,
+    "featureId": 260,
     "population": 19790
   },
   "McCook County, SD, USA": {
@@ -12800,7 +12617,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 262,
+    "featureId": 261,
     "population": 5546
   },
   "Minnehaha County, SD, USA": {
@@ -12820,7 +12637,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 263,
+    "featureId": 262,
     "population": 192876
   },
   "Pennington County, SD, USA": {
@@ -12840,7 +12657,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 264,
+    "featureId": 263,
     "population": 111729
   },
   "Bear River County, UT, USA": {
@@ -13229,7 +13046,7 @@
       -87.69793150000001,
       30.765086
     ],
-    "featureId": 226,
+    "featureId": 225,
     "population": 218022
   },
   "Calhoun County, AL, USA": {
@@ -13247,7 +13064,7 @@
       -85.837497,
       33.7622675
     ],
-    "featureId": 227,
+    "featureId": 226,
     "population": 114277
   },
   "Chambers County, AL, USA": {
@@ -13265,7 +13082,7 @@
       -85.3626035,
       32.9183035
     ],
-    "featureId": 228,
+    "featureId": 227,
     "population": 33615
   },
   "Lee County, AL, USA": {
@@ -13283,7 +13100,7 @@
       -85.348772,
       32.578877500000004
     ],
-    "featureId": 230,
+    "featureId": 229,
     "population": 163941
   },
   "Madison County, AL, USA": {
@@ -13301,7 +13118,7 @@
       -86.52351200000001,
       34.7338515
     ],
-    "featureId": 233,
+    "featureId": 232,
     "population": 366519
   },
   "Shelby County, AL, USA": {
@@ -13319,7 +13136,7 @@
       -86.6839795,
       33.2828065
     ],
-    "featureId": 235,
+    "featureId": 234,
     "population": 215707
   },
   "St. Clair County, AL, USA": {
@@ -13337,7 +13154,7 @@
       -86.310896,
       33.690028999999996
     ],
-    "featureId": 236,
+    "featureId": 235,
     "population": 88690
   },
   "Talladega County, AL, USA": {
@@ -13355,7 +13172,7 @@
       -86.148843,
       33.4003975
     ],
-    "featureId": 237,
+    "featureId": 236,
     "population": 79828
   },
   "Walker County, AL, USA": {
@@ -13373,7 +13190,7 @@
       -87.294891,
       33.7590165
     ],
-    "featureId": 239
+    "featureId": 238
   },
   "Campbell County, TN, USA": {
     "dates": {
@@ -13389,7 +13206,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 265,
+    "featureId": 264,
     "population": 39583
   },
   "Cheatham County, TN, USA": {
@@ -13406,7 +13223,7 @@
       -87.0963775,
       36.248385999999996
     ],
-    "featureId": 266,
+    "featureId": 265,
     "population": 40439
   },
   "Davidson County, TN, USA": {
@@ -13423,7 +13240,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 267,
+    "featureId": 266,
     "population": 692587
   },
   "Hamilton County, TN, USA": {
@@ -13440,7 +13257,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 268,
+    "featureId": 267,
     "population": 364286
   },
   "Jefferson County, TN, USA": {
@@ -13457,7 +13274,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 269,
+    "featureId": 268,
     "population": 54012
   },
   "Knox County, TN, USA": {
@@ -13474,7 +13291,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 270,
+    "featureId": 269,
     "population": 465289
   },
   "Robertson County, TN, USA": {
@@ -13491,7 +13308,7 @@
       -86.8573125,
       36.501744
     ],
-    "featureId": 271,
+    "featureId": 270,
     "population": 71012
   },
   "Rutherford County, TN, USA": {
@@ -13508,7 +13325,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 272,
+    "featureId": 271,
     "population": 324890
   },
   "Sevier County, TN, USA": {
@@ -13525,7 +13342,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 273,
+    "featureId": 272,
     "population": 97892
   },
   "Shelby County, TN, USA": {
@@ -13542,7 +13359,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 274,
+    "featureId": 273,
     "population": 935764
   },
   "Sullivan County, TN, USA": {
@@ -13559,7 +13376,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 275,
+    "featureId": 274,
     "population": 157668
   },
   "Sumner County, TN, USA": {
@@ -13576,7 +13393,7 @@
       -86.4801315,
       36.448775
     ],
-    "featureId": 276,
+    "featureId": 275,
     "population": 187149
   },
   "Williamson County, TN, USA": {
@@ -13593,7 +13410,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 277,
+    "featureId": 276,
     "population": 231729
   }
 }

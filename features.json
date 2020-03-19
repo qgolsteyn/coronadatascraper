@@ -68240,58 +68240,6 @@
         "coordinates": [
           [
             [
-              -77.02293288118945,
-              38.802767530360335
-            ],
-            [
-              -77.0159321829999,
-              38.854279484000074
-            ],
-            [
-              -77.06833279112539,
-              38.901937596243044
-            ],
-            [
-              -77.11978099719528,
-              38.93406414694283
-            ],
-            [
-              -77.04194948098376,
-              38.99613558029279
-            ],
-            [
-              -76.90931454193253,
-              38.8929750723417
-            ],
-            [
-              -77.02293288118945,
-              38.802767530360335
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "name": "District of Columbia, United States of America",
-        "name_en": "Washington",
-        "abbrev": "D.C.",
-        "region": "South",
-        "admin": "United States of America",
-        "geonunit": "United States of America",
-        "iso_a2": "US",
-        "iso_3166_2": "US-DC",
-        "type_en": "Federal District",
-        "wikipedia": "http://en.wikipedia.org/wiki/Washington,_D.C.",
-        "shortName": "District of Columbia",
-        "id": 224
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
               9.511241082000083,
               44.21523672100005
             ],
@@ -68364,14 +68312,14 @@
         "iso_3166_2": "IT-GE",
         "type_en": "Province",
         "shortName": "Genova",
-        "id": 225
+        "id": 224
       }
     },
     {
       "type": "Feature",
       "properties": {
         "name": "Baldwin County, AL",
-        "id": 226
+        "id": 225
       },
       "geometry": {
         "type": "Polygon",
@@ -69713,7 +69661,7 @@
       "type": "Feature",
       "properties": {
         "name": "Calhoun County, AL",
-        "id": 227
+        "id": 226
       },
       "geometry": {
         "type": "Polygon",
@@ -69975,7 +69923,7 @@
       "type": "Feature",
       "properties": {
         "name": "Chambers County, AL",
-        "id": 228
+        "id": 227
       },
       "geometry": {
         "type": "Polygon",
@@ -70217,7 +70165,7 @@
       "type": "Feature",
       "properties": {
         "name": "Elmore County, AL",
-        "id": 229
+        "id": 228
       },
       "geometry": {
         "type": "Polygon",
@@ -70503,7 +70451,7 @@
       "type": "Feature",
       "properties": {
         "name": "Lee County, AL",
-        "id": 230
+        "id": 229
       },
       "geometry": {
         "type": "Polygon",
@@ -70837,7 +70785,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jefferson County, AL",
-        "id": 231
+        "id": 230
       },
       "geometry": {
         "type": "Polygon",
@@ -71235,7 +71183,7 @@
       "type": "Feature",
       "properties": {
         "name": "Limestone County, AL",
-        "id": 232
+        "id": 231
       },
       "geometry": {
         "type": "Polygon",
@@ -71369,7 +71317,7 @@
       "type": "Feature",
       "properties": {
         "name": "Madison County, AL",
-        "id": 233
+        "id": 232
       },
       "geometry": {
         "type": "Polygon",
@@ -71663,7 +71611,7 @@
       "type": "Feature",
       "properties": {
         "name": "Montgomery County, AL",
-        "id": 234
+        "id": 233
       },
       "geometry": {
         "type": "Polygon",
@@ -71925,7 +71873,7 @@
       "type": "Feature",
       "properties": {
         "name": "Shelby County, AL",
-        "id": 235
+        "id": 234
       },
       "geometry": {
         "type": "Polygon",
@@ -72215,7 +72163,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Clair County, AL",
-        "id": 236
+        "id": 235
       },
       "geometry": {
         "type": "Polygon",
@@ -72549,7 +72497,7 @@
       "type": "Feature",
       "properties": {
         "name": "Talladega County, AL",
-        "id": 237
+        "id": 236
       },
       "geometry": {
         "type": "Polygon",
@@ -72847,7 +72795,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tuscaloosa County, AL",
-        "id": 238
+        "id": 237
       },
       "geometry": {
         "type": "Polygon",
@@ -73097,7 +73045,7 @@
       "type": "Feature",
       "properties": {
         "name": "Walker County, AL",
-        "id": 239
+        "id": 238
       },
       "geometry": {
         "type": "Polygon",
@@ -73331,7 +73279,7 @@
       "type": "Feature",
       "properties": {
         "name": "San Francisco County, CA",
-        "id": 240
+        "id": 239
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -73539,7 +73487,7 @@
       "type": "Feature",
       "properties": {
         "name": "San Mateo County, CA",
-        "id": 241
+        "id": 240
       },
       "geometry": {
         "type": "Polygon",
@@ -74069,7 +74017,7 @@
       "type": "Feature",
       "properties": {
         "name": "Alameda County, CA",
-        "id": 242
+        "id": 241
       },
       "geometry": {
         "type": "Polygon",
@@ -74407,7 +74355,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sonoma County, CA",
-        "id": 243
+        "id": 242
       },
       "geometry": {
         "type": "Polygon",
@@ -74877,7 +74825,7 @@
       "type": "Feature",
       "properties": {
         "name": "Santa Cruz County, CA",
-        "id": 244
+        "id": 243
       },
       "geometry": {
         "type": "Polygon",
@@ -75135,7 +75083,7 @@
       "type": "Feature",
       "properties": {
         "name": "Solano County, CA",
-        "id": 245
+        "id": 244
       },
       "geometry": {
         "type": "Polygon",
@@ -75397,7 +75345,7 @@
       "type": "Feature",
       "properties": {
         "name": "Contra Costa County, CA",
-        "id": 246
+        "id": 245
       },
       "geometry": {
         "type": "Polygon",
@@ -75839,7 +75787,7 @@
       "type": "Feature",
       "properties": {
         "name": "Stanislaus County, CA",
-        "id": 247
+        "id": 246
       },
       "geometry": {
         "type": "Polygon",
@@ -76093,7 +76041,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sacramento County, CA",
-        "id": 248
+        "id": 247
       },
       "geometry": {
         "type": "Polygon",
@@ -76455,7 +76403,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fresno County, CA",
-        "id": 249
+        "id": 248
       },
       "geometry": {
         "type": "Polygon",
@@ -77133,7 +77081,7 @@
       "type": "Feature",
       "properties": {
         "name": "Madera County, CA",
-        "id": 250
+        "id": 249
       },
       "geometry": {
         "type": "Polygon",
@@ -77647,7 +77595,7 @@
       "type": "Feature",
       "properties": {
         "name": "Placer County, CA",
-        "id": 251
+        "id": 250
       },
       "geometry": {
         "type": "Polygon",
@@ -78049,7 +77997,7 @@
       "type": "Feature",
       "properties": {
         "name": "Shasta County, CA",
-        "id": 252
+        "id": 251
       },
       "geometry": {
         "type": "Polygon",
@@ -78331,7 +78279,7 @@
       "type": "Feature",
       "properties": {
         "name": "Los Angeles County, CA",
-        "id": 253
+        "id": 252
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -79111,7 +79059,7 @@
       "type": "Feature",
       "properties": {
         "name": "Orange County, CA",
-        "id": 254
+        "id": 253
       },
       "geometry": {
         "type": "Polygon",
@@ -79349,7 +79297,7 @@
       "type": "Feature",
       "properties": {
         "name": "Riverside County, CA",
-        "id": 255
+        "id": 254
       },
       "geometry": {
         "type": "Polygon",
@@ -80195,7 +80143,7 @@
       "type": "Feature",
       "properties": {
         "name": "San Diego County, CA",
-        "id": 256
+        "id": 255
       },
       "geometry": {
         "type": "Polygon",
@@ -80521,7 +80469,7 @@
       "type": "Feature",
       "properties": {
         "name": "Beadle County, SD",
-        "id": 257
+        "id": 256
       },
       "geometry": {
         "type": "Polygon",
@@ -80579,7 +80527,7 @@
       "type": "Feature",
       "properties": {
         "name": "Bon Homme County, SD",
-        "id": 258
+        "id": 257
       },
       "geometry": {
         "type": "Polygon",
@@ -80929,7 +80877,7 @@
       "type": "Feature",
       "properties": {
         "name": "Charles Mix County, SD",
-        "id": 259
+        "id": 258
       },
       "geometry": {
         "type": "Polygon",
@@ -81339,7 +81287,7 @@
       "type": "Feature",
       "properties": {
         "name": "Davison County, SD",
-        "id": 260
+        "id": 259
       },
       "geometry": {
         "type": "Polygon",
@@ -81377,7 +81325,7 @@
       "type": "Feature",
       "properties": {
         "name": "McCook County, SD",
-        "id": 261
+        "id": 260
       },
       "geometry": {
         "type": "Polygon",
@@ -81439,7 +81387,7 @@
       "type": "Feature",
       "properties": {
         "name": "Minnehaha County, SD",
-        "id": 262
+        "id": 261
       },
       "geometry": {
         "type": "Polygon",
@@ -81537,7 +81485,7 @@
       "type": "Feature",
       "properties": {
         "name": "Pennington County, SD",
-        "id": 263
+        "id": 262
       },
       "geometry": {
         "type": "Polygon",
@@ -81771,7 +81719,7 @@
       "type": "Feature",
       "properties": {
         "name": "Campbell County, TN",
-        "id": 264
+        "id": 263
       },
       "geometry": {
         "type": "Polygon",
@@ -82009,7 +81957,7 @@
       "type": "Feature",
       "properties": {
         "name": "Cheatham County, TN",
-        "id": 265
+        "id": 264
       },
       "geometry": {
         "type": "Polygon",
@@ -82245,7 +82193,7 @@
       "type": "Feature",
       "properties": {
         "name": "Davidson County, TN",
-        "id": 266
+        "id": 265
       },
       "geometry": {
         "type": "Polygon",
@@ -82523,7 +82471,7 @@
       "type": "Feature",
       "properties": {
         "name": "Hamilton County, TN",
-        "id": 267
+        "id": 266
       },
       "geometry": {
         "type": "Polygon",
@@ -82777,7 +82725,7 @@
       "type": "Feature",
       "properties": {
         "name": "Jefferson County, TN",
-        "id": 268
+        "id": 267
       },
       "geometry": {
         "type": "Polygon",
@@ -83075,7 +83023,7 @@
       "type": "Feature",
       "properties": {
         "name": "Knox County, TN",
-        "id": 269
+        "id": 268
       },
       "geometry": {
         "type": "Polygon",
@@ -83345,7 +83293,7 @@
       "type": "Feature",
       "properties": {
         "name": "Robertson County, TN",
-        "id": 270
+        "id": 269
       },
       "geometry": {
         "type": "Polygon",
@@ -83639,7 +83587,7 @@
       "type": "Feature",
       "properties": {
         "name": "Rutherford County, TN",
-        "id": 271
+        "id": 270
       },
       "geometry": {
         "type": "Polygon",
@@ -83933,7 +83881,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sevier County, TN",
-        "id": 272
+        "id": 271
       },
       "geometry": {
         "type": "Polygon",
@@ -84507,7 +84455,7 @@
       "type": "Feature",
       "properties": {
         "name": "Shelby County, TN",
-        "id": 273
+        "id": 272
       },
       "geometry": {
         "type": "Polygon",
@@ -85077,7 +85025,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sullivan County, TN",
-        "id": 274
+        "id": 273
       },
       "geometry": {
         "type": "Polygon",
@@ -85335,7 +85283,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sumner County, TN",
-        "id": 275
+        "id": 274
       },
       "geometry": {
         "type": "Polygon",
@@ -85637,7 +85585,7 @@
       "type": "Feature",
       "properties": {
         "name": "Williamson County, TN",
-        "id": 276
+        "id": 275
       },
       "geometry": {
         "type": "Polygon",

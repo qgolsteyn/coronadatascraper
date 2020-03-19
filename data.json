@@ -3317,366 +3317,6 @@
     "population": 35944
   },
   {
-    "state": "AL",
-    "cases": 39,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "AK",
-    "cases": 15,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "AS",
-    "cases": 0,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "AZ",
-    "cases": 18,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "AR",
-    "cases": 24,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "CA",
-    "cases": 596,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "CO",
-    "cases": 183,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "CT",
-    "cases": 68,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "DE",
-    "cases": 16,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "District of Columbia",
-    "cases": 31,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv",
-    "coordinates": [
-      -77.0145477695639,
-      38.899451555326564
-    ],
-    "featureId": 224,
-    "population": 705749
-  },
-  {
-    "state": "FL",
-    "cases": 195,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "GA",
-    "cases": 178,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "GU",
-    "cases": 15,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "HI",
-    "cases": 13,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "ID",
-    "cases": 15,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "IL",
-    "cases": 160,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "IN",
-    "cases": 30,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "IA",
-    "cases": 29,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "KS",
-    "cases": 16,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "KY",
-    "cases": 26,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "LA",
-    "cases": 190,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "ME",
-    "cases": 32,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "MH",
-    "cases": 0,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "MD",
-    "cases": 85,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "MA",
-    "cases": 218,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "MI",
-    "cases": 65,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "Micronesia",
-    "cases": 0,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "MN",
-    "cases": 77,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "MS",
-    "cases": 34,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "MO",
-    "cases": 13,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "MT",
-    "cases": 11,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "NE",
-    "cases": 21,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "NV",
-    "cases": 55,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "NH",
-    "cases": 26,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "NJ",
-    "cases": 267,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "NM",
-    "cases": 23,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "NY",
-    "cases": 2601,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "NC",
-    "cases": 62,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "ND",
-    "cases": 15,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "Northern Marianas",
-    "cases": 0,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "OH",
-    "cases": 67,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "OK",
-    "cases": 19,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "OR",
-    "cases": 65,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "PW",
-    "cases": 0,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "PA",
-    "cases": 96,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "PR",
-    "cases": 15,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "RI",
-    "cases": 23,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "SC",
-    "cases": 47,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "SD",
-    "cases": 11,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "TN",
-    "cases": 73,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "TX",
-    "cases": 64,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "UT",
-    "cases": 41,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "VT",
-    "cases": 10,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "VI",
-    "cases": 15,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "VA",
-    "cases": 68,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "WA",
-    "cases": 930,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "WV",
-    "cases": 15,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "WI",
-    "cases": 88,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
-    "state": "WY",
-    "cases": 11,
-    "country": "USA",
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv"
-  },
-  {
     "recovered": 0,
     "deaths": 3,
     "cases": 526,
@@ -3767,7 +3407,7 @@
       9.063233530652923,
       44.448917926372275
     ],
-    "featureId": 225,
+    "featureId": 224,
     "population": 1550640
   },
   {
@@ -3895,7 +3535,7 @@
       -87.69793150000001,
       30.765086
     ],
-    "featureId": 226,
+    "featureId": 225,
     "population": 218022
   },
   {
@@ -3909,7 +3549,7 @@
       -85.837497,
       33.7622675
     ],
-    "featureId": 227,
+    "featureId": 226,
     "population": 114277
   },
   {
@@ -3923,7 +3563,7 @@
       -85.3626035,
       32.9183035
     ],
-    "featureId": 228,
+    "featureId": 227,
     "population": 33615
   },
   {
@@ -3937,7 +3577,7 @@
       -86.13298,
       32.5876855
     ],
-    "featureId": 229,
+    "featureId": 228,
     "population": 81887
   },
   {
@@ -3951,7 +3591,7 @@
       -85.348772,
       32.578877500000004
     ],
-    "featureId": 230,
+    "featureId": 229,
     "population": 163941
   },
   {
@@ -3965,7 +3605,7 @@
       -86.92924049999999,
       33.544622000000004
     ],
-    "featureId": 231,
+    "featureId": 230,
     "population": 659300
   },
   {
@@ -3979,7 +3619,7 @@
       -87.030965,
       34.774907
     ],
-    "featureId": 232,
+    "featureId": 231,
     "population": 96174
   },
   {
@@ -3993,7 +3633,7 @@
       -86.52351200000001,
       34.7338515
     ],
-    "featureId": 233,
+    "featureId": 232,
     "population": 366519
   },
   {
@@ -4007,7 +3647,7 @@
       -86.2080335,
       32.2330785
     ],
-    "featureId": 234,
+    "featureId": 233,
     "population": 225763
   },
   {
@@ -4021,7 +3661,7 @@
       -86.6839795,
       33.2828065
     ],
-    "featureId": 235,
+    "featureId": 234,
     "population": 215707
   },
   {
@@ -4035,7 +3675,7 @@
       -86.310896,
       33.690028999999996
     ],
-    "featureId": 236,
+    "featureId": 235,
     "population": 88690
   },
   {
@@ -4049,7 +3689,7 @@
       -86.148843,
       33.4003975
     ],
-    "featureId": 237,
+    "featureId": 236,
     "population": 79828
   },
   {
@@ -4063,7 +3703,7 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 238,
+    "featureId": 237,
     "population": 208911
   },
   {
@@ -4077,7 +3717,7 @@
       -87.294891,
       33.7590165
     ],
-    "featureId": 239
+    "featureId": 238
   },
   {
     "cases": 51,
@@ -4090,7 +3730,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 240,
+    "featureId": 239,
     "population": 883305
   },
   {
@@ -4104,7 +3744,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 241,
+    "featureId": 240,
     "population": 769545
   },
   {
@@ -4118,7 +3758,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 242,
+    "featureId": 241,
     "population": 1666753
   },
   {
@@ -4131,7 +3771,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 243,
+    "featureId": 242,
     "population": 499942
   },
   {
@@ -4144,7 +3784,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 244,
+    "featureId": 243,
     "population": 274255
   },
   {
@@ -4157,7 +3797,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 245,
+    "featureId": 244,
     "population": 446610
   },
   {
@@ -4171,7 +3811,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 246,
+    "featureId": 245,
     "population": 1150215
   },
   {
@@ -4184,7 +3824,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 247,
+    "featureId": 246,
     "population": 549815
   },
   {
@@ -4198,7 +3838,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 248,
+    "featureId": 247,
     "population": 1540975
   },
   {
@@ -4212,7 +3852,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 249,
+    "featureId": 248,
     "population": 994400
   },
   {
@@ -4225,7 +3865,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 250,
+    "featureId": 249,
     "population": 157672
   },
   {
@@ -4239,7 +3879,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 251,
+    "featureId": 250,
     "population": 393149
   },
   {
@@ -4252,7 +3892,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 252,
+    "featureId": 251,
     "population": 180040
   },
   {
@@ -4266,7 +3906,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 253,
+    "featureId": 252,
     "population": 10105518
   },
   {
@@ -4280,7 +3920,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 254,
+    "featureId": 253,
     "population": 3185968
   },
   {
@@ -4293,7 +3933,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 255,
+    "featureId": 254,
     "population": 2450758
   },
   {
@@ -4307,7 +3947,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 256,
+    "featureId": 255,
     "population": 3343364
   },
   {
@@ -4320,7 +3960,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 257,
+    "featureId": 256,
     "population": 18883
   },
   {
@@ -4333,7 +3973,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 258,
+    "featureId": 257,
     "population": 6980
   },
   {
@@ -4346,7 +3986,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 259,
+    "featureId": 258,
     "population": 9338
   },
   {
@@ -4359,7 +3999,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 260,
+    "featureId": 259,
     "population": 19790
   },
   {
@@ -4372,7 +4012,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 261,
+    "featureId": 260,
     "population": 5546
   },
   {
@@ -4385,7 +4025,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 262,
+    "featureId": 261,
     "population": 192876
   },
   {
@@ -4398,7 +4038,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 263,
+    "featureId": 262,
     "population": 111729
   },
   {
@@ -4411,7 +4051,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 264,
+    "featureId": 263,
     "population": 39583
   },
   {
@@ -4424,7 +4064,7 @@
       -87.0963775,
       36.248385999999996
     ],
-    "featureId": 265,
+    "featureId": 264,
     "population": 40439
   },
   {
@@ -4437,7 +4077,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 266,
+    "featureId": 265,
     "population": 692587
   },
   {
@@ -4450,7 +4090,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 267,
+    "featureId": 266,
     "population": 364286
   },
   {
@@ -4463,7 +4103,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 268,
+    "featureId": 267,
     "population": 54012
   },
   {
@@ -4476,7 +4116,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 269,
+    "featureId": 268,
     "population": 465289
   },
   {
@@ -4489,7 +4129,7 @@
       -86.8573125,
       36.501744
     ],
-    "featureId": 270,
+    "featureId": 269,
     "population": 71012
   },
   {
@@ -4502,7 +4142,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 271,
+    "featureId": 270,
     "population": 324890
   },
   {
@@ -4515,7 +4155,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 272,
+    "featureId": 271,
     "population": 97892
   },
   {
@@ -4528,7 +4168,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 273,
+    "featureId": 272,
     "population": 935764
   },
   {
@@ -4541,7 +4181,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 274,
+    "featureId": 273,
     "population": 157668
   },
   {
@@ -4554,7 +4194,7 @@
       -86.4801315,
       36.448775
     ],
-    "featureId": 275,
+    "featureId": 274,
     "population": 187149
   },
   {
@@ -4567,7 +4207,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 276,
+    "featureId": 275,
     "population": 231729
   }
 ]
