@@ -3410,11 +3410,11 @@
         "growthFactor": 1.4421768707482994
       },
       "2020-3-19": {
-        "cases": 424,
-        "deaths": 0,
+        "cases": 526,
+        "deaths": 3,
         "recovered": 0,
         "tested": 0,
-        "growthFactor": 1
+        "growthFactor": 1.240566037735849
       }
     },
     "country": "CHE",
@@ -11088,16 +11088,30 @@
       "2020-3-13": {
         "cases": 1,
         "deaths": 0
+      },
+      "2020-3-19": {
+        "cases": 4,
+        "deaths": 3
       }
     },
     "county": "Clark County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -122.5203415,
+      45.80125099999999
+    ],
+    "featureId": 238,
+    "population": 481857
   },
   "Columbia County, WA, USA": {
     "dates": {
       "2020-3-13": {
+        "cases": 1,
+        "deaths": 0
+      },
+      "2020-3-19": {
         "cases": 1,
         "deaths": 0
       }
@@ -11105,23 +11119,43 @@
     "county": "Columbia County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -117.92289099999999,
+      46.3118295
+    ],
+    "featureId": 239,
+    "population": 4059
   },
   "Grant County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 1,
         "deaths": 1
+      },
+      "2020-3-19": {
+        "cases": 8,
+        "deaths": 1
       }
     },
     "county": "Grant County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -119.508134,
+      47.293631
+    ],
+    "featureId": 241,
+    "population": 97331
   },
   "Grays Harbor County, WA, USA": {
     "dates": {
       "2020-3-13": {
+        "cases": 1,
+        "deaths": 0
+      },
+      "2020-3-19": {
         "cases": 1,
         "deaths": 0
       }
@@ -11129,139 +11163,255 @@
     "county": "Grays Harbor County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -123.756045,
+      47.162482
+    ],
+    "featureId": 242,
+    "population": 73901
   },
   "Island County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 3,
         "deaths": 0
+      },
+      "2020-3-19": {
+        "cases": 16,
+        "deaths": 0
       }
     },
     "county": "Island County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -122.559821,
+      48.157794
+    ],
+    "featureId": 243,
+    "population": 84460
   },
   "Jefferson County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 1,
         "deaths": 0
+      },
+      "2020-3-19": {
+        "cases": 4,
+        "deaths": 0
       }
     },
     "county": "Jefferson County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -123.61055200000001,
+      47.8304245
+    ],
+    "featureId": 244,
+    "population": 31729
   },
   "King County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 328,
         "deaths": 32
+      },
+      "2020-3-19": {
+        "cases": 562,
+        "deaths": 56
       }
     },
     "county": "King County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -121.7969185,
+      47.4324805
+    ],
+    "featureId": 245,
+    "population": 2233163
   },
   "Kitsap County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 3,
         "deaths": 0
+      },
+      "2020-3-19": {
+        "cases": 9,
+        "deaths": 0
       }
     },
     "county": "Kitsap County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -122.7433825,
+      47.6719585
+    ],
+    "featureId": 246,
+    "population": 269805
   },
   "Kittitas County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 3,
         "deaths": 0
+      },
+      "2020-3-19": {
+        "cases": 4,
+        "deaths": 0
       }
     },
     "county": "Kittitas County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -120.688514,
+      47.167153
+    ],
+    "featureId": 247,
+    "population": 47364
   },
   "Pierce County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 19,
         "deaths": 0
+      },
+      "2020-3-19": {
+        "cases": 56,
+        "deaths": 0
       }
     },
     "county": "Pierce County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -122.10319799999999,
+      47.066154
+    ],
+    "featureId": 252,
+    "population": 891299
   },
   "Skagit County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 3,
         "deaths": 0
+      },
+      "2020-3-19": {
+        "cases": 14,
+        "deaths": 0
       }
     },
     "county": "Skagit County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -121.712645,
+      48.476543
+    ],
+    "featureId": 253,
+    "population": 128206
   },
   "Snohomish County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 133,
         "deaths": 4
+      },
+      "2020-3-19": {
+        "cases": 310,
+        "deaths": 6
       }
     },
     "county": "Snohomish County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -121.65598399999999,
+      48.037258
+    ],
+    "featureId": 254,
+    "population": 814901
   },
   "Thurston County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 1,
         "deaths": 0
+      },
+      "2020-3-19": {
+        "cases": 6,
+        "deaths": 0
       }
     },
     "county": "Thurston County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -122.7023935,
+      46.9761355
+    ],
+    "featureId": 256,
+    "population": 286419
   },
   "Whatcom County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 1,
         "deaths": 0
+      },
+      "2020-3-19": {
+        "cases": 7,
+        "deaths": 0
       }
     },
     "county": "Whatcom County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -121.884438,
+      48.821715499999996
+    ],
+    "featureId": 257,
+    "population": 225685
   },
   "Yakima County, WA, USA": {
     "dates": {
       "2020-3-13": {
         "cases": 2,
         "deaths": 0
+      },
+      "2020-3-19": {
+        "cases": 7,
+        "deaths": 0
       }
     },
     "county": "Yakima County",
     "state": "WA",
     "country": "USA",
-    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus"
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -120.69510149999999,
+      46.564808
+    ],
+    "featureId": 258,
+    "population": 251446
   },
   "San Francisco County, CA, USA": {
     "dates": {
@@ -11287,7 +11437,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 237,
+    "featureId": 259,
     "population": 883305
   },
   "San Mateo County, CA, USA": {
@@ -11314,7 +11464,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 238,
+    "featureId": 260,
     "population": 769545
   },
   "Alameda County, CA, USA": {
@@ -11341,7 +11491,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 239,
+    "featureId": 261,
     "population": 1666753
   },
   "Sonoma County, CA, USA": {
@@ -11365,7 +11515,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 240,
+    "featureId": 262,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -11389,7 +11539,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 241,
+    "featureId": 263,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -11413,7 +11563,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 242,
+    "featureId": 264,
     "population": 446610
   },
   "Contra Costa County, CA, USA": {
@@ -11440,7 +11590,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 243,
+    "featureId": 265,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -11464,7 +11614,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 244,
+    "featureId": 266,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -11506,7 +11656,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 245,
+    "featureId": 267,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -11533,7 +11683,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 246,
+    "featureId": 268,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -11557,7 +11707,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 247,
+    "featureId": 269,
     "population": 157672
   },
   "Placer County, CA, USA": {
@@ -11584,7 +11734,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 248,
+    "featureId": 270,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -11608,7 +11758,7 @@
       -122.192699,
       40.7359105
     ],
-    "featureId": 249,
+    "featureId": 271,
     "population": 180040
   },
   "Los Angeles County, CA, USA": {
@@ -11635,7 +11785,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 250,
+    "featureId": 272,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -11662,7 +11812,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 251,
+    "featureId": 273,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -11686,7 +11836,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 252,
+    "featureId": 274,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -11713,7 +11863,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 253,
+    "featureId": 275,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -11740,7 +11890,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 254,
+    "featureId": 276,
     "population": 850967
   },
   "AL, USA": {
@@ -12720,7 +12870,7 @@
       -98.279395,
       44.414696
     ],
-    "featureId": 255,
+    "featureId": 277,
     "population": 18883
   },
   "Bon Homme County, SD, USA": {
@@ -12740,7 +12890,7 @@
       -97.899183,
       42.965534500000004
     ],
-    "featureId": 256,
+    "featureId": 278,
     "population": 6980
   },
   "Charles Mix County, SD, USA": {
@@ -12760,7 +12910,7 @@
       -98.6895585,
       43.1683905
     ],
-    "featureId": 257,
+    "featureId": 279,
     "population": 9338
   },
   "Davison County, SD, USA": {
@@ -12780,7 +12930,7 @@
       -98.145127,
       43.6746775
     ],
-    "featureId": 258,
+    "featureId": 280,
     "population": 19790
   },
   "McCook County, SD, USA": {
@@ -12800,7 +12950,7 @@
       -97.368803,
       43.674370999999994
     ],
-    "featureId": 259,
+    "featureId": 281,
     "population": 5546
   },
   "Minnehaha County, SD, USA": {
@@ -12820,7 +12970,7 @@
       -96.7912635,
       43.674592
     ],
-    "featureId": 260,
+    "featureId": 282,
     "population": 192876
   },
   "Pennington County, SD, USA": {
@@ -12840,7 +12990,7 @@
       -103.02822599999999,
       44.098381
     ],
-    "featureId": 261,
+    "featureId": 283,
     "population": 111729
   },
   "Bear River County, UT, USA": {
@@ -12888,7 +13038,7 @@
       -112.115984,
       40.963095499999994
     ],
-    "featureId": 262,
+    "featureId": 284,
     "population": 351713
   },
   "Salt Lake County, UT, USA": {
@@ -12908,7 +13058,7 @@
       -111.9083075,
       40.66808399999999
     ],
-    "featureId": 263,
+    "featureId": 285,
     "population": 1152633
   },
   "San Juan County, UT, USA": {
@@ -12928,7 +13078,7 @@
       -110.226921,
       37.748977499999995
     ],
-    "featureId": 264,
+    "featureId": 286,
     "population": 15449
   },
   "Southeast Utah County, UT, USA": {
@@ -12976,7 +13126,7 @@
       -110.82489050000001,
       40.9000835
     ],
-    "featureId": 265,
+    "featureId": 287,
     "population": 41933
   },
   "Tooele County, UT, USA": {
@@ -12996,7 +13146,7 @@
       -113.09571600000001,
       40.490421
     ],
-    "featureId": 266,
+    "featureId": 288,
     "population": 69907
   },
   "Tri County, UT, USA": {
@@ -13030,7 +13180,7 @@
       -111.5347685,
       40.176925999999995
     ],
-    "featureId": 267,
+    "featureId": 289,
     "population": 622213
   },
   "Wasatch County, UT, USA": {
@@ -13050,7 +13200,7 @@
       -111.25642,
       40.294765
     ],
-    "featureId": 268,
+    "featureId": 290,
     "population": 33240
   },
   "Weber-Morgan County, UT, USA": {
@@ -13403,6 +13553,132 @@
     "featureId": 235,
     "population": 88690
   },
+  "Chelan County, WA, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 2,
+        "deaths": 0
+      }
+    },
+    "county": "Chelan County",
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -120.52038999999999,
+      47.905806999999996
+    ],
+    "featureId": 237,
+    "population": 77036
+  },
+  "Franklin County, WA, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 1,
+        "deaths": 0
+      }
+    },
+    "county": "Franklin County",
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -118.8288585,
+      46.465897
+    ],
+    "featureId": 240,
+    "population": 94347
+  },
+  "Klickitat County, WA, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 1,
+        "deaths": 0
+      }
+    },
+    "county": "Klickitat County",
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -120.739452,
+      45.825073
+    ],
+    "featureId": 248,
+    "population": 22107
+  },
+  "Lewis County, WA, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 1,
+        "deaths": 0
+      }
+    },
+    "county": "Lewis County",
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -122.3615475,
+      46.5893095
+    ],
+    "featureId": 249,
+    "population": 79604
+  },
+  "Lincoln County, WA, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 1,
+        "deaths": 0
+      }
+    },
+    "county": "Lincoln County",
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -118.399462,
+      47.609032
+    ],
+    "featureId": 250,
+    "population": 10740
+  },
+  "Mason County, WA, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 1,
+        "deaths": 0
+      }
+    },
+    "county": "Mason County",
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -123.153076,
+      47.344863000000004
+    ],
+    "featureId": 251,
+    "population": 65507
+  },
+  "Spokane County, WA, USA": {
+    "dates": {
+      "2020-3-19": {
+        "cases": 4,
+        "deaths": 0
+      }
+    },
+    "county": "Spokane County",
+    "state": "WA",
+    "country": "USA",
+    "url": "https://www.doh.wa.gov/Emergencies/Coronavirus",
+    "coordinates": [
+      -117.431769,
+      47.653568500000006
+    ],
+    "featureId": 255,
+    "population": 514631
+  },
   "Campbell County, TN, USA": {
     "dates": {
       "2020-3-19": {
@@ -13417,7 +13693,7 @@
       -84.138375,
       36.3848795
     ],
-    "featureId": 269,
+    "featureId": 291,
     "population": 39583
   },
   "Cheatham County, TN, USA": {
@@ -13434,7 +13710,7 @@
       -87.0963775,
       36.248385999999996
     ],
-    "featureId": 270,
+    "featureId": 292,
     "population": 40439
   },
   "Davidson County, TN, USA": {
@@ -13451,7 +13727,7 @@
       -86.7851325,
       36.186859999999996
     ],
-    "featureId": 271,
+    "featureId": 293,
     "population": 692587
   },
   "Hamilton County, TN, USA": {
@@ -13468,7 +13744,7 @@
       -85.20821749999999,
       35.2208105
     ],
-    "featureId": 272,
+    "featureId": 294,
     "population": 364286
   },
   "Jefferson County, TN, USA": {
@@ -13485,7 +13761,7 @@
       -83.47225449999999,
       36.039116
     ],
-    "featureId": 273,
+    "featureId": 295,
     "population": 54012
   },
   "Knox County, TN, USA": {
@@ -13502,7 +13778,7 @@
       -83.96127200000001,
       35.9910705
     ],
-    "featureId": 274,
+    "featureId": 296,
     "population": 465289
   },
   "Robertson County, TN, USA": {
@@ -13519,7 +13795,7 @@
       -86.8573125,
       36.501744
     ],
-    "featureId": 275,
+    "featureId": 297,
     "population": 71012
   },
   "Rutherford County, TN, USA": {
@@ -13536,7 +13812,7 @@
       -86.4205235,
       35.8595905
     ],
-    "featureId": 276,
+    "featureId": 298,
     "population": 324890
   },
   "Sevier County, TN, USA": {
@@ -13553,7 +13829,7 @@
       -83.5242525,
       35.8029015
     ],
-    "featureId": 277,
+    "featureId": 299,
     "population": 97892
   },
   "Shelby County, TN, USA": {
@@ -13570,7 +13846,7 @@
       -89.97153700000001,
       35.2013885
     ],
-    "featureId": 278,
+    "featureId": 300,
     "population": 935764
   },
   "Sullivan County, TN, USA": {
@@ -13587,7 +13863,7 @@
       -82.2645105,
       36.5043
     ],
-    "featureId": 279,
+    "featureId": 301,
     "population": 157668
   },
   "Sumner County, TN, USA": {
@@ -13604,7 +13880,7 @@
       -86.4801315,
       36.448775
     ],
-    "featureId": 280,
+    "featureId": 302,
     "population": 187149
   },
   "Williamson County, TN, USA": {
@@ -13621,7 +13897,7 @@
       -86.90776349999999,
       35.875785500000006
     ],
-    "featureId": 281,
+    "featureId": 303,
     "population": 231729
   }
 }
