@@ -12972,19 +12972,6 @@
     "featureId": 223,
     "population": 35944
   },
-  "Zurich, CHE": {
-    "dates": {
-      "2020-3-20": {
-        "cases": 0,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 0
-      }
-    },
-    "country": "CHE",
-    "county": "Zurich",
-    "url": "https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv"
-  },
   "Baldwin County, AL, USA": {
     "dates": {
       "2020-3-20": {
