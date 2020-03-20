@@ -3869,6 +3869,19 @@
     "population": 274255
   },
   {
+    "cases": 1,
+    "county": "Solano County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.solanocounty.com/depts/ph/coronavirus.asp",
+    "coordinates": [
+      -122.0001255,
+      38.2871145
+    ],
+    "featureId": 250,
+    "population": 446610
+  },
+  {
     "cases": 46,
     "deaths": 0,
     "county": "Contra Costa County",
@@ -3879,7 +3892,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 250,
+    "featureId": 251,
     "population": 1150215
   },
   {
@@ -3892,7 +3905,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 251,
+    "featureId": 252,
     "population": 549815
   },
   {
@@ -3906,7 +3919,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 252,
+    "featureId": 253,
     "population": 1540975
   },
   {
@@ -3920,7 +3933,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 253,
+    "featureId": 254,
     "population": 994400
   },
   {
@@ -3933,7 +3946,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 254,
+    "featureId": 255,
     "population": 157672
   },
   {
@@ -3947,7 +3960,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 255,
+    "featureId": 256,
     "population": 393149
   },
   {
@@ -3961,7 +3974,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 256,
+    "featureId": 257,
     "population": 10105518
   },
   {
@@ -3975,7 +3988,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 257,
+    "featureId": 258,
     "population": 3185968
   },
   {
@@ -3988,7 +4001,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 258,
+    "featureId": 259,
     "population": 2450758
   },
   {
@@ -4002,7 +4015,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 259,
+    "featureId": 260,
     "population": 3343364
   },
   {
