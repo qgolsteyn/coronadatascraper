@@ -11404,12 +11404,21 @@
       "2020-3-14": {
         "cases": 6,
         "growthFactor": 1
+      },
+      "2020-3-20": {
+        "cases": 1
       }
     },
     "county": "Solano County",
     "state": "CA",
     "country": "USA",
-    "url": "http://www.solanocounty.com/depts/ph/coronavirus.asp"
+    "url": "http://www.solanocounty.com/depts/ph/coronavirus.asp",
+    "coordinates": [
+      -122.0001255,
+      38.2871145
+    ],
+    "featureId": 250,
+    "population": 446610
   },
   "Contra Costa County, CA, USA": {
     "dates": {
@@ -11435,7 +11444,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 250,
+    "featureId": 251,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -11459,7 +11468,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 251,
+    "featureId": 252,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -11501,7 +11510,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 252,
+    "featureId": 253,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -11528,7 +11537,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 253,
+    "featureId": 254,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -11552,7 +11561,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 254,
+    "featureId": 255,
     "population": 157672
   },
   "Placer County, CA, USA": {
@@ -11579,7 +11588,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 255,
+    "featureId": 256,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -11621,7 +11630,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 256,
+    "featureId": 257,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -11648,7 +11657,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 257,
+    "featureId": 258,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -11672,7 +11681,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 258,
+    "featureId": 259,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -11699,7 +11708,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 259,
+    "featureId": 260,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -11726,7 +11735,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 260,
+    "featureId": 261,
     "population": 850967
   },
   "AL, USA": {
