@@ -13142,324 +13142,310 @@
     ],
     "featureId": 239
   },
-  "Campbell County, TN, USA": {
+  "ANDERSON County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 1
       }
     },
-    "county": "Campbell County",
+    "county": "ANDERSON County",
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -84.138375,
-      36.3848795
-    ],
-    "featureId": 257,
-    "population": 39583
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Cheatham County, TN, USA": {
+  "BLOUNT County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 1
       }
     },
-    "county": "Cheatham County",
+    "county": "BLOUNT County",
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -87.0963775,
-      36.248385999999996
-    ],
-    "featureId": 258,
-    "population": 40439
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Cumberland County, TN, USA": {
+  "BRADLEY County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 1
       }
     },
-    "county": "Cumberland County",
+    "county": "BRADLEY County",
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -84.974996,
-      35.9586935
-    ],
-    "featureId": 259,
-    "population": 59673
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Davidson County, TN, USA": {
-    "dates": {
-      "2020-3-20": {
-        "cases": 75
-      }
-    },
-    "county": "Davidson County",
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.7851325,
-      36.186859999999996
-    ],
-    "featureId": 260,
-    "population": 692587
-  },
-  "Dyer County, TN, USA": {
+  "CAMPBELL County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 1
       }
     },
-    "county": "Dyer County",
+    "county": "CAMPBELL County",
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -89.4437795,
-      36.0468635
-    ],
-    "featureId": 261,
-    "population": 37320
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Hamilton County, TN, USA": {
-    "dates": {
-      "2020-3-20": {
-        "cases": 1
-      }
-    },
-    "county": "Hamilton County",
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -85.20821749999999,
-      35.2208105
-    ],
-    "featureId": 262,
-    "population": 364286
-  },
-  "Jefferson County, TN, USA": {
-    "dates": {
-      "2020-3-20": {
-        "cases": 1
-      }
-    },
-    "county": "Jefferson County",
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -83.47225449999999,
-      36.039116
-    ],
-    "featureId": 263,
-    "population": 54012
-  },
-  "Knox County, TN, USA": {
+  "CHEATHAM County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 2
       }
     },
-    "county": "Knox County",
+    "county": "CHEATHAM County",
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -83.96127200000001,
-      35.9910705
-    ],
-    "featureId": 264,
-    "population": 465289
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Montgomery County, TN, USA": {
-    "dates": {
-      "2020-3-20": {
-        "cases": 1
-      }
-    },
-    "county": "Montgomery County",
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -87.3780645,
-      36.477428
-    ],
-    "featureId": 265,
-    "population": 205950
-  },
-  "Robertson County, TN, USA": {
+  "CUMBERLAND County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 2
       }
     },
-    "county": "Robertson County",
+    "county": "CUMBERLAND County",
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.8573125,
-      36.501744
-    ],
-    "featureId": 266,
-    "population": 71012
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Rutherford County, TN, USA": {
+  "DAVIDSON County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 101
+      }
+    },
+    "county": "DAVIDSON County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "DICKSON County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 2
+      }
+    },
+    "county": "DICKSON County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "DYER County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 1
       }
     },
-    "county": "Rutherford County",
+    "county": "DYER County",
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.4205235,
-      35.8595905
-    ],
-    "featureId": 267,
-    "population": 324890
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Sevier County, TN, USA": {
+  "GREENE County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 1
       }
     },
-    "county": "Sevier County",
+    "county": "GREENE County",
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -83.5242525,
-      35.8029015
-    ],
-    "featureId": 268,
-    "population": 97892
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Shelby County, TN, USA": {
-    "dates": {
-      "2020-3-20": {
-        "cases": 4
-      }
-    },
-    "county": "Shelby County",
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -89.97153700000001,
-      35.2013885
-    ],
-    "featureId": 269,
-    "population": 935764
-  },
-  "Sullivan County, TN, USA": {
+  "HAMBLEN County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 1
       }
     },
-    "county": "Sullivan County",
+    "county": "HAMBLEN County",
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -82.2645105,
-      36.5043
-    ],
-    "featureId": 270,
-    "population": 157668
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Sumner County, TN, USA": {
+  "HAMILTON County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 5
+      }
+    },
+    "county": "HAMILTON County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "JEFFERSON County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 1
+      }
+    },
+    "county": "JEFFERSON County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "KNOX County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 3
       }
     },
-    "county": "Sumner County",
+    "county": "KNOX County",
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.4801315,
-      36.448775
-    ],
-    "featureId": 271,
-    "population": 187149
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Williamson County, TN, USA": {
-    "dates": {
-      "2020-3-20": {
-        "cases": 30
-      }
-    },
-    "county": "Williamson County",
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.90776349999999,
-      35.875785500000006
-    ],
-    "featureId": 272,
-    "population": 231729
-  },
-  "Wilson County, TN, USA": {
+  "MAURY County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 1
       }
     },
-    "county": "Wilson County",
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.30456749999999,
-      36.156231000000005
-    ],
-    "featureId": 273,
-    "population": 140625
-  },
-  "Residents of Other States/Countries County, TN, USA": {
-    "dates": {
-      "2020-3-20": {
-        "cases": 26
-      }
-    },
-    "county": "Residents of Other States/Countries County",
+    "county": "MAURY County",
     "state": "TN",
     "country": "USA",
     "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Unknown County, TN, USA": {
+  "MONTGOMERY County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 3
+      }
+    },
+    "county": "MONTGOMERY County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "ROBERTSON County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 2
+      }
+    },
+    "county": "ROBERTSON County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "RUTHERFORD County, TN, USA": {
     "dates": {
       "2020-3-20": {
         "cases": 1
       }
     },
-    "county": "Unknown County",
+    "county": "RUTHERFORD County",
     "state": "TN",
     "country": "USA",
     "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
-  "Grand Total County, TN, USA": {
+  "SEVIER County, TN, USA": {
     "dates": {
       "2020-3-20": {
-        "cases": 154
+        "cases": 1
       }
     },
-    "county": "Grand Total County",
+    "county": "SEVIER County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "SHELBY County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 4
+      }
+    },
+    "county": "SHELBY County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "SULLIVAN County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 1
+      }
+    },
+    "county": "SULLIVAN County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "SUMNER County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 11
+      }
+    },
+    "county": "SUMNER County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "TIPTON County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 1
+      }
+    },
+    "county": "TIPTON County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "WASHINGTON County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 2
+      }
+    },
+    "county": "WASHINGTON County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "WILLIAMSON County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 35
+      }
+    },
+    "county": "WILLIAMSON County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "WILSON County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 3
+      }
+    },
+    "county": "WILSON County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "Out of TN County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 40
+      }
+    },
+    "county": "Out of TN County",
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  " County, TN, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 0
+      }
+    },
+    "county": " County",
     "state": "TN",
     "country": "USA",
     "url": "https://www.tn.gov/health/cedep/ncov.html"

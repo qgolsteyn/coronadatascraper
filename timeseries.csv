@@ -931,23 +931,30 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,St. Clair County,AL,USA,88690,33.690028999999996,-86.310896,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-20
 ,Talladega County,AL,USA,79828,33.4003975,-86.148843,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-20
 ,Walker County,AL,USA,,33.7590165,-87.294891,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,1,1,,,2020-03-20
-,Campbell County,TN,USA,39583,36.3848795,-84.138375,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Cheatham County,TN,USA,40439,36.248385999999996,-87.0963775,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Cumberland County,TN,USA,59673,35.9586935,-84.974996,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Davidson County,TN,USA,692587,36.186859999999996,-86.7851325,https://www.tn.gov/health/cedep/ncov.html,75,,,,2020-03-20
-,Dyer County,TN,USA,37320,36.0468635,-89.4437795,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Hamilton County,TN,USA,364286,35.2208105,-85.20821749999999,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Jefferson County,TN,USA,54012,36.039116,-83.47225449999999,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Knox County,TN,USA,465289,35.9910705,-83.96127200000001,https://www.tn.gov/health/cedep/ncov.html,2,,,,2020-03-20
-,Montgomery County,TN,USA,205950,36.477428,-87.3780645,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Robertson County,TN,USA,71012,36.501744,-86.8573125,https://www.tn.gov/health/cedep/ncov.html,2,,,,2020-03-20
-,Rutherford County,TN,USA,324890,35.8595905,-86.4205235,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Sevier County,TN,USA,97892,35.8029015,-83.5242525,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Shelby County,TN,USA,935764,35.2013885,-89.97153700000001,https://www.tn.gov/health/cedep/ncov.html,4,,,,2020-03-20
-,Sullivan County,TN,USA,157668,36.5043,-82.2645105,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Sumner County,TN,USA,187149,36.448775,-86.4801315,https://www.tn.gov/health/cedep/ncov.html,3,,,,2020-03-20
-,Williamson County,TN,USA,231729,35.875785500000006,-86.90776349999999,https://www.tn.gov/health/cedep/ncov.html,30,,,,2020-03-20
-,Wilson County,TN,USA,140625,36.156231000000005,-86.30456749999999,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Residents of Other States/Countries County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,26,,,,2020-03-20
-,Unknown County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
-,Grand Total County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,154,,,,2020-03-20
+,ANDERSON County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,BLOUNT County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,BRADLEY County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,CAMPBELL County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,CHEATHAM County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,2,,,,2020-03-20
+,CUMBERLAND County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,2,,,,2020-03-20
+,DAVIDSON County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,101,,,,2020-03-20
+,DICKSON County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,2,,,,2020-03-20
+,DYER County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,GREENE County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,HAMBLEN County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,HAMILTON County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,5,,,,2020-03-20
+,JEFFERSON County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,KNOX County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,3,,,,2020-03-20
+,MAURY County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,MONTGOMERY County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,3,,,,2020-03-20
+,ROBERTSON County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,2,,,,2020-03-20
+,RUTHERFORD County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,SEVIER County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,SHELBY County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,4,,,,2020-03-20
+,SULLIVAN County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,SUMNER County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,11,,,,2020-03-20
+,TIPTON County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,1,,,,2020-03-20
+,WASHINGTON County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,2,,,,2020-03-20
+,WILLIAMSON County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,35,,,,2020-03-20
+,WILSON County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,3,,,,2020-03-20
+,Out of TN County,TN,USA,,,,https://www.tn.gov/health/cedep/ncov.html,40,,,,2020-03-20

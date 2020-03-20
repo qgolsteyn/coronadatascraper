@@ -3943,243 +3943,197 @@
     "population": 3343364
   },
   {
-    "county": "Campbell County",
+    "county": "ANDERSON County",
     "cases": 1,
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -84.138375,
-      36.3848795
-    ],
-    "featureId": 256,
-    "population": 39583
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
   {
-    "county": "Cheatham County",
+    "county": "BLOUNT County",
     "cases": 1,
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -87.0963775,
-      36.248385999999996
-    ],
-    "featureId": 257,
-    "population": 40439
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
   {
-    "county": "Cumberland County",
+    "county": "BRADLEY County",
     "cases": 1,
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -84.974996,
-      35.9586935
-    ],
-    "featureId": 258,
-    "population": 59673
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
   {
-    "county": "Davidson County",
-    "cases": 75,
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.7851325,
-      36.186859999999996
-    ],
-    "featureId": 259,
-    "population": 692587
-  },
-  {
-    "county": "Dyer County",
+    "county": "CAMPBELL County",
     "cases": 1,
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -89.4437795,
-      36.0468635
-    ],
-    "featureId": 260,
-    "population": 37320
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
   {
-    "county": "Hamilton County",
-    "cases": 1,
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -85.20821749999999,
-      35.2208105
-    ],
-    "featureId": 261,
-    "population": 364286
-  },
-  {
-    "county": "Jefferson County",
-    "cases": 1,
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -83.47225449999999,
-      36.039116
-    ],
-    "featureId": 262,
-    "population": 54012
-  },
-  {
-    "county": "Knox County",
+    "county": "CHEATHAM County",
     "cases": 2,
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -83.96127200000001,
-      35.9910705
-    ],
-    "featureId": 263,
-    "population": 465289
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
   {
-    "county": "Montgomery County",
-    "cases": 1,
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -87.3780645,
-      36.477428
-    ],
-    "featureId": 264,
-    "population": 205950
-  },
-  {
-    "county": "Robertson County",
+    "county": "CUMBERLAND County",
     "cases": 2,
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.8573125,
-      36.501744
-    ],
-    "featureId": 265,
-    "population": 71012
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
   {
-    "county": "Rutherford County",
+    "county": "DAVIDSON County",
+    "cases": 101,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "DICKSON County",
+    "cases": 2,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "DYER County",
     "cases": 1,
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.4205235,
-      35.8595905
-    ],
-    "featureId": 266,
-    "population": 324890
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
   {
-    "county": "Sevier County",
+    "county": "GREENE County",
     "cases": 1,
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -83.5242525,
-      35.8029015
-    ],
-    "featureId": 267,
-    "population": 97892
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
   {
-    "county": "Shelby County",
-    "cases": 4,
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -89.97153700000001,
-      35.2013885
-    ],
-    "featureId": 268,
-    "population": 935764
-  },
-  {
-    "county": "Sullivan County",
+    "county": "HAMBLEN County",
     "cases": 1,
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -82.2645105,
-      36.5043
-    ],
-    "featureId": 269,
-    "population": 157668
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
   {
-    "county": "Sumner County",
+    "county": "HAMILTON County",
+    "cases": 5,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "JEFFERSON County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "KNOX County",
     "cases": 3,
     "state": "TN",
     "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.4801315,
-      36.448775
-    ],
-    "featureId": 270,
-    "population": 187149
-  },
-  {
-    "county": "Williamson County",
-    "cases": 30,
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.90776349999999,
-      35.875785500000006
-    ],
-    "featureId": 271,
-    "population": 231729
-  },
-  {
-    "county": "Wilson County",
-    "cases": 1,
-    "state": "TN",
-    "country": "USA",
-    "url": "https://www.tn.gov/health/cedep/ncov.html",
-    "coordinates": [
-      -86.30456749999999,
-      36.156231000000005
-    ],
-    "featureId": 272,
-    "population": 140625
-  },
-  {
-    "county": "Residents of Other States/Countries County",
-    "cases": 26,
-    "state": "TN",
-    "country": "USA",
     "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
   {
-    "county": "Unknown County",
+    "county": "MAURY County",
     "cases": 1,
     "state": "TN",
     "country": "USA",
     "url": "https://www.tn.gov/health/cedep/ncov.html"
   },
   {
-    "county": "Grand Total County",
-    "cases": 154,
+    "county": "MONTGOMERY County",
+    "cases": 3,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "ROBERTSON County",
+    "cases": 2,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "RUTHERFORD County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "SEVIER County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "SHELBY County",
+    "cases": 4,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "SULLIVAN County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "SUMNER County",
+    "cases": 11,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "TIPTON County",
+    "cases": 1,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "WASHINGTON County",
+    "cases": 2,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "WILLIAMSON County",
+    "cases": 35,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "WILSON County",
+    "cases": 3,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": "Out of TN County",
+    "cases": 40,
+    "state": "TN",
+    "country": "USA",
+    "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  {
+    "county": " County",
+    "cases": 0,
     "state": "TN",
     "country": "USA",
     "url": "https://www.tn.gov/health/cedep/ncov.html"
