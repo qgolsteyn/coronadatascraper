@@ -3517,8 +3517,8 @@
   },
   {
     "county": "Baldwin County",
-    "cases": 1,
-    "deaths": 1,
+    "cases": 2,
+    "deaths": 2,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3558,9 +3558,23 @@
     "population": 33615
   },
   {
+    "county": "Cullman County",
+    "cases": 1,
+    "deaths": 1,
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -86.802028,
+      34.08601
+    ],
+    "featureId": 228,
+    "population": 83442
+  },
+  {
     "county": "Elmore County",
-    "cases": 5,
-    "deaths": 5,
+    "cases": 6,
+    "deaths": 6,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3568,13 +3582,13 @@
       -86.13298,
       32.5876855
     ],
-    "featureId": 228,
+    "featureId": 229,
     "population": 81887
   },
   {
     "county": "Lee County",
-    "cases": 10,
-    "deaths": 10,
+    "cases": 11,
+    "deaths": 11,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3582,13 +3596,27 @@
       -85.348772,
       32.578877500000004
     ],
-    "featureId": 229,
+    "featureId": 230,
     "population": 163941
   },
   {
+    "county": "Jackson County",
+    "cases": 1,
+    "deaths": 1,
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -85.9710895,
+      34.727785499999996
+    ],
+    "featureId": 231,
+    "population": 51736
+  },
+  {
     "county": "Jefferson County",
-    "cases": 36,
-    "deaths": 36,
+    "cases": 50,
+    "deaths": 50,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3596,8 +3624,36 @@
       -86.92924049999999,
       33.544622000000004
     ],
-    "featureId": 230,
+    "featureId": 232,
     "population": 659300
+  },
+  {
+    "county": "Lamar County",
+    "cases": 1,
+    "deaths": 1,
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -88.110569,
+      33.791199
+    ],
+    "featureId": 233,
+    "population": 13844
+  },
+  {
+    "county": "Lauderdale County",
+    "cases": 1,
+    "deaths": 1,
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -87.70685900000001,
+      34.870044500000006
+    ],
+    "featureId": 234,
+    "population": 92387
   },
   {
     "county": "Limestone County",
@@ -3610,13 +3666,13 @@
       -87.030965,
       34.774907
     ],
-    "featureId": 231,
+    "featureId": 235,
     "population": 96174
   },
   {
     "county": "Madison County",
-    "cases": 5,
-    "deaths": 5,
+    "cases": 7,
+    "deaths": 7,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3624,13 +3680,13 @@
       -86.52351200000001,
       34.7338515
     ],
-    "featureId": 232,
+    "featureId": 236,
     "population": 366519
   },
   {
     "county": "Mobile County",
-    "cases": 1,
-    "deaths": 1,
+    "cases": 2,
+    "deaths": 2,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3638,7 +3694,7 @@
       -88.1779755,
       30.7006685
     ],
-    "featureId": 233,
+    "featureId": 237,
     "population": 413757
   },
   {
@@ -3652,7 +3708,7 @@
       -86.2080335,
       32.2330785
     ],
-    "featureId": 234,
+    "featureId": 238,
     "population": 225763
   },
   {
@@ -3666,7 +3722,7 @@
       -86.6839795,
       33.2828065
     ],
-    "featureId": 235,
+    "featureId": 239,
     "population": 215707
   },
   {
@@ -3680,7 +3736,7 @@
       -86.310896,
       33.690028999999996
     ],
-    "featureId": 236,
+    "featureId": 240,
     "population": 88690
   },
   {
@@ -3694,7 +3750,7 @@
       -86.148843,
       33.4003975
     ],
-    "featureId": 237,
+    "featureId": 241,
     "population": 79828
   },
   {
@@ -3708,7 +3764,7 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 238,
+    "featureId": 242,
     "population": 208911
   },
   {
@@ -3722,7 +3778,21 @@
       -87.294891,
       33.7590165
     ],
-    "featureId": 239
+    "featureId": 243
+  },
+  {
+    "county": "Washington County",
+    "cases": 1,
+    "deaths": 1,
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -88.177704,
+      31.406800500000003
+    ],
+    "featureId": 244,
+    "population": 16378
   },
   {
     "cases": 76,
@@ -3735,7 +3805,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 240,
+    "featureId": 245,
     "population": 883305
   },
   {
@@ -3749,7 +3819,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 241,
+    "featureId": 246,
     "population": 769545
   },
   {
@@ -3763,7 +3833,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 242,
+    "featureId": 247,
     "population": 1666753
   },
   {
@@ -3776,7 +3846,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 243,
+    "featureId": 248,
     "population": 499942
   },
   {
@@ -3789,7 +3859,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 244,
+    "featureId": 249,
     "population": 274255
   },
   {
@@ -3802,7 +3872,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 245,
+    "featureId": 250,
     "population": 446610
   },
   {
@@ -3816,7 +3886,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 246,
+    "featureId": 251,
     "population": 1150215
   },
   {
@@ -3829,7 +3899,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 247,
+    "featureId": 252,
     "population": 549815
   },
   {
@@ -3843,7 +3913,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 248,
+    "featureId": 253,
     "population": 1540975
   },
   {
@@ -3857,7 +3927,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 249,
+    "featureId": 254,
     "population": 994400
   },
   {
@@ -3870,7 +3940,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 250,
+    "featureId": 255,
     "population": 157672
   },
   {
@@ -3884,7 +3954,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 251,
+    "featureId": 256,
     "population": 393149
   },
   {
@@ -3898,7 +3968,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 252,
+    "featureId": 257,
     "population": 10105518
   },
   {
@@ -3912,7 +3982,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 253,
+    "featureId": 258,
     "population": 3185968
   },
   {
@@ -3925,7 +3995,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 254,
+    "featureId": 259,
     "population": 2450758
   },
   {
@@ -3939,7 +4009,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 255,
+    "featureId": 260,
     "population": 3343364
   },
   {
