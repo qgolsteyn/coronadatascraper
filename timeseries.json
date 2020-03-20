@@ -9841,7 +9841,7 @@
         "growthFactor": 1
       },
       "2020-3-20": {
-        "cases": 258
+        "cases": 308
       }
     },
     "state": "Ontario",
@@ -12962,6 +12962,16 @@
     ],
     "featureId": 223,
     "population": 35944
+  },
+  "Total, Canada": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 898
+      }
+    },
+    "state": "Total",
+    "country": "Canada",
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
   },
   "Baldwin County, AL, USA": {
     "dates": {
