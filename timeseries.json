@@ -13601,5 +13601,16 @@
     "state": "TN",
     "country": "USA",
     "url": "https://www.tn.gov/health/cedep/ncov.html"
+  },
+  "1 County, OH, USA": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 0
+      }
+    },
+    "county": "1 County",
+    "state": "OH",
+    "country": "USA",
+    "url": "https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/"
   }
 }
