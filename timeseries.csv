@@ -472,24 +472,6 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,,Veneto,ITA,4905854,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3214,94,167,,2020-03-18
 ,,Veneto,ITA,4905854,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3484,115,200,,2020-03-19
 ,,Veneto,ITA,4905854,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,3484,115,200,,2020-03-20
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,1,,,,2020-02-27
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,2,,,,2020-02-28
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,2,,,,2020-03-02
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,9,,,400,2020-03-03
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,19,,,,2020-03-05
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,26,,,,2020-03-06
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,30,,,,2020-03-07
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,37,,,,2020-03-08
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,40,,,855,2020-03-09
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,49,,,,2020-03-10
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,59,,1,,2020-03-11
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,92,,7,,2020-03-12
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,140,,11,,2020-03-13
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,270,1,,,2020-03-16
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,294,,,,2020-03-17
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,424,,,,2020-03-18
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,526,3,,,2020-03-19
-,Zurich,,CHE,,,,https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv,526,3,,,2020-03-20
 ,Boone County,IN,USA,66999,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-13
 ,Boone County,IN,USA,66999,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-14
 ,Boone County,IN,USA,66999,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-20

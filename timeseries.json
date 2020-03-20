@@ -3425,135 +3425,6 @@
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "population": 4905854
   },
-  "Zurich, CHE": {
-    "dates": {
-      "2020-2-27": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 0
-      },
-      "2020-2-28": {
-        "cases": 2,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 0,
-        "growthFactor": 2
-      },
-      "2020-3-2": {
-        "cases": 2,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 0
-      },
-      "2020-3-3": {
-        "cases": 9,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 400,
-        "growthFactor": 4.5
-      },
-      "2020-3-5": {
-        "cases": 19,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 0
-      },
-      "2020-3-6": {
-        "cases": 26,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 0,
-        "growthFactor": 1.368421052631579
-      },
-      "2020-3-7": {
-        "cases": 30,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 0,
-        "growthFactor": 1.1538461538461537
-      },
-      "2020-3-8": {
-        "cases": 37,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 0,
-        "growthFactor": 1.2333333333333334
-      },
-      "2020-3-9": {
-        "cases": 40,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 855,
-        "growthFactor": 1.0810810810810811
-      },
-      "2020-3-10": {
-        "cases": 49,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 0,
-        "growthFactor": 1.225
-      },
-      "2020-3-11": {
-        "cases": 59,
-        "deaths": 0,
-        "recovered": 1,
-        "tested": 0,
-        "growthFactor": 1.2040816326530612
-      },
-      "2020-3-12": {
-        "cases": 92,
-        "deaths": 0,
-        "recovered": 7,
-        "tested": 0,
-        "growthFactor": 1.5593220338983051
-      },
-      "2020-3-13": {
-        "cases": 140,
-        "deaths": 0,
-        "recovered": 11,
-        "tested": 0,
-        "growthFactor": 1.5217391304347827
-      },
-      "2020-3-16": {
-        "cases": 270,
-        "deaths": 1,
-        "recovered": 0,
-        "tested": 0
-      },
-      "2020-3-17": {
-        "cases": 294,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 0,
-        "growthFactor": 1.0888888888888888
-      },
-      "2020-3-18": {
-        "cases": 424,
-        "deaths": 0,
-        "recovered": 0,
-        "tested": 0,
-        "growthFactor": 1.4421768707482994
-      },
-      "2020-3-19": {
-        "cases": 526,
-        "deaths": 3,
-        "recovered": 0,
-        "tested": 0,
-        "growthFactor": 1.240566037735849
-      },
-      "2020-3-20": {
-        "cases": 526,
-        "deaths": 3,
-        "recovered": 0,
-        "tested": 0,
-        "growthFactor": 1
-      }
-    },
-    "country": "CHE",
-    "county": "Zurich",
-    "url": "https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv"
-  },
   "DeKalb County, IN, USA": {
     "dates": {
       "2020-3-13": {
@@ -13100,6 +12971,19 @@
     ],
     "featureId": 223,
     "population": 35944
+  },
+  "Zurich, CHE": {
+    "dates": {
+      "2020-3-20": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "tested": 0
+      }
+    },
+    "country": "CHE",
+    "county": "Zurich",
+    "url": "https://raw.githubusercontent.com/openZH/covid_19/master/COVID19_Fallzahlen_Kanton_ZH_total.csv"
   },
   "Baldwin County, AL, USA": {
     "dates": {
