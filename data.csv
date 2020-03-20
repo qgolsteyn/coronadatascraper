@@ -212,16 +212,16 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Warren County,NJ,USA,1,,,2,40.8430415,-74.985897,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,208,105779
 ,Morris County,NJ,USA,19,,,19,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,209,494228
 ,Middlesex County,NJ,USA,40,,,44,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,210,829685
-,,British Columbia,Canada,231,,,,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,211,5071000
-,,Alberta,Canada,119,,,,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,212,4067175
-,,Saskatchewan,Canada,2,,,,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,213,1098352
-,,Manitoba,Canada,15,,,,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,214,1278365
-,,Ontario,Canada,257,,,,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,215,13448494
-,,Quebec,Canada,94,,,,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,216,8164361
+,,British Columbia,Canada,271,,,,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,211,5071000
+,,Alberta,Canada,146,,,,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,212,4067175
+,,Saskatchewan,Canada,8,,,,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,213,1098352
+,,Manitoba,Canada,17,,,,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,214,1278365
+,,Ontario,Canada,258,,,,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,215,13448494
+,,Quebec,Canada,121,,,,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,216,8164361
 ,,Newfoundland and Labrador,Canada,1,,,,53.46112743006114,-60.21844100481229,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,217,519716
-,,New Brunswick,Canada,2,,,,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,218,747101
+,,New Brunswick,Canada,7,,,,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,218,747101
 ,,Nova Scotia,Canada,5,,,,45.266872463000055,-63.021209276499945,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,219,923598
-,,Prince Edward Island,Canada,1,,,,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,220,142907
+,,Prince Edward Island,Canada,2,,,,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,220,142907
 ,,Yukon,Canada,0,,,,64.82713023550005,-132.41233364551596,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,221,35874
 ,,Northwest Territories,Canada,0,,,,69.38320119914675,-119.22198188100899,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,222,41786
 ,,Nunavut,Canada,0,,,,67.52741120000007,-90.88314938052307,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,223,35944
