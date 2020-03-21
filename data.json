@@ -3950,6 +3950,20 @@
     "population": 157672
   },
   {
+    "cases": 9,
+    "deaths": 1,
+    "county": "Placer County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.placer.ca.gov/6448/Cases-in-Placer",
+    "coordinates": [
+      -120.7434505,
+      39.0142165
+    ],
+    "featureId": 256,
+    "population": 393149
+  },
+  {
     "cases": 292,
     "deaths": 2,
     "county": "Los Angeles County",
@@ -3960,7 +3974,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 256,
+    "featureId": 257,
     "population": 10105518
   },
   {
@@ -3974,7 +3988,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 257,
+    "featureId": 258,
     "population": 3185968
   },
   {
@@ -3987,7 +4001,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 258,
+    "featureId": 259,
     "population": 2450758
   },
   {
@@ -4001,7 +4015,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 259,
+    "featureId": 260,
     "population": 3343364
   },
   {
