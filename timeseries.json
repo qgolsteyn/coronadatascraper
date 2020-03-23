@@ -10397,8 +10397,8 @@
         "growthFactor": null
       },
       "2020-3-23": {
-        "cases": 79,
-        "deaths": 79
+        "cases": 86,
+        "deaths": 86
       }
     },
     "county": "Jefferson County",
@@ -10409,7 +10409,7 @@
       -86.92924049999999,
       33.544622000000004
     ],
-    "featureId": 231,
+    "featureId": 233,
     "population": 659300
   },
   "Limestone County, AL, USA": {
@@ -10436,7 +10436,7 @@
       -87.030965,
       34.774907
     ],
-    "featureId": 235,
+    "featureId": 237,
     "population": 96174
   },
   "Montgomery County, AL, USA": {
@@ -10451,8 +10451,8 @@
         "growthFactor": null
       },
       "2020-3-23": {
-        "cases": 3,
-        "deaths": 3
+        "cases": 4,
+        "deaths": 4
       }
     },
     "county": "Montgomery County",
@@ -10463,7 +10463,7 @@
       -86.2080335,
       32.2330785
     ],
-    "featureId": 239,
+    "featureId": 241,
     "population": 225763
   },
   "Tuscaloosa County, AL, USA": {
@@ -10478,8 +10478,8 @@
         "growthFactor": null
       },
       "2020-3-23": {
-        "cases": 7,
-        "deaths": 7
+        "cases": 9,
+        "deaths": 9
       }
     },
     "county": "Tuscaloosa County",
@@ -10490,7 +10490,7 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 243,
+    "featureId": 246,
     "population": 208911
   },
   "Clackamas County, OR, USA": {
@@ -11669,7 +11669,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 246,
+    "featureId": 249,
     "population": 883305
   },
   "San Mateo County, CA, USA": {
@@ -11696,7 +11696,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 247,
+    "featureId": 250,
     "population": 769545
   },
   "Alameda County, CA, USA": {
@@ -11723,7 +11723,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 248,
+    "featureId": 251,
     "population": 1666753
   },
   "Sonoma County, CA, USA": {
@@ -11747,7 +11747,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 249,
+    "featureId": 252,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -11771,7 +11771,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 250,
+    "featureId": 253,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -11795,7 +11795,7 @@
       -122.0001255,
       38.2871145
     ],
-    "featureId": 251,
+    "featureId": 254,
     "population": 446610
   },
   "Contra Costa County, CA, USA": {
@@ -11822,7 +11822,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 252,
+    "featureId": 255,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -11846,7 +11846,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 253,
+    "featureId": 256,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -11888,7 +11888,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 254,
+    "featureId": 257,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -11915,7 +11915,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 255,
+    "featureId": 258,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -11939,7 +11939,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 256,
+    "featureId": 259,
     "population": 157672
   },
   "Placer County, CA, USA": {
@@ -11966,7 +11966,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 257,
+    "featureId": 260,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -12008,7 +12008,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 258,
+    "featureId": 261,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -12035,7 +12035,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 259,
+    "featureId": 262,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -12059,7 +12059,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 260,
+    "featureId": 263,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -12086,7 +12086,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 261,
+    "featureId": 264,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -12113,7 +12113,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 262,
+    "featureId": 265,
     "population": 850967
   },
   "AL, USA": {
@@ -13354,8 +13354,8 @@
   "Baldwin County, AL, USA": {
     "dates": {
       "2020-3-23": {
-        "cases": 2,
-        "deaths": 2
+        "cases": 3,
+        "deaths": 3
       }
     },
     "county": "Baldwin County",
@@ -13372,8 +13372,8 @@
   "Calhoun County, AL, USA": {
     "dates": {
       "2020-3-23": {
-        "cases": 1,
-        "deaths": 1
+        "cases": 2,
+        "deaths": 2
       }
     },
     "county": "Calhoun County",
@@ -13423,6 +13423,42 @@
     "featureId": 228,
     "population": 83442
   },
+  "Franklin County, AL, USA": {
+    "dates": {
+      "2020-3-23": {
+        "cases": 1,
+        "deaths": 1
+      }
+    },
+    "county": "Franklin County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -87.85164950000001,
+      34.4431505
+    ],
+    "featureId": 230,
+    "population": 31363
+  },
+  "Houston County, AL, USA": {
+    "dates": {
+      "2020-3-23": {
+        "cases": 1,
+        "deaths": 1
+      }
+    },
+    "county": "Houston County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -85.35514699999999,
+      31.156028
+    ],
+    "featureId": 231,
+    "population": 104722
+  },
   "Jackson County, AL, USA": {
     "dates": {
       "2020-3-23": {
@@ -13438,7 +13474,7 @@
       -85.9710895,
       34.727785499999996
     ],
-    "featureId": 230,
+    "featureId": 232,
     "population": 51736
   },
   "Lamar County, AL, USA": {
@@ -13456,14 +13492,14 @@
       -88.110569,
       33.791199
     ],
-    "featureId": 232,
+    "featureId": 234,
     "population": 13844
   },
   "Lauderdale County, AL, USA": {
     "dates": {
       "2020-3-23": {
-        "cases": 2,
-        "deaths": 2
+        "cases": 3,
+        "deaths": 3
       }
     },
     "county": "Lauderdale County",
@@ -13474,14 +13510,14 @@
       -87.70685900000001,
       34.870044500000006
     ],
-    "featureId": 233,
+    "featureId": 235,
     "population": 92387
   },
   "Lee County, AL, USA": {
     "dates": {
       "2020-3-23": {
-        "cases": 17,
-        "deaths": 17
+        "cases": 19,
+        "deaths": 19
       }
     },
     "county": "Lee County",
@@ -13492,14 +13528,14 @@
       -85.348772,
       32.578877500000004
     ],
-    "featureId": 234,
+    "featureId": 236,
     "population": 163941
   },
   "Madison County, AL, USA": {
     "dates": {
       "2020-3-23": {
-        "cases": 17,
-        "deaths": 17
+        "cases": 21,
+        "deaths": 21
       }
     },
     "county": "Madison County",
@@ -13510,7 +13546,7 @@
       -86.52351200000001,
       34.7338515
     ],
-    "featureId": 236,
+    "featureId": 238,
     "population": 366519
   },
   "Marion County, AL, USA": {
@@ -13528,7 +13564,7 @@
       -87.920977,
       34.1178885
     ],
-    "featureId": 237,
+    "featureId": 239,
     "population": 29763
   },
   "Mobile County, AL, USA": {
@@ -13546,14 +13582,14 @@
       -88.1779755,
       30.7006685
     ],
-    "featureId": 238,
+    "featureId": 240,
     "population": 413757
   },
   "Shelby County, AL, USA": {
     "dates": {
       "2020-3-23": {
-        "cases": 17,
-        "deaths": 17
+        "cases": 22,
+        "deaths": 22
       }
     },
     "county": "Shelby County",
@@ -13564,7 +13600,7 @@
       -86.6839795,
       33.2828065
     ],
-    "featureId": 240,
+    "featureId": 242,
     "population": 215707
   },
   "St. Clair County, AL, USA": {
@@ -13582,7 +13618,7 @@
       -86.310896,
       33.690028999999996
     ],
-    "featureId": 241,
+    "featureId": 243,
     "population": 88690
   },
   "Talladega County, AL, USA": {
@@ -13600,14 +13636,32 @@
       -86.148843,
       33.4003975
     ],
-    "featureId": 242,
+    "featureId": 244,
     "population": 79828
   },
-  "Walker County, AL, USA": {
+  "Tallapoosa County, AL, USA": {
     "dates": {
       "2020-3-23": {
         "cases": 1,
         "deaths": 1
+      }
+    },
+    "county": "Tallapoosa County",
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -85.8035175,
+      32.8001965
+    ],
+    "featureId": 245,
+    "population": 40497
+  },
+  "Walker County, AL, USA": {
+    "dates": {
+      "2020-3-23": {
+        "cases": 3,
+        "deaths": 3
       }
     },
     "county": "Walker County",
@@ -13618,7 +13672,7 @@
       -87.294891,
       33.7590165
     ],
-    "featureId": 244
+    "featureId": 247
   },
   "Washington County, AL, USA": {
     "dates": {
@@ -13635,7 +13689,7 @@
       -88.177704,
       31.406800500000003
     ],
-    "featureId": 245,
+    "featureId": 248,
     "population": 16378
   }
 }
