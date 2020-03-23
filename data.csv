@@ -20,7 +20,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,LaPorte County,IN,USA,2,0,,0,41.4985245,-86.70959,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,17,110007
 ,Floyd County,IN,USA,4,0,,0,38.299344000000005,-85.8968305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,18,77781
 ,Shelby County,IN,USA,1,0,,0,39.5229175,-85.7912735,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,19,44593
-,Allen County,IN,USA,6,0,,0,41.093929,-85.070744,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,20,375351
+,Allen County,IN,USA,6,1,,0,41.093929,-85.070744,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,20,375351
 ,Tipton County,IN,USA,2,0,,0,40.311361500000004,-86.052076,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,21,15128
 ,Rush County,IN,USA,0,0,,0,39.6201645,-85.465533,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,22,16663
 ,Orange County,IN,USA,0,0,,0,38.541362,-86.49588800000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,23,19489
