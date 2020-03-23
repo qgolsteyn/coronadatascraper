@@ -1,27 +1,27 @@
 city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,population
 ,DeKalb County,IN,USA,0,0,,0,41.397172,-84.998833,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,0,43226
-,Boone County,IN,USA,2,0,,0,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,66999
+,Boone County,IN,USA,3,0,,0,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,66999
 ,Tippecanoe County,IN,USA,2,0,,0,40.388631000000004,-86.89501100000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,193048
-,Johnson County,IN,USA,7,1,,0,39.4900085,-86.101242,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,156225
+,Johnson County,IN,USA,12,1,,0,39.4900085,-86.101242,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,156225
 ,Elkhart County,IN,USA,1,0,,0,41.598169999999996,-85.858041,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,4,205560
 ,Adams County,IN,USA,1,0,,0,40.745404,-84.93797749999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,5,35636
 ,Noble County,IN,USA,1,0,,0,41.3952975,-85.42342049999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,6,47532
-,Madison County,IN,USA,1,0,,0,40.1616875,-85.7193405,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,7,129641
-,St Joseph County,IN,USA,6,0,,0,42.76080525150005,-75.8409706677239,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,8,
+,Madison County,IN,USA,2,0,,0,40.1616875,-85.7193405,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,7,129641
+,St Joseph County,IN,USA,8,0,,0,42.76080525150005,-75.8409706677239,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,8,
 ,Jackson County,IN,USA,0,0,,0,38.898375,-86.056745,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,9,44111
 ,Vander. County,IN,USA,1,0,,0,,,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,,
-,Grant County,IN,USA,1,0,,0,40.515986999999996,-85.6545605,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,10,65936
+,Grant County,IN,USA,2,0,,0,40.515986999999996,-85.6545605,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,10,65936
 ,Porter County,IN,USA,0,0,,0,41.465349,-87.07600400000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,11,169594
-,Marion County,IN,USA,46,2,,0,39.779657,-86.13272599999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,12,954670
-,Hamilton County,IN,USA,10,0,,0,40.0724955,-86.052323,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,13,330086
-,Lake County,IN,USA,7,0,,0,41.4360915,-87.372815,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,14,484411
-,Morgan County,IN,USA,0,0,,0,39.486663,-86.46872300000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,15,70116
-,Hendricks County,IN,USA,6,0,,0,39.762399,-86.510613,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,16,167009
+,Marion County,IN,USA,82,3,,0,39.779657,-86.13272599999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,12,954670
+,Hamilton County,IN,USA,18,0,,0,40.0724955,-86.052323,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,13,330086
+,Lake County,IN,USA,10,0,,0,41.4360915,-87.372815,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,14,484411
+,Morgan County,IN,USA,1,0,,0,39.486663,-86.46872300000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,15,70116
+,Hendricks County,IN,USA,8,0,,0,39.762399,-86.510613,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,16,167009
 ,LaPorte County,IN,USA,2,0,,0,41.4985245,-86.70959,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,17,110007
-,Floyd County,IN,USA,2,0,,0,38.299344000000005,-85.8968305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,18,77781
+,Floyd County,IN,USA,3,0,,0,38.299344000000005,-85.8968305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,18,77781
 ,Shelby County,IN,USA,1,0,,0,39.5229175,-85.7912735,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,19,44593
 ,Allen County,IN,USA,4,0,,0,41.093929,-85.070744,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,20,375351
-,Tipton County,IN,USA,0,0,,0,40.311361500000004,-86.052076,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,21,15128
+,Tipton County,IN,USA,1,0,,0,40.311361500000004,-86.052076,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,21,15128
 ,Rush County,IN,USA,0,0,,0,39.6201645,-85.465533,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,22,16663
 ,Orange County,IN,USA,0,0,,0,38.541362,-86.49588800000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,23,19489
 ,Crawford County,IN,USA,0,0,,0,38.264135499999995,-86.4664205,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,24,10558
@@ -31,42 +31,42 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Fulton County,IN,USA,0,0,,0,41.0412495,-86.2069545,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,28,20092
 ,LaGrange County,IN,USA,0,0,,0,41.641722,-85.426917,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,29,39330
 ,Knox County,IN,USA,0,0,,0,38.6611855,-87.4215765,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,30,36895
-,Monroe County,IN,USA,0,0,,0,39.173286000000004,-86.50153900000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,31,146917
+,Monroe County,IN,USA,1,0,,0,39.173286000000004,-86.50153900000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,31,146917
 ,Cass County,IN,USA,0,0,,0,40.736143,-86.3733815,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,32,37955
 ,Randolph County,IN,USA,0,0,,0,40.157236999999995,-85.011338,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,33,24851
 ,Martin County,IN,USA,0,0,,0,38.700171999999995,-86.8032725,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,34,10217
-,Washington County,IN,USA,0,0,,0,38.5984585,-86.078819,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,35,27943
+,Washington County,IN,USA,1,0,,0,38.5984585,-86.078819,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,35,27943
 ,Parke County,IN,USA,0,0,,0,39.779033,-87.2218005,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,36,16927
 ,Kosciusko County,IN,USA,0,0,,0,41.239367,-85.8647395,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,37,79344
 ,Wayne County,IN,USA,1,0,,0,39.8599215,-85.01602550000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,38,65936
 ,Montgomery County,IN,USA,0,0,,0,40.039825500000006,-86.893817,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,39,38346
-,Hancock County,IN,USA,1,0,,0,39.821446,-85.76510250000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,40,76351
+,Hancock County,IN,USA,2,0,,0,39.821446,-85.76510250000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,40,76351
 ,Vigo County,IN,USA,2,0,,0,39.4335005,-87.40453099999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,41,107386
 ,Jefferson County,IN,USA,0,0,,0,38.749990499999996,-85.4428255,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,42,32208
 ,Huntington County,IN,USA,0,0,,0,40.8291895,-85.48925399999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,43,36240
 ,Harrison County,IN,USA,1,0,,0,38.190351500000006,-86.114784,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,44,40350
 ,Wabash County,IN,USA,0,0,,0,40.848853500000004,-85.7925115,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,45,31280
-,Delaware County,IN,USA,1,1,,0,40.2282065,-85.3964875,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,46,114772
+,Delaware County,IN,USA,2,1,,0,40.2282065,-85.3964875,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,46,114772
 ,Posey County,IN,USA,0,0,,0,38.001000000000005,-87.87335350000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,47,25540
 ,Spencer County,IN,USA,0,0,,0,37.993821,-87.0179535,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,48,20327
 ,Ohio County,IN,USA,0,0,,0,38.9659135,-84.9850845,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,49,5844
 ,Carroll County,IN,USA,0,0,,0,40.5844765,-86.5738755,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,50,20127
 ,Warren County,IN,USA,0,0,,0,40.3021425,-87.311793,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,51,8263
-,Franklin County,IN,USA,2,0,,0,39.397251999999995,-85.056989,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,52,22736
+,Franklin County,IN,USA,4,0,,0,39.397251999999995,-85.056989,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,52,22736
 ,Pulaski County,IN,USA,0,0,,0,41.0411035,-86.6989025,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,53,12469
 ,Jay County,IN,USA,0,0,,0,40.439459,-85.0111465,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,54,20764
 ,Wells County,IN,USA,1,0,,0,40.742376,-85.258652,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,55,28206
 ,Marshall County,IN,USA,0,0,,0,41.325298000000004,-86.2605775,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,56,46248
 ,Sullivan County,IN,USA,0,0,,0,39.080525,-87.4431845,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,57,20690
 ,Brown County,IN,USA,0,0,,0,39.196282,-86.23083349999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,58,15234
-,Ripley County,IN,USA,0,0,,0,39.1115335,-85.2549985,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,59,28523
+,Ripley County,IN,USA,1,0,,0,39.1115335,-85.2549985,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,59,28523
 ,Henry County,IN,USA,0,0,,0,39.931831,-85.3989305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,60,48271
-,Howard County,IN,USA,5,0,,0,40.469593,-86.1189395,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,61,82366
+,Howard County,IN,USA,6,0,,0,40.469593,-86.1189395,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,61,82366
 ,Whitley County,IN,USA,0,0,,0,41.148574999999994,-85.49717749999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,62,34074
 ,Dearborn County,IN,USA,0,0,,0,39.1234195,-84.9759795,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,63,49568
 ,Blackford County,IN,USA,0,0,,0,40.473138,-85.32408,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,64,11930
-,Scott County,IN,USA,1,0,,0,38.6948615,-85.729157,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,65,23878
-,Bartholomew County,IN,USA,1,0,,0,39.192976,-85.885058,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,66,82753
+,Scott County,IN,USA,1,1,,0,38.6948615,-85.729157,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,65,23878
+,Bartholomew County,IN,USA,5,0,,0,39.192976,-85.885058,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,66,82753
 ,Jasper County,IN,USA,0,0,,0,41.011453,-87.1030475,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,67,33370
 ,Union County,IN,USA,0,0,,0,39.6256065,-84.925108,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,68,7037
 ,Verm. County,IN,USA,0,0,,0,,,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,,
@@ -78,13 +78,13 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Fayette County,IN,USA,1,0,,0,39.6569625,-85.1680795,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,74,23047
 ,Newton County,IN,USA,0,0,,0,40.977588499999996,-87.3970095,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,75,14011
 ,Perry County,IN,USA,0,0,,0,38.0538765,-86.6224235,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,76,19102
-,Putnam County,IN,USA,0,0,,0,39.668384,-86.8280865,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,77,37779
+,Putnam County,IN,USA,1,0,,0,39.668384,-86.8280865,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,77,37779
 ,Starke County,IN,USA,0,0,,0,41.302205,-86.6983865,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,78,22935
-,Greene County,IN,USA,1,0,,0,39.0371445,-86.961652,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,79,32006
+,Greene County,IN,USA,0,0,,0,39.0371445,-86.961652,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,79,32006
 ,Pike County,IN,USA,0,0,,0,38.390486499999994,-87.2676305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,80,12410
 ,Warrick County,IN,USA,0,0,,0,38.062363000000005,-87.245218,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,81,62567
 ,Daviess County,IN,USA,0,0,,0,38.6973285,-87.0858515,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,82,33147
-,Dubois County,IN,USA,0,0,,0,38.365024000000005,-86.87606650000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,83,42565
+,Dubois County,IN,USA,1,0,,0,38.365024000000005,-86.87606650000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,83,42565
 ,Clinton County,IN,USA,0,0,,0,40.304673,-86.46908450000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,84,32250
 ,White County,IN,USA,0,0,,0,40.737271,-86.8406485,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,85,24133
 ,Switzerland County,IN,USA,0,0,,0,38.8085935,-84.9938725,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,86,10717
@@ -92,7 +92,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Gibson County,IN,USA,0,0,,0,38.349461,-87.64698250000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,88,33452
 ,Jennings County,IN,USA,1,0,,0,39.0015625,-85.619944,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,89,27611
 ,Rockingham County,NC,USA,0,0,0,,36.39209,-79.77325049999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,90,90690
-,Guilford County,NC,USA,7,0,0,,36.078567,-79.789537,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,91,533670
+,Guilford County,NC,USA,11,0,0,,36.078567,-79.789537,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,91,533670
 ,Alamance County,NC,USA,1,0,0,,36.046625,-79.389903,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,92,166436
 ,Alexander County,NC,USA,0,0,0,,35.9112,-81.173576,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,93,37353
 ,Randolph County,NC,USA,0,0,0,,35.713162,-79.80440999999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,94,143351
@@ -120,11 +120,11 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Avery County,NC,USA,0,0,0,,36.099315000000004,-81.9081385,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,116,17505
 ,Yadkin County,NC,USA,0,0,0,,36.165891,-80.657182,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,117,37543
 ,Dare County,NC,USA,0,0,0,,35.708368,-75.7362335,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,118,36501
-,Forsyth County,NC,USA,8,0,0,,36.1174225,-80.2759705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,119,379099
+,Forsyth County,NC,USA,12,0,0,,36.1174225,-80.2759705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,119,379099
 ,Franklin County,NC,USA,0,0,0,,36.0419445,-78.27652549999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,120,67560
 ,Bertie County,NC,USA,0,0,0,,36.0338355,-77.0036715,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,121,19026
-,Orange County,NC,USA,6,0,0,,36.052271,-79.107692,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,122,146027
-,Durham County,NC,USA,37,0,0,,36.051317999999995,-78.8573145,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,123,316739
+,Orange County,NC,USA,5,0,0,,36.052271,-79.107692,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,122,146027
+,Durham County,NC,USA,40,0,0,,36.051317999999995,-78.8573145,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,123,316739
 ,Nash County,NC,USA,0,0,0,,35.966553000000005,-77.976391,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,124,94016
 ,Mitchell County,NC,USA,0,0,0,,35.991779,-82.198442,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,125,15000
 ,Edgecombe County,NC,USA,0,0,0,,35.915150999999994,-77.585453,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,126,52005
@@ -133,18 +133,18 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Yancey County,NC,USA,0,0,0,,35.888507000000004,-82.31928300000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,129,17903
 ,Madison County,NC,USA,0,0,0,,35.8719975,-82.685785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,130,21763
 ,Martin County,NC,USA,0,0,0,,35.8664985,-77.084982,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,131,22671
-,Wake County,NC,USA,33,0,0,,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,132,1092305
-,Davie County,NC,USA,0,0,0,,35.9026525,-80.5364645,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,133,42733
+,Wake County,NC,USA,40,0,0,,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,132,1092305
+,Davie County,NC,USA,1,0,0,,35.9026525,-80.5364645,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,133,42733
 ,Washington County,NC,USA,0,0,0,,35.840892999999994,-76.6003345,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,134,11859
 ,Burke County,NC,USA,0,0,0,,35.7791955,-81.675545,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,135,90382
 ,Davidson County,NC,USA,1,0,0,,35.765553499999996,-80.2652875,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,136,166614
 ,McDowell County,NC,USA,0,0,0,,35.738724500000004,-82.0594425,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,137,45507
 ,Chatham County,NC,USA,3,0,0,,35.6959365,-79.231033,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,138,73139
-,Wilson County,NC,USA,2,0,0,,35.7253325,-77.926691,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,139,81455
+,Wilson County,NC,USA,3,0,0,,35.7253325,-77.926691,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,139,81455
 ,Buncombe County,NC,USA,0,0,0,,35.620303,-82.5263415,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,140,259103
 ,Haywood County,NC,USA,0,0,0,,35.5418605,-83.000247,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,141,61971
 ,Catawba County,NC,USA,1,0,0,,35.6878485,-81.22916649999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,142,158652
-,Pitt County,NC,USA,1,0,0,,35.580454,-77.392609,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,143,179914
+,Pitt County,NC,USA,3,0,0,,35.580454,-77.392609,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,143,179914
 ,Johnston County,NC,USA,3,0,0,,35.537085,-78.386616,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,144,202675
 ,Swain County,NC,USA,0,0,0,,35.4877375,-83.554631,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,145,14245
 ,Beaufort County,NC,USA,0,0,0,,35.477776000000006,-76.83147650000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,146,47079
@@ -152,11 +152,11 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Greene County,NC,USA,0,0,0,,35.500008,-77.6507765,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,148,21012
 ,Rutherford County,NC,USA,0,0,0,,35.395423,-81.985972,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,149,66826
 ,Lee County,NC,USA,1,0,0,,35.467607,-79.16466,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,150,61452
-,Cleveland County,NC,USA,1,0,0,,35.371596499999995,-81.54468800000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,151,97645
+,Cleveland County,NC,USA,0,0,0,,35.371596499999995,-81.54468800000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,151,97645
 ,Jackson County,NC,USA,0,0,0,,35.26292,-83.1417865,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,152,43327
-,Harnett County,NC,USA,7,0,0,,35.3876225,-78.87648899999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,153,134214
+,Harnett County,NC,USA,8,0,0,,35.3876225,-78.87648899999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,153,134214
 ,Graham County,NC,USA,0,0,0,,35.342066,-83.810297,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,154,8484
-,Henderson County,NC,USA,0,0,0,,35.322029,-82.5033325,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,155,116748
+,Henderson County,NC,USA,1,0,0,,35.322029,-82.5033325,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,155,116748
 ,Moore County,NC,USA,2,0,0,,35.2805435,-79.43270749999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,156,98682
 ,Montgomery County,NC,USA,0,0,0,,35.324289,-79.898494,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,157,27271
 ,Stanly County,NC,USA,0,0,0,,35.323707999999996,-80.278733,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,158,62075
@@ -165,32 +165,32 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Lenoir County,NC,USA,0,0,0,,35.2174715,-77.6126075,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,161,55976
 ,Craven County,NC,USA,2,0,0,,35.110855,-77.063318,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,162,102912
 ,Macon County,NC,USA,0,0,0,,35.162244,-83.42341,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,163,35285
-,Cherokee County,NC,USA,0,0,0,,35.139748499999996,-84.0097475,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,164,28383
+,Cherokee County,NC,USA,4,0,0,,35.139748499999996,-84.0097475,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,164,28383
 ,Pamlico County,NC,USA,0,0,0,,35.1507535,-76.72772499999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,165,12670
 ,Sampson County,NC,USA,1,0,0,,34.9345395,-78.3926405,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,166,63626
 ,Cumberland County,NC,USA,2,0,0,,35.0502155,-78.8038205,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,167,332330
 ,Clay County,NC,USA,0,0,0,,35.0712515,-83.7441825,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,168,11139
 ,Jones County,NC,USA,0,0,0,,35.014189,-77.39021650000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,169,9637
-,Carteret County,NC,USA,0,0,0,,34.832848999999996,-76.60086799999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,170,69524
-,Union County,NC,USA,5,0,0,,35.0112285,-80.5587175,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,171,235908
+,Carteret County,NC,USA,2,0,0,,34.832848999999996,-76.60086799999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,170,69524
+,Union County,NC,USA,9,0,0,,35.0112285,-80.5587175,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,171,235908
 ,Anson County,NC,USA,0,0,0,,35.008912,-80.0844735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,172,24877
 ,Hoke County,NC,USA,1,0,0,,35.02319,-79.24694550000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,173,54764
 ,Duplin County,NC,USA,0,0,0,,34.9501105,-77.9257305,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,174,58856
 ,Richmond County,NC,USA,0,0,0,,34.99408,-79.76728299999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,175,44887
 ,Scotland County,NC,USA,1,0,0,,34.836764,-79.5119535,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,176,34810
 ,Onslow County,NC,USA,1,0,0,,34.712451,-77.3899735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,177,197683
-,Robeson County,NC,USA,0,0,0,,34.626412,-79.133749,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,178,131831
+,Robeson County,NC,USA,1,0,0,,34.626412,-79.133749,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,178,131831
 ,Bladen County,NC,USA,0,0,0,,34.611776500000005,-78.5427315,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,179,33190
 ,Pender County,NC,USA,0,0,0,,34.512526,-77.894035,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,180,62162
 ,Columbus County,NC,USA,0,0,0,,34.2134885,-78.6167595,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,181,55655
-,New Hanover County,NC,USA,1,0,0,,34.15828500000001,-77.872919,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,182,232274
-,Brunswick County,NC,USA,3,0,0,,34.1056615,-78.292874,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,183,136744
-,Iredell County,NC,USA,2,0,0,,35.7732565,-80.901307,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,184,178435
-,Rowan County,NC,USA,1,0,0,,35.6830585,-80.47710000000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,185,141262
+,New Hanover County,NC,USA,3,0,0,,34.15828500000001,-77.872919,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,182,232274
+,Brunswick County,NC,USA,5,0,0,,34.1056615,-78.292874,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,183,136744
+,Iredell County,NC,USA,6,0,0,,35.7732565,-80.901307,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,184,178435
+,Rowan County,NC,USA,2,0,0,,35.6830585,-80.47710000000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,185,141262
 ,Lincoln County,NC,USA,1,0,0,,35.484821999999994,-81.24025,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,186,83770
-,Mecklenburg County,NC,USA,41,0,0,,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,187,1093901
-,Cabarrus County,NC,USA,2,0,0,,35.3456055,-80.541589,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,188,211342
-,Gaston County,NC,USA,1,0,0,,35.284431999999995,-81.1896935,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,189,222846
+,Mecklenburg County,NC,USA,66,0,0,,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,187,1093901
+,Cabarrus County,NC,USA,4,0,0,,35.3456055,-80.541589,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,188,211342
+,Gaston County,NC,USA,3,0,0,,35.284431999999995,-81.1896935,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,189,222846
 ,Atlantic County,NJ,USA,0,,,0,39.509258,-74.6437035,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,190,265429
 ,Bergen County,NJ,USA,0,,,0,40.952146,-74.08225,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,191,936692
 ,Burlington County,NJ,USA,0,,,0,39.8658955,-74.72494950000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,192,445384
@@ -212,77 +212,76 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Warren County,NJ,USA,0,,,0,40.8430415,-74.985897,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,208,105779
 ,Morris County,NJ,USA,0,,,0,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,209,494228
 ,Middlesex County,NJ,USA,0,,,0,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,210,829685
-,,British Columbia,Canada,348,,,,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,211,5071000
-,,Alberta,Canada,226,,,,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,212,4067175
-,,Saskatchewan,Canada,25,,,,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,213,1098352
-,,Manitoba,Canada,17,,,,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,214,1278365
-,,Ontario,Canada,377,,,,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,215,13448494
-,,Quebec,Canada,202,,,,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,216,8164361
+,,British Columbia,Canada,424,,,,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,211,5071000
+,,Alberta,Canada,259,,,,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,212,4067175
+,,Saskatchewan,Canada,33,,,,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,213,1098352
+,,Manitoba,Canada,11,,,,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,214,1278365
+,,Ontario,Canada,425,,,,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,215,13448494
+,,Quebec,Canada,221,,,,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,216,8164361
 ,,Newfoundland and Labrador,Canada,3,,,,53.46112743006114,-60.21844100481229,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,217,519716
-,,New Brunswick,Canada,8,,,,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,218,747101
-,,Nova Scotia,Canada,9,,,,45.266872463000055,-63.021209276499945,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,219,923598
-,,Prince Edward Island,Canada,2,,,,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,220,142907
+,,New Brunswick,Canada,9,,,,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,218,747101
+,,Nova Scotia,Canada,28,,,,45.266872463000055,-63.021209276499945,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,219,923598
+,,Prince Edward Island,Canada,3,,,,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,220,142907
 ,,Yukon,Canada,0,,,,64.82713023550005,-132.41233364551596,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,221,35874
-,,Northwest Territories,Canada,0,,,,69.38320119914675,-119.22198188100899,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,222,41786
-,,Nunavut,Canada,1,,,,67.52741120000007,-90.88314938052307,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,223,35944
-,,Total,Canada,1231,,,,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,
-,,Abruzzo,ITA,529,22,13,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1311580
-,,Basilicata,ITA,66,0,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,562869
-,,P.A. Bolzano,ITA,621,20,1,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
-,,Calabria,ITA,235,5,5,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1947131
-,,Campania,ITA,844,22,29,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5801692
-,,Emilia Romagna,ITA,6705,715,329,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4459477
-,,Friuli Venezia Giulia,ITA,790,42,82,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1215220
-,,Lazio,ITA,1190,50,54,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5879082
-,,Liguria,ITA,1436,152,125,,44.448917926372275,9.063233530652923,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,224,1550640
-,,Lombardia,ITA,25515,3095,5050,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,10060574
-,,Marche,ITA,2153,154,2,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1525271
-,,Molise,ITA,61,7,7,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,305617
-,,Piemonte,ITA,3752,238,8,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4356406
-,,Puglia,ITA,675,29,4,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4029053
-,,Sardegna,ITA,330,4,5,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1639591
-,,Sicilia,ITA,490,6,26,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4999891
-,,Toscana,ITA,2012,72,35,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,3729641
-,,P.A. Trento,ITA,782,28,34,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
-,,Umbria,ITA,462,10,5,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,882015
-,,Valle d'Aosta,ITA,313,8,1,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,125666
-,,Veneto,ITA,4617,146,257,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4905854
-,,DC,USA,0,,,0,,,https://coronavirus.dc.gov/page/coronavirus-data,,
+,,Northwest Territories,Canada,1,,,,69.38320119914675,-119.22198188100899,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,222,41786
+,,Nunavut,Canada,0,,,,67.52741120000007,-90.88314938052307,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,223,35944
+,,Total,Canada,1430,,,,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,
+,,Abruzzo,ITA,587,33,15,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1311580
+,,Basilicata,ITA,81,0,0,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,562869
+,,P.A. Bolzano,ITA,678,23,7,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
+,,Calabria,ITA,273,8,5,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1947131
+,,Campania,ITA,936,29,41,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5801692
+,,Emilia Romagna,ITA,7555,816,349,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4459477
+,,Friuli Venezia Giulia,ITA,874,47,89,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1215220
+,,Lazio,ITA,1383,53,58,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5879082
+,,Liguria,ITA,1665,171,143,,44.448917926372275,9.063233530652923,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,224,1550640
+,,Lombardia,ITA,27206,3456,5865,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,10060574
+,,Marche,ITA,2421,184,6,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1525271
+,,Molise,ITA,66,7,7,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,305617
+,,Piemonte,ITA,4420,283,10,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4356406
+,,Puglia,ITA,786,31,7,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4029053
+,,Sardegna,ITA,339,7,5,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1639591
+,,Sicilia,ITA,630,8,26,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4999891
+,,Toscana,ITA,2277,91,42,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,3729641
+,,P.A. Trento,ITA,954,35,34,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
+,,Umbria,ITA,521,16,5,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,882015
+,,Valle d'Aosta,ITA,364,9,1,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,125666
+,,Veneto,ITA,5122,169,309,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4905854
+,,DC,USA,0,,,1055,,,https://coronavirus.dc.gov/page/coronavirus-data,,
 ,Baldwin County,AL,USA,2,2,,,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,225,218022
 ,Calhoun County,AL,USA,1,1,,,33.7622675,-85.837497,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,226,114277
-,Chambers County,AL,USA,1,1,,,32.9183035,-85.3626035,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,227,33615
+,Chambers County,AL,USA,2,2,,,32.9183035,-85.3626035,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,227,33615
 ,Cullman County,AL,USA,2,2,,,34.08601,-86.802028,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,228,83442
 ,Elmore County,AL,USA,6,6,,,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,229,81887
 ,Jackson County,AL,USA,1,1,,,34.727785499999996,-85.9710895,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,230,51736
-,Jefferson County,AL,USA,61,61,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,231,659300
+,Jefferson County,AL,USA,71,71,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,231,659300
 ,Lamar County,AL,USA,1,1,,,33.791199,-88.110569,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,232,13844
 ,Lauderdale County,AL,USA,2,2,,,34.870044500000006,-87.70685900000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,233,92387
-,Lee County,AL,USA,12,12,,,32.578877500000004,-85.348772,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,234,163941
+,Lee County,AL,USA,16,16,,,32.578877500000004,-85.348772,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,234,163941
 ,Limestone County,AL,USA,1,1,,,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,235,96174
-,Madison County,AL,USA,9,9,,,34.7338515,-86.52351200000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,236,366519
+,Madison County,AL,USA,16,16,,,34.7338515,-86.52351200000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,236,366519
 ,Marion County,AL,USA,1,1,,,34.1178885,-87.920977,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,237,29763
 ,Mobile County,AL,USA,2,2,,,30.7006685,-88.1779755,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,238,413757
 ,Montgomery County,AL,USA,3,3,,,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,239,225763
-,Shelby County,AL,USA,16,16,,,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,240,215707
-,St. Clair County,AL,USA,1,1,,,33.690028999999996,-86.310896,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,241,88690
+,Shelby County,AL,USA,17,17,,,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,240,215707
+,St. Clair County,AL,USA,3,3,,,33.690028999999996,-86.310896,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,241,88690
 ,Talladega County,AL,USA,1,1,,,33.4003975,-86.148843,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,242,79828
-,Tuscaloosa County,AL,USA,6,6,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,243,208911
+,Tuscaloosa County,AL,USA,7,7,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,243,208911
 ,Walker County,AL,USA,1,1,,,33.7590165,-87.294891,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,244,
 ,Washington County,AL,USA,1,1,,,31.406800500000003,-88.177704,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,245,16378
-,San Francisco County,CA,USA,84,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,246,883305
-,San Mateo County,CA,USA,110,1,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,247,769545
+,San Francisco County,CA,USA,108,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,246,883305
+,San Mateo County,CA,USA,117,1,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,247,769545
 ,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,248,1666753
 ,Sonoma County,CA,USA,0,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,249,499942
 ,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,250,274255
 ,Solano County,CA,USA,1,,,,38.2871145,-122.0001255,http://www.solanocounty.com/depts/ph/coronavirus.asp,251,446610
-,Contra Costa County,CA,USA,51,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,252,1150215
-,Stanislaus County,CA,USA,50,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,253,549815
+,Contra Costa County,CA,USA,61,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,252,1150215
+,Stanislaus County,CA,USA,80,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,253,549815
 ,Sacramento County,CA,USA,53,3,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,254,1540975
 ,Fresno County,CA,USA,651,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,255,994400
 ,Madera County,CA,USA,2,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,256,157672
-,Placer County,CA,USA,9,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,257,393149
-,Los Angeles County,CA,USA,351,4,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,258,10105518
+,Placer County,CA,USA,12,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,257,393149
+,Los Angeles County,CA,USA,409,5,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,258,10105518
 ,Orange County,CA,USA,0,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,259,3185968
-,Riverside County,CA,USA,3,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,260,2450758
+,Riverside County,CA,USA,4,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,260,2450758
 ,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,261,3343364
-,1 County,OH,USA,0,,,,,,https://odh.ohio.gov/wps/portal/gov/odh/know-our-programs/Novel-Coronavirus/welcome/,,
