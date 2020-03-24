@@ -559,10 +559,10 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Boone County,IN,USA,66999,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-13
 ,Boone County,IN,USA,66999,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-14
 ,Boone County,IN,USA,66999,40.051773999999995,-86.4677715,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-24
-,Tippecanoe County,IN,USA,193048,40.388631000000004,-86.89501100000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-24
+,Tippecanoe County,IN,USA,193048,40.388631000000004,-86.89501100000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-24
 ,Johnson County,IN,USA,156225,39.4900085,-86.101242,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-13
 ,Johnson County,IN,USA,156225,39.4900085,-86.101242,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-14
-,Johnson County,IN,USA,156225,39.4900085,-86.101242,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,14,1,,,2020-03-24
+,Johnson County,IN,USA,156225,39.4900085,-86.101242,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,18,1,,,2020-03-24
 ,Elkhart County,IN,USA,205560,41.598169999999996,-85.858041,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,4,,,,2020-03-24
 ,Adams County,IN,USA,35636,40.745404,-84.93797749999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-13
 ,Adams County,IN,USA,35636,40.745404,-84.93797749999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-14
@@ -573,18 +573,20 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Madison County,IN,USA,129641,40.1616875,-85.7193405,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-24
 ,St Joseph County,IN,USA,,42.76080525150005,-75.8409706677239,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-13
 ,St Joseph County,IN,USA,,42.76080525150005,-75.8409706677239,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-14
-,St Joseph County,IN,USA,,42.76080525150005,-75.8409706677239,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,9,,,,2020-03-24
+,St Joseph County,IN,USA,,42.76080525150005,-75.8409706677239,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,15,,,,2020-03-24
+,Jackson County,IN,USA,44111,38.898375,-86.056745,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
 ,Vander. County,IN,USA,,,,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
 ,Grant County,IN,USA,65936,40.515986999999996,-85.6545605,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-24
+,Porter County,IN,USA,169594,41.465349,-87.07600400000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
 ,Marion County,IN,USA,954670,39.779657,-86.13272599999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-13
 ,Marion County,IN,USA,954670,39.779657,-86.13272599999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-14
-,Marion County,IN,USA,954670,39.779657,-86.13272599999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,110,3,,,2020-03-24
-,Hamilton County,IN,USA,330086,40.0724955,-86.052323,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,21,,,,2020-03-24
-,Lake County,IN,USA,484411,41.4360915,-87.372815,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,11,,,,2020-03-24
+,Marion County,IN,USA,954670,39.779657,-86.13272599999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,161,3,,,2020-03-24
+,Hamilton County,IN,USA,330086,40.0724955,-86.052323,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,25,,,,2020-03-24
+,Lake County,IN,USA,484411,41.4360915,-87.372815,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,17,,,,2020-03-24
 ,Morgan County,IN,USA,70116,39.486663,-86.46872300000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-24
 ,Hendricks County,IN,USA,167009,39.762399,-86.510613,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-13
 ,Hendricks County,IN,USA,167009,39.762399,-86.510613,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-14
-,Hendricks County,IN,USA,167009,39.762399,-86.510613,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,12,,,,2020-03-24
+,Hendricks County,IN,USA,167009,39.762399,-86.510613,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,13,,,,2020-03-24
 ,LaPorte County,IN,USA,110007,41.4985245,-86.70959,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-14
 ,LaPorte County,IN,USA,110007,41.4985245,-86.70959,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-24
 ,Floyd County,IN,USA,77781,38.299344000000005,-85.8968305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,6,,,,2020-03-24
@@ -595,26 +597,32 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Decatur County,IN,USA,26794,39.292067,-85.4919175,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,6,,,,2020-03-24
 ,Monroe County,IN,USA,146917,39.173286000000004,-86.50153900000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-24
 ,Washington County,IN,USA,27943,38.5984585,-86.078819,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-24
-,Wayne County,IN,USA,65936,39.8599215,-85.01602550000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
-,Hancock County,IN,USA,76351,39.821446,-85.76510250000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-24
-,Vigo County,IN,USA,107386,39.4335005,-87.40453099999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-24
+,Montgomery County,IN,USA,38346,40.039825500000006,-86.893817,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
+,Hancock County,IN,USA,76351,39.821446,-85.76510250000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,4,,,,2020-03-24
+,Vigo County,IN,USA,107386,39.4335005,-87.40453099999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,3,,,,2020-03-24
 ,Harrison County,IN,USA,40350,38.190351500000006,-86.114784,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
 ,Delaware County,IN,USA,114772,40.2282065,-85.3964875,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,4,1,,,2020-03-24
-,Franklin County,IN,USA,22736,39.397251999999995,-85.056989,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,4,,,,2020-03-24
+,Ohio County,IN,USA,5844,38.9659135,-84.9850845,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
+,Franklin County,IN,USA,22736,39.397251999999995,-85.056989,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,7,,,,2020-03-24
 ,Wells County,IN,USA,28206,40.742376,-85.258652,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-14
 ,Wells County,IN,USA,28206,40.742376,-85.258652,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
-,Ripley County,IN,USA,28523,39.1115335,-85.2549985,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
+,Sullivan County,IN,USA,20690,39.080525,-87.4431845,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
+,Ripley County,IN,USA,28523,39.1115335,-85.2549985,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,6,,,,2020-03-24
 ,Howard County,IN,USA,82366,40.469593,-86.1189395,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-13
 ,Howard County,IN,USA,82366,40.469593,-86.1189395,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-14
 ,Howard County,IN,USA,82366,40.469593,-86.1189395,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,6,,,,2020-03-24
 ,Dearborn County,IN,USA,49568,39.1234195,-84.9759795,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-24
 ,Scott County,IN,USA,23878,38.6948615,-85.729157,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,1,,,2020-03-24
 ,Bartholomew County,IN,USA,82753,39.192976,-85.885058,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,5,,,,2020-03-24
+,Lawrence County,IN,USA,45668,38.8394825,-86.47919150000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
 ,Clark County,IN,USA,117360,38.436953,-85.704951,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,5,,,,2020-03-24
 ,Miami County,IN,USA,35567,40.780922000000004,-86.01632649999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
 ,Fayette County,IN,USA,23047,39.6569625,-85.1680795,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-24
 ,Putnam County,IN,USA,37779,39.668384,-86.8280865,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
+,Starke County,IN,USA,22935,41.302205,-86.6983865,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
+,Warrick County,IN,USA,62567,38.062363000000005,-87.245218,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
 ,Dubois County,IN,USA,42565,38.365024000000005,-86.87606650000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,1,,,,2020-03-24
+,Gibson County,IN,USA,33452,38.349461,-87.64698250000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-24
 ,Jennings County,IN,USA,27611,39.0015625,-85.619944,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,2,,,,2020-03-24
 ,Guilford County,NC,USA,533670,36.078567,-79.789537,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,16,,,,2020-03-24
 ,Alamance County,NC,USA,166436,36.046625,-79.389903,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,3,,,,2020-03-24
