@@ -11991,12 +11991,22 @@
         "cases": 17,
         "deaths": 1,
         "growthFactor": 1
+      },
+      "2020-3-24": {
+        "cases": 88,
+        "deaths": 4
       }
     },
     "county": "Sacramento County",
     "state": "CA",
     "country": "USA",
-    "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx"
+    "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
+    "coordinates": [
+      -121.444773,
+      38.377659
+    ],
+    "featureId": 256,
+    "population": 1540975
   },
   "Fresno County, CA, USA": {
     "dates": {
@@ -12022,7 +12032,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 256,
+    "featureId": 257,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -12046,7 +12056,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 257,
+    "featureId": 258,
     "population": 157672
   },
   "Placer County, CA, USA": {
@@ -12073,7 +12083,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 258,
+    "featureId": 259,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -12115,7 +12125,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 259,
+    "featureId": 260,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -12142,7 +12152,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 260,
+    "featureId": 261,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -12166,7 +12176,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 261,
+    "featureId": 262,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -12193,7 +12203,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 262,
+    "featureId": 263,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -12220,7 +12230,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 263,
+    "featureId": 264,
     "population": 850967
   },
   "AL, USA": {
