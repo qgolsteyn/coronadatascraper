@@ -18,16 +18,16 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Morgan County,IN,USA,3,0,,0,39.486663,-86.46872300000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,15,70116
 ,Hendricks County,IN,USA,12,0,,0,39.762399,-86.510613,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,16,167009
 ,LaPorte County,IN,USA,2,0,,0,41.4985245,-86.70959,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,17,110007
-,Floyd County,IN,USA,4,0,,0,38.299344000000005,-85.8968305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,18,77781
+,Floyd County,IN,USA,6,0,,0,38.299344000000005,-85.8968305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,18,77781
 ,Shelby County,IN,USA,1,0,,0,39.5229175,-85.7912735,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,19,44593
-,Allen County,IN,USA,6,1,,0,41.093929,-85.070744,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,20,375351
+,Allen County,IN,USA,7,1,,0,41.093929,-85.070744,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,20,375351
 ,Tipton County,IN,USA,2,0,,0,40.311361500000004,-86.052076,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,21,15128
 ,Rush County,IN,USA,0,0,,0,39.6201645,-85.465533,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,22,16663
 ,Orange County,IN,USA,0,0,,0,38.541362,-86.49588800000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,23,19489
 ,Crawford County,IN,USA,0,0,,0,38.264135499999995,-86.4664205,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,24,10558
 ,Owen County,IN,USA,2,0,,0,39.319545500000004,-86.84269800000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,25,20845
 ,Fountain County,IN,USA,0,0,,0,40.159532,-87.2651005,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,26,16351
-,Decatur County,IN,USA,0,0,,0,39.292067,-85.4919175,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,27,26794
+,Decatur County,IN,USA,6,0,,0,39.292067,-85.4919175,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,27,26794
 ,Fulton County,IN,USA,0,0,,0,41.0412495,-86.2069545,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,28,20092
 ,LaGrange County,IN,USA,0,0,,0,41.641722,-85.426917,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,29,39330
 ,Knox County,IN,USA,0,0,,0,38.6611855,-87.4215765,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,30,36895
@@ -46,7 +46,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Huntington County,IN,USA,0,0,,0,40.8291895,-85.48925399999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,43,36240
 ,Harrison County,IN,USA,1,0,,0,38.190351500000006,-86.114784,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,44,40350
 ,Wabash County,IN,USA,0,0,,0,40.848853500000004,-85.7925115,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,45,31280
-,Delaware County,IN,USA,3,1,,0,40.2282065,-85.3964875,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,46,114772
+,Delaware County,IN,USA,4,1,,0,40.2282065,-85.3964875,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,46,114772
 ,Posey County,IN,USA,0,0,,0,38.001000000000005,-87.87335350000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,47,25540
 ,Spencer County,IN,USA,0,0,,0,37.993821,-87.0179535,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,48,20327
 ,Ohio County,IN,USA,0,0,,0,38.9659135,-84.9850845,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,49,5844
@@ -63,7 +63,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Henry County,IN,USA,0,0,,0,39.931831,-85.3989305,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,60,48271
 ,Howard County,IN,USA,6,0,,0,40.469593,-86.1189395,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,61,82366
 ,Whitley County,IN,USA,0,0,,0,41.148574999999994,-85.49717749999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,62,34074
-,Dearborn County,IN,USA,0,0,,0,39.1234195,-84.9759795,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,63,49568
+,Dearborn County,IN,USA,2,0,,0,39.1234195,-84.9759795,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,63,49568
 ,Blackford County,IN,USA,0,0,,0,40.473138,-85.32408,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,64,11930
 ,Scott County,IN,USA,1,1,,0,38.6948615,-85.729157,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,65,23878
 ,Bartholomew County,IN,USA,5,0,,0,39.192976,-85.885058,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,66,82753
@@ -75,7 +75,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Lawrence County,IN,USA,0,0,,0,38.8394825,-86.47919150000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,71,45668
 ,Clark County,IN,USA,5,0,,0,38.436953,-85.704951,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,72,117360
 ,Miami County,IN,USA,1,0,,0,40.780922000000004,-86.01632649999999,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,73,35567
-,Fayette County,IN,USA,1,0,,0,39.6569625,-85.1680795,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,74,23047
+,Fayette County,IN,USA,2,0,,0,39.6569625,-85.1680795,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,74,23047
 ,Newton County,IN,USA,0,0,,0,40.977588499999996,-87.3970095,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,75,14011
 ,Perry County,IN,USA,0,0,,0,38.0538765,-86.6224235,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,76,19102
 ,Putnam County,IN,USA,1,0,,0,39.668384,-86.8280865,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,77,37779
