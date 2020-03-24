@@ -237,9 +237,9 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,,Alberta,Canada,54.49628672664678,-115.00016854279502,4067175,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,23,29,,,,,,,,,,301
 ,,Saskatchewan,Canada,54.496338403094796,-105.6821561755884,1098352,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,65
 ,,Manitoba,Canada,54.496368513369816,-95.4742987434922,1278365,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,11
-,,Ontario,Canada,49.26501413726137,-84.7533750036988,13448494,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79,79,,,,,,,,,,503
+,,Ontario,Canada,49.26501413726137,-84.7533750036988,13448494,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,79,79,,,,,,,,,,588
 ,,Quebec,Canada,53.79378896700006,-68.38833574149993,8164361,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,17,17,,,,,,,,,,221
-,,New Brunswick,Canada,46.36274594300005,-66.43830941249992,747101,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,9
+,,New Brunswick,Canada,46.36274594300005,-66.43830941249992,747101,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,17
 ,Copiah County,MS,USA,,,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,
 ,Pearl River County,MS,USA,,,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,
 ,Leflore County,MS,USA,,,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,
@@ -347,7 +347,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Madera County,CA,USA,37.273546499999995,-119.7828125,157672,,,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,5
 ,Placer County,CA,USA,39.0142165,-120.7434505,393149,,,https://www.placer.ca.gov/6448/Cases-in-Placer,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,7,7,,,,,,,,,,20
 ,Shasta County,CA,USA,,,,,,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,
-,Los Angeles County,CA,USA,33.8115605,-118.29563049999999,10105518,,,http://www.publichealth.lacounty.gov/media/Coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,40,,,,,,,,,,536
+,Los Angeles County,CA,USA,33.8115605,-118.29563049999999,10105518,,,http://www.publichealth.lacounty.gov/media/Coronavirus/,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40,40,,,,,,,,,,662
 ,Orange County,CA,USA,33.66652,-117.76484500000001,3185968,,,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,36,13,,,,,,,,,,0
 ,Riverside County,CA,USA,33.752829500000004,-116.05561750000001,2450758,,,https://www.rivcoph.org/coronavirus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,8,1,,,,,,,,,,5
 ,San Diego County,CA,USA,33.01959050000001,-116.83848499999999,3343364,,,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,11,11,,,,,,,,,,0
@@ -466,7 +466,7 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,,Yukon,Canada,64.82713023550005,-132.41233364551596,35874,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
 ,,Northwest Territories,Canada,69.38320119914675,-119.22198188100899,41786,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,,Nunavut,Canada,67.52741120000007,-90.88314938052307,35944,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0
-,,Total,Canada,,,,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1646
+,,Total,Canada,,,,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1739
 ,Baldwin County,AL,USA,30.765086,-87.69793150000001,218022,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
 ,Calhoun County,AL,USA,33.7622675,-85.837497,114277,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
 ,Chambers County,AL,USA,32.9183035,-85.3626035,33615,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
