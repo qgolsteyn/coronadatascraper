@@ -3551,8 +3551,8 @@
   },
   {
     "county": "Chambers County",
-    "cases": 2,
-    "deaths": 2,
+    "cases": 3,
+    "deaths": 3,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3579,8 +3579,8 @@
   },
   {
     "county": "Elmore County",
-    "cases": 6,
-    "deaths": 6,
+    "cases": 8,
+    "deaths": 8,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3635,8 +3635,8 @@
   },
   {
     "county": "Jefferson County",
-    "cases": 86,
-    "deaths": 86,
+    "cases": 90,
+    "deaths": 90,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3677,8 +3677,8 @@
   },
   {
     "county": "Lee County",
-    "cases": 19,
-    "deaths": 19,
+    "cases": 21,
+    "deaths": 21,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3691,8 +3691,8 @@
   },
   {
     "county": "Limestone County",
-    "cases": 1,
-    "deaths": 1,
+    "cases": 2,
+    "deaths": 2,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3733,8 +3733,8 @@
   },
   {
     "county": "Mobile County",
-    "cases": 2,
-    "deaths": 2,
+    "cases": 3,
+    "deaths": 3,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3747,8 +3747,8 @@
   },
   {
     "county": "Montgomery County",
-    "cases": 4,
-    "deaths": 4,
+    "cases": 8,
+    "deaths": 8,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3760,9 +3760,23 @@
     "population": 225763
   },
   {
+    "county": "Morgan County",
+    "cases": 1,
+    "deaths": 1,
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -86.8301385,
+      34.4953655
+    ],
+    "featureId": 242,
+    "population": 119089
+  },
+  {
     "county": "Shelby County",
-    "cases": 22,
-    "deaths": 22,
+    "cases": 24,
+    "deaths": 24,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3770,13 +3784,13 @@
       -86.6839795,
       33.2828065
     ],
-    "featureId": 242,
+    "featureId": 243,
     "population": 215707
   },
   {
     "county": "St. Clair County",
-    "cases": 3,
-    "deaths": 3,
+    "cases": 4,
+    "deaths": 4,
     "state": "AL",
     "country": "USA",
     "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
@@ -3784,7 +3798,7 @@
       -86.310896,
       33.690028999999996
     ],
-    "featureId": 243,
+    "featureId": 244,
     "population": 88690
   },
   {
@@ -3798,7 +3812,7 @@
       -86.148843,
       33.4003975
     ],
-    "featureId": 244,
+    "featureId": 245,
     "population": 79828
   },
   {
@@ -3812,7 +3826,7 @@
       -85.8035175,
       32.8001965
     ],
-    "featureId": 245,
+    "featureId": 246,
     "population": 40497
   },
   {
@@ -3826,7 +3840,7 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 246,
+    "featureId": 247,
     "population": 208911
   },
   {
@@ -3840,7 +3854,7 @@
       -87.294891,
       33.7590165
     ],
-    "featureId": 247
+    "featureId": 248
   },
   {
     "county": "Washington County",
@@ -3853,7 +3867,7 @@
       -88.177704,
       31.406800500000003
     ],
-    "featureId": 248,
+    "featureId": 249,
     "population": 16378
   },
   {
@@ -3867,7 +3881,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 249,
+    "featureId": 250,
     "population": 883305
   },
   {
@@ -3881,7 +3895,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 250,
+    "featureId": 251,
     "population": 769545
   },
   {
@@ -3895,7 +3909,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 251,
+    "featureId": 252,
     "population": 1666753
   },
   {
@@ -3908,7 +3922,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 252,
+    "featureId": 253,
     "population": 499942
   },
   {
@@ -3921,7 +3935,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 253,
+    "featureId": 254,
     "population": 274255
   },
   {
@@ -3935,7 +3949,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 254,
+    "featureId": 255,
     "population": 1150215
   },
   {
@@ -3948,7 +3962,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 255,
+    "featureId": 256,
     "population": 549815
   },
   {
@@ -3962,7 +3976,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 256,
+    "featureId": 257,
     "population": 1540975
   },
   {
@@ -3976,7 +3990,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 257,
+    "featureId": 258,
     "population": 994400
   },
   {
@@ -3989,7 +4003,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 258,
+    "featureId": 259,
     "population": 157672
   },
   {
@@ -4003,7 +4017,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 259,
+    "featureId": 260,
     "population": 393149
   },
   {
@@ -4017,7 +4031,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 260,
+    "featureId": 261,
     "population": 10105518
   },
   {
@@ -4031,7 +4045,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 261,
+    "featureId": 262,
     "population": 3185968
   },
   {
@@ -4044,7 +4058,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 262,
+    "featureId": 263,
     "population": 2450758
   },
   {
@@ -4058,7 +4072,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 263,
+    "featureId": 264,
     "population": 3343364
   }
 ]

@@ -245,10 +245,10 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,Leflore County,MS,USA,,,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,
 ,Forrest County,MS,USA,,,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3,3,,,,,,,,,,
 ,,DC,USA,,,,,,https://coronavirus.dc.gov/page/coronavirus-data,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,10,10,,,,,,,,,,0
-,Elmore County,AL,USA,32.5876855,-86.13298,81887,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,6
-,Jefferson County,AL,USA,33.544622000000004,-86.92924049999999,659300,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,86
-,Limestone County,AL,USA,34.774907,-87.030965,96174,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,1
-,Montgomery County,AL,USA,32.2330785,-86.2080335,225763,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,4
+,Elmore County,AL,USA,32.5876855,-86.13298,81887,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,8
+,Jefferson County,AL,USA,33.544622000000004,-86.92924049999999,659300,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,90
+,Limestone County,AL,USA,34.774907,-87.030965,96174,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,2
+,Montgomery County,AL,USA,32.2330785,-86.2080335,225763,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,8
 ,Tuscaloosa County,AL,USA,33.306606,-87.4532105,208911,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,0,0,,,,,,,,,,9
 ,Clackamas County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,
 ,Deschutes County,OR,USA,,,,,,https://www.oregon.gov/oha/PH/DISEASESCONDITIONS/DISEASESAZ/Pages/emerging-respiratory-infections.aspx,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1,1,,,,,,,,,,
@@ -469,19 +469,20 @@ city,county,state,country,lat,long,population,type,value,url,2020-1-22,2020-1-23
 ,,Total,Canada,,,,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1646
 ,Baldwin County,AL,USA,30.765086,-87.69793150000001,218022,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
 ,Calhoun County,AL,USA,33.7622675,-85.837497,114277,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
-,Chambers County,AL,USA,32.9183035,-85.3626035,33615,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
+,Chambers County,AL,USA,32.9183035,-85.3626035,33615,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
 ,Cullman County,AL,USA,34.08601,-86.802028,83442,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
 ,Franklin County,AL,USA,34.4431505,-87.85164950000001,31363,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Houston County,AL,USA,31.156028,-85.35514699999999,104722,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Jackson County,AL,USA,34.727785499999996,-85.9710895,51736,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Lamar County,AL,USA,33.791199,-88.110569,13844,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Lauderdale County,AL,USA,34.870044500000006,-87.70685900000001,92387,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
-,Lee County,AL,USA,32.578877500000004,-85.348772,163941,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,19
+,Lee County,AL,USA,32.578877500000004,-85.348772,163941,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21
 ,Madison County,AL,USA,34.7338515,-86.52351200000001,366519,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,21
 ,Marion County,AL,USA,34.1178885,-87.920977,29763,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
-,Mobile County,AL,USA,30.7006685,-88.1779755,413757,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2
-,Shelby County,AL,USA,33.2828065,-86.6839795,215707,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,22
-,St. Clair County,AL,USA,33.690028999999996,-86.310896,88690,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
+,Mobile County,AL,USA,30.7006685,-88.1779755,413757,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
+,Morgan County,AL,USA,34.4953655,-86.8301385,119089,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+,Shelby County,AL,USA,33.2828065,-86.6839795,215707,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,24
+,St. Clair County,AL,USA,33.690028999999996,-86.310896,88690,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,4
 ,Talladega County,AL,USA,33.4003975,-86.148843,79828,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Tallapoosa County,AL,USA,32.8001965,-85.8035175,40497,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
 ,Walker County,AL,USA,33.7590165,-87.294891,,,,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,3
