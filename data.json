@@ -3161,168 +3161,6 @@
     "population": 829685
   },
   {
-    "state": "British Columbia",
-    "cases": 617,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -126.56202337499991,
-      54.15716767014678
-    ],
-    "featureId": 211,
-    "population": 5071000
-  },
-  {
-    "state": "Alberta",
-    "cases": 358,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -115.00016854279502,
-      54.49628672664678
-    ],
-    "featureId": 212,
-    "population": 4067175
-  },
-  {
-    "state": "Saskatchewan",
-    "cases": 72,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -105.6821561755884,
-      54.496338403094796
-    ],
-    "featureId": 213,
-    "population": 1098352
-  },
-  {
-    "state": "Manitoba",
-    "cases": 11,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -95.4742987434922,
-      54.496368513369816
-    ],
-    "featureId": 214,
-    "population": 1278365
-  },
-  {
-    "state": "Ontario",
-    "cases": 588,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -84.7533750036988,
-      49.26501413726137
-    ],
-    "featureId": 215,
-    "population": 13448494
-  },
-  {
-    "state": "Quebec",
-    "cases": 221,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -68.38833574149993,
-      53.79378896700006
-    ],
-    "featureId": 216,
-    "population": 8164361
-  },
-  {
-    "state": "New Brunswick",
-    "cases": 18,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -66.43830941249992,
-      46.36274594300005
-    ],
-    "featureId": 217,
-    "population": 747101
-  },
-  {
-    "state": "Nova Scotia",
-    "cases": 51,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -63.021209276499945,
-      45.266872463000055
-    ],
-    "featureId": 218,
-    "population": 923598
-  },
-  {
-    "state": "Prince Edward Island",
-    "cases": 3,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -63.21041826049995,
-      46.49290599200006
-    ],
-    "featureId": 219,
-    "population": 142907
-  },
-  {
-    "state": "Newfoundland and Labrador",
-    "cases": 4,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -60.21844100481229,
-      53.46112743006114
-    ],
-    "featureId": 220,
-    "population": 519716
-  },
-  {
-    "state": "Yukon",
-    "cases": 2,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -132.41233364551596,
-      64.82713023550005
-    ],
-    "featureId": 221,
-    "population": 35874
-  },
-  {
-    "state": "Northwest Territories",
-    "cases": 1,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -119.22198188100899,
-      69.38320119914675
-    ],
-    "featureId": 222,
-    "population": 41786
-  },
-  {
-    "state": "Nunavut",
-    "cases": 0,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -90.88314938052307,
-      67.52741120000007
-    ],
-    "featureId": 223,
-    "population": 35944
-  },
-  {
-    "state": "Total",
-    "cases": 1959,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
-  },
-  {
     "recovered": 21,
     "deaths": 46,
     "cases": 689,
@@ -3404,7 +3242,7 @@
       9.063233530652923,
       44.448917926372275
     ],
-    "featureId": 224,
+    "featureId": 211,
     "population": 1550640
   },
   {
@@ -3532,7 +3370,7 @@
       -86.665704,
       32.508009
     ],
-    "featureId": 225,
+    "featureId": 212,
     "population": 55601
   },
   {
@@ -3546,7 +3384,7 @@
       -87.69793150000001,
       30.765086
     ],
-    "featureId": 226,
+    "featureId": 213,
     "population": 218022
   },
   {
@@ -3560,7 +3398,7 @@
       -85.837497,
       33.7622675
     ],
-    "featureId": 227,
+    "featureId": 214,
     "population": 114277
   },
   {
@@ -3574,7 +3412,7 @@
       -85.3626035,
       32.9183035
     ],
-    "featureId": 228,
+    "featureId": 215,
     "population": 33615
   },
   {
@@ -3588,7 +3426,7 @@
       -86.802028,
       34.08601
     ],
-    "featureId": 229,
+    "featureId": 216,
     "population": 83442
   },
   {
@@ -3602,7 +3440,7 @@
       -86.13298,
       32.5876855
     ],
-    "featureId": 230,
+    "featureId": 217,
     "population": 81887
   },
   {
@@ -3616,7 +3454,7 @@
       -87.85164950000001,
       34.4431505
     ],
-    "featureId": 231,
+    "featureId": 218,
     "population": 31363
   },
   {
@@ -3630,7 +3468,7 @@
       -85.35514699999999,
       31.156028
     ],
-    "featureId": 232,
+    "featureId": 219,
     "population": 104722
   },
   {
@@ -3644,7 +3482,7 @@
       -85.9710895,
       34.727785499999996
     ],
-    "featureId": 233,
+    "featureId": 220,
     "population": 51736
   },
   {
@@ -3658,7 +3496,7 @@
       -86.92924049999999,
       33.544622000000004
     ],
-    "featureId": 234,
+    "featureId": 221,
     "population": 659300
   },
   {
@@ -3672,7 +3510,7 @@
       -88.110569,
       33.791199
     ],
-    "featureId": 235,
+    "featureId": 222,
     "population": 13844
   },
   {
@@ -3686,7 +3524,7 @@
       -87.70685900000001,
       34.870044500000006
     ],
-    "featureId": 236,
+    "featureId": 223,
     "population": 92387
   },
   {
@@ -3700,7 +3538,7 @@
       -85.348772,
       32.578877500000004
     ],
-    "featureId": 237,
+    "featureId": 224,
     "population": 163941
   },
   {
@@ -3714,7 +3552,7 @@
       -87.030965,
       34.774907
     ],
-    "featureId": 238,
+    "featureId": 225,
     "population": 96174
   },
   {
@@ -3728,7 +3566,7 @@
       -86.52351200000001,
       34.7338515
     ],
-    "featureId": 239,
+    "featureId": 226,
     "population": 366519
   },
   {
@@ -3742,7 +3580,7 @@
       -87.920977,
       34.1178885
     ],
-    "featureId": 240,
+    "featureId": 227,
     "population": 29763
   },
   {
@@ -3756,7 +3594,7 @@
       -88.1779755,
       30.7006685
     ],
-    "featureId": 241,
+    "featureId": 228,
     "population": 413757
   },
   {
@@ -3770,7 +3608,7 @@
       -86.2080335,
       32.2330785
     ],
-    "featureId": 242,
+    "featureId": 229,
     "population": 225763
   },
   {
@@ -3784,7 +3622,7 @@
       -86.8301385,
       34.4953655
     ],
-    "featureId": 243,
+    "featureId": 230,
     "population": 119089
   },
   {
@@ -3798,7 +3636,7 @@
       -86.6839795,
       33.2828065
     ],
-    "featureId": 244,
+    "featureId": 231,
     "population": 215707
   },
   {
@@ -3812,7 +3650,7 @@
       -86.310896,
       33.690028999999996
     ],
-    "featureId": 245,
+    "featureId": 232,
     "population": 88690
   },
   {
@@ -3826,7 +3664,7 @@
       -86.148843,
       33.4003975
     ],
-    "featureId": 246,
+    "featureId": 233,
     "population": 79828
   },
   {
@@ -3840,7 +3678,7 @@
       -85.8035175,
       32.8001965
     ],
-    "featureId": 247,
+    "featureId": 234,
     "population": 40497
   },
   {
@@ -3854,7 +3692,7 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 248,
+    "featureId": 235,
     "population": 208911
   },
   {
@@ -3868,7 +3706,7 @@
       -87.294891,
       33.7590165
     ],
-    "featureId": 249
+    "featureId": 236
   },
   {
     "county": "Washington County",
@@ -3881,7 +3719,7 @@
       -88.177704,
       31.406800500000003
     ],
-    "featureId": 250,
+    "featureId": 237,
     "population": 16378
   },
   {
@@ -3895,7 +3733,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 251,
+    "featureId": 238,
     "population": 883305
   },
   {
@@ -3909,7 +3747,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 252,
+    "featureId": 239,
     "population": 769545
   },
   {
@@ -3923,7 +3761,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 253,
+    "featureId": 240,
     "population": 1666753
   },
   {
@@ -3936,7 +3774,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 254,
+    "featureId": 241,
     "population": 499942
   },
   {
@@ -3949,7 +3787,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 255,
+    "featureId": 242,
     "population": 274255
   },
   {
@@ -3963,7 +3801,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 256,
+    "featureId": 243,
     "population": 1150215
   },
   {
@@ -3976,7 +3814,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 257,
+    "featureId": 244,
     "population": 549815
   },
   {
@@ -3990,7 +3828,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 258,
+    "featureId": 245,
     "population": 1540975
   },
   {
@@ -4004,7 +3842,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 259,
+    "featureId": 246,
     "population": 994400
   },
   {
@@ -4017,7 +3855,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 260,
+    "featureId": 247,
     "population": 157672
   },
   {
@@ -4031,7 +3869,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 261,
+    "featureId": 248,
     "population": 393149
   },
   {
@@ -4045,7 +3883,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 262,
+    "featureId": 249,
     "population": 10105518
   },
   {
@@ -4059,7 +3897,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 263,
+    "featureId": 250,
     "population": 3185968
   },
   {
@@ -4072,7 +3910,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 264,
+    "featureId": 251,
     "population": 2450758
   },
   {
@@ -4086,7 +3924,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 265,
+    "featureId": 252,
     "population": 3343364
   }
 ]
