@@ -1,7 +1,7 @@
 [
   {
     "county": "DeKalb County",
-    "cases": 0,
+    "cases": 1,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -16,7 +16,7 @@
   },
   {
     "county": "Boone County",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -31,7 +31,7 @@
   },
   {
     "county": "Tippecanoe County",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -46,7 +46,7 @@
   },
   {
     "county": "Johnson County",
-    "cases": 18,
+    "cases": 24,
     "deaths": 3,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -61,7 +61,7 @@
   },
   {
     "county": "Elkhart County",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -106,7 +106,7 @@
   },
   {
     "county": "Madison County",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -121,7 +121,7 @@
   },
   {
     "county": "St Joseph County",
-    "cases": 15,
+    "cases": 19,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -174,7 +174,7 @@
   },
   {
     "county": "Porter County",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -189,7 +189,7 @@
   },
   {
     "county": "Marion County",
-    "cases": 161,
+    "cases": 226,
     "deaths": 6,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -204,7 +204,7 @@
   },
   {
     "county": "Hamilton County",
-    "cases": 25,
+    "cases": 30,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -219,7 +219,7 @@
   },
   {
     "county": "Lake County",
-    "cases": 17,
+    "cases": 19,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -234,7 +234,7 @@
   },
   {
     "county": "Morgan County",
-    "cases": 3,
+    "cases": 5,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -249,7 +249,7 @@
   },
   {
     "county": "Hendricks County",
-    "cases": 13,
+    "cases": 15,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -294,7 +294,7 @@
   },
   {
     "county": "Shelby County",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -339,7 +339,7 @@
   },
   {
     "county": "Rush County",
-    "cases": 0,
+    "cases": 1,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -384,7 +384,7 @@
   },
   {
     "county": "Owen County",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -414,7 +414,7 @@
   },
   {
     "county": "Decatur County",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -474,7 +474,7 @@
   },
   {
     "county": "Monroe County",
-    "cases": 3,
+    "cases": 4,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -609,8 +609,8 @@
   },
   {
     "county": "Hancock County",
-    "cases": 4,
-    "deaths": 0,
+    "cases": 8,
+    "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
     "country": "USA",
@@ -669,7 +669,7 @@
   },
   {
     "county": "Harrison County",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -699,7 +699,7 @@
   },
   {
     "county": "Delaware County",
-    "cases": 4,
+    "cases": 7,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -894,7 +894,7 @@
   },
   {
     "county": "Ripley County",
-    "cases": 6,
+    "cases": 7,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -925,7 +925,7 @@
   {
     "county": "Howard County",
     "cases": 6,
-    "deaths": 0,
+    "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
     "country": "USA",
@@ -1014,7 +1014,7 @@
   },
   {
     "county": "Jasper County",
-    "cases": 0,
+    "cases": 1,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1098,7 +1098,7 @@
   },
   {
     "county": "Clark County",
-    "cases": 5,
+    "cases": 6,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1128,7 +1128,7 @@
   },
   {
     "county": "Fayette County",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1173,7 +1173,7 @@
   },
   {
     "county": "Putnam County",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1233,7 +1233,7 @@
   },
   {
     "county": "Warrick County",
-    "cases": 1,
+    "cases": 0,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1353,7 +1353,7 @@
   },
   {
     "county": "Jennings County",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
