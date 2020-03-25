@@ -248,46 +248,57 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,,Valle d'Aosta,ITA,401,24,2,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,125666
 ,,Veneto,ITA,6442,258,439,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4905854
 ,,DC,USA,0,,,1055,,,https://coronavirus.dc.gov/page/coronavirus-data,,
-,Autauga County,AL,USA,1,1,,,32.508009,-86.665704,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,225,55601
+,Autauga County,AL,USA,4,4,,,32.508009,-86.665704,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,225,55601
 ,Baldwin County,AL,USA,4,4,,,30.765086,-87.69793150000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,226,218022
-,Calhoun County,AL,USA,2,2,,,33.7622675,-85.837497,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,227,114277
-,Chambers County,AL,USA,7,7,,,32.9183035,-85.3626035,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,228,33615
-,Cullman County,AL,USA,3,3,,,34.08601,-86.802028,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,229,83442
-,Elmore County,AL,USA,9,9,,,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,230,81887
-,Franklin County,AL,USA,1,1,,,34.4431505,-87.85164950000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,231,31363
-,Houston County,AL,USA,1,1,,,31.156028,-85.35514699999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,232,104722
-,Jackson County,AL,USA,2,2,,,34.727785499999996,-85.9710895,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,233,51736
-,Jefferson County,AL,USA,99,99,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,234,659300
-,Lamar County,AL,USA,1,1,,,33.791199,-88.110569,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,235,13844
-,Lauderdale County,AL,USA,6,6,,,34.870044500000006,-87.70685900000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,236,92387
-,Lee County,AL,USA,29,29,,,32.578877500000004,-85.348772,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,237,163941
-,Limestone County,AL,USA,6,6,,,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,238,96174
-,Madison County,AL,USA,21,21,,,34.7338515,-86.52351200000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,239,366519
-,Marion County,AL,USA,1,1,,,34.1178885,-87.920977,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,240,29763
-,Mobile County,AL,USA,10,10,,,30.7006685,-88.1779755,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,241,413757
-,Montgomery County,AL,USA,9,9,,,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,242,225763
-,Morgan County,AL,USA,2,2,,,34.4953655,-86.8301385,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,243,119089
-,Pickens County,AL,USA,1,1,,,33.2626035,-88.088514,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,244,19938
-,Pike County,AL,USA,1,1,,,31.839152,-85.928538,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,245,33338
-,Shelby County,AL,USA,36,36,,,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,246,215707
-,St. Clair County,AL,USA,5,5,,,33.690028999999996,-86.310896,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,247,88690
-,Talladega County,AL,USA,4,4,,,33.4003975,-86.148843,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,248,79828
-,Tallapoosa County,AL,USA,3,3,,,32.8001965,-85.8035175,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,249,40497
-,Tuscaloosa County,AL,USA,10,10,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,250,208911
-,Walker County,AL,USA,8,8,,,33.7590165,-87.294891,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,251,
-,Washington County,AL,USA,1,1,,,31.406800500000003,-88.177704,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,252,16378
-,San Francisco County,CA,USA,178,1,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,253,883305
-,San Mateo County,CA,USA,165,5,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,254,769545
-,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,255,1666753
-,Sonoma County,CA,USA,0,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,256,499942
-,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,257,274255
-,Contra Costa County,CA,USA,108,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,258,1150215
-,Stanislaus County,CA,USA,120,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,259,549815
-,Sacramento County,CA,USA,113,5,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,260,1540975
-,Fresno County,CA,USA,186210,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,261,994400
-,Madera County,CA,USA,5,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,262,157672
-,Placer County,CA,USA,30,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,263,393149
-,Los Angeles County,CA,USA,799,12,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,264,10105518
-,Orange County,CA,USA,0,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,265,3185968
-,Riverside County,CA,USA,7,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,266,2450758
-,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,267,3343364
+,Blount County,AL,USA,1,1,,,34.0123165,-86.633437,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,227,57840
+,Butler County,AL,USA,1,1,,,31.744161,-86.673651,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,228,19680
+,Calhoun County,AL,USA,2,2,,,33.7622675,-85.837497,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,229,114277
+,Chambers County,AL,USA,10,10,,,32.9183035,-85.3626035,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,230,33615
+,Cherokee County,AL,USA,1,1,,,34.232777999999996,-85.621319,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,231,26032
+,Chilton County,AL,USA,1,1,,,32.865989,-86.69706550000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,232,44153
+,Clay County,AL,USA,1,1,,,33.294501,-85.90775099999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,233,13275
+,Cleburne County,AL,USA,1,1,,,33.716739000000004,-85.59611050000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,234,14987
+,Colbert County,AL,USA,1,1,,,34.736847,-87.7799545,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,235,54762
+,Cullman County,AL,USA,4,4,,,34.08601,-86.802028,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,236,83442
+,Dallas County,AL,USA,2,2,,,32.3886835,-87.1416965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,237,38310
+,Elmore County,AL,USA,9,9,,,32.5876855,-86.13298,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,238,81887
+,Franklin County,AL,USA,2,2,,,34.4431505,-87.85164950000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,239,31363
+,Houston County,AL,USA,2,2,,,31.156028,-85.35514699999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,240,104722
+,Jackson County,AL,USA,2,2,,,34.727785499999996,-85.9710895,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,241,51736
+,Jefferson County,AL,USA,129,129,,,33.544622000000004,-86.92924049999999,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,242,659300
+,Lamar County,AL,USA,1,1,,,33.791199,-88.110569,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,243,13844
+,Lauderdale County,AL,USA,6,6,,,34.870044500000006,-87.70685900000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,244,92387
+,Lee County,AL,USA,40,40,,,32.578877500000004,-85.348772,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,245,163941
+,Limestone County,AL,USA,6,6,,,34.774907,-87.030965,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,246,96174
+,Madison County,AL,USA,35,35,,,34.7338515,-86.52351200000001,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,247,366519
+,Marion County,AL,USA,3,3,,,34.1178885,-87.920977,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,248,29763
+,Marshall County,AL,USA,35,35,,,34.349608,-86.319824,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,249,96109
+,Mobile County,AL,USA,10,10,,,30.7006685,-88.1779755,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,250,413757
+,Montgomery County,AL,USA,13,13,,,32.2330785,-86.2080335,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,251,225763
+,Morgan County,AL,USA,5,5,,,34.4953655,-86.8301385,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,252,119089
+,Pickens County,AL,USA,1,1,,,33.2626035,-88.088514,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,253,19938
+,Pike County,AL,USA,1,1,,,31.839152,-85.928538,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,254,33338
+,Russell County,AL,USA,1,1,,,32.286625,-85.1624695,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,255,57781
+,Shelby County,AL,USA,42,42,,,33.2828065,-86.6839795,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,256,215707
+,St. Clair County,AL,USA,6,6,,,33.690028999999996,-86.310896,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,257,88690
+,Talladega County,AL,USA,3,3,,,33.4003975,-86.148843,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,258,79828
+,Tallapoosa County,AL,USA,4,4,,,32.8001965,-85.8035175,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,259,40497
+,Tuscaloosa County,AL,USA,15,15,,,33.306606,-87.4532105,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,260,208911
+,Walker County,AL,USA,9,9,,,33.7590165,-87.294891,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,261,
+,Washington County,AL,USA,1,1,,,31.406800500000003,-88.177704,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,262,16378
+,Wilcox County,AL,USA,1,1,,,32.0480285,-87.2622605,http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html,263,10627
+,San Francisco County,CA,USA,178,1,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,264,883305
+,San Mateo County,CA,USA,165,5,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,265,769545
+,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,266,1666753
+,Sonoma County,CA,USA,0,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,267,499942
+,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,268,274255
+,Contra Costa County,CA,USA,108,0,,,37.9092535,-121.983341,https://www.coronavirus.cchealth.org/,269,1150215
+,Stanislaus County,CA,USA,120,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,270,549815
+,Sacramento County,CA,USA,113,5,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,271,1540975
+,Fresno County,CA,USA,186210,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,272,994400
+,Madera County,CA,USA,5,,,,37.273546499999995,-119.7828125,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,273,157672
+,Placer County,CA,USA,30,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,274,393149
+,Los Angeles County,CA,USA,799,12,,,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,275,10105518
+,Orange County,CA,USA,0,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,276,3185968
+,Riverside County,CA,USA,7,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,277,2450758
+,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,278,3343364
