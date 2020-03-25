@@ -3816,6 +3816,20 @@
     "population": 92387
   },
   {
+    "county": "Lawrence County",
+    "cases": 1,
+    "deaths": 1,
+    "state": "AL",
+    "country": "USA",
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
+    "coordinates": [
+      -87.3173975,
+      34.552049
+    ],
+    "featureId": 246,
+    "population": 32957
+  },
+  {
     "county": "Lee County",
     "cases": 40,
     "deaths": 40,
@@ -3826,7 +3840,7 @@
       -85.348772,
       32.578877500000004
     ],
-    "featureId": 246,
+    "featureId": 247,
     "population": 163941
   },
   {
@@ -3840,7 +3854,7 @@
       -87.030965,
       34.774907
     ],
-    "featureId": 247,
+    "featureId": 248,
     "population": 96174
   },
   {
@@ -3854,7 +3868,7 @@
       -86.52351200000001,
       34.7338515
     ],
-    "featureId": 248,
+    "featureId": 249,
     "population": 366519
   },
   {
@@ -3868,7 +3882,7 @@
       -87.920977,
       34.1178885
     ],
-    "featureId": 249,
+    "featureId": 250,
     "population": 29763
   },
   {
@@ -3882,7 +3896,7 @@
       -86.319824,
       34.349608
     ],
-    "featureId": 250,
+    "featureId": 251,
     "population": 96109
   },
   {
@@ -3896,7 +3910,7 @@
       -88.1779755,
       30.7006685
     ],
-    "featureId": 251,
+    "featureId": 252,
     "population": 413757
   },
   {
@@ -3910,7 +3924,7 @@
       -86.2080335,
       32.2330785
     ],
-    "featureId": 252,
+    "featureId": 253,
     "population": 225763
   },
   {
@@ -3924,7 +3938,7 @@
       -86.8301385,
       34.4953655
     ],
-    "featureId": 253,
+    "featureId": 254,
     "population": 119089
   },
   {
@@ -3938,7 +3952,7 @@
       -88.088514,
       33.2626035
     ],
-    "featureId": 254,
+    "featureId": 255,
     "population": 19938
   },
   {
@@ -3952,7 +3966,7 @@
       -85.928538,
       31.839152
     ],
-    "featureId": 255,
+    "featureId": 256,
     "population": 33338
   },
   {
@@ -3966,7 +3980,7 @@
       -85.1624695,
       32.286625
     ],
-    "featureId": 256,
+    "featureId": 257,
     "population": 57781
   },
   {
@@ -3980,7 +3994,7 @@
       -86.6839795,
       33.2828065
     ],
-    "featureId": 257,
+    "featureId": 258,
     "population": 215707
   },
   {
@@ -3994,7 +4008,7 @@
       -86.310896,
       33.690028999999996
     ],
-    "featureId": 258,
+    "featureId": 259,
     "population": 88690
   },
   {
@@ -4008,7 +4022,7 @@
       -86.148843,
       33.4003975
     ],
-    "featureId": 259,
+    "featureId": 260,
     "population": 79828
   },
   {
@@ -4022,7 +4036,7 @@
       -85.8035175,
       32.8001965
     ],
-    "featureId": 260,
+    "featureId": 261,
     "population": 40497
   },
   {
@@ -4036,7 +4050,7 @@
       -87.4532105,
       33.306606
     ],
-    "featureId": 261,
+    "featureId": 262,
     "population": 208911
   },
   {
@@ -4050,7 +4064,7 @@
       -87.294891,
       33.7590165
     ],
-    "featureId": 262
+    "featureId": 263
   },
   {
     "county": "Washington County",
@@ -4063,7 +4077,7 @@
       -88.177704,
       31.406800500000003
     ],
-    "featureId": 263,
+    "featureId": 264,
     "population": 16378
   },
   {
@@ -4077,7 +4091,7 @@
       -87.2622605,
       32.0480285
     ],
-    "featureId": 264,
+    "featureId": 265,
     "population": 10627
   },
   {
@@ -4091,7 +4105,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 265,
+    "featureId": 266,
     "population": 883305
   },
   {
@@ -4105,7 +4119,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 266,
+    "featureId": 267,
     "population": 769545
   },
   {
@@ -4119,7 +4133,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 267,
+    "featureId": 268,
     "population": 1666753
   },
   {
@@ -4132,7 +4146,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 268,
+    "featureId": 269,
     "population": 499942
   },
   {
@@ -4145,7 +4159,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 269,
+    "featureId": 270,
     "population": 274255
   },
   {
@@ -4159,7 +4173,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 270,
+    "featureId": 271,
     "population": 1150215
   },
   {
@@ -4172,7 +4186,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 271,
+    "featureId": 272,
     "population": 549815
   },
   {
@@ -4186,7 +4200,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 272,
+    "featureId": 273,
     "population": 1540975
   },
   {
@@ -4200,7 +4214,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 273,
+    "featureId": 274,
     "population": 994400
   },
   {
@@ -4213,7 +4227,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 274,
+    "featureId": 275,
     "population": 157672
   },
   {
@@ -4227,7 +4241,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 275,
+    "featureId": 276,
     "population": 393149
   },
   {
@@ -4241,7 +4255,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 276,
+    "featureId": 277,
     "population": 10105518
   },
   {
@@ -4255,7 +4269,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 277,
+    "featureId": 278,
     "population": 3185968
   },
   {
@@ -4268,7 +4282,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 278,
+    "featureId": 279,
     "population": 2450758
   },
   {
@@ -4282,7 +4296,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 279,
+    "featureId": 280,
     "population": 3343364
   }
 ]
