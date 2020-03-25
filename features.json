@@ -74398,8 +74398,288 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Shelby County, AL",
+        "name": "Pickens County, AL",
         "id": 244
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -88.291078,
+              33.399055
+            ],
+            [
+              -88.277421,
+              33.512436
+            ],
+            [
+              -88.276805,
+              33.516463
+            ],
+            [
+              -88.274619,
+              33.534008
+            ],
+            [
+              -87.946519,
+              33.524065
+            ],
+            [
+              -87.85856,
+              33.525326
+            ],
+            [
+              -87.840683,
+              33.524839
+            ],
+            [
+              -87.836596,
+              33.186317
+            ],
+            [
+              -87.837521,
+              33.153637
+            ],
+            [
+              -87.932972,
+              33.113475
+            ],
+            [
+              -87.938091,
+              33.114666
+            ],
+            [
+              -87.968348,
+              33.078235
+            ],
+            [
+              -88.026971,
+              33.063602
+            ],
+            [
+              -88.043428,
+              33.032626
+            ],
+            [
+              -88.074873,
+              33.052765
+            ],
+            [
+              -88.086075,
+              33.036247
+            ],
+            [
+              -88.115209,
+              33.041804
+            ],
+            [
+              -88.149395,
+              33.037298
+            ],
+            [
+              -88.142928,
+              33.02536
+            ],
+            [
+              -88.171757,
+              33.008668
+            ],
+            [
+              -88.171852,
+              32.99586
+            ],
+            [
+              -88.340432,
+              32.991199
+            ],
+            [
+              -88.330934,
+              33.073125
+            ],
+            [
+              -88.317135,
+              33.184123
+            ],
+            [
+              -88.315235,
+              33.203323
+            ],
+            [
+              -88.312535,
+              33.220923
+            ],
+            [
+              -88.304417,
+              33.288318
+            ],
+            [
+              -88.291078,
+              33.399055
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pike County, AL",
+        "id": 245
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -85.748251,
+              31.618048
+            ],
+            [
+              -85.749941,
+              31.617914
+            ],
+            [
+              -85.789142,
+              31.617964
+            ],
+            [
+              -86.145895,
+              31.617741
+            ],
+            [
+              -86.179672,
+              31.616414
+            ],
+            [
+              -86.180057,
+              31.625109
+            ],
+            [
+              -86.147126,
+              31.662997
+            ],
+            [
+              -86.148339,
+              31.790951
+            ],
+            [
+              -86.199378,
+              31.79045
+            ],
+            [
+              -86.199408,
+              31.807861
+            ],
+            [
+              -86.182949,
+              31.83239
+            ],
+            [
+              -86.182307,
+              31.870287
+            ],
+            [
+              -86.173091,
+              31.893143
+            ],
+            [
+              -86.175531,
+              31.931273
+            ],
+            [
+              -86.191379,
+              31.966453
+            ],
+            [
+              -85.995563,
+              31.967554
+            ],
+            [
+              -85.996853,
+              32.051049
+            ],
+            [
+              -85.950253,
+              32.05455
+            ],
+            [
+              -85.946298,
+              32.06189
+            ],
+            [
+              -85.946278,
+              32.054571
+            ],
+            [
+              -85.911755,
+              32.054752
+            ],
+            [
+              -85.893652,
+              32.047351
+            ],
+            [
+              -85.892651,
+              31.989053
+            ],
+            [
+              -85.88435,
+              31.967253
+            ],
+            [
+              -85.790048,
+              31.967254
+            ],
+            [
+              -85.791047,
+              31.880357
+            ],
+            [
+              -85.657668,
+              31.880275
+            ],
+            [
+              -85.678128,
+              31.856001
+            ],
+            [
+              -85.662692,
+              31.783319
+            ],
+            [
+              -85.70415,
+              31.737004
+            ],
+            [
+              -85.706122,
+              31.707245
+            ],
+            [
+              -85.717911,
+              31.698032
+            ],
+            [
+              -85.716146,
+              31.660505
+            ],
+            [
+              -85.741419,
+              31.61961
+            ],
+            [
+              -85.748251,
+              31.618048
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Shelby County, AL",
+        "id": 246
       },
       "geometry": {
         "type": "Polygon",
@@ -74689,7 +74969,7 @@
       "type": "Feature",
       "properties": {
         "name": "St. Clair County, AL",
-        "id": 245
+        "id": 247
       },
       "geometry": {
         "type": "Polygon",
@@ -75023,7 +75303,7 @@
       "type": "Feature",
       "properties": {
         "name": "Talladega County, AL",
-        "id": 246
+        "id": 248
       },
       "geometry": {
         "type": "Polygon",
@@ -75321,7 +75601,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tallapoosa County, AL",
-        "id": 247
+        "id": 249
       },
       "geometry": {
         "type": "Polygon",
@@ -75479,7 +75759,7 @@
       "type": "Feature",
       "properties": {
         "name": "Tuscaloosa County, AL",
-        "id": 248
+        "id": 250
       },
       "geometry": {
         "type": "Polygon",
@@ -75729,7 +76009,7 @@
       "type": "Feature",
       "properties": {
         "name": "Walker County, AL",
-        "id": 249
+        "id": 251
       },
       "geometry": {
         "type": "Polygon",
@@ -75963,7 +76243,7 @@
       "type": "Feature",
       "properties": {
         "name": "Washington County, AL",
-        "id": 250
+        "id": 252
       },
       "geometry": {
         "type": "Polygon",
@@ -76201,7 +76481,7 @@
       "type": "Feature",
       "properties": {
         "name": "San Francisco County, CA",
-        "id": 251
+        "id": 253
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -76409,7 +76689,7 @@
       "type": "Feature",
       "properties": {
         "name": "San Mateo County, CA",
-        "id": 252
+        "id": 254
       },
       "geometry": {
         "type": "Polygon",
@@ -76939,7 +77219,7 @@
       "type": "Feature",
       "properties": {
         "name": "Alameda County, CA",
-        "id": 253
+        "id": 255
       },
       "geometry": {
         "type": "Polygon",
@@ -77277,7 +77557,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sonoma County, CA",
-        "id": 254
+        "id": 256
       },
       "geometry": {
         "type": "Polygon",
@@ -77747,7 +78027,7 @@
       "type": "Feature",
       "properties": {
         "name": "Santa Cruz County, CA",
-        "id": 255
+        "id": 257
       },
       "geometry": {
         "type": "Polygon",
@@ -78005,7 +78285,7 @@
       "type": "Feature",
       "properties": {
         "name": "Contra Costa County, CA",
-        "id": 256
+        "id": 258
       },
       "geometry": {
         "type": "Polygon",
@@ -78447,7 +78727,7 @@
       "type": "Feature",
       "properties": {
         "name": "Stanislaus County, CA",
-        "id": 257
+        "id": 259
       },
       "geometry": {
         "type": "Polygon",
@@ -78701,7 +78981,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sacramento County, CA",
-        "id": 258
+        "id": 260
       },
       "geometry": {
         "type": "Polygon",
@@ -79063,7 +79343,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fresno County, CA",
-        "id": 259
+        "id": 261
       },
       "geometry": {
         "type": "Polygon",
@@ -79741,7 +80021,7 @@
       "type": "Feature",
       "properties": {
         "name": "Madera County, CA",
-        "id": 260
+        "id": 262
       },
       "geometry": {
         "type": "Polygon",
@@ -80255,7 +80535,7 @@
       "type": "Feature",
       "properties": {
         "name": "Placer County, CA",
-        "id": 261
+        "id": 263
       },
       "geometry": {
         "type": "Polygon",
@@ -80657,7 +80937,7 @@
       "type": "Feature",
       "properties": {
         "name": "Los Angeles County, CA",
-        "id": 262
+        "id": 264
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -81437,7 +81717,7 @@
       "type": "Feature",
       "properties": {
         "name": "Orange County, CA",
-        "id": 263
+        "id": 265
       },
       "geometry": {
         "type": "Polygon",
@@ -81675,7 +81955,7 @@
       "type": "Feature",
       "properties": {
         "name": "Riverside County, CA",
-        "id": 264
+        "id": 266
       },
       "geometry": {
         "type": "Polygon",
@@ -82521,7 +82801,7 @@
       "type": "Feature",
       "properties": {
         "name": "San Diego County, CA",
-        "id": 265
+        "id": 267
       },
       "geometry": {
         "type": "Polygon",
