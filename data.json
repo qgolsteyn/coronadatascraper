@@ -4218,19 +4218,6 @@
     "population": 994400
   },
   {
-    "cases": 5,
-    "county": "Madera County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.maderacounty.com/government/public-health/health-updates/corona-virus",
-    "coordinates": [
-      -119.7828125,
-      37.273546499999995
-    ],
-    "featureId": 275,
-    "population": 157672
-  },
-  {
     "cases": 30,
     "deaths": 1,
     "county": "Placer County",
@@ -4241,7 +4228,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 276,
+    "featureId": 275,
     "population": 393149
   },
   {
@@ -4255,7 +4242,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 277,
+    "featureId": 276,
     "population": 10105518
   },
   {
@@ -4269,7 +4256,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 278,
+    "featureId": 277,
     "population": 3185968
   },
   {
@@ -4282,7 +4269,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 279,
+    "featureId": 278,
     "population": 2450758
   },
   {
@@ -4296,7 +4283,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 280,
+    "featureId": 279,
     "population": 3343364
   }
 ]
