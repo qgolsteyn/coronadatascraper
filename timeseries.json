@@ -181,10 +181,10 @@
         "growthFactor": 1.0392156862745099
       },
       "2020-3-25": {
-        "cases": 689,
-        "deaths": 46,
-        "recovered": 21,
-        "growthFactor": 1
+        "cases": 813,
+        "deaths": 52,
+        "recovered": 23,
+        "growthFactor": 1.1799709724238026
       }
     },
     "state": "Abruzzo",
@@ -374,10 +374,10 @@
         "growthFactor": 1.0222222222222221
       },
       "2020-3-25": {
-        "cases": 92,
+        "cases": 113,
         "deaths": 1,
         "recovered": 0,
-        "growthFactor": 1
+        "growthFactor": 1.2282608695652173
       }
     },
     "state": "Basilicata",
@@ -567,10 +567,10 @@
         "growthFactor": 1.078729281767956
       },
       "2020-3-25": {
-        "cases": 781,
-        "deaths": 38,
-        "recovered": 44,
-        "growthFactor": 1
+        "cases": 858,
+        "deaths": 43,
+        "recovered": 67,
+        "growthFactor": 1.0985915492957747
       }
     },
     "state": "P.A. Bolzano",
@@ -759,10 +759,10 @@
         "growthFactor": 1.0924657534246576
       },
       "2020-3-25": {
-        "cases": 319,
-        "deaths": 10,
-        "recovered": 5,
-        "growthFactor": 1
+        "cases": 351,
+        "deaths": 11,
+        "recovered": 7,
+        "growthFactor": 1.1003134796238245
       }
     },
     "state": "Calabria",
@@ -952,10 +952,10 @@
         "growthFactor": 1.0730994152046784
       },
       "2020-3-25": {
-        "cases": 1101,
-        "deaths": 56,
+        "cases": 1199,
+        "deaths": 74,
         "recovered": 53,
-        "growthFactor": 1
+        "growthFactor": 1.0890099909173478
       }
     },
     "state": "Campania",
@@ -1145,10 +1145,10 @@
         "growthFactor": 1.084241359109549
       },
       "2020-3-25": {
-        "cases": 9254,
-        "deaths": 985,
-        "recovered": 558,
-        "growthFactor": 1
+        "cases": 10054,
+        "deaths": 1077,
+        "recovered": 721,
+        "growthFactor": 1.0864491030905554
       }
     },
     "state": "Emilia Romagna",
@@ -1338,10 +1338,10 @@
         "growthFactor": 1.0666666666666667
       },
       "2020-3-25": {
-        "cases": 992,
-        "deaths": 64,
-        "recovered": 80,
-        "growthFactor": 1
+        "cases": 1139,
+        "deaths": 70,
+        "recovered": 158,
+        "growthFactor": 1.1481854838709677
       }
     },
     "state": "Friuli Venezia Giulia",
@@ -1531,10 +1531,10 @@
         "growthFactor": 1.122077922077922
       },
       "2020-3-25": {
-        "cases": 1728,
-        "deaths": 80,
-        "recovered": 103,
-        "growthFactor": 1
+        "cases": 1901,
+        "deaths": 95,
+        "recovered": 131,
+        "growthFactor": 1.1001157407407407
       }
     },
     "state": "Lazio",
@@ -1724,10 +1724,10 @@
         "growthFactor": 1.0997920997920998
       },
       "2020-3-25": {
-        "cases": 2116,
-        "deaths": 231,
-        "recovered": 193,
-        "growthFactor": 1
+        "cases": 2305,
+        "deaths": 254,
+        "recovered": 225,
+        "growthFactor": 1.089319470699433
       }
     },
     "state": "Liguria",
@@ -1922,10 +1922,10 @@
         "growthFactor": 1.067521991585828
       },
       "2020-3-25": {
-        "cases": 30703,
-        "deaths": 4178,
-        "recovered": 6657,
-        "growthFactor": 1
+        "cases": 32346,
+        "deaths": 4474,
+        "recovered": 7281,
+        "growthFactor": 1.0535126860567372
       }
     },
     "state": "Lombardia",
@@ -2115,10 +2115,10 @@
         "growthFactor": 1.0650058388478008
       },
       "2020-3-25": {
-        "cases": 2736,
-        "deaths": 231,
+        "cases": 2934,
+        "deaths": 287,
         "recovered": 8,
-        "growthFactor": 1
+        "growthFactor": 1.0723684210526316
       }
     },
     "state": "Marche",
@@ -2310,7 +2310,7 @@
       "2020-3-25": {
         "cases": 73,
         "deaths": 8,
-        "recovered": 10,
+        "recovered": 12,
         "growthFactor": 1
       }
     },
@@ -2501,10 +2501,10 @@
         "growthFactor": 1.1345402180621271
       },
       "2020-3-25": {
-        "cases": 5515,
-        "deaths": 374,
-        "recovered": 17,
-        "growthFactor": 1
+        "cases": 6024,
+        "deaths": 449,
+        "recovered": 19,
+        "growthFactor": 1.0922937443336356
       }
     },
     "state": "Piemonte",
@@ -2694,10 +2694,10 @@
         "growthFactor": 1.109271523178808
       },
       "2020-3-25": {
-        "cases": 1005,
-        "deaths": 44,
-        "recovered": 21,
-        "growthFactor": 1
+        "cases": 1093,
+        "deaths": 48,
+        "recovered": 22,
+        "growthFactor": 1.0875621890547265
       }
     },
     "state": "Puglia",
@@ -2887,10 +2887,10 @@
         "growthFactor": 1.1727019498607243
       },
       "2020-3-25": {
-        "cases": 421,
-        "deaths": 15,
-        "recovered": 11,
-        "growthFactor": 1
+        "cases": 442,
+        "deaths": 18,
+        "recovered": 12,
+        "growthFactor": 1.0498812351543942
       }
     },
     "state": "Sardegna",
@@ -3080,10 +3080,10 @@
         "growthFactor": 1.1733703190013869
       },
       "2020-3-25": {
-        "cases": 846,
-        "deaths": 20,
-        "recovered": 27,
-        "growthFactor": 1
+        "cases": 994,
+        "deaths": 25,
+        "recovered": 33,
+        "growthFactor": 1.1749408983451537
       }
     },
     "state": "Sicilia",
@@ -3273,10 +3273,10 @@
         "growthFactor": 1.0967086550182852
       },
       "2020-3-25": {
-        "cases": 2699,
-        "deaths": 129,
-        "recovered": 51,
-        "growthFactor": 1
+        "cases": 2972,
+        "deaths": 142,
+        "recovered": 54,
+        "growthFactor": 1.1011485735457578
       }
     },
     "state": "Toscana",
@@ -3466,10 +3466,10 @@
         "growthFactor": 1.0850439882697946
       },
       "2020-3-25": {
-        "cases": 1110,
-        "deaths": 56,
-        "recovered": 79,
-        "growthFactor": 1
+        "cases": 1222,
+        "deaths": 74,
+        "recovered": 90,
+        "growthFactor": 1.100900900900901
       }
     },
     "state": "P.A. Trento",
@@ -3658,10 +3658,10 @@
         "growthFactor": 1.123050259965338
       },
       "2020-3-25": {
-        "cases": 648,
+        "cases": 710,
         "deaths": 19,
         "recovered": 5,
-        "growthFactor": 1
+        "growthFactor": 1.095679012345679
       }
     },
     "state": "Umbria",
@@ -3851,10 +3851,10 @@
         "growthFactor": 1.0178117048346056
       },
       "2020-3-25": {
-        "cases": 400,
-        "deaths": 19,
+        "cases": 401,
+        "deaths": 24,
         "recovered": 2,
-        "growthFactor": 1
+        "growthFactor": 1.0025
       }
     },
     "state": "Valle d'Aosta",
@@ -4044,10 +4044,10 @@
         "growthFactor": 1.08047229791099
       },
       "2020-3-25": {
-        "cases": 5948,
-        "deaths": 216,
-        "recovered": 381,
-        "growthFactor": 1
+        "cases": 6442,
+        "deaths": 258,
+        "recovered": 439,
+        "growthFactor": 1.0830531271015467
       }
     },
     "state": "Veneto",
@@ -10620,22 +10620,12 @@
         "cases": 0,
         "deaths": 0,
         "growthFactor": null
-      },
-      "2020-3-25": {
-        "cases": 9,
-        "deaths": 9
       }
     },
     "county": "Elmore County",
     "state": "AL",
     "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.13298,
-      32.5876855
-    ],
-    "featureId": 230,
-    "population": 81887
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
   },
   "Jefferson County, AL, USA": {
     "dates": {
@@ -10647,22 +10637,12 @@
         "cases": 0,
         "deaths": 0,
         "growthFactor": null
-      },
-      "2020-3-25": {
-        "cases": 99,
-        "deaths": 99
       }
     },
     "county": "Jefferson County",
     "state": "AL",
     "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.92924049999999,
-      33.544622000000004
-    ],
-    "featureId": 234,
-    "population": 659300
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
   },
   "Limestone County, AL, USA": {
     "dates": {
@@ -10674,22 +10654,12 @@
         "cases": 0,
         "deaths": 0,
         "growthFactor": null
-      },
-      "2020-3-25": {
-        "cases": 6,
-        "deaths": 6
       }
     },
     "county": "Limestone County",
     "state": "AL",
     "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -87.030965,
-      34.774907
-    ],
-    "featureId": 238,
-    "population": 96174
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
   },
   "Montgomery County, AL, USA": {
     "dates": {
@@ -10701,22 +10671,12 @@
         "cases": 0,
         "deaths": 0,
         "growthFactor": null
-      },
-      "2020-3-25": {
-        "cases": 9,
-        "deaths": 9
       }
     },
     "county": "Montgomery County",
     "state": "AL",
     "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.2080335,
-      32.2330785
-    ],
-    "featureId": 242,
-    "population": 225763
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
   },
   "Tuscaloosa County, AL, USA": {
     "dates": {
@@ -10728,22 +10688,12 @@
         "cases": 0,
         "deaths": 0,
         "growthFactor": null
-      },
-      "2020-3-25": {
-        "cases": 10,
-        "deaths": 10
       }
     },
     "county": "Tuscaloosa County",
     "state": "AL",
     "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -87.4532105,
-      33.306606
-    ],
-    "featureId": 250,
-    "population": 208911
+    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html"
   },
   "Clackamas County, OR, USA": {
     "dates": {
@@ -11921,7 +11871,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 253,
+    "featureId": 225,
     "population": 883305
   },
   "San Mateo County, CA, USA": {
@@ -11948,7 +11898,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 254,
+    "featureId": 226,
     "population": 769545
   },
   "Alameda County, CA, USA": {
@@ -11975,7 +11925,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 255,
+    "featureId": 227,
     "population": 1666753
   },
   "Sonoma County, CA, USA": {
@@ -11999,7 +11949,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 256,
+    "featureId": 228,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -12023,7 +11973,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 257,
+    "featureId": 229,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -12065,7 +12015,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 258,
+    "featureId": 230,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -12089,7 +12039,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 259,
+    "featureId": 231,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -12131,7 +12081,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 260,
+    "featureId": 232,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -12158,7 +12108,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 261,
+    "featureId": 233,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -12182,7 +12132,7 @@
       -119.7828125,
       37.273546499999995
     ],
-    "featureId": 262,
+    "featureId": 234,
     "population": 157672
   },
   "Placer County, CA, USA": {
@@ -12209,7 +12159,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 263,
+    "featureId": 235,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -12251,7 +12201,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 264,
+    "featureId": 236,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -12278,7 +12228,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 265,
+    "featureId": 237,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -12302,7 +12252,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 266,
+    "featureId": 238,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -12329,7 +12279,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 267,
+    "featureId": 239,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -12356,7 +12306,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 268,
+    "featureId": 240,
     "population": 850967
   },
   "AL, USA": {
@@ -13593,418 +13543,5 @@
     "state": "Total",
     "country": "Canada",
     "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
-  },
-  "Autauga County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 1,
-        "deaths": 1
-      }
-    },
-    "county": "Autauga County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.665704,
-      32.508009
-    ],
-    "featureId": 225,
-    "population": 55601
-  },
-  "Baldwin County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 4,
-        "deaths": 4
-      }
-    },
-    "county": "Baldwin County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -87.69793150000001,
-      30.765086
-    ],
-    "featureId": 226,
-    "population": 218022
-  },
-  "Calhoun County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 2,
-        "deaths": 2
-      }
-    },
-    "county": "Calhoun County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -85.837497,
-      33.7622675
-    ],
-    "featureId": 227,
-    "population": 114277
-  },
-  "Chambers County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 7,
-        "deaths": 7
-      }
-    },
-    "county": "Chambers County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -85.3626035,
-      32.9183035
-    ],
-    "featureId": 228,
-    "population": 33615
-  },
-  "Cullman County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 3,
-        "deaths": 3
-      }
-    },
-    "county": "Cullman County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.802028,
-      34.08601
-    ],
-    "featureId": 229,
-    "population": 83442
-  },
-  "Franklin County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 1,
-        "deaths": 1
-      }
-    },
-    "county": "Franklin County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -87.85164950000001,
-      34.4431505
-    ],
-    "featureId": 231,
-    "population": 31363
-  },
-  "Houston County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 1,
-        "deaths": 1
-      }
-    },
-    "county": "Houston County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -85.35514699999999,
-      31.156028
-    ],
-    "featureId": 232,
-    "population": 104722
-  },
-  "Jackson County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 2,
-        "deaths": 2
-      }
-    },
-    "county": "Jackson County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -85.9710895,
-      34.727785499999996
-    ],
-    "featureId": 233,
-    "population": 51736
-  },
-  "Lamar County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 1,
-        "deaths": 1
-      }
-    },
-    "county": "Lamar County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -88.110569,
-      33.791199
-    ],
-    "featureId": 235,
-    "population": 13844
-  },
-  "Lauderdale County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 6,
-        "deaths": 6
-      }
-    },
-    "county": "Lauderdale County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -87.70685900000001,
-      34.870044500000006
-    ],
-    "featureId": 236,
-    "population": 92387
-  },
-  "Lee County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 29,
-        "deaths": 29
-      }
-    },
-    "county": "Lee County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -85.348772,
-      32.578877500000004
-    ],
-    "featureId": 237,
-    "population": 163941
-  },
-  "Madison County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 21,
-        "deaths": 21
-      }
-    },
-    "county": "Madison County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.52351200000001,
-      34.7338515
-    ],
-    "featureId": 239,
-    "population": 366519
-  },
-  "Marion County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 1,
-        "deaths": 1
-      }
-    },
-    "county": "Marion County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -87.920977,
-      34.1178885
-    ],
-    "featureId": 240,
-    "population": 29763
-  },
-  "Mobile County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 10,
-        "deaths": 10
-      }
-    },
-    "county": "Mobile County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -88.1779755,
-      30.7006685
-    ],
-    "featureId": 241,
-    "population": 413757
-  },
-  "Morgan County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 2,
-        "deaths": 2
-      }
-    },
-    "county": "Morgan County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.8301385,
-      34.4953655
-    ],
-    "featureId": 243,
-    "population": 119089
-  },
-  "Pickens County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 1,
-        "deaths": 1
-      }
-    },
-    "county": "Pickens County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -88.088514,
-      33.2626035
-    ],
-    "featureId": 244,
-    "population": 19938
-  },
-  "Pike County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 1,
-        "deaths": 1
-      }
-    },
-    "county": "Pike County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -85.928538,
-      31.839152
-    ],
-    "featureId": 245,
-    "population": 33338
-  },
-  "Shelby County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 36,
-        "deaths": 36
-      }
-    },
-    "county": "Shelby County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.6839795,
-      33.2828065
-    ],
-    "featureId": 246,
-    "population": 215707
-  },
-  "St. Clair County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 5,
-        "deaths": 5
-      }
-    },
-    "county": "St. Clair County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.310896,
-      33.690028999999996
-    ],
-    "featureId": 247,
-    "population": 88690
-  },
-  "Talladega County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 4,
-        "deaths": 4
-      }
-    },
-    "county": "Talladega County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -86.148843,
-      33.4003975
-    ],
-    "featureId": 248,
-    "population": 79828
-  },
-  "Tallapoosa County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 3,
-        "deaths": 3
-      }
-    },
-    "county": "Tallapoosa County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -85.8035175,
-      32.8001965
-    ],
-    "featureId": 249,
-    "population": 40497
-  },
-  "Walker County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 8,
-        "deaths": 8
-      }
-    },
-    "county": "Walker County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -87.294891,
-      33.7590165
-    ],
-    "featureId": 251
-  },
-  "Washington County, AL, USA": {
-    "dates": {
-      "2020-3-25": {
-        "cases": 1,
-        "deaths": 1
-      }
-    },
-    "county": "Washington County",
-    "state": "AL",
-    "country": "USA",
-    "url": "http://www.alabamapublichealth.gov/infectiousdiseases/2019-coronavirus.html",
-    "coordinates": [
-      -88.177704,
-      31.406800500000003
-    ],
-    "featureId": 252,
-    "population": 16378
   }
 }
