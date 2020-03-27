@@ -10654,7 +10654,7 @@
         "growthFactor": 1.2608695652173914
       },
       "2020-3-27": {
-        "cases": 486
+        "cases": 542
       }
     },
     "state": "Alberta",
@@ -10677,7 +10677,7 @@
         "growthFactor": null
       },
       "2020-3-27": {
-        "cases": 95
+        "cases": 104
       }
     },
     "state": "Saskatchewan",
@@ -10700,7 +10700,7 @@
         "growthFactor": 1
       },
       "2020-3-27": {
-        "cases": 11
+        "cases": 25
       }
     },
     "state": "Manitoba",
@@ -10723,7 +10723,7 @@
         "growthFactor": 1
       },
       "2020-3-27": {
-        "cases": 858
+        "cases": 993
       }
     },
     "state": "Ontario",
@@ -10746,7 +10746,7 @@
         "growthFactor": 1
       },
       "2020-3-27": {
-        "cases": 1629
+        "cases": 2021
       }
     },
     "state": "Quebec",
@@ -10769,7 +10769,7 @@
         "growthFactor": 1
       },
       "2020-3-27": {
-        "cases": 33
+        "cases": 45
       }
     },
     "state": "New Brunswick",
@@ -12390,8 +12390,8 @@
         "growthFactor": 1
       },
       "2020-3-27": {
-        "cases": 0,
-        "deaths": 0
+        "cases": 30,
+        "deaths": 1
       }
     },
     "county": "Placer County",
@@ -13665,7 +13665,7 @@
   "Nova Scotia, Canada": {
     "dates": {
       "2020-3-27": {
-        "cases": 73
+        "cases": 90
       }
     },
     "state": "Nova Scotia",
@@ -13681,7 +13681,7 @@
   "Prince Edward Island, Canada": {
     "dates": {
       "2020-3-27": {
-        "cases": 9
+        "cases": 11
       }
     },
     "state": "Prince Edward Island",
@@ -13697,7 +13697,7 @@
   "Newfoundland and Labrador, Canada": {
     "dates": {
       "2020-3-27": {
-        "cases": 82
+        "cases": 102
       }
     },
     "state": "Newfoundland and Labrador",
@@ -13761,7 +13761,7 @@
   "Total, Canada": {
     "dates": {
       "2020-3-27": {
-        "cases": 4018
+        "cases": 4675
       }
     },
     "state": "Total",

@@ -823,20 +823,20 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,,British Columbia,Canada,5071000,54.15716767014678,-126.56202337499991,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,725,,,,2020-03-27
 ,,Alberta,Canada,4067175,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,23,,,,2020-03-13
 ,,Alberta,Canada,4067175,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,29,,,,2020-03-14
-,,Alberta,Canada,4067175,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,486,,,,2020-03-27
-,,Saskatchewan,Canada,1098352,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,95,,,,2020-03-27
+,,Alberta,Canada,4067175,54.49628672664678,-115.00016854279502,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,542,,,,2020-03-27
+,,Saskatchewan,Canada,1098352,54.496338403094796,-105.6821561755884,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,104,,,,2020-03-27
 ,,Manitoba,Canada,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,,2020-03-13
 ,,Manitoba,Canada,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,,2020-03-14
-,,Manitoba,Canada,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,11,,,,2020-03-27
+,,Manitoba,Canada,1278365,54.496368513369816,-95.4742987434922,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,25,,,,2020-03-27
 ,,Ontario,Canada,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,79,,,,2020-03-13
 ,,Ontario,Canada,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,79,,,,2020-03-14
-,,Ontario,Canada,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,858,,,,2020-03-27
+,,Ontario,Canada,13448494,49.26501413726137,-84.7533750036988,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,993,,,,2020-03-27
 ,,Quebec,Canada,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,17,,,,2020-03-13
 ,,Quebec,Canada,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,17,,,,2020-03-14
-,,Quebec,Canada,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1629,,,,2020-03-27
+,,Quebec,Canada,8164361,53.79378896700006,-68.38833574149993,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,2021,,,,2020-03-27
 ,,New Brunswick,Canada,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,,2020-03-13
 ,,New Brunswick,Canada,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,,2020-03-14
-,,New Brunswick,Canada,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,33,,,,2020-03-27
+,,New Brunswick,Canada,747101,46.36274594300005,-66.43830941249992,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,45,,,,2020-03-27
 ,Copiah County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-13
 ,Copiah County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-14
 ,Pearl River County,MS,USA,,,,"https://msdh.ms.gov/msdhsite/_static/14,0,420.html",1,,,,2020-03-13
@@ -1013,6 +1013,7 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Madera County,CA,USA,,,,https://www.maderacounty.com/government/public-health/health-updates/corona-virus,1,,,,2020-03-14
 ,Placer County,CA,USA,393149,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,7,1,,,2020-03-13
 ,Placer County,CA,USA,393149,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,7,1,,,2020-03-14
+,Placer County,CA,USA,393149,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,30,1,,,2020-03-27
 ,Shasta County,CA,USA,,,,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,1,,,,2020-03-13
 ,Shasta County,CA,USA,,,,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,1,,,,2020-03-14
 ,Los Angeles County,CA,USA,,,,http://www.publichealth.lacounty.gov/media/Coronavirus/,40,1,,,2020-03-13
@@ -1111,9 +1112,9 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Pike County,PA,USA,,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,1,,,,2020-03-14
 ,Washington County,PA,USA,,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,1,,,,2020-03-14
 ,Wayne County,PA,USA,,,,https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx,1,,,,2020-03-14
-,,Nova Scotia,Canada,923598,45.266872463000055,-63.021209276499945,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,73,,,,2020-03-27
-,,Prince Edward Island,Canada,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,9,,,,2020-03-27
-,,Newfoundland and Labrador,Canada,519716,53.46112743006114,-60.21844100481229,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,82,,,,2020-03-27
+,,Nova Scotia,Canada,923598,45.266872463000055,-63.021209276499945,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,90,,,,2020-03-27
+,,Prince Edward Island,Canada,142907,46.49290599200006,-63.21041826049995,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,11,,,,2020-03-27
+,,Newfoundland and Labrador,Canada,519716,53.46112743006114,-60.21844100481229,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,102,,,,2020-03-27
 ,,Yukon,Canada,35874,64.82713023550005,-132.41233364551596,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,3,,,,2020-03-27
 ,,Northwest Territories,Canada,41786,69.38320119914675,-119.22198188100899,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,1,,,,2020-03-27
-,,Total,Canada,,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,4018,,,,2020-03-27
+,,Total,Canada,,,,https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html,4675,,,,2020-03-27
