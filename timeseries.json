@@ -12390,8 +12390,8 @@
         "growthFactor": 1
       },
       "2020-3-27": {
-        "cases": 0,
-        "deaths": 0
+        "cases": 30,
+        "deaths": 1
       }
     },
     "county": "Placer County",
@@ -12472,21 +12472,12 @@
       "2020-3-14": {
         "cases": 1,
         "growthFactor": 0.125
-      },
-      "2020-3-27": {
-        "cases": 1
       }
     },
     "county": "Riverside County",
     "state": "CA",
     "country": "USA",
-    "url": "https://www.rivcoph.org/coronavirus",
-    "coordinates": [
-      -116.05561750000001,
-      33.752829500000004
-    ],
-    "featureId": 236,
-    "population": 2450758
+    "url": "https://www.rivcoph.org/coronavirus"
   },
   "San Diego County, CA, USA": {
     "dates": {
@@ -12512,7 +12503,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 237,
+    "featureId": 236,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -12539,7 +12530,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 238,
+    "featureId": 237,
     "population": 850967
   },
   "AL, USA": {

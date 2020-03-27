@@ -257,7 +257,6 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Stanislaus County,CA,USA,197760,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,231,549815
 ,Sacramento County,CA,USA,1731864956566,1965,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,232,1540975
 ,Fresno County,CA,USA,2714337,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,233,994400
-,Placer County,CA,USA,0,0,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,234,393149
+,Placer County,CA,USA,30,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,234,393149
 ,Orange County,CA,USA,0,0,,,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,235,3185968
-,Riverside County,CA,USA,1,,,,33.752829500000004,-116.05561750000001,https://www.rivcoph.org/coronavirus,236,2450758
-,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,237,3343364
+,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,236,3343364
