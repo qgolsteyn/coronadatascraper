@@ -248,7 +248,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,,Valle d'Aosta,ITA,408,28,2,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,125666
 ,,Veneto,ITA,6935,287,508,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4905854
 ,,DC,USA,0,,,1055,,,https://coronavirus.dc.gov/page/coronavirus-data,,
-,San Francisco County,CA,USA,223,2,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,225,883305
+,San Francisco County,CA,USA,279,3,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,225,883305
 ,San Mateo County,CA,USA,239,6,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,226,769545
 ,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,227,1666753
 ,Sonoma County,CA,USA,0,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,228,499942
