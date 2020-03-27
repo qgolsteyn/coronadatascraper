@@ -12430,22 +12430,12 @@
         "cases": 40,
         "deaths": 1,
         "growthFactor": 1
-      },
-      "2020-3-27": {
-        "cases": 1216,
-        "deaths": 21
       }
     },
     "county": "Los Angeles County",
     "state": "CA",
     "country": "USA",
-    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
-    "coordinates": [
-      -118.29563049999999,
-      33.8115605
-    ],
-    "featureId": 235,
-    "population": 10105518
+    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/"
   },
   "Orange County, CA, USA": {
     "dates": {
@@ -12471,7 +12461,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 236,
+    "featureId": 235,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -12495,7 +12485,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 237,
+    "featureId": 236,
     "population": 2450758
   },
   "San Diego County, CA, USA": {
@@ -12522,7 +12512,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 238,
+    "featureId": 237,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -12549,7 +12539,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 239,
+    "featureId": 238,
     "population": 850967
   },
   "AL, USA": {

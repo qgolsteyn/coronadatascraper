@@ -3659,20 +3659,6 @@
     "population": 393149
   },
   {
-    "cases": 1216,
-    "deaths": 21,
-    "county": "Los Angeles County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
-    "coordinates": [
-      -118.29563049999999,
-      33.8115605
-    ],
-    "featureId": 235,
-    "population": 10105518
-  },
-  {
     "cases": 0,
     "deaths": 0,
     "county": "Orange County",
@@ -3683,7 +3669,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 236,
+    "featureId": 235,
     "population": 3185968
   },
   {
@@ -3696,7 +3682,7 @@
       -116.05561750000001,
       33.752829500000004
     ],
-    "featureId": 237,
+    "featureId": 236,
     "population": 2450758
   },
   {
@@ -3710,7 +3696,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 238,
+    "featureId": 237,
     "population": 3343364
   }
 ]
