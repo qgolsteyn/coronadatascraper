@@ -3687,6 +3687,19 @@
     "population": 3185968
   },
   {
+    "cases": 1,
+    "county": "Riverside County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.rivcoph.org/coronavirus",
+    "coordinates": [
+      -116.05561750000001,
+      33.752829500000004
+    ],
+    "featureId": 237,
+    "population": 2450758
+  },
+  {
     "cases": 0,
     "tested": 0,
     "county": "San Diego County",
@@ -3697,7 +3710,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 237,
+    "featureId": 238,
     "population": 3343364
   }
 ]
