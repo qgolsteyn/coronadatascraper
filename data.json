@@ -3498,20 +3498,6 @@
   },
   {
     "cases": 0,
-    "deaths": 0,
-    "county": "Orange County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus",
-    "coordinates": [
-      -117.76484500000001,
-      33.66652
-    ],
-    "featureId": 222,
-    "population": 3185968
-  },
-  {
-    "cases": 0,
     "tested": 0,
     "county": "San Diego County",
     "state": "CA",
@@ -3521,7 +3507,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 223,
+    "featureId": 222,
     "population": 3343364
   }
 ]
