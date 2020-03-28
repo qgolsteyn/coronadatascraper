@@ -3161,168 +3161,6 @@
     "population": 829685
   },
   {
-    "state": "British Columbia",
-    "cases": 725,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -126.56202337499991,
-      54.15716767014678
-    ],
-    "featureId": 211,
-    "population": 5071000
-  },
-  {
-    "state": "Alberta",
-    "cases": 542,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -115.00016854279502,
-      54.49628672664678
-    ],
-    "featureId": 212,
-    "population": 4067175
-  },
-  {
-    "state": "Saskatchewan",
-    "cases": 104,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -105.6821561755884,
-      54.496338403094796
-    ],
-    "featureId": 213,
-    "population": 1098352
-  },
-  {
-    "state": "Manitoba",
-    "cases": 25,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -95.4742987434922,
-      54.496368513369816
-    ],
-    "featureId": 214,
-    "population": 1278365
-  },
-  {
-    "state": "Ontario",
-    "cases": 993,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -84.7533750036988,
-      49.26501413726137
-    ],
-    "featureId": 215,
-    "population": 13448494
-  },
-  {
-    "state": "Quebec",
-    "cases": 2021,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -68.38833574149993,
-      53.79378896700006
-    ],
-    "featureId": 216,
-    "population": 8164361
-  },
-  {
-    "state": "New Brunswick",
-    "cases": 45,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -66.43830941249992,
-      46.36274594300005
-    ],
-    "featureId": 217,
-    "population": 747101
-  },
-  {
-    "state": "Nova Scotia",
-    "cases": 90,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -63.021209276499945,
-      45.266872463000055
-    ],
-    "featureId": 218,
-    "population": 923598
-  },
-  {
-    "state": "Prince Edward Island",
-    "cases": 11,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -63.21041826049995,
-      46.49290599200006
-    ],
-    "featureId": 219,
-    "population": 142907
-  },
-  {
-    "state": "Newfoundland and Labrador",
-    "cases": 102,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -60.21844100481229,
-      53.46112743006114
-    ],
-    "featureId": 220,
-    "population": 519716
-  },
-  {
-    "state": "Yukon",
-    "cases": 3,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -132.41233364551596,
-      64.82713023550005
-    ],
-    "featureId": 221,
-    "population": 35874
-  },
-  {
-    "state": "Northwest Territories",
-    "cases": 1,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -119.22198188100899,
-      69.38320119914675
-    ],
-    "featureId": 222,
-    "population": 41786
-  },
-  {
-    "state": "Nunavut",
-    "cases": 0,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -90.88314938052307,
-      67.52741120000007
-    ],
-    "featureId": 223,
-    "population": 35944
-  },
-  {
-    "state": "Total",
-    "cases": 4675,
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
-  },
-  {
     "recovered": 24,
     "deaths": 68,
     "cases": 1017,
@@ -3404,7 +3242,7 @@
       9.063233530652923,
       44.448917926372275
     ],
-    "featureId": 224,
+    "featureId": 211,
     "population": 1550640
   },
   {
@@ -3532,7 +3370,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 225,
+    "featureId": 212,
     "population": 883305
   },
   {
@@ -3546,7 +3384,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 226,
+    "featureId": 213,
     "population": 769545
   },
   {
@@ -3560,7 +3398,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 227,
+    "featureId": 214,
     "population": 1666753
   },
   {
@@ -3573,7 +3411,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 228,
+    "featureId": 215,
     "population": 499942
   },
   {
@@ -3586,7 +3424,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 229,
+    "featureId": 216,
     "population": 274255
   },
   {
@@ -3600,7 +3438,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 230,
+    "featureId": 217,
     "population": 1150215
   },
   {
@@ -3613,7 +3451,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 231,
+    "featureId": 218,
     "population": 549815
   },
   {
@@ -3627,7 +3465,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 232,
+    "featureId": 219,
     "population": 1540975
   },
   {
@@ -3641,12 +3479,12 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 233,
+    "featureId": 220,
     "population": 994400
   },
   {
-    "cases": 0,
-    "deaths": 0,
+    "cases": 30,
+    "deaths": 1,
     "county": "Placer County",
     "state": "CA",
     "country": "USA",
@@ -3655,7 +3493,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 234,
+    "featureId": 221,
     "population": 393149
   },
   {
@@ -3669,7 +3507,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 235,
+    "featureId": 222,
     "population": 3185968
   },
   {
@@ -3683,7 +3521,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 236,
+    "featureId": 223,
     "population": 3343364
   }
 ]

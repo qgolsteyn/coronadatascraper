@@ -1899,7 +1899,7 @@
       9.063233530652923,
       44.448917926372275
     ],
-    "featureId": 224,
+    "featureId": 211,
     "population": 1550640
   },
   "Lombardia, ITA": {
@@ -10755,20 +10755,11 @@
       "2020-3-14": {
         "cases": 64,
         "growthFactor": 1.2075471698113207
-      },
-      "2020-3-28": {
-        "cases": 725
       }
     },
     "state": "British Columbia",
     "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -126.56202337499991,
-      54.15716767014678
-    ],
-    "featureId": 211,
-    "population": 5071000
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
   },
   "Alberta, Canada": {
     "dates": {
@@ -10778,20 +10769,11 @@
       "2020-3-14": {
         "cases": 29,
         "growthFactor": 1.2608695652173914
-      },
-      "2020-3-28": {
-        "cases": 542
       }
     },
     "state": "Alberta",
     "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -115.00016854279502,
-      54.49628672664678
-    ],
-    "featureId": 212,
-    "population": 4067175
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
   },
   "Saskatchewan, Canada": {
     "dates": {
@@ -10801,20 +10783,11 @@
       "2020-3-14": {
         "cases": 0,
         "growthFactor": null
-      },
-      "2020-3-28": {
-        "cases": 104
       }
     },
     "state": "Saskatchewan",
     "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -105.6821561755884,
-      54.496338403094796
-    ],
-    "featureId": 213,
-    "population": 1098352
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
   },
   "Manitoba, Canada": {
     "dates": {
@@ -10824,20 +10797,11 @@
       "2020-3-14": {
         "cases": 1,
         "growthFactor": 1
-      },
-      "2020-3-28": {
-        "cases": 25
       }
     },
     "state": "Manitoba",
     "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -95.4742987434922,
-      54.496368513369816
-    ],
-    "featureId": 214,
-    "population": 1278365
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
   },
   "Ontario, Canada": {
     "dates": {
@@ -10847,20 +10811,11 @@
       "2020-3-14": {
         "cases": 79,
         "growthFactor": 1
-      },
-      "2020-3-28": {
-        "cases": 993
       }
     },
     "state": "Ontario",
     "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -84.7533750036988,
-      49.26501413726137
-    ],
-    "featureId": 215,
-    "population": 13448494
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
   },
   "Quebec, Canada": {
     "dates": {
@@ -10870,20 +10825,11 @@
       "2020-3-14": {
         "cases": 17,
         "growthFactor": 1
-      },
-      "2020-3-28": {
-        "cases": 2021
       }
     },
     "state": "Quebec",
     "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -68.38833574149993,
-      53.79378896700006
-    ],
-    "featureId": 216,
-    "population": 8164361
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
   },
   "New Brunswick, Canada": {
     "dates": {
@@ -10893,20 +10839,11 @@
       "2020-3-14": {
         "cases": 1,
         "growthFactor": 1
-      },
-      "2020-3-28": {
-        "cases": 45
       }
     },
     "state": "New Brunswick",
     "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -66.43830941249992,
-      46.36274594300005
-    ],
-    "featureId": 217,
-    "population": 747101
+    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
   },
   "Copiah County, MS, USA": {
     "dates": {
@@ -12249,7 +12186,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 225,
+    "featureId": 212,
     "population": 883305
   },
   "San Mateo County, CA, USA": {
@@ -12276,7 +12213,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 226,
+    "featureId": 213,
     "population": 769545
   },
   "Alameda County, CA, USA": {
@@ -12303,7 +12240,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 227,
+    "featureId": 214,
     "population": 1666753
   },
   "Sonoma County, CA, USA": {
@@ -12327,7 +12264,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 228,
+    "featureId": 215,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -12351,7 +12288,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 229,
+    "featureId": 216,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -12393,7 +12330,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 230,
+    "featureId": 217,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -12417,7 +12354,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 231,
+    "featureId": 218,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -12459,7 +12396,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 232,
+    "featureId": 219,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -12486,7 +12423,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 233,
+    "featureId": 220,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -12516,8 +12453,8 @@
         "growthFactor": 1
       },
       "2020-3-28": {
-        "cases": 0,
-        "deaths": 0
+        "cases": 30,
+        "deaths": 1
       }
     },
     "county": "Placer County",
@@ -12528,7 +12465,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 234,
+    "featureId": 221,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -12587,7 +12524,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 235,
+    "featureId": 222,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -12629,7 +12566,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 236,
+    "featureId": 223,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -12656,7 +12593,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 237,
+    "featureId": 224,
     "population": 850967
   },
   "AL, USA": {
@@ -13787,111 +13724,5 @@
     "state": "PA",
     "country": "USA",
     "url": "https://www.health.pa.gov/topics/disease/Pages/Coronavirus.aspx"
-  },
-  "Nova Scotia, Canada": {
-    "dates": {
-      "2020-3-28": {
-        "cases": 90
-      }
-    },
-    "state": "Nova Scotia",
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -63.021209276499945,
-      45.266872463000055
-    ],
-    "featureId": 218,
-    "population": 923598
-  },
-  "Prince Edward Island, Canada": {
-    "dates": {
-      "2020-3-28": {
-        "cases": 11
-      }
-    },
-    "state": "Prince Edward Island",
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -63.21041826049995,
-      46.49290599200006
-    ],
-    "featureId": 219,
-    "population": 142907
-  },
-  "Newfoundland and Labrador, Canada": {
-    "dates": {
-      "2020-3-28": {
-        "cases": 102
-      }
-    },
-    "state": "Newfoundland and Labrador",
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -60.21844100481229,
-      53.46112743006114
-    ],
-    "featureId": 220,
-    "population": 519716
-  },
-  "Yukon, Canada": {
-    "dates": {
-      "2020-3-28": {
-        "cases": 3
-      }
-    },
-    "state": "Yukon",
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -132.41233364551596,
-      64.82713023550005
-    ],
-    "featureId": 221,
-    "population": 35874
-  },
-  "Northwest Territories, Canada": {
-    "dates": {
-      "2020-3-28": {
-        "cases": 1
-      }
-    },
-    "state": "Northwest Territories",
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -119.22198188100899,
-      69.38320119914675
-    ],
-    "featureId": 222,
-    "population": 41786
-  },
-  "Nunavut, Canada": {
-    "dates": {
-      "2020-3-28": {
-        "cases": 0
-      }
-    },
-    "state": "Nunavut",
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html",
-    "coordinates": [
-      -90.88314938052307,
-      67.52741120000007
-    ],
-    "featureId": 223,
-    "population": 35944
-  },
-  "Total, Canada": {
-    "dates": {
-      "2020-3-28": {
-        "cases": 4675
-      }
-    },
-    "state": "Total",
-    "country": "Canada",
-    "url": "https://www.canada.ca/en/public-health/services/diseases/2019-novel-coronavirus-infection.html"
   }
 }
