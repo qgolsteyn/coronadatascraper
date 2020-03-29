@@ -16,7 +16,7 @@
   },
   {
     "county": "Boone County",
-    "cases": 8,
+    "cases": 13,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -46,7 +46,7 @@
   },
   {
     "county": "Johnson County",
-    "cases": 52,
+    "cases": 71,
     "deaths": 3,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -61,7 +61,7 @@
   },
   {
     "county": "Elkhart County",
-    "cases": 11,
+    "cases": 12,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -106,7 +106,7 @@
   },
   {
     "county": "Madison County",
-    "cases": 12,
+    "cases": 18,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -121,7 +121,7 @@
   },
   {
     "county": "St Joseph County",
-    "cases": 31,
+    "cases": 32,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -150,7 +150,7 @@
   },
   {
     "county": "Vander. County",
-    "cases": 10,
+    "cases": 17,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -159,7 +159,7 @@
   },
   {
     "county": "Grant County",
-    "cases": 5,
+    "cases": 7,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -174,7 +174,7 @@
   },
   {
     "county": "Porter County",
-    "cases": 9,
+    "cases": 14,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -189,7 +189,7 @@
   },
   {
     "county": "Marion County",
-    "cases": 584,
+    "cases": 676,
     "deaths": 10,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -204,7 +204,7 @@
   },
   {
     "county": "Hamilton County",
-    "cases": 64,
+    "cases": 83,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -219,7 +219,7 @@
   },
   {
     "county": "Lake County",
-    "cases": 68,
+    "cases": 85,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -234,8 +234,8 @@
   },
   {
     "county": "Morgan County",
-    "cases": 14,
-    "deaths": 0,
+    "cases": 20,
+    "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
     "country": "USA",
@@ -249,8 +249,8 @@
   },
   {
     "county": "Hendricks County",
-    "cases": 36,
-    "deaths": 2,
+    "cases": 48,
+    "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
     "country": "USA",
@@ -264,7 +264,7 @@
   },
   {
     "county": "LaPorte County",
-    "cases": 4,
+    "cases": 6,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -279,7 +279,7 @@
   },
   {
     "county": "Floyd County",
-    "cases": 13,
+    "cases": 14,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -294,7 +294,7 @@
   },
   {
     "county": "Shelby County",
-    "cases": 10,
+    "cases": 12,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -309,7 +309,7 @@
   },
   {
     "county": "Allen County",
-    "cases": 23,
+    "cases": 26,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -324,7 +324,7 @@
   },
   {
     "county": "Tipton County",
-    "cases": 2,
+    "cases": 4,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -384,7 +384,7 @@
   },
   {
     "county": "Owen County",
-    "cases": 7,
+    "cases": 9,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -414,7 +414,7 @@
   },
   {
     "county": "Decatur County",
-    "cases": 30,
+    "cases": 40,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -459,7 +459,7 @@
   },
   {
     "county": "Knox County",
-    "cases": 0,
+    "cases": 2,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -474,7 +474,7 @@
   },
   {
     "county": "Monroe County",
-    "cases": 16,
+    "cases": 22,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -534,7 +534,7 @@
   },
   {
     "county": "Washington County",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -564,7 +564,7 @@
   },
   {
     "county": "Kosciusko County",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -594,7 +594,7 @@
   },
   {
     "county": "Montgomery County",
-    "cases": 4,
+    "cases": 5,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -609,7 +609,7 @@
   },
   {
     "county": "Hancock County",
-    "cases": 19,
+    "cases": 22,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -624,7 +624,7 @@
   },
   {
     "county": "Vigo County",
-    "cases": 4,
+    "cases": 7,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -669,7 +669,7 @@
   },
   {
     "county": "Harrison County",
-    "cases": 7,
+    "cases": 14,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -699,7 +699,7 @@
   },
   {
     "county": "Delaware County",
-    "cases": 8,
+    "cases": 14,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -714,7 +714,7 @@
   },
   {
     "county": "Posey County",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -774,7 +774,7 @@
   },
   {
     "county": "Warren County",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -789,8 +789,8 @@
   },
   {
     "county": "Franklin County",
-    "cases": 23,
-    "deaths": 2,
+    "cases": 26,
+    "deaths": 3,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
     "country": "USA",
@@ -879,7 +879,7 @@
   },
   {
     "county": "Brown County",
-    "cases": 2,
+    "cases": 3,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -894,7 +894,7 @@
   },
   {
     "county": "Ripley County",
-    "cases": 15,
+    "cases": 19,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -909,7 +909,7 @@
   },
   {
     "county": "Henry County",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -924,7 +924,7 @@
   },
   {
     "county": "Howard County",
-    "cases": 9,
+    "cases": 12,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -954,7 +954,7 @@
   },
   {
     "county": "Dearborn County",
-    "cases": 8,
+    "cases": 10,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -999,7 +999,7 @@
   },
   {
     "county": "Bartholomew County",
-    "cases": 7,
+    "cases": 10,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1014,7 +1014,7 @@
   },
   {
     "county": "Jasper County",
-    "cases": 5,
+    "cases": 6,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1068,7 +1068,7 @@
   },
   {
     "county": "Clay County",
-    "cases": 0,
+    "cases": 1,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1083,7 +1083,7 @@
   },
   {
     "county": "Lawrence County",
-    "cases": 4,
+    "cases": 8,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1098,7 +1098,7 @@
   },
   {
     "county": "Clark County",
-    "cases": 18,
+    "cases": 20,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1128,7 +1128,7 @@
   },
   {
     "county": "Fayette County",
-    "cases": 4,
+    "cases": 5,
     "deaths": 1,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1203,7 +1203,7 @@
   },
   {
     "county": "Greene County",
-    "cases": 0,
+    "cases": 1,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1233,7 +1233,7 @@
   },
   {
     "county": "Warrick County",
-    "cases": 6,
+    "cases": 8,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1263,7 +1263,7 @@
   },
   {
     "county": "Dubois County",
-    "cases": 1,
+    "cases": 2,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1308,7 +1308,7 @@
   },
   {
     "county": "Switzerland County",
-    "cases": 1,
+    "cases": 3,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1323,7 +1323,7 @@
   },
   {
     "county": "Steuben County",
-    "cases": 0,
+    "cases": 1,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -1353,7 +1353,7 @@
   },
   {
     "county": "Jennings County",
-    "cases": 10,
+    "cases": 13,
     "deaths": 0,
     "tested": 0,
     "url": "https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv",
@@ -3483,8 +3483,8 @@
     "population": 994400
   },
   {
-    "cases": 30,
-    "deaths": 1,
+    "cases": 0,
+    "deaths": 0,
     "county": "Placer County",
     "state": "CA",
     "country": "USA",
