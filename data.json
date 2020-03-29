@@ -3483,20 +3483,6 @@
     "population": 994400
   },
   {
-    "cases": 30,
-    "deaths": 1,
-    "county": "Placer County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.placer.ca.gov/6448/Cases-in-Placer",
-    "coordinates": [
-      -120.7434505,
-      39.0142165
-    ],
-    "featureId": 221,
-    "population": 393149
-  },
-  {
     "cases": 0,
     "tested": 0,
     "county": "San Diego County",
@@ -3507,7 +3493,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 222,
+    "featureId": 221,
     "population": 3343364
   }
 ]
