@@ -3403,19 +3403,6 @@
   },
   {
     "cases": 0,
-    "county": "Sonoma County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/",
-    "coordinates": [
-      -122.946388,
-      38.4810965
-    ],
-    "featureId": 215,
-    "population": 499942
-  },
-  {
-    "cases": 0,
     "county": "Santa Cruz County",
     "state": "CA",
     "country": "USA",
@@ -3424,7 +3411,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 216,
+    "featureId": 215,
     "population": 274255
   },
   {
@@ -3438,7 +3425,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 217,
+    "featureId": 216,
     "population": 1150215
   },
   {
@@ -3451,7 +3438,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 218,
+    "featureId": 217,
     "population": 549815
   },
   {
@@ -3465,7 +3452,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 219,
+    "featureId": 218,
     "population": 1540975
   },
   {
@@ -3479,7 +3466,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 220,
+    "featureId": 219,
     "population": 994400
   },
   {
@@ -3493,7 +3480,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 221,
+    "featureId": 220,
     "population": 393149
   },
   {
@@ -3507,7 +3494,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 222,
+    "featureId": 221,
     "population": 3343364
   }
 ]
