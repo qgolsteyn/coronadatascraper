@@ -12719,21 +12719,12 @@
       "2020-3-14": {
         "cases": 2,
         "growthFactor": 1
-      },
-      "2020-3-31": {
-        "cases": 339940
       }
     },
     "county": "Stanislaus County",
     "state": "CA",
     "country": "USA",
-    "url": "http://www.schsa.org/PublicHealth/pages/corona-virus/",
-    "coordinates": [
-      -120.937052,
-      37.606097500000004
-    ],
-    "featureId": 218,
-    "population": 549815
+    "url": "http://www.schsa.org/PublicHealth/pages/corona-virus/"
   },
   "Yolo County, CA, USA": {
     "dates": {
@@ -12774,7 +12765,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 219,
+    "featureId": 218,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -12801,7 +12792,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 220,
+    "featureId": 219,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -12843,7 +12834,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 221,
+    "featureId": 220,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -12902,7 +12893,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 222,
+    "featureId": 221,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -12944,7 +12935,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 223,
+    "featureId": 222,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -12971,7 +12962,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 224,
+    "featureId": 223,
     "population": 850967
   },
   "AL, USA": {
