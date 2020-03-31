@@ -235,7 +235,7 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,,Veneto,ITA,9155,477,828,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4905854
 ,,DC,USA,0,,,1055,,,https://coronavirus.dc.gov/page/coronavirus-data,,
 ,San Francisco County,CA,USA,397,6,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,212,883305
-,San Mateo County,CA,USA,309,6,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,213,769545
+,San Mateo County,CA,USA,0,0,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,213,769545
 ,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,214,1666753
 ,Sonoma County,CA,USA,0,,,,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,215,499942
 ,Santa Cruz County,CA,USA,0,,,,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,216,274255
@@ -243,5 +243,5 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Stanislaus County,CA,USA,339940,,,,37.606097500000004,-120.937052,http://www.schsa.org/PublicHealth/pages/corona-virus/,218,549815
 ,Sacramento County,CA,USA,17318641406581,1965,,,38.377659,-121.444773,https://www.saccounty.net/COVID-19/Pages/default.aspx,219,1540975
 ,Fresno County,CA,USA,53179819,0,,,36.7464615,-119.6396585,https://www.co.fresno.ca.us/departments/public-health/covid-19,220,994400
-,Placer County,CA,USA,0,0,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,221,393149
+,Placer County,CA,USA,30,1,,,39.0142165,-120.7434505,https://www.placer.ca.gov/6448/Cases-in-Placer,221,393149
 ,San Diego County,CA,USA,0,,,0,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,222,3343364
