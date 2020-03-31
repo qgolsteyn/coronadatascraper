@@ -3208,10 +3208,9 @@
     "recovered": 1227,
     "deaths": 1538,
     "cases": 13531,
-    "state": "Emilia Romagna",
+    "state": "Emilia-Romagna",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
-    "population": 4459477
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
   },
   {
     "recovered": 285,
@@ -3483,8 +3482,8 @@
     "population": 994400
   },
   {
-    "cases": 30,
-    "deaths": 1,
+    "cases": 0,
+    "deaths": 0,
     "county": "Placer County",
     "state": "CA",
     "country": "USA",

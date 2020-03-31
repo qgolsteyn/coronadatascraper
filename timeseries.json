@@ -1143,7 +1143,7 @@
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "population": 5801692
   },
-  "Emilia Romagna, ITA": {
+  "Emilia-Romagna, ITA": {
     "dates": {
       "2020-2-24": {
         "cases": 18,
@@ -1367,10 +1367,9 @@
         "growthFactor": 1
       }
     },
-    "state": "Emilia Romagna",
+    "state": "Emilia-Romagna",
     "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
-    "population": 4459477
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
   },
   "Friuli Venezia Giulia, ITA": {
     "dates": {
@@ -12831,8 +12830,8 @@
         "growthFactor": 1
       },
       "2020-3-31": {
-        "cases": 30,
-        "deaths": 1
+        "cases": 0,
+        "deaths": 0
       }
     },
     "county": "Placer County",
