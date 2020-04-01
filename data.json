@@ -1367,1506 +1367,6 @@
     "population": 27611
   },
   {
-    "county": "Rockingham County",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.77325049999999,
-      36.39209
-    ],
-    "featureId": 90,
-    "population": 90690
-  },
-  {
-    "county": "Guilford County",
-    "cases": 55,
-    "recovered": 0,
-    "deaths": 1,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.789537,
-      36.078567
-    ],
-    "featureId": 91,
-    "population": 533670
-  },
-  {
-    "county": "Alamance County",
-    "cases": 7,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.389903,
-      36.046625
-    ],
-    "featureId": 92,
-    "population": 166436
-  },
-  {
-    "county": "Alexander County",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.173576,
-      35.9112
-    ],
-    "featureId": 93,
-    "population": 37353
-  },
-  {
-    "county": "Randolph County",
-    "cases": 17,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.80440999999999,
-      35.713162
-    ],
-    "featureId": 94,
-    "population": 143351
-  },
-  {
-    "county": "Wayne County",
-    "cases": 4,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.0523115,
-      35.372187
-    ],
-    "featureId": 95,
-    "population": 123248
-  },
-  {
-    "county": "Ashe County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.4925705,
-      36.414194499999994
-    ],
-    "featureId": 96,
-    "population": 27109
-  },
-  {
-    "county": "Alleghany County",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.128388,
-      36.470187499999994
-    ],
-    "featureId": 97,
-    "population": 11161
-  },
-  {
-    "county": "Currituck County",
-    "cases": 1,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.0432625,
-      36.311232000000004
-    ],
-    "featureId": 98,
-    "population": 27072
-  },
-  {
-    "county": "Camden County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.2231965,
-      36.357271
-    ],
-    "featureId": 99,
-    "population": 10710
-  },
-  {
-    "county": "Surry County",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.7073595,
-      36.399366
-    ],
-    "featureId": 100,
-    "population": 71948
-  },
-  {
-    "county": "Gates County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.70138,
-      36.424152
-    ],
-    "featureId": 101,
-    "population": 11573
-  },
-  {
-    "county": "Hertford County",
-    "cases": 4,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.94985,
-      36.392281999999994
-    ],
-    "featureId": 102,
-    "population": 23659
-  },
-  {
-    "county": "Northampton County",
-    "cases": 30,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.48302000000001,
-      36.356129499999994
-    ],
-    "featureId": 103,
-    "population": 19676
-  },
-  {
-    "county": "Stokes County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.2396115,
-      36.4039905
-    ],
-    "featureId": 104,
-    "population": 45467
-  },
-  {
-    "county": "Warren County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.110931,
-      36.373663
-    ],
-    "featureId": 105,
-    "population": 19807
-  },
-  {
-    "county": "Vance County",
-    "cases": 4,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.394374,
-      36.3539845
-    ],
-    "featureId": 106,
-    "population": 44582
-  },
-  {
-    "county": "Granville County",
-    "cases": 9,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.6309765,
-      36.282139
-    ],
-    "featureId": 107,
-    "population": 60115
-  },
-  {
-    "county": "Caswell County",
-    "cases": 1,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.335016,
-      36.391928
-    ],
-    "featureId": 108,
-    "population": 22698
-  },
-  {
-    "county": "Person County",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.974278,
-      36.389045499999995
-    ],
-    "featureId": 109,
-    "population": 39507
-  },
-  {
-    "county": "Pasquotank County",
-    "cases": 4,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.2753735,
-      36.31698
-    ],
-    "featureId": 110,
-    "population": 39639
-  },
-  {
-    "county": "Halifax County",
-    "cases": 4,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.618624,
-      36.255891000000005
-    ],
-    "featureId": 111,
-    "population": 50574
-  },
-  {
-    "county": "Wilkes County",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.20716300000001,
-      36.217608
-    ],
-    "featureId": 112,
-    "population": 68557
-  },
-  {
-    "county": "Watauga County",
-    "cases": 6,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.686846,
-      36.2509755
-    ],
-    "featureId": 113,
-    "population": 55945
-  },
-  {
-    "county": "Perquimans County",
-    "cases": 1,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.390806,
-      36.226709
-    ],
-    "featureId": 114,
-    "population": 13422
-  },
-  {
-    "county": "Chowan County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.5666445,
-      36.178765999999996
-    ],
-    "featureId": 115,
-    "population": 14029
-  },
-  {
-    "county": "Avery County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.9081385,
-      36.099315000000004
-    ],
-    "featureId": 116,
-    "population": 17505
-  },
-  {
-    "county": "Yadkin County",
-    "cases": 3,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.657182,
-      36.165891
-    ],
-    "featureId": 117,
-    "population": 37543
-  },
-  {
-    "county": "Dare County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -75.7362335,
-      35.708368
-    ],
-    "featureId": 118,
-    "population": 36501
-  },
-  {
-    "county": "Forsyth County",
-    "cases": 41,
-    "recovered": 0,
-    "deaths": 1,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.2759705,
-      36.1174225
-    ],
-    "featureId": 119,
-    "population": 379099
-  },
-  {
-    "county": "Franklin County",
-    "cases": 11,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.27652549999999,
-      36.0419445
-    ],
-    "featureId": 120,
-    "population": 67560
-  },
-  {
-    "county": "Bertie County",
-    "cases": 6,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.0036715,
-      36.0338355
-    ],
-    "featureId": 121,
-    "population": 19026
-  },
-  {
-    "county": "Orange County",
-    "cases": 37,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.107692,
-      36.052271
-    ],
-    "featureId": 122,
-    "population": 146027
-  },
-  {
-    "county": "Durham County",
-    "cases": 126,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.8573145,
-      36.051317999999995
-    ],
-    "featureId": 123,
-    "population": 316739
-  },
-  {
-    "county": "Nash County",
-    "cases": 9,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.976391,
-      35.966553000000005
-    ],
-    "featureId": 124,
-    "population": 94016
-  },
-  {
-    "county": "Mitchell County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.198442,
-      35.991779
-    ],
-    "featureId": 125,
-    "population": 15000
-  },
-  {
-    "county": "Edgecombe County",
-    "cases": 3,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.585453,
-      35.915150999999994
-    ],
-    "featureId": 126,
-    "population": 52005
-  },
-  {
-    "county": "Caldwell County",
-    "cases": 3,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.5699525,
-      35.939887
-    ],
-    "featureId": 127,
-    "population": 82029
-  },
-  {
-    "county": "Tyrrell County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.210059,
-      35.7957445
-    ],
-    "featureId": 128,
-    "population": 4131
-  },
-  {
-    "county": "Yancey County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.31928300000001,
-      35.888507000000004
-    ],
-    "featureId": 129,
-    "population": 17903
-  },
-  {
-    "county": "Madison County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.685785,
-      35.8719975
-    ],
-    "featureId": 130,
-    "population": 21763
-  },
-  {
-    "county": "Martin County",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.084982,
-      35.8664985
-    ],
-    "featureId": 131,
-    "population": 22671
-  },
-  {
-    "county": "Wake County",
-    "cases": 195,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.6249785,
-      35.796786499999996
-    ],
-    "featureId": 132,
-    "population": 1092305
-  },
-  {
-    "county": "Davie County",
-    "cases": 11,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.5364645,
-      35.9026525
-    ],
-    "featureId": 133,
-    "population": 42733
-  },
-  {
-    "county": "Washington County",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.6003345,
-      35.840892999999994
-    ],
-    "featureId": 134,
-    "population": 11859
-  },
-  {
-    "county": "Burke County",
-    "cases": 5,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.675545,
-      35.7791955
-    ],
-    "featureId": 135,
-    "population": 90382
-  },
-  {
-    "county": "Davidson County",
-    "cases": 28,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.2652875,
-      35.765553499999996
-    ],
-    "featureId": 136,
-    "population": 166614
-  },
-  {
-    "county": "McDowell County",
-    "cases": 7,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.0594425,
-      35.738724500000004
-    ],
-    "featureId": 137,
-    "population": 45507
-  },
-  {
-    "county": "Chatham County",
-    "cases": 17,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.231033,
-      35.6959365
-    ],
-    "featureId": 138,
-    "population": 73139
-  },
-  {
-    "county": "Wilson County",
-    "cases": 15,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.926691,
-      35.7253325
-    ],
-    "featureId": 139,
-    "population": 81455
-  },
-  {
-    "county": "Buncombe County",
-    "cases": 20,
-    "recovered": 0,
-    "deaths": 1,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.5263415,
-      35.620303
-    ],
-    "featureId": 140,
-    "population": 259103
-  },
-  {
-    "county": "Haywood County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.000247,
-      35.5418605
-    ],
-    "featureId": 141,
-    "population": 61971
-  },
-  {
-    "county": "Catawba County",
-    "cases": 14,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.22916649999999,
-      35.6878485
-    ],
-    "featureId": 142,
-    "population": 158652
-  },
-  {
-    "county": "Pitt County",
-    "cases": 26,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.392609,
-      35.580454
-    ],
-    "featureId": 143,
-    "population": 179914
-  },
-  {
-    "county": "Johnston County",
-    "cases": 17,
-    "recovered": 0,
-    "deaths": 1,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.386616,
-      35.537085
-    ],
-    "featureId": 144,
-    "population": 202675
-  },
-  {
-    "county": "Swain County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.554631,
-      35.4877375
-    ],
-    "featureId": 145,
-    "population": 14245
-  },
-  {
-    "county": "Beaufort County",
-    "cases": 5,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.83147650000001,
-      35.477776000000006
-    ],
-    "featureId": 146,
-    "population": 47079
-  },
-  {
-    "county": "Hyde County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.19371849999999,
-      35.383544
-    ],
-    "featureId": 147,
-    "population": 5230
-  },
-  {
-    "county": "Greene County",
-    "cases": 3,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.6507765,
-      35.500008
-    ],
-    "featureId": 148,
-    "population": 21012
-  },
-  {
-    "county": "Rutherford County",
-    "cases": 7,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.985972,
-      35.395423
-    ],
-    "featureId": 149,
-    "population": 66826
-  },
-  {
-    "county": "Lee County",
-    "cases": 3,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.16466,
-      35.467607
-    ],
-    "featureId": 150,
-    "population": 61452
-  },
-  {
-    "county": "Cleveland County",
-    "cases": 6,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.54468800000001,
-      35.371596499999995
-    ],
-    "featureId": 151,
-    "population": 97645
-  },
-  {
-    "county": "Jackson County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.1417865,
-      35.26292
-    ],
-    "featureId": 152,
-    "population": 43327
-  },
-  {
-    "county": "Harnett County",
-    "cases": 17,
-    "recovered": 0,
-    "deaths": 1,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.87648899999999,
-      35.3876225
-    ],
-    "featureId": 153,
-    "population": 134214
-  },
-  {
-    "county": "Graham County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.810297,
-      35.342066
-    ],
-    "featureId": 154,
-    "population": 8484
-  },
-  {
-    "county": "Henderson County",
-    "cases": 18,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.5033325,
-      35.322029
-    ],
-    "featureId": 155,
-    "population": 116748
-  },
-  {
-    "county": "Moore County",
-    "cases": 8,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.43270749999999,
-      35.2805435
-    ],
-    "featureId": 156,
-    "population": 98682
-  },
-  {
-    "county": "Montgomery County",
-    "cases": 7,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.898494,
-      35.324289
-    ],
-    "featureId": 157,
-    "population": 27271
-  },
-  {
-    "county": "Stanly County",
-    "cases": 5,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.278733,
-      35.323707999999996
-    ],
-    "featureId": 158,
-    "population": 62075
-  },
-  {
-    "county": "Transylvania County",
-    "cases": 5,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.815485,
-      35.2252595
-    ],
-    "featureId": 159,
-    "population": 34215
-  },
-  {
-    "county": "Polk County",
-    "cases": 4,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.1603345,
-      35.296185
-    ],
-    "featureId": 160,
-    "population": 20611
-  },
-  {
-    "county": "Lenoir County",
-    "cases": 3,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.6126075,
-      35.2174715
-    ],
-    "featureId": 161,
-    "population": 55976
-  },
-  {
-    "county": "Craven County",
-    "cases": 6,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.063318,
-      35.110855
-    ],
-    "featureId": 162,
-    "population": 102912
-  },
-  {
-    "county": "Macon County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.42341,
-      35.162244
-    ],
-    "featureId": 163,
-    "population": 35285
-  },
-  {
-    "county": "Cherokee County",
-    "cases": 8,
-    "recovered": 0,
-    "deaths": 1,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -84.0097475,
-      35.139748499999996
-    ],
-    "featureId": 164,
-    "population": 28383
-  },
-  {
-    "county": "Pamlico County",
-    "cases": 1,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.72772499999999,
-      35.1507535
-    ],
-    "featureId": 165,
-    "population": 12670
-  },
-  {
-    "county": "Sampson County",
-    "cases": 1,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.3926405,
-      34.9345395
-    ],
-    "featureId": 166,
-    "population": 63626
-  },
-  {
-    "county": "Cumberland County",
-    "cases": 19,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.8038205,
-      35.0502155
-    ],
-    "featureId": 167,
-    "population": 332330
-  },
-  {
-    "county": "Clay County",
-    "cases": 1,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.7441825,
-      35.0712515
-    ],
-    "featureId": 168,
-    "population": 11139
-  },
-  {
-    "county": "Jones County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.39021650000001,
-      35.014189
-    ],
-    "featureId": 169,
-    "population": 9637
-  },
-  {
-    "county": "Carteret County",
-    "cases": 11,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.60086799999999,
-      34.832848999999996
-    ],
-    "featureId": 170,
-    "population": 69524
-  },
-  {
-    "county": "Union County",
-    "cases": 47,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.5587175,
-      35.0112285
-    ],
-    "featureId": 171,
-    "population": 235908
-  },
-  {
-    "county": "Anson County",
-    "cases": 1,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.0844735,
-      35.008912
-    ],
-    "featureId": 172,
-    "population": 24877
-  },
-  {
-    "county": "Hoke County",
-    "cases": 4,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.24694550000001,
-      35.02319
-    ],
-    "featureId": 173,
-    "population": 54764
-  },
-  {
-    "county": "Duplin County",
-    "cases": 1,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.9257305,
-      34.9501105
-    ],
-    "featureId": 174,
-    "population": 58856
-  },
-  {
-    "county": "Richmond County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.76728299999999,
-      34.99408
-    ],
-    "featureId": 175,
-    "population": 44887
-  },
-  {
-    "county": "Scotland County",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.5119535,
-      34.836764
-    ],
-    "featureId": 176,
-    "population": 34810
-  },
-  {
-    "county": "Onslow County",
-    "cases": 7,
-    "recovered": 0,
-    "deaths": 1,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.3899735,
-      34.712451
-    ],
-    "featureId": 177,
-    "population": 197683
-  },
-  {
-    "county": "Robeson County",
-    "cases": 3,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.133749,
-      34.626412
-    ],
-    "featureId": 178,
-    "population": 131831
-  },
-  {
-    "county": "Bladen County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.5427315,
-      34.611776500000005
-    ],
-    "featureId": 179,
-    "population": 33190
-  },
-  {
-    "county": "Pender County",
-    "cases": 0,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.894035,
-      34.512526
-    ],
-    "featureId": 180,
-    "population": 62162
-  },
-  {
-    "county": "Columbus County",
-    "cases": 2,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.6167595,
-      34.2134885
-    ],
-    "featureId": 181,
-    "population": 55655
-  },
-  {
-    "county": "New Hanover County",
-    "cases": 32,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.872919,
-      34.15828500000001
-    ],
-    "featureId": 182,
-    "population": 232274
-  },
-  {
-    "county": "Brunswick County",
-    "cases": 14,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.292874,
-      34.1056615
-    ],
-    "featureId": 183,
-    "population": 136744
-  },
-  {
-    "county": "Iredell County",
-    "cases": 25,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.901307,
-      35.7732565
-    ],
-    "featureId": 184,
-    "population": 178435
-  },
-  {
-    "county": "Rowan County",
-    "cases": 24,
-    "recovered": 0,
-    "deaths": 1,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.47710000000001,
-      35.6830585
-    ],
-    "featureId": 185,
-    "population": 141262
-  },
-  {
-    "county": "Lincoln County",
-    "cases": 5,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.24025,
-      35.484821999999994
-    ],
-    "featureId": 186,
-    "population": 83770
-  },
-  {
-    "county": "Mecklenburg County",
-    "cases": 444,
-    "recovered": 0,
-    "deaths": 1,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.804163,
-      35.2583695
-    ],
-    "featureId": 187,
-    "population": 1093901
-  },
-  {
-    "county": "Cabarrus County",
-    "cases": 45,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.541589,
-      35.3456055
-    ],
-    "featureId": 188,
-    "population": 211342
-  },
-  {
-    "county": "Gaston County",
-    "cases": 31,
-    "recovered": 0,
-    "deaths": 0,
-    "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
-    "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.1896935,
-      35.284431999999995
-    ],
-    "featureId": 189,
-    "population": 222846
-  },
-  {
     "county": "Atlantic County",
     "cases": 0,
     "tested": 0,
@@ -2877,7 +1377,7 @@
       -74.6437035,
       39.509258
     ],
-    "featureId": 190,
+    "featureId": 90,
     "population": 265429
   },
   {
@@ -2891,7 +1391,7 @@
       -74.08225,
       40.952146
     ],
-    "featureId": 191,
+    "featureId": 91,
     "population": 936692
   },
   {
@@ -2905,7 +1405,7 @@
       -74.72494950000001,
       39.8658955
     ],
-    "featureId": 192,
+    "featureId": 92,
     "population": 445384
   },
   {
@@ -2919,7 +1419,7 @@
       -74.9381575,
       39.800549000000004
     ],
-    "featureId": 193,
+    "featureId": 93,
     "population": 507078
   },
   {
@@ -2933,7 +1433,7 @@
       -74.756719,
       39.1261435
     ],
-    "featureId": 194,
+    "featureId": 94,
     "population": 92560
   },
   {
@@ -2947,7 +1447,7 @@
       -75.135421,
       39.373098
     ],
-    "featureId": 195,
+    "featureId": 95,
     "population": 150972
   },
   {
@@ -2961,7 +1461,7 @@
       -74.24515199999999,
       40.7914715
     ],
-    "featureId": 196,
+    "featureId": 96,
     "population": 799767
   },
   {
@@ -2975,7 +1475,7 @@
       -75.15904900000001,
       39.7016335
     ],
-    "featureId": 197,
+    "featureId": 97,
     "population": 291408
   },
   {
@@ -2989,7 +1489,7 @@
       -74.07540449999999,
       40.732721999999995
     ],
-    "featureId": 198,
+    "featureId": 98,
     "population": 676061
   },
   {
@@ -3003,7 +1503,7 @@
       -74.9494015,
       40.5647375
     ],
-    "featureId": 199,
+    "featureId": 99,
     "population": 124714
   },
   {
@@ -3017,7 +1517,7 @@
       -74.7122715,
       40.280848500000005
     ],
-    "featureId": 200,
+    "featureId": 100,
     "population": 369811
   },
   {
@@ -3031,7 +1531,7 @@
       -74.2928135,
       40.2778005
     ],
-    "featureId": 201,
+    "featureId": 101,
     "population": 621354
   },
   {
@@ -3045,7 +1545,7 @@
       -74.29221150000001,
       39.835446000000005
     ],
-    "featureId": 202,
+    "featureId": 102,
     "population": 601651
   },
   {
@@ -3059,7 +1559,7 @@
       -74.304839,
       41.0114805
     ],
-    "featureId": 203,
+    "featureId": 103,
     "population": 503310
   },
   {
@@ -3073,7 +1573,7 @@
       -75.31079349999999,
       39.5848515
     ],
-    "featureId": 204,
+    "featureId": 104,
     "population": 62607
   },
   {
@@ -3087,7 +1587,7 @@
       -74.5998835,
       40.566201
     ],
-    "featureId": 205,
+    "featureId": 105,
     "population": 331164
   },
   {
@@ -3101,7 +1601,7 @@
       -74.678832,
       41.128282
     ],
-    "featureId": 206,
+    "featureId": 106,
     "population": 140799
   },
   {
@@ -3115,7 +1615,7 @@
       -74.300027,
       40.665566
     ],
-    "featureId": 207,
+    "featureId": 107,
     "population": 558067
   },
   {
@@ -3129,7 +1629,7 @@
       -74.985897,
       40.8430415
     ],
-    "featureId": 208,
+    "featureId": 108,
     "population": 105779
   },
   {
@@ -3143,7 +1643,7 @@
       -74.5802275,
       40.867802999999995
     ],
-    "featureId": 209,
+    "featureId": 109,
     "population": 494228
   },
   {
@@ -3157,7 +1657,7 @@
       -74.41841600000001,
       40.430130500000004
     ],
-    "featureId": 210,
+    "featureId": 110,
     "population": 829685
   },
   {
@@ -3241,7 +1741,7 @@
       9.063233530652923,
       44.448917926372275
     ],
-    "featureId": 211,
+    "featureId": 111,
     "population": 1550640
   },
   {
@@ -3369,7 +1869,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 212,
+    "featureId": 112,
     "population": 883305
   },
   {
@@ -3383,7 +1883,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 213,
+    "featureId": 113,
     "population": 769545
   },
   {
@@ -3397,7 +1897,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 214,
+    "featureId": 114,
     "population": 1666753
   },
   {
@@ -3410,7 +1910,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 215,
+    "featureId": 115,
     "population": 499942
   },
   {
@@ -3423,7 +1923,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 216,
+    "featureId": 116,
     "population": 274255
   },
   {
@@ -3437,7 +1937,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 217,
+    "featureId": 117,
     "population": 1150215
   },
   {
@@ -3450,7 +1950,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 218,
+    "featureId": 118,
     "population": 549815
   },
   {
@@ -3464,7 +1964,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 219,
+    "featureId": 119,
     "population": 1540975
   },
   {
@@ -3478,7 +1978,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 220,
+    "featureId": 120,
     "population": 994400
   },
   {
@@ -3492,7 +1992,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 221,
+    "featureId": 121,
     "population": 393149
   },
   {
@@ -3506,7 +2006,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 222,
+    "featureId": 122,
     "population": 3343364
   }
 ]
