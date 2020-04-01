@@ -1368,7 +1368,7 @@
   },
   {
     "county": "Rockingham County",
-    "cases": 1,
+    "cases": 2,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -1383,9 +1383,9 @@
   },
   {
     "county": "Guilford County",
-    "cases": 52,
+    "cases": 55,
     "recovered": 0,
-    "deaths": 0,
+    "deaths": 1,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
     "state": "NC",
@@ -1623,7 +1623,7 @@
   },
   {
     "county": "Granville County",
-    "cases": 8,
+    "cases": 9,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -1713,7 +1713,7 @@
   },
   {
     "county": "Watauga County",
-    "cases": 5,
+    "cases": 6,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -1848,7 +1848,7 @@
   },
   {
     "county": "Orange County",
-    "cases": 35,
+    "cases": 37,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -1863,7 +1863,7 @@
   },
   {
     "county": "Durham County",
-    "cases": 122,
+    "cases": 126,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -1998,7 +1998,7 @@
   },
   {
     "county": "Wake County",
-    "cases": 192,
+    "cases": 195,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2058,7 +2058,7 @@
   },
   {
     "county": "Davidson County",
-    "cases": 23,
+    "cases": 28,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2118,7 +2118,7 @@
   },
   {
     "county": "Buncombe County",
-    "cases": 21,
+    "cases": 20,
     "recovered": 0,
     "deaths": 1,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2148,7 +2148,7 @@
   },
   {
     "county": "Catawba County",
-    "cases": 15,
+    "cases": 14,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2178,7 +2178,7 @@
   },
   {
     "county": "Johnston County",
-    "cases": 15,
+    "cases": 17,
     "recovered": 0,
     "deaths": 1,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2208,7 +2208,7 @@
   },
   {
     "county": "Beaufort County",
-    "cases": 4,
+    "cases": 5,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2253,7 +2253,7 @@
   },
   {
     "county": "Rutherford County",
-    "cases": 5,
+    "cases": 7,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2268,7 +2268,7 @@
   },
   {
     "county": "Lee County",
-    "cases": 2,
+    "cases": 3,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2373,7 +2373,7 @@
   },
   {
     "county": "Montgomery County",
-    "cases": 6,
+    "cases": 7,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2418,7 +2418,7 @@
   },
   {
     "county": "Polk County",
-    "cases": 3,
+    "cases": 4,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2480,7 +2480,7 @@
     "county": "Cherokee County",
     "cases": 8,
     "recovered": 0,
-    "deaths": 0,
+    "deaths": 1,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
     "state": "NC",
@@ -2523,7 +2523,7 @@
   },
   {
     "county": "Cumberland County",
-    "cases": 18,
+    "cases": 19,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2583,7 +2583,7 @@
   },
   {
     "county": "Union County",
-    "cases": 42,
+    "cases": 47,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2748,7 +2748,7 @@
   },
   {
     "county": "New Hanover County",
-    "cases": 28,
+    "cases": 32,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2808,7 +2808,7 @@
   },
   {
     "county": "Lincoln County",
-    "cases": 4,
+    "cases": 5,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2823,7 +2823,7 @@
   },
   {
     "county": "Mecklenburg County",
-    "cases": 419,
+    "cases": 444,
     "recovered": 0,
     "deaths": 1,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -2838,9 +2838,9 @@
   },
   {
     "county": "Cabarrus County",
-    "cases": 46,
+    "cases": 45,
     "recovered": 0,
-    "deaths": 1,
+    "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
     "state": "NC",
@@ -2853,7 +2853,7 @@
   },
   {
     "county": "Gaston County",
-    "cases": 29,
+    "cases": 31,
     "recovered": 0,
     "deaths": 0,
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
@@ -3454,6 +3454,20 @@
     "population": 549815
   },
   {
+    "cases": 17318641406581,
+    "deaths": 1965,
+    "county": "Sacramento County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
+    "coordinates": [
+      -121.444773,
+      38.377659
+    ],
+    "featureId": 219,
+    "population": 1540975
+  },
+  {
     "cases": 681791131,
     "deaths": 0,
     "county": "Fresno County",
@@ -3464,7 +3478,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 219,
+    "featureId": 220,
     "population": 994400
   },
   {
@@ -3478,7 +3492,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 220,
+    "featureId": 221,
     "population": 393149
   },
   {
@@ -3492,7 +3506,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 221,
+    "featureId": 222,
     "population": 3343364
   }
 ]
