@@ -3468,6 +3468,20 @@
     "population": 1540975
   },
   {
+    "cases": 681791131,
+    "deaths": 0,
+    "county": "Fresno County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.co.fresno.ca.us/departments/public-health/covid-19",
+    "coordinates": [
+      -119.6396585,
+      36.7464615
+    ],
+    "featureId": 220,
+    "population": 994400
+  },
+  {
     "cases": 0,
     "deaths": 0,
     "county": "Placer County",
@@ -3478,7 +3492,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 220,
+    "featureId": 221,
     "population": 393149
   },
   {
@@ -3492,7 +3506,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 221,
+    "featureId": 222,
     "population": 3343364
   }
 ]
