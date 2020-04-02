@@ -97,3 +97,18 @@ export const getNearest = (target, data) => {
     .sort((a, b) => euclideanDistance(target, a) - euclideanDistance(target, b)) // sort by smallest distance
     .map(item => item.text); // we only want text
 };
+
+/**
+ * Returns the number of pages in the document
+ *
+ * @param {*} data array of PDF items
+ */
+export const getNumPages = data => {
+  let maxPage = 0;
+  for (const row of data) {
+    if (Array.isArray(row)) {
+      if (row[0] && row[0].page > maxPage) maxPage = row[0].page;
+    } else if (row.page > maxPage) maxPage = row.page;
+  }
+  return maxPage;
+};

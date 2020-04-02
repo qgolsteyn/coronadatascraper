@@ -2825,6 +2825,11 @@ flatted@^2.0.0:
   resolved "https://registry.yarnpkg.com/flatted/-/flatted-2.0.2.tgz#4575b21e2bcee7434aa9be662f4b7b5f9c2b5138"
   integrity sha512-r5wGx7YeOwNWNlCA0wQ86zKyDLMQr+/RB8xy74M4hTphfmjlijTSSXGuH8rnvKZnfT9i+75zmd8jcKdMR4O6jA==
 
+fold-to-ascii@^5.0.0:
+  version "5.0.0"
+  resolved "https://registry.yarnpkg.com/fold-to-ascii/-/fold-to-ascii-5.0.0.tgz#12986e02004abd0984a99f701e0707aa1c2ae0d0"
+  integrity sha512-HjtRWXC9aVit47DOEqvorgaQDiIyeX+frV3tM22RlllposIxnPXRM/vYoE6y6pwW57RdgahSe32Cu0vf4/UX1Q==
+
 for-each@~0.3.3:
   version "0.3.3"
   resolved "https://registry.yarnpkg.com/for-each/-/for-each-0.3.3.tgz#69b447e88a0a5d32c3e7084f3f1710034b21376e"

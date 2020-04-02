@@ -1,4 +1,5 @@
 import PDFParser from 'pdf2json';
+import ASCIIFolder from 'fold-to-ascii';
 
 /**
  * Parses a PDF from a buffer.
@@ -23,7 +24,13 @@ export default buffer =>
           const text = textItem.R.reduce((str, t) => str + t.T, '');
           const decodedText = decodeURI(text); // We receive text with URI characters (such as %20). We need to decode them.
 
-          data.push({ page: pageNumber, x: textItem.x, y: textItem.y, w: textItem.w, text: decodedText.trim() });
+          data.push({
+            page: pageNumber,
+            x: textItem.x,
+            y: textItem.y,
+            w: textItem.w,
+            text: ASCIIFolder.foldReplacing(decodedText.trim())
+          });
         }
         pageNumber += 1;
       }

@@ -255,6 +255,48 @@ const scraper = {
       }).map(([name, value]) => {
         return { county: name, cases: value };
       });
+    },
+    '2020-04-02': async function() {
+      this.type = 'pdf';
+      this.url = 'https://public.tableau.com/views/COVID-19Data_15851817634470/CountyCounts.pdf?:showVizHome=no';
+
+      const data = await fetch.pdf(this.url);
+      const words = pdfUtils.asWords(data, 0.1, 6);
+      const numPages = pdfUtils.getNumPages(words);
+
+      // Data can be on multiple pages
+      for (let page = 1; page <= numPages; page++) {
+        const wordsOnPage = words
+          .filter(row => row[0] && row[0].page === page)
+          .map(item => item.map(word => word.text));
+
+        // Table starts with the word County at the beginning of the row, counties are on the next row
+        const startIndex =
+          wordsOnPage.findIndex(item => (item[0] && item[0].toLowerCase() === 'county') || 'bycounty') + 1;
+
+        const counties = [];
+        for (let i = startIndex; i < wordsOnPage.length; i++) {
+          const item = wordsOnPage[i];
+
+          // If row is less than two, it's most likely malformed
+          if (item.length < 2) {
+            continue;
+          }
+
+          // All county names end with County (eg. LinnCounty)
+          // Let's remove it and add it back the right way
+          const county = geography.addCounty(item[0].replace('County', ''));
+          const cases = parse.number(item[1]);
+
+          counties.push({
+            county,
+            cases
+          });
+        }
+
+        counties.push(transform.sumData(counties));
+        return geography.addEmptyRegions(counties, this._counties, 'county');
+      }
     }
   }
 };
