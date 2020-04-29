@@ -285,20 +285,6 @@
     "population": 549815
   },
   {
-    "cases": 1.7121849460506426e+22,
-    "deaths": 17910,
-    "county": "Sacramento County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
-    "coordinates": [
-      -121.444773,
-      38.377659
-    ],
-    "featureId": 8,
-    "population": 1540975
-  },
-  {
     "cases": 0,
     "deaths": 0,
     "county": "Fresno County",
@@ -309,7 +295,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 9,
+    "featureId": 8,
     "population": 994400
   },
   {
@@ -323,7 +309,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 10,
+    "featureId": 9,
     "population": 393149
   },
   {
@@ -337,7 +323,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 11,
+    "featureId": 10,
     "population": 3343364
   }
 ]
