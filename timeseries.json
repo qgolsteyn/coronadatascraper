@@ -13899,12 +13899,22 @@
         "cases": 28,
         "deaths": 0,
         "growthFactor": 1.3333333333333333
+      },
+      "2020-4-29": {
+        "cases": 1468,
+        "deaths": 23
       }
     },
     "county": "San Francisco County",
     "state": "CA",
     "country": "USA",
-    "url": "https://www.sfdph.org/dph/alerts/coronavirus.asp"
+    "url": "https://www.sfdph.org/dph/alerts/coronavirus.asp",
+    "coordinates": [
+      -122.4356335,
+      37.7901875
+    ],
+    "featureId": 2,
+    "population": 883305
   },
   "San Mateo County, CA, USA": {
     "dates": {
@@ -13930,7 +13940,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 2,
+    "featureId": 3,
     "population": 769545
   },
   "Alameda County, CA, USA": {
@@ -13957,7 +13967,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 3,
+    "featureId": 4,
     "population": 1666753
   },
   "Sonoma County, CA, USA": {
@@ -13981,7 +13991,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 4,
+    "featureId": 5,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -14005,7 +14015,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 5,
+    "featureId": 6,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -14047,7 +14057,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 6,
+    "featureId": 7,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -14071,7 +14081,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 7,
+    "featureId": 8,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -14113,7 +14123,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 8,
+    "featureId": 9,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -14140,7 +14150,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 9,
+    "featureId": 10,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -14182,7 +14192,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 10,
+    "featureId": 11,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -14241,7 +14251,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 11,
+    "featureId": 12,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -14283,7 +14293,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 12,
+    "featureId": 13,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -14310,7 +14320,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 13,
+    "featureId": 14,
     "population": 850967
   },
   "AL, USA": {
