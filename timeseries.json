@@ -3950,7 +3950,7 @@
       9.063233530652923,
       44.448917926372275
     ],
-    "featureId": 211,
+    "featureId": 111,
     "population": 1550640
   },
   "Lombardia, ITA": {
@@ -11979,23 +11979,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 30,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Rockingham County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.77325049999999,
-      36.39209
-    ],
-    "featureId": 90,
-    "population": 90690
+    "state": "NC"
   },
   "Guilford County, NC, USA": {
     "dates": {
@@ -12009,23 +11998,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 464,
-        "deaths": 33,
-        "recovered": 0
       }
     },
     "county": "Guilford County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.789537,
-      36.078567
-    ],
-    "featureId": 91,
-    "population": 533670
+    "state": "NC"
   },
   "Alamance County, NC, USA": {
     "dates": {
@@ -12039,23 +12017,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 126,
-        "deaths": 3,
-        "recovered": 0
       }
     },
     "county": "Alamance County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.389903,
-      36.046625
-    ],
-    "featureId": 92,
-    "population": 166436
+    "state": "NC"
   },
   "Alexander County, NC, USA": {
     "dates": {
@@ -12069,23 +12036,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 5,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Alexander County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.173576,
-      35.9112
-    ],
-    "featureId": 93,
-    "population": 37353
+    "state": "NC"
   },
   "Randolph County, NC, USA": {
     "dates": {
@@ -12099,23 +12055,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 255,
-        "deaths": 4,
-        "recovered": 0
       }
     },
     "county": "Randolph County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.80440999999999,
-      35.713162
-    ],
-    "featureId": 94,
-    "population": 143351
+    "state": "NC"
   },
   "Wayne County, NC, USA": {
     "dates": {
@@ -12129,23 +12074,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 688,
-        "deaths": 12,
-        "recovered": 0
       }
     },
     "county": "Wayne County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.0523115,
-      35.372187
-    ],
-    "featureId": 95,
-    "population": 123248
+    "state": "NC"
   },
   "Ashe County, NC, USA": {
     "dates": {
@@ -12159,23 +12093,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 5,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Ashe County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.4925705,
-      36.414194499999994
-    ],
-    "featureId": 96,
-    "population": 27109
+    "state": "NC"
   },
   "Alleghany County, NC, USA": {
     "dates": {
@@ -12189,23 +12112,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 6,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Alleghany County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.128388,
-      36.470187499999994
-    ],
-    "featureId": 97,
-    "population": 11161
+    "state": "NC"
   },
   "Currituck County, NC, USA": {
     "dates": {
@@ -12219,23 +12131,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 5,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Currituck County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.0432625,
-      36.311232000000004
-    ],
-    "featureId": 98,
-    "population": 27072
+    "state": "NC"
   },
   "Camden County, NC, USA": {
     "dates": {
@@ -12249,23 +12150,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 2,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Camden County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.2231965,
-      36.357271
-    ],
-    "featureId": 99,
-    "population": 10710
+    "state": "NC"
   },
   "Surry County, NC, USA": {
     "dates": {
@@ -12279,23 +12169,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 20,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Surry County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.7073595,
-      36.399366
-    ],
-    "featureId": 100,
-    "population": 71948
+    "state": "NC"
   },
   "Gates County, NC, USA": {
     "dates": {
@@ -12309,23 +12188,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 9,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Gates County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.70138,
-      36.424152
-    ],
-    "featureId": 101,
-    "population": 11573
+    "state": "NC"
   },
   "Hertford County, NC, USA": {
     "dates": {
@@ -12339,23 +12207,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 45,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Hertford County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.94985,
-      36.392281999999994
-    ],
-    "featureId": 102,
-    "population": 23659
+    "state": "NC"
   },
   "Northampton County, NC, USA": {
     "dates": {
@@ -12369,23 +12226,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 91,
-        "deaths": 4,
-        "recovered": 0
       }
     },
     "county": "Northampton County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.48302000000001,
-      36.356129499999994
-    ],
-    "featureId": 103,
-    "population": 19676
+    "state": "NC"
   },
   "Stokes County, NC, USA": {
     "dates": {
@@ -12399,23 +12245,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 10,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Stokes County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.2396115,
-      36.4039905
-    ],
-    "featureId": 104,
-    "population": 45467
+    "state": "NC"
   },
   "Warren County, NC, USA": {
     "dates": {
@@ -12429,23 +12264,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 17,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Warren County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.110931,
-      36.373663
-    ],
-    "featureId": 105,
-    "population": 19807
+    "state": "NC"
   },
   "Vance County, NC, USA": {
     "dates": {
@@ -12459,23 +12283,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 119,
-        "deaths": 8,
-        "recovered": 0
       }
     },
     "county": "Vance County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.394374,
-      36.3539845
-    ],
-    "featureId": 106,
-    "population": 44582
+    "state": "NC"
   },
   "Granville County, NC, USA": {
     "dates": {
@@ -12489,23 +12302,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 160,
-        "deaths": 5,
-        "recovered": 0
       }
     },
     "county": "Granville County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.6309765,
-      36.282139
-    ],
-    "featureId": 107,
-    "population": 60115
+    "state": "NC"
   },
   "Caswell County, NC, USA": {
     "dates": {
@@ -12519,23 +12321,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 34,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Caswell County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.335016,
-      36.391928
-    ],
-    "featureId": 108,
-    "population": 22698
+    "state": "NC"
   },
   "Person County, NC, USA": {
     "dates": {
@@ -12549,23 +12340,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 23,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Person County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.974278,
-      36.389045499999995
-    ],
-    "featureId": 109,
-    "population": 39507
+    "state": "NC"
   },
   "Pasquotank County, NC, USA": {
     "dates": {
@@ -12579,23 +12359,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 38,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Pasquotank County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.2753735,
-      36.31698
-    ],
-    "featureId": 110,
-    "population": 39639
+    "state": "NC"
   },
   "Halifax County, NC, USA": {
     "dates": {
@@ -12609,23 +12378,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 69,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Halifax County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.618624,
-      36.255891000000005
-    ],
-    "featureId": 111,
-    "population": 50574
+    "state": "NC"
   },
   "Wilkes County, NC, USA": {
     "dates": {
@@ -12639,23 +12397,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 128,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Wilkes County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.20716300000001,
-      36.217608
-    ],
-    "featureId": 112,
-    "population": 68557
+    "state": "NC"
   },
   "Watauga County, NC, USA": {
     "dates": {
@@ -12669,23 +12416,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 8,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Watauga County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.686846,
-      36.2509755
-    ],
-    "featureId": 113,
-    "population": 55945
+    "state": "NC"
   },
   "Perquimans County, NC, USA": {
     "dates": {
@@ -12699,23 +12435,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 14,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Perquimans County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.390806,
-      36.226709
-    ],
-    "featureId": 114,
-    "population": 13422
+    "state": "NC"
   },
   "Chowan County, NC, USA": {
     "dates": {
@@ -12729,23 +12454,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 6,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Chowan County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.5666445,
-      36.178765999999996
-    ],
-    "featureId": 115,
-    "population": 14029
+    "state": "NC"
   },
   "Avery County, NC, USA": {
     "dates": {
@@ -12759,23 +12473,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 0,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Avery County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.9081385,
-      36.099315000000004
-    ],
-    "featureId": 116,
-    "population": 17505
+    "state": "NC"
   },
   "Yadkin County, NC, USA": {
     "dates": {
@@ -12789,23 +12492,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 25,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Yadkin County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.657182,
-      36.165891
-    ],
-    "featureId": 117,
-    "population": 37543
+    "state": "NC"
   },
   "Dare County, NC, USA": {
     "dates": {
@@ -12819,23 +12511,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 14,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Dare County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -75.7362335,
-      35.708368
-    ],
-    "featureId": 118,
-    "population": 36501
+    "state": "NC"
   },
   "Forsyth County, NC, USA": {
     "dates": {
@@ -12849,23 +12530,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": 1
-      },
-      "2020-5-5": {
-        "cases": 287,
-        "deaths": 5,
-        "recovered": 0
       }
     },
     "county": "Forsyth County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.2759705,
-      36.1174225
-    ],
-    "featureId": 119,
-    "population": 379099
+    "state": "NC"
   },
   "Franklin County, NC, USA": {
     "dates": {
@@ -12879,23 +12549,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 106,
-        "deaths": 19,
-        "recovered": 0
       }
     },
     "county": "Franklin County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.27652549999999,
-      36.0419445
-    ],
-    "featureId": 120,
-    "population": 67560
+    "state": "NC"
   },
   "Bertie County, NC, USA": {
     "dates": {
@@ -12909,23 +12568,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 51,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Bertie County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.0036715,
-      36.0338355
-    ],
-    "featureId": 121,
-    "population": 19026
+    "state": "NC"
   },
   "Orange County, NC, USA": {
     "dates": {
@@ -12939,23 +12587,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 230,
-        "deaths": 18,
-        "recovered": 0
       }
     },
     "county": "Orange County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.107692,
-      36.052271
-    ],
-    "featureId": 122,
-    "population": 146027
+    "state": "NC"
   },
   "Durham County, NC, USA": {
     "dates": {
@@ -12969,23 +12606,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": 1
-      },
-      "2020-5-5": {
-        "cases": 773,
-        "deaths": 23,
-        "recovered": 0
       }
     },
     "county": "Durham County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.8573145,
-      36.051317999999995
-    ],
-    "featureId": 123,
-    "population": 316739
+    "state": "NC"
   },
   "Nash County, NC, USA": {
     "dates": {
@@ -12999,23 +12625,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 102,
-        "deaths": 3,
-        "recovered": 0
       }
     },
     "county": "Nash County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.976391,
-      35.966553000000005
-    ],
-    "featureId": 124,
-    "population": 94016
+    "state": "NC"
   },
   "Mitchell County, NC, USA": {
     "dates": {
@@ -13029,23 +12644,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 5,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Mitchell County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.198442,
-      35.991779
-    ],
-    "featureId": 125,
-    "population": 15000
+    "state": "NC"
   },
   "Edgecombe County, NC, USA": {
     "dates": {
@@ -13059,23 +12663,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 123,
-        "deaths": 5,
-        "recovered": 0
       }
     },
     "county": "Edgecombe County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.585453,
-      35.915150999999994
-    ],
-    "featureId": 126,
-    "population": 52005
+    "state": "NC"
   },
   "Caldwell County, NC, USA": {
     "dates": {
@@ -13089,23 +12682,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 44,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Caldwell County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.5699525,
-      35.939887
-    ],
-    "featureId": 127,
-    "population": 82029
+    "state": "NC"
   },
   "Tyrrell County, NC, USA": {
     "dates": {
@@ -13119,23 +12701,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 4,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Tyrrell County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.210059,
-      35.7957445
-    ],
-    "featureId": 128,
-    "population": 4131
+    "state": "NC"
   },
   "Yancey County, NC, USA": {
     "dates": {
@@ -13149,23 +12720,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Yancey County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.31928300000001,
-      35.888507000000004
-    ],
-    "featureId": 129,
-    "population": 17903
+    "state": "NC"
   },
   "Madison County, NC, USA": {
     "dates": {
@@ -13179,23 +12739,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Madison County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.685785,
-      35.8719975
-    ],
-    "featureId": 130,
-    "population": 21763
+    "state": "NC"
   },
   "Martin County, NC, USA": {
     "dates": {
@@ -13209,23 +12758,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 21,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Martin County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.084982,
-      35.8664985
-    ],
-    "featureId": 131,
-    "population": 22671
+    "state": "NC"
   },
   "Wake County, NC, USA": {
     "dates": {
@@ -13239,23 +12777,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": 1.375
-      },
-      "2020-5-5": {
-        "cases": 919,
-        "deaths": 20,
-        "recovered": 0
       }
     },
     "county": "Wake County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.6249785,
-      35.796786499999996
-    ],
-    "featureId": 132,
-    "population": 1092305
+    "state": "NC"
   },
   "Davie County, NC, USA": {
     "dates": {
@@ -13269,23 +12796,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 31,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Davie County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.5364645,
-      35.9026525
-    ],
-    "featureId": 133,
-    "population": 42733
+    "state": "NC"
   },
   "Washington County, NC, USA": {
     "dates": {
@@ -13299,23 +12815,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 25,
-        "deaths": 3,
-        "recovered": 0
       }
     },
     "county": "Washington County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.6003345,
-      35.840892999999994
-    ],
-    "featureId": 134,
-    "population": 11859
+    "state": "NC"
   },
   "Burke County, NC, USA": {
     "dates": {
@@ -13329,23 +12834,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 117,
-        "deaths": 9,
-        "recovered": 0
       }
     },
     "county": "Burke County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.675545,
-      35.7791955
-    ],
-    "featureId": 135,
-    "population": 90382
+    "state": "NC"
   },
   "Davidson County, NC, USA": {
     "dates": {
@@ -13359,23 +12853,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 183,
-        "deaths": 9,
-        "recovered": 0
       }
     },
     "county": "Davidson County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.2652875,
-      35.765553499999996
-    ],
-    "featureId": 136,
-    "population": 166614
+    "state": "NC"
   },
   "McDowell County, NC, USA": {
     "dates": {
@@ -13389,23 +12872,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 28,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "McDowell County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.0594425,
-      35.738724500000004
-    ],
-    "featureId": 137,
-    "population": 45507
+    "state": "NC"
   },
   "Chatham County, NC, USA": {
     "dates": {
@@ -13419,23 +12891,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": 1
-      },
-      "2020-5-5": {
-        "cases": 403,
-        "deaths": 11,
-        "recovered": 0
       }
     },
     "county": "Chatham County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.231033,
-      35.6959365
-    ],
-    "featureId": 138,
-    "population": 73139
+    "state": "NC"
   },
   "Wilson County, NC, USA": {
     "dates": {
@@ -13449,23 +12910,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 182,
-        "deaths": 7,
-        "recovered": 0
       }
     },
     "county": "Wilson County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.926691,
-      35.7253325
-    ],
-    "featureId": 139,
-    "population": 81455
+    "state": "NC"
   },
   "Buncombe County, NC, USA": {
     "dates": {
@@ -13479,23 +12929,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 78,
-        "deaths": 4,
-        "recovered": 0
       }
     },
     "county": "Buncombe County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.5263415,
-      35.620303
-    ],
-    "featureId": 140,
-    "population": 259103
+    "state": "NC"
   },
   "Haywood County, NC, USA": {
     "dates": {
@@ -13509,23 +12948,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 15,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Haywood County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.000247,
-      35.5418605
-    ],
-    "featureId": 141,
-    "population": 61971
+    "state": "NC"
   },
   "Catawba County, NC, USA": {
     "dates": {
@@ -13539,23 +12967,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 59,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Catawba County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.22916649999999,
-      35.6878485
-    ],
-    "featureId": 142,
-    "population": 158652
+    "state": "NC"
   },
   "Pitt County, NC, USA": {
     "dates": {
@@ -13569,23 +12986,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 144,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Pitt County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.392609,
-      35.580454
-    ],
-    "featureId": 143,
-    "population": 179914
+    "state": "NC"
   },
   "Johnston County, NC, USA": {
     "dates": {
@@ -13599,23 +13005,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": 1
-      },
-      "2020-5-5": {
-        "cases": 173,
-        "deaths": 16,
-        "recovered": 0
       }
     },
     "county": "Johnston County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.386616,
-      35.537085
-    ],
-    "featureId": 144,
-    "population": 202675
+    "state": "NC"
   },
   "Swain County, NC, USA": {
     "dates": {
@@ -13629,23 +13024,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 4,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Swain County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.554631,
-      35.4877375
-    ],
-    "featureId": 145,
-    "population": 14245
+    "state": "NC"
   },
   "Beaufort County, NC, USA": {
     "dates": {
@@ -13659,23 +13043,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 21,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Beaufort County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.83147650000001,
-      35.477776000000006
-    ],
-    "featureId": 146,
-    "population": 47079
+    "state": "NC"
   },
   "Hyde County, NC, USA": {
     "dates": {
@@ -13689,23 +13062,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Hyde County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.19371849999999,
-      35.383544
-    ],
-    "featureId": 147,
-    "population": 5230
+    "state": "NC"
   },
   "Greene County, NC, USA": {
     "dates": {
@@ -13719,23 +13081,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 22,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Greene County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.6507765,
-      35.500008
-    ],
-    "featureId": 148,
-    "population": 21012
+    "state": "NC"
   },
   "Rutherford County, NC, USA": {
     "dates": {
@@ -13749,23 +13100,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 145,
-        "deaths": 5,
-        "recovered": 0
       }
     },
     "county": "Rutherford County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.985972,
-      35.395423
-    ],
-    "featureId": 149,
-    "population": 66826
+    "state": "NC"
   },
   "Lee County, NC, USA": {
     "dates": {
@@ -13779,23 +13119,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 207,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Lee County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.16466,
-      35.467607
-    ],
-    "featureId": 150,
-    "population": 61452
+    "state": "NC"
   },
   "Cleveland County, NC, USA": {
     "dates": {
@@ -13809,23 +13138,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 48,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Cleveland County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.54468800000001,
-      35.371596499999995
-    ],
-    "featureId": 151,
-    "population": 97645
+    "state": "NC"
   },
   "Jackson County, NC, USA": {
     "dates": {
@@ -13839,23 +13157,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 18,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Jackson County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.1417865,
-      35.26292
-    ],
-    "featureId": 152,
-    "population": 43327
+    "state": "NC"
   },
   "Harnett County, NC, USA": {
     "dates": {
@@ -13869,23 +13176,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 188,
-        "deaths": 9,
-        "recovered": 0
       }
     },
     "county": "Harnett County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.87648899999999,
-      35.3876225
-    ],
-    "featureId": 153,
-    "population": 134214
+    "state": "NC"
   },
   "Graham County, NC, USA": {
     "dates": {
@@ -13899,23 +13195,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 2,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Graham County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.810297,
-      35.342066
-    ],
-    "featureId": 154,
-    "population": 8484
+    "state": "NC"
   },
   "Henderson County, NC, USA": {
     "dates": {
@@ -13929,23 +13214,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 210,
-        "deaths": 21,
-        "recovered": 0
       }
     },
     "county": "Henderson County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.5033325,
-      35.322029
-    ],
-    "featureId": 155,
-    "population": 116748
+    "state": "NC"
   },
   "Moore County, NC, USA": {
     "dates": {
@@ -13959,23 +13233,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 93,
-        "deaths": 3,
-        "recovered": 0
       }
     },
     "county": "Moore County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.43270749999999,
-      35.2805435
-    ],
-    "featureId": 156,
-    "population": 98682
+    "state": "NC"
   },
   "Montgomery County, NC, USA": {
     "dates": {
@@ -13989,23 +13252,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 38,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Montgomery County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.898494,
-      35.324289
-    ],
-    "featureId": 157,
-    "population": 27271
+    "state": "NC"
   },
   "Stanly County, NC, USA": {
     "dates": {
@@ -14019,23 +13271,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 29,
-        "deaths": 4,
-        "recovered": 0
       }
     },
     "county": "Stanly County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.278733,
-      35.323707999999996
-    ],
-    "featureId": 158,
-    "population": 62075
+    "state": "NC"
   },
   "Transylvania County, NC, USA": {
     "dates": {
@@ -14049,23 +13290,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 7,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Transylvania County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.815485,
-      35.2252595
-    ],
-    "featureId": 159,
-    "population": 34215
+    "state": "NC"
   },
   "Polk County, NC, USA": {
     "dates": {
@@ -14079,23 +13309,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 26,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Polk County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -82.1603345,
-      35.296185
-    ],
-    "featureId": 160,
-    "population": 20611
+    "state": "NC"
   },
   "Lenoir County, NC, USA": {
     "dates": {
@@ -14109,23 +13328,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 90,
-        "deaths": 4,
-        "recovered": 0
       }
     },
     "county": "Lenoir County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.6126075,
-      35.2174715
-    ],
-    "featureId": 161,
-    "population": 55976
+    "state": "NC"
   },
   "Craven County, NC, USA": {
     "dates": {
@@ -14139,23 +13347,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 44,
-        "deaths": 4,
-        "recovered": 0
       }
     },
     "county": "Craven County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.063318,
-      35.110855
-    ],
-    "featureId": 162,
-    "population": 102912
+    "state": "NC"
   },
   "Macon County, NC, USA": {
     "dates": {
@@ -14169,23 +13366,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 3,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Macon County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.42341,
-      35.162244
-    ],
-    "featureId": 163,
-    "population": 35285
+    "state": "NC"
   },
   "Cherokee County, NC, USA": {
     "dates": {
@@ -14199,23 +13385,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 19,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Cherokee County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -84.0097475,
-      35.139748499999996
-    ],
-    "featureId": 164,
-    "population": 28383
+    "state": "NC"
   },
   "Pamlico County, NC, USA": {
     "dates": {
@@ -14229,23 +13404,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 8,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Pamlico County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.72772499999999,
-      35.1507535
-    ],
-    "featureId": 165,
-    "population": 12670
+    "state": "NC"
   },
   "Sampson County, NC, USA": {
     "dates": {
@@ -14259,23 +13423,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 94,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Sampson County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.3926405,
-      34.9345395
-    ],
-    "featureId": 166,
-    "population": 63626
+    "state": "NC"
   },
   "Cumberland County, NC, USA": {
     "dates": {
@@ -14289,23 +13442,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 290,
-        "deaths": 8,
-        "recovered": 0
       }
     },
     "county": "Cumberland County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.8038205,
-      35.0502155
-    ],
-    "featureId": 167,
-    "population": 332330
+    "state": "NC"
   },
   "Clay County, NC, USA": {
     "dates": {
@@ -14319,23 +13461,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 5,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Clay County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -83.7441825,
-      35.0712515
-    ],
-    "featureId": 168,
-    "population": 11139
+    "state": "NC"
   },
   "Jones County, NC, USA": {
     "dates": {
@@ -14349,23 +13480,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 18,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Jones County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.39021650000001,
-      35.014189
-    ],
-    "featureId": 169,
-    "population": 9637
+    "state": "NC"
   },
   "Carteret County, NC, USA": {
     "dates": {
@@ -14379,23 +13499,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 27,
-        "deaths": 3,
-        "recovered": 0
       }
     },
     "county": "Carteret County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -76.60086799999999,
-      34.832848999999996
-    ],
-    "featureId": 170,
-    "population": 69524
+    "state": "NC"
   },
   "Union County, NC, USA": {
     "dates": {
@@ -14409,23 +13518,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 271,
-        "deaths": 13,
-        "recovered": 0
       }
     },
     "county": "Union County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.5587175,
-      35.0112285
-    ],
-    "featureId": 171,
-    "population": 235908
+    "state": "NC"
   },
   "Anson County, NC, USA": {
     "dates": {
@@ -14439,23 +13537,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 30,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Anson County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.0844735,
-      35.008912
-    ],
-    "featureId": 172,
-    "population": 24877
+    "state": "NC"
   },
   "Hoke County, NC, USA": {
     "dates": {
@@ -14469,23 +13556,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 101,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Hoke County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.24694550000001,
-      35.02319
-    ],
-    "featureId": 173,
-    "population": 54764
+    "state": "NC"
   },
   "Duplin County, NC, USA": {
     "dates": {
@@ -14499,23 +13575,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 132,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Duplin County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.9257305,
-      34.9501105
-    ],
-    "featureId": 174,
-    "population": 58856
+    "state": "NC"
   },
   "Richmond County, NC, USA": {
     "dates": {
@@ -14529,23 +13594,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 61,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Richmond County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.76728299999999,
-      34.99408
-    ],
-    "featureId": 175,
-    "population": 44887
+    "state": "NC"
   },
   "Scotland County, NC, USA": {
     "dates": {
@@ -14559,23 +13613,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 30,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Scotland County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.5119535,
-      34.836764
-    ],
-    "featureId": 176,
-    "population": 34810
+    "state": "NC"
   },
   "Onslow County, NC, USA": {
     "dates": {
@@ -14589,23 +13632,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 51,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Onslow County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.3899735,
-      34.712451
-    ],
-    "featureId": 177,
-    "population": 197683
+    "state": "NC"
   },
   "Robeson County, NC, USA": {
     "dates": {
@@ -14619,23 +13651,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 249,
-        "deaths": 3,
-        "recovered": 0
       }
     },
     "county": "Robeson County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -79.133749,
-      34.626412
-    ],
-    "featureId": 178,
-    "population": 131831
+    "state": "NC"
   },
   "Bladen County, NC, USA": {
     "dates": {
@@ -14649,23 +13670,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 34,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Bladen County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.5427315,
-      34.611776500000005
-    ],
-    "featureId": 179,
-    "population": 33190
+    "state": "NC"
   },
   "Pender County, NC, USA": {
     "dates": {
@@ -14679,23 +13689,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 16,
-        "deaths": 1,
-        "recovered": 0
       }
     },
     "county": "Pender County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.894035,
-      34.512526
-    ],
-    "featureId": 180,
-    "population": 62162
+    "state": "NC"
   },
   "Columbus County, NC, USA": {
     "dates": {
@@ -14709,23 +13708,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 167,
-        "deaths": 11,
-        "recovered": 0
       }
     },
     "county": "Columbus County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.6167595,
-      34.2134885
-    ],
-    "featureId": 181,
-    "population": 55655
+    "state": "NC"
   },
   "New Hanover County, NC, USA": {
     "dates": {
@@ -14739,23 +13727,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 83,
-        "deaths": 3,
-        "recovered": 0
       }
     },
     "county": "New Hanover County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -77.872919,
-      34.15828500000001
-    ],
-    "featureId": 182,
-    "population": 232274
+    "state": "NC"
   },
   "Brunswick County, NC, USA": {
     "dates": {
@@ -14769,23 +13746,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 50,
-        "deaths": 2,
-        "recovered": 0
       }
     },
     "county": "Brunswick County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -78.292874,
-      34.1056615
-    ],
-    "featureId": 183,
-    "population": 136744
+    "state": "NC"
   },
   "Iredell County, NC, USA": {
     "dates": {
@@ -14799,23 +13765,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 128,
-        "deaths": 5,
-        "recovered": 0
       }
     },
     "county": "Iredell County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.901307,
-      35.7732565
-    ],
-    "featureId": 184,
-    "population": 178435
+    "state": "NC"
   },
   "Rowan County, NC, USA": {
     "dates": {
@@ -14829,23 +13784,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 417,
-        "deaths": 24,
-        "recovered": 0
       }
     },
     "county": "Rowan County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.47710000000001,
-      35.6830585
-    ],
-    "featureId": 185,
-    "population": 141262
+    "state": "NC"
   },
   "Lincoln County, NC, USA": {
     "dates": {
@@ -14859,23 +13803,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 35,
-        "deaths": 0,
-        "recovered": 0
       }
     },
     "county": "Lincoln County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.24025,
-      35.484821999999994
-    ],
-    "featureId": 186,
-    "population": 83770
+    "state": "NC"
   },
   "Mecklenburg County, NC, USA": {
     "dates": {
@@ -14889,23 +13822,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": 1
-      },
-      "2020-5-5": {
-        "cases": 1758,
-        "deaths": 53,
-        "recovered": 0
       }
     },
     "county": "Mecklenburg County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.804163,
-      35.2583695
-    ],
-    "featureId": 187,
-    "population": 1093901
+    "state": "NC"
   },
   "Cabarrus County, NC, USA": {
     "dates": {
@@ -14919,23 +13841,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": 1
-      },
-      "2020-5-5": {
-        "cases": 318,
-        "deaths": 15,
-        "recovered": 0
       }
     },
     "county": "Cabarrus County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -80.541589,
-      35.3456055
-    ],
-    "featureId": 188,
-    "population": 211342
+    "state": "NC"
   },
   "Gaston County, NC, USA": {
     "dates": {
@@ -14949,23 +13860,12 @@
         "deaths": 0,
         "recovered": 0,
         "growthFactor": null
-      },
-      "2020-5-5": {
-        "cases": 147,
-        "deaths": 3,
-        "recovered": 0
       }
     },
     "county": "Gaston County",
     "url": "https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv",
     "country": "USA",
-    "state": "NC",
-    "coordinates": [
-      -81.1896935,
-      35.284431999999995
-    ],
-    "featureId": 189,
-    "population": 222846
+    "state": "NC"
   },
   "Atlantic County, NJ, USA": {
     "dates": {
@@ -14991,7 +13891,7 @@
       -74.6437035,
       39.509258
     ],
-    "featureId": 190,
+    "featureId": 90,
     "population": 265429
   },
   "Bergen County, NJ, USA": {
@@ -15018,7 +13918,7 @@
       -74.08225,
       40.952146
     ],
-    "featureId": 191,
+    "featureId": 91,
     "population": 936692
   },
   "Burlington County, NJ, USA": {
@@ -15045,7 +13945,7 @@
       -74.72494950000001,
       39.8658955
     ],
-    "featureId": 192,
+    "featureId": 92,
     "population": 445384
   },
   "Camden County, NJ, USA": {
@@ -15072,7 +13972,7 @@
       -74.9381575,
       39.800549000000004
     ],
-    "featureId": 193,
+    "featureId": 93,
     "population": 507078
   },
   "Cape May County, NJ, USA": {
@@ -15099,7 +13999,7 @@
       -74.756719,
       39.1261435
     ],
-    "featureId": 194,
+    "featureId": 94,
     "population": 92560
   },
   "Cumberland County, NJ, USA": {
@@ -15126,7 +14026,7 @@
       -75.135421,
       39.373098
     ],
-    "featureId": 195,
+    "featureId": 95,
     "population": 150972
   },
   "Essex County, NJ, USA": {
@@ -15153,7 +14053,7 @@
       -74.24515199999999,
       40.7914715
     ],
-    "featureId": 196,
+    "featureId": 96,
     "population": 799767
   },
   "Gloucester County, NJ, USA": {
@@ -15180,7 +14080,7 @@
       -75.15904900000001,
       39.7016335
     ],
-    "featureId": 197,
+    "featureId": 97,
     "population": 291408
   },
   "Hudson County, NJ, USA": {
@@ -15207,7 +14107,7 @@
       -74.07540449999999,
       40.732721999999995
     ],
-    "featureId": 198,
+    "featureId": 98,
     "population": 676061
   },
   "Hunterdon County, NJ, USA": {
@@ -15234,7 +14134,7 @@
       -74.9494015,
       40.5647375
     ],
-    "featureId": 199,
+    "featureId": 99,
     "population": 124714
   },
   "Mercer County, NJ, USA": {
@@ -15261,7 +14161,7 @@
       -74.7122715,
       40.280848500000005
     ],
-    "featureId": 200,
+    "featureId": 100,
     "population": 369811
   },
   "Monmouth County, NJ, USA": {
@@ -15288,7 +14188,7 @@
       -74.2928135,
       40.2778005
     ],
-    "featureId": 201,
+    "featureId": 101,
     "population": 621354
   },
   "Ocean County, NJ, USA": {
@@ -15315,7 +14215,7 @@
       -74.29221150000001,
       39.835446000000005
     ],
-    "featureId": 202,
+    "featureId": 102,
     "population": 601651
   },
   "Passaic County, NJ, USA": {
@@ -15342,7 +14242,7 @@
       -74.304839,
       41.0114805
     ],
-    "featureId": 203,
+    "featureId": 103,
     "population": 503310
   },
   "Salem County, NJ, USA": {
@@ -15369,7 +14269,7 @@
       -75.31079349999999,
       39.5848515
     ],
-    "featureId": 204,
+    "featureId": 104,
     "population": 62607
   },
   "Somerset County, NJ, USA": {
@@ -15396,7 +14296,7 @@
       -74.5998835,
       40.566201
     ],
-    "featureId": 205,
+    "featureId": 105,
     "population": 331164
   },
   "Sussex County, NJ, USA": {
@@ -15423,7 +14323,7 @@
       -74.678832,
       41.128282
     ],
-    "featureId": 206,
+    "featureId": 106,
     "population": 140799
   },
   "Union County, NJ, USA": {
@@ -15450,7 +14350,7 @@
       -74.300027,
       40.665566
     ],
-    "featureId": 207,
+    "featureId": 107,
     "population": 558067
   },
   "Warren County, NJ, USA": {
@@ -15477,7 +14377,7 @@
       -74.985897,
       40.8430415
     ],
-    "featureId": 208,
+    "featureId": 108,
     "population": 105779
   },
   "Morris County, NJ, USA": {
@@ -15504,7 +14404,7 @@
       -74.5802275,
       40.867802999999995
     ],
-    "featureId": 209,
+    "featureId": 109,
     "population": 494228
   },
   "Middlesex County, NJ, USA": {
@@ -15531,7 +14431,7 @@
       -74.41841600000001,
       40.430130500000004
     ],
-    "featureId": 210,
+    "featureId": 110,
     "population": 829685
   },
   "British Columbia, Canada": {
@@ -16973,7 +15873,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 212,
+    "featureId": 112,
     "population": 883305
   },
   "San Mateo County, CA, USA": {
@@ -17000,7 +15900,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 213,
+    "featureId": 113,
     "population": 769545
   },
   "Alameda County, CA, USA": {
@@ -17027,7 +15927,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 214,
+    "featureId": 114,
     "population": 1666753
   },
   "Sonoma County, CA, USA": {
@@ -17051,7 +15951,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 215,
+    "featureId": 115,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -17075,7 +15975,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 216,
+    "featureId": 116,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -17117,7 +16017,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 217,
+    "featureId": 117,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -17141,7 +16041,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 218,
+    "featureId": 118,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -17183,7 +16083,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 219,
+    "featureId": 119,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -17210,7 +16110,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 220,
+    "featureId": 120,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -17252,7 +16152,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 221,
+    "featureId": 121,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -17311,7 +16211,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 222,
+    "featureId": 122,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -17353,7 +16253,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 223,
+    "featureId": 123,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -17380,7 +16280,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 224,
+    "featureId": 124,
     "population": 850967
   },
   "AL, USA": {
