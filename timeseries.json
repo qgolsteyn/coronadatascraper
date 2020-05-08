@@ -17658,22 +17658,12 @@
         "cases": 40,
         "deaths": 1,
         "growthFactor": 1
-      },
-      "2020-5-8": {
-        "cases": 0,
-        "deaths": 0
       }
     },
     "county": "Los Angeles County",
     "state": "CA",
     "country": "USA",
-    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
-    "coordinates": [
-      -118.29563049999999,
-      33.8115605
-    ],
-    "featureId": 222,
-    "population": 10105518
+    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/"
   },
   "Orange County, CA, USA": {
     "dates": {
@@ -17699,7 +17689,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 223,
+    "featureId": 222,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -17741,7 +17731,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 224,
+    "featureId": 223,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -17768,7 +17758,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 225,
+    "featureId": 224,
     "population": 850967
   },
   "AL, USA": {
