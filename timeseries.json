@@ -10084,10 +10084,17 @@
         "recovered": 11474,
         "growthFactor": 1.0027315087568958
       },
+      "2020-5-11": {
+        "cases": 18741,
+        "deaths": 1666,
+        "recovered": 11615,
+        "growthFactor": 1.0010148488409358
+      },
       "2020-5-12": {
         "cases": 18782,
         "deaths": 1686,
-        "recovered": 11906
+        "recovered": 11906,
+        "growthFactor": 1.0021877167707167
       }
     },
     "state": "Veneto",
