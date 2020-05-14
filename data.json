@@ -2867,6 +2867,300 @@
     "population": 222846
   },
   {
+    "county": "Atlantic County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.6437035,
+      39.509258
+    ],
+    "featureId": 190,
+    "population": 265429
+  },
+  {
+    "county": "Bergen County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.08225,
+      40.952146
+    ],
+    "featureId": 191,
+    "population": 936692
+  },
+  {
+    "county": "Burlington County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.72494950000001,
+      39.8658955
+    ],
+    "featureId": 192,
+    "population": 445384
+  },
+  {
+    "county": "Camden County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.9381575,
+      39.800549000000004
+    ],
+    "featureId": 193,
+    "population": 507078
+  },
+  {
+    "county": "Cape May County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.756719,
+      39.1261435
+    ],
+    "featureId": 194,
+    "population": 92560
+  },
+  {
+    "county": "Cumberland County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -75.135421,
+      39.373098
+    ],
+    "featureId": 195,
+    "population": 150972
+  },
+  {
+    "county": "Essex County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.24515199999999,
+      40.7914715
+    ],
+    "featureId": 196,
+    "population": 799767
+  },
+  {
+    "county": "Gloucester County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -75.15904900000001,
+      39.7016335
+    ],
+    "featureId": 197,
+    "population": 291408
+  },
+  {
+    "county": "Hudson County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.07540449999999,
+      40.732721999999995
+    ],
+    "featureId": 198,
+    "population": 676061
+  },
+  {
+    "county": "Hunterdon County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.9494015,
+      40.5647375
+    ],
+    "featureId": 199,
+    "population": 124714
+  },
+  {
+    "county": "Mercer County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.7122715,
+      40.280848500000005
+    ],
+    "featureId": 200,
+    "population": 369811
+  },
+  {
+    "county": "Monmouth County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.2928135,
+      40.2778005
+    ],
+    "featureId": 201,
+    "population": 621354
+  },
+  {
+    "county": "Ocean County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.29221150000001,
+      39.835446000000005
+    ],
+    "featureId": 202,
+    "population": 601651
+  },
+  {
+    "county": "Passaic County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.304839,
+      41.0114805
+    ],
+    "featureId": 203,
+    "population": 503310
+  },
+  {
+    "county": "Salem County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -75.31079349999999,
+      39.5848515
+    ],
+    "featureId": 204,
+    "population": 62607
+  },
+  {
+    "county": "Somerset County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.5998835,
+      40.566201
+    ],
+    "featureId": 205,
+    "population": 331164
+  },
+  {
+    "county": "Sussex County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.678832,
+      41.128282
+    ],
+    "featureId": 206,
+    "population": 140799
+  },
+  {
+    "county": "Union County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.300027,
+      40.665566
+    ],
+    "featureId": 207,
+    "population": 558067
+  },
+  {
+    "county": "Warren County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.985897,
+      40.8430415
+    ],
+    "featureId": 208,
+    "population": 105779
+  },
+  {
+    "county": "Morris County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.5802275,
+      40.867802999999995
+    ],
+    "featureId": 209,
+    "population": 494228
+  },
+  {
+    "county": "Middlesex County",
+    "cases": 0,
+    "tested": 0,
+    "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
+    "country": "USA",
+    "state": "NJ",
+    "coordinates": [
+      -74.41841600000001,
+      40.430130500000004
+    ],
+    "featureId": 210,
+    "population": 829685
+  },
+  {
     "recovered": 1275,
     "deaths": 379,
     "cases": 3136,
@@ -2947,7 +3241,7 @@
       9.063233530652923,
       44.448917926372275
     ],
-    "featureId": 190,
+    "featureId": 211,
     "population": 1550640
   },
   {
@@ -3075,7 +3369,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 191,
+    "featureId": 212,
     "population": 883305
   },
   {
@@ -3089,7 +3383,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 192,
+    "featureId": 213,
     "population": 769545
   },
   {
@@ -3103,7 +3397,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 193,
+    "featureId": 214,
     "population": 1666753
   },
   {
@@ -3116,7 +3410,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 194,
+    "featureId": 215,
     "population": 274255
   },
   {
@@ -3130,7 +3424,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 195,
+    "featureId": 216,
     "population": 1150215
   },
   {
@@ -3143,7 +3437,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 196,
+    "featureId": 217,
     "population": 549815
   },
   {
@@ -3157,7 +3451,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 197,
+    "featureId": 218,
     "population": 1540975
   },
   {
@@ -3171,7 +3465,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 198,
+    "featureId": 219,
     "population": 994400
   },
   {
@@ -3185,7 +3479,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 199,
+    "featureId": 220,
     "population": 393149
   },
   {
@@ -3199,7 +3493,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 200,
+    "featureId": 221,
     "population": 3343364
   }
 ]

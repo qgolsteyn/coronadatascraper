@@ -4436,7 +4436,7 @@
       9.063233530652923,
       44.448917926372275
     ],
-    "featureId": 190,
+    "featureId": 211,
     "population": 1550640
   },
   "Lombardia, ITA": {
@@ -16111,12 +16111,22 @@
         "cases": 0,
         "tested": 0,
         "growthFactor": null
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Atlantic County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.6437035,
+      39.509258
+    ],
+    "featureId": 190,
+    "population": 265429
   },
   "Bergen County, NJ, USA": {
     "dates": {
@@ -16128,12 +16138,22 @@
         "cases": 25,
         "tested": 32,
         "growthFactor": 1.4705882352941178
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Bergen County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.08225,
+      40.952146
+    ],
+    "featureId": 191,
+    "population": 936692
   },
   "Burlington County, NJ, USA": {
     "dates": {
@@ -16145,12 +16165,22 @@
         "cases": 3,
         "tested": 6,
         "growthFactor": 1
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Burlington County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.72494950000001,
+      39.8658955
+    ],
+    "featureId": 192,
+    "population": 445384
   },
   "Camden County, NJ, USA": {
     "dates": {
@@ -16162,12 +16192,22 @@
         "cases": 2,
         "tested": 5,
         "growthFactor": 2
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Camden County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.9381575,
+      39.800549000000004
+    ],
+    "featureId": 193,
+    "population": 507078
   },
   "Cape May County, NJ, USA": {
     "dates": {
@@ -16179,12 +16219,22 @@
         "cases": 0,
         "tested": 0,
         "growthFactor": null
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Cape May County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.756719,
+      39.1261435
+    ],
+    "featureId": 194,
+    "population": 92560
   },
   "Cumberland County, NJ, USA": {
     "dates": {
@@ -16196,12 +16246,22 @@
         "cases": 0,
         "tested": 1,
         "growthFactor": null
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Cumberland County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -75.135421,
+      39.373098
+    ],
+    "featureId": 195,
+    "population": 150972
   },
   "Essex County, NJ, USA": {
     "dates": {
@@ -16213,12 +16273,22 @@
         "cases": 7,
         "tested": 11,
         "growthFactor": 1.4
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Essex County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.24515199999999,
+      40.7914715
+    ],
+    "featureId": 196,
+    "population": 799767
   },
   "Gloucester County, NJ, USA": {
     "dates": {
@@ -16230,12 +16300,22 @@
         "cases": 0,
         "tested": 0,
         "growthFactor": null
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Gloucester County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -75.15904900000001,
+      39.7016335
+    ],
+    "featureId": 197,
+    "population": 291408
   },
   "Hudson County, NJ, USA": {
     "dates": {
@@ -16247,12 +16327,22 @@
         "cases": 5,
         "tested": 11,
         "growthFactor": 1.6666666666666667
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Hudson County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.07540449999999,
+      40.732721999999995
+    ],
+    "featureId": 198,
+    "population": 676061
   },
   "Hunterdon County, NJ, USA": {
     "dates": {
@@ -16264,12 +16354,22 @@
         "cases": 0,
         "tested": 1,
         "growthFactor": null
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Hunterdon County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.9494015,
+      40.5647375
+    ],
+    "featureId": 199,
+    "population": 124714
   },
   "Mercer County, NJ, USA": {
     "dates": {
@@ -16281,12 +16381,22 @@
         "cases": 1,
         "tested": 1,
         "growthFactor": null
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Mercer County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.7122715,
+      40.280848500000005
+    ],
+    "featureId": 200,
+    "population": 369811
   },
   "Monmouth County, NJ, USA": {
     "dates": {
@@ -16298,12 +16408,22 @@
         "cases": 8,
         "tested": 13,
         "growthFactor": 1.1428571428571428
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Monmouth County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.2928135,
+      40.2778005
+    ],
+    "featureId": 201,
+    "population": 621354
   },
   "Ocean County, NJ, USA": {
     "dates": {
@@ -16315,12 +16435,22 @@
         "cases": 1,
         "tested": 2,
         "growthFactor": 1
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Ocean County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.29221150000001,
+      39.835446000000005
+    ],
+    "featureId": 202,
+    "population": 601651
   },
   "Passaic County, NJ, USA": {
     "dates": {
@@ -16332,12 +16462,22 @@
         "cases": 2,
         "tested": 4,
         "growthFactor": 1
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Passaic County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.304839,
+      41.0114805
+    ],
+    "featureId": 203,
+    "population": 503310
   },
   "Salem County, NJ, USA": {
     "dates": {
@@ -16349,12 +16489,22 @@
         "cases": 0,
         "tested": 0,
         "growthFactor": null
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Salem County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -75.31079349999999,
+      39.5848515
+    ],
+    "featureId": 204,
+    "population": 62607
   },
   "Somerset County, NJ, USA": {
     "dates": {
@@ -16366,12 +16516,22 @@
         "cases": 1,
         "tested": 1,
         "growthFactor": 1
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Somerset County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.5998835,
+      40.566201
+    ],
+    "featureId": 205,
+    "population": 331164
   },
   "Sussex County, NJ, USA": {
     "dates": {
@@ -16383,12 +16543,22 @@
         "cases": 0,
         "tested": 1,
         "growthFactor": null
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Sussex County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.678832,
+      41.128282
+    ],
+    "featureId": 206,
+    "population": 140799
   },
   "Union County, NJ, USA": {
     "dates": {
@@ -16400,12 +16570,22 @@
         "cases": 1,
         "tested": 6,
         "growthFactor": 1
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Union County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.300027,
+      40.665566
+    ],
+    "featureId": 207,
+    "population": 558067
   },
   "Warren County, NJ, USA": {
     "dates": {
@@ -16417,12 +16597,22 @@
         "cases": 0,
         "tested": 1,
         "growthFactor": null
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Warren County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.985897,
+      40.8430415
+    ],
+    "featureId": 208,
+    "population": 105779
   },
   "Morris County, NJ, USA": {
     "dates": {
@@ -16434,12 +16624,22 @@
         "cases": 3,
         "tested": 3,
         "growthFactor": 1
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Morris County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.5802275,
+      40.867802999999995
+    ],
+    "featureId": 209,
+    "population": 494228
   },
   "Middlesex County, NJ, USA": {
     "dates": {
@@ -16451,12 +16651,22 @@
         "cases": 10,
         "tested": 14,
         "growthFactor": 3.3333333333333335
+      },
+      "2020-5-14": {
+        "cases": 0,
+        "tested": 0
       }
     },
     "county": "Middlesex County",
     "url": "https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv",
     "country": "USA",
-    "state": "NJ"
+    "state": "NJ",
+    "coordinates": [
+      -74.41841600000001,
+      40.430130500000004
+    ],
+    "featureId": 210,
+    "population": 829685
   },
   "British Columbia, Canada": {
     "dates": {
@@ -17897,7 +18107,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 191,
+    "featureId": 212,
     "population": 883305
   },
   "San Mateo County, CA, USA": {
@@ -17924,7 +18134,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 192,
+    "featureId": 213,
     "population": 769545
   },
   "Alameda County, CA, USA": {
@@ -17951,7 +18161,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 193,
+    "featureId": 214,
     "population": 1666753
   },
   "Sonoma County, CA, USA": {
@@ -17975,7 +18185,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 194,
+    "featureId": 215,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -17999,7 +18209,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 195,
+    "featureId": 216,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -18041,7 +18251,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 196,
+    "featureId": 217,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -18065,7 +18275,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 197,
+    "featureId": 218,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -18107,7 +18317,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 198,
+    "featureId": 219,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -18134,7 +18344,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 199,
+    "featureId": 220,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -18176,7 +18386,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 200,
+    "featureId": 221,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -18235,7 +18445,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 201,
+    "featureId": 222,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -18277,7 +18487,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 202,
+    "featureId": 223,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -18304,7 +18514,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 203,
+    "featureId": 224,
     "population": 850967
   },
   "AL, USA": {
