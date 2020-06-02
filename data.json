@@ -3414,6 +3414,20 @@
     "population": 274255
   },
   {
+    "cases": 0,
+    "deaths": 0,
+    "county": "Contra Costa County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.coronavirus.cchealth.org/",
+    "coordinates": [
+      -121.983341,
+      37.9092535
+    ],
+    "featureId": 216,
+    "population": 1150215
+  },
+  {
     "cases": 7502959413250,
     "county": "Stanislaus County",
     "state": "CA",
@@ -3423,7 +3437,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 216,
+    "featureId": 217,
     "population": 549815
   },
   {
@@ -3437,7 +3451,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 217,
+    "featureId": 218,
     "population": 1540975
   },
   {
@@ -3451,7 +3465,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 218,
+    "featureId": 219,
     "population": 994400
   },
   {
@@ -3465,7 +3479,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 219,
+    "featureId": 220,
     "population": 393149
   },
   {
@@ -3479,7 +3493,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 220,
+    "featureId": 221,
     "population": 3343364
   }
 ]
