@@ -212,27 +212,27 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Warren County,NJ,USA,0,,,0,40.8430415,-74.985897,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,208,105779
 ,Morris County,NJ,USA,0,,,0,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,209,494228
 ,Middlesex County,NJ,USA,0,,,0,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,210,829685
-,,Abruzzo,ITA,3258,418,2187,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1311580
-,,Basilicata,ITA,399,27,355,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,562869
-,,P.A. Bolzano,ITA,2600,292,2208,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
+,,Abruzzo,ITA,3265,418,2194,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1311580
+,,Basilicata,ITA,399,27,358,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,562869
+,,P.A. Bolzano,ITA,2603,292,2214,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
 ,,Calabria,ITA,1159,97,971,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1947131
-,,Campania,ITA,4822,426,3658,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5801692
-,,Emilia-Romagna,ITA,27894,4171,21307,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
-,,Friuli Venezia Giulia,ITA,3283,338,2784,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1215220
-,,Lazio,ITA,7801,758,4346,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5879082
-,,Liguria,ITA,9799,1492,8062,,44.448917926372275,9.063233530652923,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,211,1550640
-,,Lombardia,ITA,90070,16249,54322,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,10060574
-,,Marche,ITA,6742,991,4556,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1525271
-,,Molise,ITA,436,23,292,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,305617
-,,Piemonte,ITA,30845,3934,22744,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4356406
-,,Puglia,ITA,4511,522,3231,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4029053
-,,Sardegna,ITA,1362,131,1171,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1639591
-,,Sicilia,ITA,3450,276,2308,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4999891
-,,Toscana,ITA,10134,1068,8281,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,3729641
-,,P.A. Trento,ITA,4434,464,3866,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
-,,Umbria,ITA,1431,76,1327,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,882015
-,,Valle d'Aosta,ITA,1189,144,1033,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,125666
-,,Veneto,ITA,19182,1949,16069,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4905854
+,,Campania,ITA,4826,426,3675,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5801692
+,,Emilia-Romagna,ITA,27908,4175,21405,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
+,,Friuli Venezia Giulia,ITA,3283,339,2793,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1215220
+,,Lazio,ITA,7812,760,4362,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5879082
+,,Liguria,ITA,9812,1499,8070,,44.448917926372275,9.063233530652923,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,211,1550640
+,,Lombardia,ITA,90195,16270,54505,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,10060574
+,,Marche,ITA,6745,991,4595,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1525271
+,,Molise,ITA,436,23,293,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,305617
+,,Piemonte,ITA,30855,3941,22952,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4356406
+,,Puglia,ITA,4511,525,3253,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4029053
+,,Sardegna,ITA,1362,131,1172,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1639591
+,,Sicilia,ITA,3451,277,2312,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4999891
+,,Toscana,ITA,10135,1070,8315,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,3729641
+,,P.A. Trento,ITA,4435,464,3889,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
+,,Umbria,ITA,1432,76,1327,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,882015
+,,Valle d'Aosta,ITA,1191,144,1038,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,125666
+,,Veneto,ITA,19183,1954,16144,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4905854
 ,,DC,USA,0,,,0,,,https://coronavirus.dc.gov/page/coronavirus-data,,
 ,San Francisco County,CA,USA,2747,43,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,212,883305
 ,San Mateo County,CA,USA,0,0,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,213,769545
