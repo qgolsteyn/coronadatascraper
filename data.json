@@ -3428,19 +3428,6 @@
     "population": 1150215
   },
   {
-    "cases": 10723376116895,
-    "county": "Stanislaus County",
-    "state": "CA",
-    "country": "USA",
-    "url": "http://www.schsa.org/PublicHealth/pages/corona-virus/",
-    "coordinates": [
-      -120.937052,
-      37.606097500000004
-    ],
-    "featureId": 217,
-    "population": 549815
-  },
-  {
     "cases": 1.7731849818506437e+22,
     "deaths": 28012,
     "county": "Sacramento County",
@@ -3451,7 +3438,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 218,
+    "featureId": 217,
     "population": 1540975
   },
   {
@@ -3465,7 +3452,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 219,
+    "featureId": 218,
     "population": 994400
   },
   {
@@ -3479,7 +3466,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 220,
+    "featureId": 219,
     "population": 393149
   },
   {
@@ -3493,7 +3480,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 221,
+    "featureId": 220,
     "population": 3343364
   }
 ]
