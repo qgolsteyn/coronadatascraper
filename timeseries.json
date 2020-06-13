@@ -22152,12 +22152,22 @@
         "cases": 7,
         "deaths": 1,
         "growthFactor": 1
+      },
+      "2020-6-13": {
+        "cases": 0,
+        "deaths": 0
       }
     },
     "county": "Placer County",
     "state": "CA",
     "country": "USA",
-    "url": "https://www.placer.ca.gov/6448/Cases-in-Placer"
+    "url": "https://www.placer.ca.gov/6448/Cases-in-Placer",
+    "coordinates": [
+      -120.7434505,
+      39.0142165
+    ],
+    "featureId": 221,
+    "population": 393149
   },
   "Shasta County, CA, USA": {
     "dates": {
@@ -22215,7 +22225,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 221,
+    "featureId": 222,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -22257,7 +22267,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 222,
+    "featureId": 223,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -22284,7 +22294,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 223,
+    "featureId": 224,
     "population": 850967
   },
   "AL, USA": {
