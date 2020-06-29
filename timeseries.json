@@ -757,10 +757,10 @@
         "growthFactor": 1.0003044140030442
       },
       "2020-6-29": {
-        "cases": 3286,
+        "cases": 3287,
         "deaths": 462,
-        "recovered": 2540,
-        "growthFactor": 1
+        "recovered": 2543,
+        "growthFactor": 1.0003043213633598
       }
     },
     "state": "Abruzzo",
@@ -1526,784 +1526,16 @@
         "growthFactor": 1
       },
       "2020-6-29": {
-        "cases": 401,
+        "cases": 402,
         "deaths": 27,
         "recovered": 372,
-        "growthFactor": 1
+        "growthFactor": 1.0024937655860349
       }
     },
     "state": "Basilicata",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "population": 562869
-  },
-  "P.A. Bolzano, ITA": {
-    "dates": {
-      "2020-2-24": {
-        "cases": 0,
-        "deaths": 0,
-        "recovered": 0
-      },
-      "2020-2-25": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": null
-      },
-      "2020-2-26": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1
-      },
-      "2020-2-27": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1
-      },
-      "2020-2-28": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1
-      },
-      "2020-2-29": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1
-      },
-      "2020-3-1": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1
-      },
-      "2020-3-2": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1
-      },
-      "2020-3-3": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1
-      },
-      "2020-3-4": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1
-      },
-      "2020-3-5": {
-        "cases": 1,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1
-      },
-      "2020-3-6": {
-        "cases": 4,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 4
-      },
-      "2020-3-7": {
-        "cases": 9,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 2.25
-      },
-      "2020-3-8": {
-        "cases": 9,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1
-      },
-      "2020-3-9": {
-        "cases": 9,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1
-      },
-      "2020-3-10": {
-        "cases": 38,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 4.222222222222222
-      },
-      "2020-3-11": {
-        "cases": 75,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1.9736842105263157
-      },
-      "2020-3-12": {
-        "cases": 104,
-        "deaths": 1,
-        "recovered": 0,
-        "growthFactor": 1.3866666666666667
-      },
-      "2020-3-13": {
-        "cases": 125,
-        "deaths": 2,
-        "recovered": 0,
-        "growthFactor": 1.2019230769230769
-      },
-      "2020-3-14": {
-        "cases": 173,
-        "deaths": 3,
-        "recovered": 0,
-        "growthFactor": 1.384
-      },
-      "2020-3-15": {
-        "cases": 204,
-        "deaths": 5,
-        "recovered": 0,
-        "growthFactor": 1.1791907514450868
-      },
-      "2020-3-16": {
-        "cases": 241,
-        "deaths": 6,
-        "recovered": 0,
-        "growthFactor": 1.1813725490196079
-      },
-      "2020-3-17": {
-        "cases": 291,
-        "deaths": 8,
-        "recovered": 1,
-        "growthFactor": 1.2074688796680497
-      },
-      "2020-3-18": {
-        "cases": 376,
-        "deaths": 9,
-        "recovered": 1,
-        "growthFactor": 1.2920962199312716
-      },
-      "2020-3-19": {
-        "cases": 436,
-        "deaths": 14,
-        "recovered": 1,
-        "growthFactor": 1.1595744680851063
-      },
-      "2020-3-20": {
-        "cases": 548,
-        "deaths": 17,
-        "recovered": 1,
-        "growthFactor": 1.2568807339449541
-      },
-      "2020-3-21": {
-        "cases": 621,
-        "deaths": 20,
-        "recovered": 1,
-        "growthFactor": 1.1332116788321167
-      },
-      "2020-3-22": {
-        "cases": 678,
-        "deaths": 23,
-        "recovered": 7,
-        "growthFactor": 1.0917874396135265
-      },
-      "2020-3-23": {
-        "cases": 724,
-        "deaths": 29,
-        "recovered": 7,
-        "growthFactor": 1.0678466076696165
-      },
-      "2020-3-24": {
-        "cases": 781,
-        "deaths": 38,
-        "recovered": 44,
-        "growthFactor": 1.078729281767956
-      },
-      "2020-3-25": {
-        "cases": 858,
-        "deaths": 43,
-        "recovered": 67,
-        "growthFactor": 1.0985915492957747
-      },
-      "2020-3-26": {
-        "cases": 906,
-        "deaths": 48,
-        "recovered": 67,
-        "growthFactor": 1.055944055944056
-      },
-      "2020-3-27": {
-        "cases": 1003,
-        "deaths": 60,
-        "recovered": 110,
-        "growthFactor": 1.1070640176600441
-      },
-      "2020-3-28": {
-        "cases": 1109,
-        "deaths": 64,
-        "recovered": 116,
-        "growthFactor": 1.1056829511465602
-      },
-      "2020-3-29": {
-        "cases": 1214,
-        "deaths": 64,
-        "recovered": 116,
-        "growthFactor": 1.0946798917944094
-      },
-      "2020-3-30": {
-        "cases": 1325,
-        "deaths": 74,
-        "recovered": 153,
-        "growthFactor": 1.0914332784184515
-      },
-      "2020-3-31": {
-        "cases": 1371,
-        "deaths": 76,
-        "recovered": 153,
-        "growthFactor": 1.0347169811320756
-      },
-      "2020-4-1": {
-        "cases": 1418,
-        "deaths": 116,
-        "recovered": 190,
-        "growthFactor": 1.0342815463165573
-      },
-      "2020-4-2": {
-        "cases": 1479,
-        "deaths": 129,
-        "recovered": 190,
-        "growthFactor": 1.043018335684062
-      },
-      "2020-4-3": {
-        "cases": 1559,
-        "deaths": 139,
-        "recovered": 211,
-        "growthFactor": 1.0540906017579446
-      },
-      "2020-4-4": {
-        "cases": 1592,
-        "deaths": 146,
-        "recovered": 245,
-        "growthFactor": 1.0211674150096215
-      },
-      "2020-4-5": {
-        "cases": 1644,
-        "deaths": 158,
-        "recovered": 260,
-        "growthFactor": 1.0326633165829147
-      },
-      "2020-4-6": {
-        "cases": 1722,
-        "deaths": 164,
-        "recovered": 298,
-        "growthFactor": 1.0474452554744527
-      },
-      "2020-4-7": {
-        "cases": 1811,
-        "deaths": 174,
-        "recovered": 336,
-        "growthFactor": 1.051684088269454
-      },
-      "2020-4-8": {
-        "cases": 1835,
-        "deaths": 183,
-        "recovered": 371,
-        "growthFactor": 1.0132523467697405
-      },
-      "2020-4-9": {
-        "cases": 1903,
-        "deaths": 187,
-        "recovered": 401,
-        "growthFactor": 1.037057220708447
-      },
-      "2020-4-10": {
-        "cases": 1955,
-        "deaths": 191,
-        "recovered": 447,
-        "growthFactor": 1.0273252758801892
-      },
-      "2020-4-11": {
-        "cases": 1957,
-        "deaths": 200,
-        "recovered": 488,
-        "growthFactor": 1.0010230179028132
-      },
-      "2020-4-12": {
-        "cases": 2098,
-        "deaths": 205,
-        "recovered": 378,
-        "growthFactor": 1.0720490546755237
-      },
-      "2020-4-13": {
-        "cases": 2149,
-        "deaths": 212,
-        "recovered": 400,
-        "growthFactor": 1.0243088655862727
-      },
-      "2020-4-14": {
-        "cases": 2184,
-        "deaths": 214,
-        "recovered": 406,
-        "growthFactor": 1.01628664495114
-      },
-      "2020-4-15": {
-        "cases": 2224,
-        "deaths": 223,
-        "recovered": 425,
-        "growthFactor": 1.0183150183150182
-      },
-      "2020-4-16": {
-        "cases": 2267,
-        "deaths": 225,
-        "recovered": 449,
-        "growthFactor": 1.0193345323741008
-      },
-      "2020-4-17": {
-        "cases": 2296,
-        "deaths": 234,
-        "recovered": 480,
-        "growthFactor": 1.0127922364358182
-      },
-      "2020-4-18": {
-        "cases": 2325,
-        "deaths": 239,
-        "recovered": 530,
-        "growthFactor": 1.012630662020906
-      },
-      "2020-4-19": {
-        "cases": 2380,
-        "deaths": 245,
-        "recovered": 569,
-        "growthFactor": 1.0236559139784946
-      },
-      "2020-4-20": {
-        "cases": 2394,
-        "deaths": 249,
-        "recovered": 605,
-        "growthFactor": 1.0058823529411764
-      },
-      "2020-4-21": {
-        "cases": 2410,
-        "deaths": 251,
-        "recovered": 623,
-        "growthFactor": 1.0066833751044277
-      },
-      "2020-4-22": {
-        "cases": 2416,
-        "deaths": 256,
-        "recovered": 648,
-        "growthFactor": 1.0024896265560166
-      },
-      "2020-4-23": {
-        "cases": 2435,
-        "deaths": 261,
-        "recovered": 680,
-        "growthFactor": 1.007864238410596
-      },
-      "2020-4-24": {
-        "cases": 2456,
-        "deaths": 263,
-        "recovered": 1100,
-        "growthFactor": 1.008624229979466
-      },
-      "2020-4-25": {
-        "cases": 2476,
-        "deaths": 265,
-        "recovered": 1176,
-        "growthFactor": 1.00814332247557
-      },
-      "2020-4-26": {
-        "cases": 2481,
-        "deaths": 269,
-        "recovered": 1218,
-        "growthFactor": 1.0020193861066236
-      },
-      "2020-4-27": {
-        "cases": 2496,
-        "deaths": 270,
-        "recovered": 1286,
-        "growthFactor": 1.0060459492140266
-      },
-      "2020-4-28": {
-        "cases": 2498,
-        "deaths": 272,
-        "recovered": 1316,
-        "growthFactor": 1.0008012820512822
-      },
-      "2020-4-29": {
-        "cases": 2507,
-        "deaths": 274,
-        "recovered": 1388,
-        "growthFactor": 1.0036028823058447
-      },
-      "2020-4-30": {
-        "cases": 2518,
-        "deaths": 275,
-        "recovered": 1441,
-        "growthFactor": 1.0043877143996809
-      },
-      "2020-5-1": {
-        "cases": 2528,
-        "deaths": 278,
-        "recovered": 1493,
-        "growthFactor": 1.0039714058776807
-      },
-      "2020-5-2": {
-        "cases": 2535,
-        "deaths": 279,
-        "recovered": 1553,
-        "growthFactor": 1.0027689873417722
-      },
-      "2020-5-3": {
-        "cases": 2536,
-        "deaths": 281,
-        "recovered": 1590,
-        "growthFactor": 1.0003944773175542
-      },
-      "2020-5-4": {
-        "cases": 2541,
-        "deaths": 284,
-        "recovered": 1621,
-        "growthFactor": 1.0019716088328077
-      },
-      "2020-5-5": {
-        "cases": 2542,
-        "deaths": 286,
-        "recovered": 1644,
-        "growthFactor": 1.0003935458480913
-      },
-      "2020-5-6": {
-        "cases": 2543,
-        "deaths": 286,
-        "recovered": 1678,
-        "growthFactor": 1.0003933910306846
-      },
-      "2020-5-7": {
-        "cases": 2552,
-        "deaths": 286,
-        "recovered": 1715,
-        "growthFactor": 1.0035391270153362
-      },
-      "2020-5-8": {
-        "cases": 2558,
-        "deaths": 289,
-        "recovered": 1767,
-        "growthFactor": 1.0023510971786833
-      },
-      "2020-5-9": {
-        "cases": 2567,
-        "deaths": 290,
-        "recovered": 1804,
-        "growthFactor": 1.0035183737294762
-      },
-      "2020-5-10": {
-        "cases": 2569,
-        "deaths": 290,
-        "recovered": 1820,
-        "growthFactor": 1.0007791195948579
-      },
-      "2020-5-11": {
-        "cases": 2572,
-        "deaths": 290,
-        "recovered": 1835,
-        "growthFactor": 1.0011677695601402
-      },
-      "2020-5-12": {
-        "cases": 2572,
-        "deaths": 290,
-        "recovered": 1845,
-        "growthFactor": 1
-      },
-      "2020-5-13": {
-        "cases": 2575,
-        "deaths": 290,
-        "recovered": 1872,
-        "growthFactor": 1.0011664074650077
-      },
-      "2020-5-14": {
-        "cases": 2578,
-        "deaths": 290,
-        "recovered": 1908,
-        "growthFactor": 1.0011650485436894
-      },
-      "2020-5-15": {
-        "cases": 2578,
-        "deaths": 290,
-        "recovered": 1929,
-        "growthFactor": 1
-      },
-      "2020-5-16": {
-        "cases": 2578,
-        "deaths": 290,
-        "recovered": 1945,
-        "growthFactor": 1
-      },
-      "2020-5-17": {
-        "cases": 2581,
-        "deaths": 290,
-        "recovered": 1977,
-        "growthFactor": 1.0011636927851046
-      },
-      "2020-5-18": {
-        "cases": 2582,
-        "deaths": 291,
-        "recovered": 1984,
-        "growthFactor": 1.0003874467260752
-      },
-      "2020-5-19": {
-        "cases": 2587,
-        "deaths": 291,
-        "recovered": 1988,
-        "growthFactor": 1.0019364833462432
-      },
-      "2020-5-20": {
-        "cases": 2587,
-        "deaths": 291,
-        "recovered": 2024,
-        "growthFactor": 1
-      },
-      "2020-5-21": {
-        "cases": 2587,
-        "deaths": 291,
-        "recovered": 2046,
-        "growthFactor": 1
-      },
-      "2020-5-22": {
-        "cases": 2590,
-        "deaths": 291,
-        "recovered": 2075,
-        "growthFactor": 1.0011596443757247
-      },
-      "2020-5-23": {
-        "cases": 2590,
-        "deaths": 291,
-        "recovered": 2085,
-        "growthFactor": 1
-      },
-      "2020-5-24": {
-        "cases": 2593,
-        "deaths": 291,
-        "recovered": 2107,
-        "growthFactor": 1.0011583011583012
-      },
-      "2020-5-25": {
-        "cases": 2593,
-        "deaths": 291,
-        "recovered": 2118,
-        "growthFactor": 1
-      },
-      "2020-5-26": {
-        "cases": 2593,
-        "deaths": 291,
-        "recovered": 2123,
-        "growthFactor": 1
-      },
-      "2020-5-27": {
-        "cases": 2593,
-        "deaths": 291,
-        "recovered": 2131,
-        "growthFactor": 1
-      },
-      "2020-5-28": {
-        "cases": 2595,
-        "deaths": 291,
-        "recovered": 2147,
-        "growthFactor": 1.0007713073659854
-      },
-      "2020-5-29": {
-        "cases": 2595,
-        "deaths": 291,
-        "recovered": 2150,
-        "growthFactor": 1
-      },
-      "2020-5-30": {
-        "cases": 2596,
-        "deaths": 291,
-        "recovered": 2168,
-        "growthFactor": 1.0003853564547207
-      },
-      "2020-5-31": {
-        "cases": 2597,
-        "deaths": 291,
-        "recovered": 2179,
-        "growthFactor": 1.0003852080123266
-      },
-      "2020-6-1": {
-        "cases": 2598,
-        "deaths": 291,
-        "recovered": 2184,
-        "growthFactor": 1.000385059684251
-      },
-      "2020-6-2": {
-        "cases": 2598,
-        "deaths": 291,
-        "recovered": 2187,
-        "growthFactor": 1
-      },
-      "2020-6-3": {
-        "cases": 2598,
-        "deaths": 291,
-        "recovered": 2187,
-        "growthFactor": 1
-      },
-      "2020-6-4": {
-        "cases": 2598,
-        "deaths": 292,
-        "recovered": 2194,
-        "growthFactor": 1
-      },
-      "2020-6-5": {
-        "cases": 2599,
-        "deaths": 292,
-        "recovered": 2206,
-        "growthFactor": 1.0003849114703618
-      },
-      "2020-6-6": {
-        "cases": 2600,
-        "deaths": 292,
-        "recovered": 2208,
-        "growthFactor": 1.0003847633705272
-      },
-      "2020-6-7": {
-        "cases": 2603,
-        "deaths": 292,
-        "recovered": 2214,
-        "growthFactor": 1.001153846153846
-      },
-      "2020-6-8": {
-        "cases": 2604,
-        "deaths": 292,
-        "recovered": 2215,
-        "growthFactor": 1.000384172109105
-      },
-      "2020-6-9": {
-        "cases": 2604,
-        "deaths": 292,
-        "recovered": 2217,
-        "growthFactor": 1
-      },
-      "2020-6-10": {
-        "cases": 2604,
-        "deaths": 292,
-        "recovered": 2218,
-        "growthFactor": 1
-      },
-      "2020-6-11": {
-        "cases": 2606,
-        "deaths": 292,
-        "recovered": 2215,
-        "growthFactor": 1.0007680491551458
-      },
-      "2020-6-12": {
-        "cases": 2608,
-        "deaths": 291,
-        "recovered": 2216,
-        "growthFactor": 1.0007674597083653
-      },
-      "2020-6-13": {
-        "cases": 2610,
-        "deaths": 291,
-        "recovered": 2224,
-        "growthFactor": 1.0007668711656441
-      },
-      "2020-6-14": {
-        "cases": 2613,
-        "deaths": 291,
-        "recovered": 2227,
-        "growthFactor": 1.0011494252873563
-      },
-      "2020-6-15": {
-        "cases": 2611,
-        "deaths": 292,
-        "recovered": 2225,
-        "growthFactor": 0.9992345962495216
-      },
-      "2020-6-16": {
-        "cases": 2611,
-        "deaths": 292,
-        "recovered": 2226,
-        "growthFactor": 1
-      },
-      "2020-6-17": {
-        "cases": 2611,
-        "deaths": 292,
-        "recovered": 2232,
-        "growthFactor": 1
-      },
-      "2020-6-18": {
-        "cases": 2613,
-        "deaths": 292,
-        "recovered": 2236,
-        "growthFactor": 1.0007659900421295
-      },
-      "2020-6-19": {
-        "cases": 2615,
-        "deaths": 292,
-        "recovered": 2248,
-        "growthFactor": 1.0007654037504783
-      },
-      "2020-6-20": {
-        "cases": 2618,
-        "deaths": 292,
-        "recovered": 2250,
-        "growthFactor": 1.0011472275334607
-      },
-      "2020-6-21": {
-        "cases": 2622,
-        "deaths": 292,
-        "recovered": 2255,
-        "growthFactor": 1.001527883880825
-      },
-      "2020-6-22": {
-        "cases": 2633,
-        "deaths": 292,
-        "recovered": 2252,
-        "growthFactor": 1.0041952707856598
-      },
-      "2020-6-23": {
-        "cases": 2633,
-        "deaths": 292,
-        "recovered": 2252,
-        "growthFactor": 1
-      },
-      "2020-6-24": {
-        "cases": 2634,
-        "deaths": 292,
-        "recovered": 2252,
-        "growthFactor": 1.0003797949107482
-      },
-      "2020-6-25": {
-        "cases": 2634,
-        "deaths": 292,
-        "recovered": 2255,
-        "growthFactor": 1
-      },
-      "2020-6-26": {
-        "cases": 2634,
-        "deaths": 292,
-        "recovered": 2257,
-        "growthFactor": 1
-      },
-      "2020-6-27": {
-        "cases": 2636,
-        "deaths": 292,
-        "recovered": 2257,
-        "growthFactor": 1.0007593014426728
-      },
-      "2020-6-28": {
-        "cases": 2637,
-        "deaths": 292,
-        "recovered": 2260,
-        "growthFactor": 1.0003793626707131
-      },
-      "2020-6-29": {
-        "cases": 2637,
-        "deaths": 292,
-        "recovered": 2260,
-        "growthFactor": 1
-      }
-    },
-    "state": "P.A. Bolzano",
-    "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
   },
   "Calabria, ITA": {
     "dates": {
@@ -3832,10 +3064,10 @@
         "growthFactor": 1
       },
       "2020-6-29": {
-        "cases": 4665,
+        "cases": 4666,
         "deaths": 431,
-        "recovered": 4071,
-        "growthFactor": 1
+        "recovered": 4073,
+        "growthFactor": 1.0002143622722401
       }
     },
     "state": "Campania",
@@ -4601,10 +3833,10 @@
         "growthFactor": 1.0007385264638649
       },
       "2020-6-29": {
-        "cases": 28456,
-        "deaths": 4253,
-        "recovered": 23161,
-        "growthFactor": 1
+        "cases": 28472,
+        "deaths": 4255,
+        "recovered": 23185,
+        "growthFactor": 1.0005622715771718
       }
     },
     "state": "Emilia-Romagna",
@@ -5371,7 +4603,7 @@
       "2020-6-29": {
         "cases": 3308,
         "deaths": 345,
-        "recovered": 2925,
+        "recovered": 2927,
         "growthFactor": 1
       }
     },
@@ -6138,10 +5370,10 @@
         "growthFactor": 1.0017322444939372
       },
       "2020-6-29": {
-        "cases": 8096,
+        "cases": 8105,
         "deaths": 837,
-        "recovered": 6418,
-        "growthFactor": 1
+        "recovered": 6428,
+        "growthFactor": 1.0011116600790513
       }
     },
     "state": "Lazio",
@@ -6907,10 +6139,10 @@
         "growthFactor": 1.0004014854963363
       },
       "2020-6-29": {
-        "cases": 9967,
+        "cases": 9974,
         "deaths": 1558,
-        "recovered": 8137,
-        "growthFactor": 1
+        "recovered": 8139,
+        "growthFactor": 1.0007023176482392
       }
     },
     "state": "Liguria",
@@ -7681,10 +6913,10 @@
         "growthFactor": 1.0010356166723609
       },
       "2020-6-29": {
-        "cases": 93761,
-        "deaths": 16639,
-        "recovered": 66175,
-        "growthFactor": 1
+        "cases": 93839,
+        "deaths": 16640,
+        "recovered": 66376,
+        "growthFactor": 1.0008319023901195
       }
     },
     "state": "Lombardia",
@@ -8452,7 +7684,7 @@
       "2020-6-29": {
         "cases": 6785,
         "deaths": 991,
-        "recovered": 5474,
+        "recovered": 5520,
         "growthFactor": 1
       }
     },
@@ -9230,6 +8462,1542 @@
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "population": 305617
   },
+  "P.A. Bolzano, ITA": {
+    "dates": {
+      "2020-2-24": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "2020-2-25": {
+        "cases": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": null
+      },
+      "2020-2-26": {
+        "cases": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
+      },
+      "2020-2-27": {
+        "cases": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
+      },
+      "2020-2-28": {
+        "cases": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
+      },
+      "2020-2-29": {
+        "cases": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
+      },
+      "2020-3-1": {
+        "cases": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
+      },
+      "2020-3-2": {
+        "cases": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
+      },
+      "2020-3-3": {
+        "cases": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
+      },
+      "2020-3-4": {
+        "cases": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
+      },
+      "2020-3-5": {
+        "cases": 1,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
+      },
+      "2020-3-6": {
+        "cases": 4,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 4
+      },
+      "2020-3-7": {
+        "cases": 9,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 2.25
+      },
+      "2020-3-8": {
+        "cases": 9,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
+      },
+      "2020-3-9": {
+        "cases": 9,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
+      },
+      "2020-3-10": {
+        "cases": 38,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 4.222222222222222
+      },
+      "2020-3-11": {
+        "cases": 75,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1.9736842105263157
+      },
+      "2020-3-12": {
+        "cases": 104,
+        "deaths": 1,
+        "recovered": 0,
+        "growthFactor": 1.3866666666666667
+      },
+      "2020-3-13": {
+        "cases": 125,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1.2019230769230769
+      },
+      "2020-3-14": {
+        "cases": 173,
+        "deaths": 3,
+        "recovered": 0,
+        "growthFactor": 1.384
+      },
+      "2020-3-15": {
+        "cases": 204,
+        "deaths": 5,
+        "recovered": 0,
+        "growthFactor": 1.1791907514450868
+      },
+      "2020-3-16": {
+        "cases": 241,
+        "deaths": 6,
+        "recovered": 0,
+        "growthFactor": 1.1813725490196079
+      },
+      "2020-3-17": {
+        "cases": 291,
+        "deaths": 8,
+        "recovered": 1,
+        "growthFactor": 1.2074688796680497
+      },
+      "2020-3-18": {
+        "cases": 376,
+        "deaths": 9,
+        "recovered": 1,
+        "growthFactor": 1.2920962199312716
+      },
+      "2020-3-19": {
+        "cases": 436,
+        "deaths": 14,
+        "recovered": 1,
+        "growthFactor": 1.1595744680851063
+      },
+      "2020-3-20": {
+        "cases": 548,
+        "deaths": 17,
+        "recovered": 1,
+        "growthFactor": 1.2568807339449541
+      },
+      "2020-3-21": {
+        "cases": 621,
+        "deaths": 20,
+        "recovered": 1,
+        "growthFactor": 1.1332116788321167
+      },
+      "2020-3-22": {
+        "cases": 678,
+        "deaths": 23,
+        "recovered": 7,
+        "growthFactor": 1.0917874396135265
+      },
+      "2020-3-23": {
+        "cases": 724,
+        "deaths": 29,
+        "recovered": 7,
+        "growthFactor": 1.0678466076696165
+      },
+      "2020-3-24": {
+        "cases": 781,
+        "deaths": 38,
+        "recovered": 44,
+        "growthFactor": 1.078729281767956
+      },
+      "2020-3-25": {
+        "cases": 858,
+        "deaths": 43,
+        "recovered": 67,
+        "growthFactor": 1.0985915492957747
+      },
+      "2020-3-26": {
+        "cases": 906,
+        "deaths": 48,
+        "recovered": 67,
+        "growthFactor": 1.055944055944056
+      },
+      "2020-3-27": {
+        "cases": 1003,
+        "deaths": 60,
+        "recovered": 110,
+        "growthFactor": 1.1070640176600441
+      },
+      "2020-3-28": {
+        "cases": 1109,
+        "deaths": 64,
+        "recovered": 116,
+        "growthFactor": 1.1056829511465602
+      },
+      "2020-3-29": {
+        "cases": 1214,
+        "deaths": 64,
+        "recovered": 116,
+        "growthFactor": 1.0946798917944094
+      },
+      "2020-3-30": {
+        "cases": 1325,
+        "deaths": 74,
+        "recovered": 153,
+        "growthFactor": 1.0914332784184515
+      },
+      "2020-3-31": {
+        "cases": 1371,
+        "deaths": 76,
+        "recovered": 153,
+        "growthFactor": 1.0347169811320756
+      },
+      "2020-4-1": {
+        "cases": 1418,
+        "deaths": 116,
+        "recovered": 190,
+        "growthFactor": 1.0342815463165573
+      },
+      "2020-4-2": {
+        "cases": 1479,
+        "deaths": 129,
+        "recovered": 190,
+        "growthFactor": 1.043018335684062
+      },
+      "2020-4-3": {
+        "cases": 1559,
+        "deaths": 139,
+        "recovered": 211,
+        "growthFactor": 1.0540906017579446
+      },
+      "2020-4-4": {
+        "cases": 1592,
+        "deaths": 146,
+        "recovered": 245,
+        "growthFactor": 1.0211674150096215
+      },
+      "2020-4-5": {
+        "cases": 1644,
+        "deaths": 158,
+        "recovered": 260,
+        "growthFactor": 1.0326633165829147
+      },
+      "2020-4-6": {
+        "cases": 1722,
+        "deaths": 164,
+        "recovered": 298,
+        "growthFactor": 1.0474452554744527
+      },
+      "2020-4-7": {
+        "cases": 1811,
+        "deaths": 174,
+        "recovered": 336,
+        "growthFactor": 1.051684088269454
+      },
+      "2020-4-8": {
+        "cases": 1835,
+        "deaths": 183,
+        "recovered": 371,
+        "growthFactor": 1.0132523467697405
+      },
+      "2020-4-9": {
+        "cases": 1903,
+        "deaths": 187,
+        "recovered": 401,
+        "growthFactor": 1.037057220708447
+      },
+      "2020-4-10": {
+        "cases": 1955,
+        "deaths": 191,
+        "recovered": 447,
+        "growthFactor": 1.0273252758801892
+      },
+      "2020-4-11": {
+        "cases": 1957,
+        "deaths": 200,
+        "recovered": 488,
+        "growthFactor": 1.0010230179028132
+      },
+      "2020-4-12": {
+        "cases": 2098,
+        "deaths": 205,
+        "recovered": 378,
+        "growthFactor": 1.0720490546755237
+      },
+      "2020-4-13": {
+        "cases": 2149,
+        "deaths": 212,
+        "recovered": 400,
+        "growthFactor": 1.0243088655862727
+      },
+      "2020-4-14": {
+        "cases": 2184,
+        "deaths": 214,
+        "recovered": 406,
+        "growthFactor": 1.01628664495114
+      },
+      "2020-4-15": {
+        "cases": 2224,
+        "deaths": 223,
+        "recovered": 425,
+        "growthFactor": 1.0183150183150182
+      },
+      "2020-4-16": {
+        "cases": 2267,
+        "deaths": 225,
+        "recovered": 449,
+        "growthFactor": 1.0193345323741008
+      },
+      "2020-4-17": {
+        "cases": 2296,
+        "deaths": 234,
+        "recovered": 480,
+        "growthFactor": 1.0127922364358182
+      },
+      "2020-4-18": {
+        "cases": 2325,
+        "deaths": 239,
+        "recovered": 530,
+        "growthFactor": 1.012630662020906
+      },
+      "2020-4-19": {
+        "cases": 2380,
+        "deaths": 245,
+        "recovered": 569,
+        "growthFactor": 1.0236559139784946
+      },
+      "2020-4-20": {
+        "cases": 2394,
+        "deaths": 249,
+        "recovered": 605,
+        "growthFactor": 1.0058823529411764
+      },
+      "2020-4-21": {
+        "cases": 2410,
+        "deaths": 251,
+        "recovered": 623,
+        "growthFactor": 1.0066833751044277
+      },
+      "2020-4-22": {
+        "cases": 2416,
+        "deaths": 256,
+        "recovered": 648,
+        "growthFactor": 1.0024896265560166
+      },
+      "2020-4-23": {
+        "cases": 2435,
+        "deaths": 261,
+        "recovered": 680,
+        "growthFactor": 1.007864238410596
+      },
+      "2020-4-24": {
+        "cases": 2456,
+        "deaths": 263,
+        "recovered": 1100,
+        "growthFactor": 1.008624229979466
+      },
+      "2020-4-25": {
+        "cases": 2476,
+        "deaths": 265,
+        "recovered": 1176,
+        "growthFactor": 1.00814332247557
+      },
+      "2020-4-26": {
+        "cases": 2481,
+        "deaths": 269,
+        "recovered": 1218,
+        "growthFactor": 1.0020193861066236
+      },
+      "2020-4-27": {
+        "cases": 2496,
+        "deaths": 270,
+        "recovered": 1286,
+        "growthFactor": 1.0060459492140266
+      },
+      "2020-4-28": {
+        "cases": 2498,
+        "deaths": 272,
+        "recovered": 1316,
+        "growthFactor": 1.0008012820512822
+      },
+      "2020-4-29": {
+        "cases": 2507,
+        "deaths": 274,
+        "recovered": 1388,
+        "growthFactor": 1.0036028823058447
+      },
+      "2020-4-30": {
+        "cases": 2518,
+        "deaths": 275,
+        "recovered": 1441,
+        "growthFactor": 1.0043877143996809
+      },
+      "2020-5-1": {
+        "cases": 2528,
+        "deaths": 278,
+        "recovered": 1493,
+        "growthFactor": 1.0039714058776807
+      },
+      "2020-5-2": {
+        "cases": 2535,
+        "deaths": 279,
+        "recovered": 1553,
+        "growthFactor": 1.0027689873417722
+      },
+      "2020-5-3": {
+        "cases": 2536,
+        "deaths": 281,
+        "recovered": 1590,
+        "growthFactor": 1.0003944773175542
+      },
+      "2020-5-4": {
+        "cases": 2541,
+        "deaths": 284,
+        "recovered": 1621,
+        "growthFactor": 1.0019716088328077
+      },
+      "2020-5-5": {
+        "cases": 2542,
+        "deaths": 286,
+        "recovered": 1644,
+        "growthFactor": 1.0003935458480913
+      },
+      "2020-5-6": {
+        "cases": 2543,
+        "deaths": 286,
+        "recovered": 1678,
+        "growthFactor": 1.0003933910306846
+      },
+      "2020-5-7": {
+        "cases": 2552,
+        "deaths": 286,
+        "recovered": 1715,
+        "growthFactor": 1.0035391270153362
+      },
+      "2020-5-8": {
+        "cases": 2558,
+        "deaths": 289,
+        "recovered": 1767,
+        "growthFactor": 1.0023510971786833
+      },
+      "2020-5-9": {
+        "cases": 2567,
+        "deaths": 290,
+        "recovered": 1804,
+        "growthFactor": 1.0035183737294762
+      },
+      "2020-5-10": {
+        "cases": 2569,
+        "deaths": 290,
+        "recovered": 1820,
+        "growthFactor": 1.0007791195948579
+      },
+      "2020-5-11": {
+        "cases": 2572,
+        "deaths": 290,
+        "recovered": 1835,
+        "growthFactor": 1.0011677695601402
+      },
+      "2020-5-12": {
+        "cases": 2572,
+        "deaths": 290,
+        "recovered": 1845,
+        "growthFactor": 1
+      },
+      "2020-5-13": {
+        "cases": 2575,
+        "deaths": 290,
+        "recovered": 1872,
+        "growthFactor": 1.0011664074650077
+      },
+      "2020-5-14": {
+        "cases": 2578,
+        "deaths": 290,
+        "recovered": 1908,
+        "growthFactor": 1.0011650485436894
+      },
+      "2020-5-15": {
+        "cases": 2578,
+        "deaths": 290,
+        "recovered": 1929,
+        "growthFactor": 1
+      },
+      "2020-5-16": {
+        "cases": 2578,
+        "deaths": 290,
+        "recovered": 1945,
+        "growthFactor": 1
+      },
+      "2020-5-17": {
+        "cases": 2581,
+        "deaths": 290,
+        "recovered": 1977,
+        "growthFactor": 1.0011636927851046
+      },
+      "2020-5-18": {
+        "cases": 2582,
+        "deaths": 291,
+        "recovered": 1984,
+        "growthFactor": 1.0003874467260752
+      },
+      "2020-5-19": {
+        "cases": 2587,
+        "deaths": 291,
+        "recovered": 1988,
+        "growthFactor": 1.0019364833462432
+      },
+      "2020-5-20": {
+        "cases": 2587,
+        "deaths": 291,
+        "recovered": 2024,
+        "growthFactor": 1
+      },
+      "2020-5-21": {
+        "cases": 2587,
+        "deaths": 291,
+        "recovered": 2046,
+        "growthFactor": 1
+      },
+      "2020-5-22": {
+        "cases": 2590,
+        "deaths": 291,
+        "recovered": 2075,
+        "growthFactor": 1.0011596443757247
+      },
+      "2020-5-23": {
+        "cases": 2590,
+        "deaths": 291,
+        "recovered": 2085,
+        "growthFactor": 1
+      },
+      "2020-5-24": {
+        "cases": 2593,
+        "deaths": 291,
+        "recovered": 2107,
+        "growthFactor": 1.0011583011583012
+      },
+      "2020-5-25": {
+        "cases": 2593,
+        "deaths": 291,
+        "recovered": 2118,
+        "growthFactor": 1
+      },
+      "2020-5-26": {
+        "cases": 2593,
+        "deaths": 291,
+        "recovered": 2123,
+        "growthFactor": 1
+      },
+      "2020-5-27": {
+        "cases": 2593,
+        "deaths": 291,
+        "recovered": 2131,
+        "growthFactor": 1
+      },
+      "2020-5-28": {
+        "cases": 2595,
+        "deaths": 291,
+        "recovered": 2147,
+        "growthFactor": 1.0007713073659854
+      },
+      "2020-5-29": {
+        "cases": 2595,
+        "deaths": 291,
+        "recovered": 2150,
+        "growthFactor": 1
+      },
+      "2020-5-30": {
+        "cases": 2596,
+        "deaths": 291,
+        "recovered": 2168,
+        "growthFactor": 1.0003853564547207
+      },
+      "2020-5-31": {
+        "cases": 2597,
+        "deaths": 291,
+        "recovered": 2179,
+        "growthFactor": 1.0003852080123266
+      },
+      "2020-6-1": {
+        "cases": 2598,
+        "deaths": 291,
+        "recovered": 2184,
+        "growthFactor": 1.000385059684251
+      },
+      "2020-6-2": {
+        "cases": 2598,
+        "deaths": 291,
+        "recovered": 2187,
+        "growthFactor": 1
+      },
+      "2020-6-3": {
+        "cases": 2598,
+        "deaths": 291,
+        "recovered": 2187,
+        "growthFactor": 1
+      },
+      "2020-6-4": {
+        "cases": 2598,
+        "deaths": 292,
+        "recovered": 2194,
+        "growthFactor": 1
+      },
+      "2020-6-5": {
+        "cases": 2599,
+        "deaths": 292,
+        "recovered": 2206,
+        "growthFactor": 1.0003849114703618
+      },
+      "2020-6-6": {
+        "cases": 2600,
+        "deaths": 292,
+        "recovered": 2208,
+        "growthFactor": 1.0003847633705272
+      },
+      "2020-6-7": {
+        "cases": 2603,
+        "deaths": 292,
+        "recovered": 2214,
+        "growthFactor": 1.001153846153846
+      },
+      "2020-6-8": {
+        "cases": 2604,
+        "deaths": 292,
+        "recovered": 2215,
+        "growthFactor": 1.000384172109105
+      },
+      "2020-6-9": {
+        "cases": 2604,
+        "deaths": 292,
+        "recovered": 2217,
+        "growthFactor": 1
+      },
+      "2020-6-10": {
+        "cases": 2604,
+        "deaths": 292,
+        "recovered": 2218,
+        "growthFactor": 1
+      },
+      "2020-6-11": {
+        "cases": 2606,
+        "deaths": 292,
+        "recovered": 2215,
+        "growthFactor": 1.0007680491551458
+      },
+      "2020-6-12": {
+        "cases": 2608,
+        "deaths": 291,
+        "recovered": 2216,
+        "growthFactor": 1.0007674597083653
+      },
+      "2020-6-13": {
+        "cases": 2610,
+        "deaths": 291,
+        "recovered": 2224,
+        "growthFactor": 1.0007668711656441
+      },
+      "2020-6-14": {
+        "cases": 2613,
+        "deaths": 291,
+        "recovered": 2227,
+        "growthFactor": 1.0011494252873563
+      },
+      "2020-6-15": {
+        "cases": 2611,
+        "deaths": 292,
+        "recovered": 2225,
+        "growthFactor": 0.9992345962495216
+      },
+      "2020-6-16": {
+        "cases": 2611,
+        "deaths": 292,
+        "recovered": 2226,
+        "growthFactor": 1
+      },
+      "2020-6-17": {
+        "cases": 2611,
+        "deaths": 292,
+        "recovered": 2232,
+        "growthFactor": 1
+      },
+      "2020-6-18": {
+        "cases": 2613,
+        "deaths": 292,
+        "recovered": 2236,
+        "growthFactor": 1.0007659900421295
+      },
+      "2020-6-19": {
+        "cases": 2615,
+        "deaths": 292,
+        "recovered": 2248,
+        "growthFactor": 1.0007654037504783
+      },
+      "2020-6-20": {
+        "cases": 2618,
+        "deaths": 292,
+        "recovered": 2250,
+        "growthFactor": 1.0011472275334607
+      },
+      "2020-6-21": {
+        "cases": 2622,
+        "deaths": 292,
+        "recovered": 2255,
+        "growthFactor": 1.001527883880825
+      },
+      "2020-6-22": {
+        "cases": 2633,
+        "deaths": 292,
+        "recovered": 2252,
+        "growthFactor": 1.0041952707856598
+      },
+      "2020-6-23": {
+        "cases": 2633,
+        "deaths": 292,
+        "recovered": 2252,
+        "growthFactor": 1
+      },
+      "2020-6-24": {
+        "cases": 2634,
+        "deaths": 292,
+        "recovered": 2252,
+        "growthFactor": 1.0003797949107482
+      },
+      "2020-6-25": {
+        "cases": 2634,
+        "deaths": 292,
+        "recovered": 2255,
+        "growthFactor": 1
+      },
+      "2020-6-26": {
+        "cases": 2634,
+        "deaths": 292,
+        "recovered": 2257,
+        "growthFactor": 1
+      },
+      "2020-6-27": {
+        "cases": 2636,
+        "deaths": 292,
+        "recovered": 2257,
+        "growthFactor": 1.0007593014426728
+      },
+      "2020-6-28": {
+        "cases": 2637,
+        "deaths": 292,
+        "recovered": 2260,
+        "growthFactor": 1.0003793626707131
+      },
+      "2020-6-29": {
+        "cases": 2639,
+        "deaths": 292,
+        "recovered": 2262,
+        "growthFactor": 1.000758437618506
+      }
+    },
+    "state": "P.A. Bolzano",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+  },
+  "P.A. Trento, ITA": {
+    "dates": {
+      "2020-2-24": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 0
+      },
+      "2020-2-25": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": null
+      },
+      "2020-2-26": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": null
+      },
+      "2020-2-27": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": null
+      },
+      "2020-2-28": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": null
+      },
+      "2020-2-29": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": null
+      },
+      "2020-3-1": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": null
+      },
+      "2020-3-2": {
+        "cases": 0,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": null
+      },
+      "2020-3-3": {
+        "cases": 4,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": null
+      },
+      "2020-3-4": {
+        "cases": 5,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1.25
+      },
+      "2020-3-5": {
+        "cases": 7,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1.4
+      },
+      "2020-3-6": {
+        "cases": 10,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1.4285714285714286
+      },
+      "2020-3-7": {
+        "cases": 14,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1.4
+      },
+      "2020-3-8": {
+        "cases": 23,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1.6428571428571428
+      },
+      "2020-3-9": {
+        "cases": 33,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1.434782608695652
+      },
+      "2020-3-10": {
+        "cases": 52,
+        "deaths": 0,
+        "recovered": 2,
+        "growthFactor": 1.5757575757575757
+      },
+      "2020-3-11": {
+        "cases": 77,
+        "deaths": 0,
+        "recovered": 3,
+        "growthFactor": 1.4807692307692308
+      },
+      "2020-3-12": {
+        "cases": 107,
+        "deaths": 1,
+        "recovered": 4,
+        "growthFactor": 1.3896103896103895
+      },
+      "2020-3-13": {
+        "cases": 163,
+        "deaths": 2,
+        "recovered": 4,
+        "growthFactor": 1.5233644859813085
+      },
+      "2020-3-14": {
+        "cases": 206,
+        "deaths": 2,
+        "recovered": 5,
+        "growthFactor": 1.2638036809815951
+      },
+      "2020-3-15": {
+        "cases": 378,
+        "deaths": 6,
+        "recovered": 5,
+        "growthFactor": 1.8349514563106797
+      },
+      "2020-3-16": {
+        "cases": 378,
+        "deaths": 6,
+        "recovered": 5,
+        "growthFactor": 1
+      },
+      "2020-3-17": {
+        "cases": 385,
+        "deaths": 7,
+        "recovered": 10,
+        "growthFactor": 1.0185185185185186
+      },
+      "2020-3-18": {
+        "cases": 455,
+        "deaths": 7,
+        "recovered": 12,
+        "growthFactor": 1.1818181818181819
+      },
+      "2020-3-19": {
+        "cases": 523,
+        "deaths": 12,
+        "recovered": 20,
+        "growthFactor": 1.1494505494505494
+      },
+      "2020-3-20": {
+        "cases": 642,
+        "deaths": 13,
+        "recovered": 29,
+        "growthFactor": 1.2275334608030593
+      },
+      "2020-3-21": {
+        "cases": 782,
+        "deaths": 28,
+        "recovered": 34,
+        "growthFactor": 1.2180685358255452
+      },
+      "2020-3-22": {
+        "cases": 954,
+        "deaths": 35,
+        "recovered": 34,
+        "growthFactor": 1.2199488491048593
+      },
+      "2020-3-23": {
+        "cases": 1023,
+        "deaths": 41,
+        "recovered": 68,
+        "growthFactor": 1.0723270440251573
+      },
+      "2020-3-24": {
+        "cases": 1110,
+        "deaths": 56,
+        "recovered": 79,
+        "growthFactor": 1.0850439882697946
+      },
+      "2020-3-25": {
+        "cases": 1222,
+        "deaths": 74,
+        "recovered": 90,
+        "growthFactor": 1.100900900900901
+      },
+      "2020-3-26": {
+        "cases": 1297,
+        "deaths": 86,
+        "recovered": 117,
+        "growthFactor": 1.0613747954173487
+      },
+      "2020-3-27": {
+        "cases": 1391,
+        "deaths": 102,
+        "recovered": 125,
+        "growthFactor": 1.0724749421742483
+      },
+      "2020-3-28": {
+        "cases": 1505,
+        "deaths": 120,
+        "recovered": 151,
+        "growthFactor": 1.0819554277498202
+      },
+      "2020-3-29": {
+        "cases": 1594,
+        "deaths": 129,
+        "recovered": 172,
+        "growthFactor": 1.0591362126245847
+      },
+      "2020-3-30": {
+        "cases": 1682,
+        "deaths": 147,
+        "recovered": 178,
+        "growthFactor": 1.055207026348808
+      },
+      "2020-3-31": {
+        "cases": 1746,
+        "deaths": 164,
+        "recovered": 193,
+        "growthFactor": 1.0380499405469679
+      },
+      "2020-4-1": {
+        "cases": 1870,
+        "deaths": 173,
+        "recovered": 214,
+        "growthFactor": 1.0710194730813287
+      },
+      "2020-4-2": {
+        "cases": 2003,
+        "deaths": 187,
+        "recovered": 229,
+        "growthFactor": 1.0711229946524063
+      },
+      "2020-4-3": {
+        "cases": 2109,
+        "deaths": 204,
+        "recovered": 246,
+        "growthFactor": 1.052920619071393
+      },
+      "2020-4-4": {
+        "cases": 2220,
+        "deaths": 210,
+        "recovered": 257,
+        "growthFactor": 1.0526315789473684
+      },
+      "2020-4-5": {
+        "cases": 2285,
+        "deaths": 217,
+        "recovered": 273,
+        "growthFactor": 1.0292792792792793
+      },
+      "2020-4-6": {
+        "cases": 2348,
+        "deaths": 230,
+        "recovered": 280,
+        "growthFactor": 1.0275711159737417
+      },
+      "2020-4-7": {
+        "cases": 2476,
+        "deaths": 244,
+        "recovered": 342,
+        "growthFactor": 1.0545144804088586
+      },
+      "2020-4-8": {
+        "cases": 2602,
+        "deaths": 255,
+        "recovered": 407,
+        "growthFactor": 1.0508885298869144
+      },
+      "2020-4-9": {
+        "cases": 2708,
+        "deaths": 268,
+        "recovered": 462,
+        "growthFactor": 1.0407378939277478
+      },
+      "2020-4-10": {
+        "cases": 2816,
+        "deaths": 275,
+        "recovered": 547,
+        "growthFactor": 1.0398818316100442
+      },
+      "2020-4-11": {
+        "cases": 2970,
+        "deaths": 284,
+        "recovered": 622,
+        "growthFactor": 1.0546875
+      },
+      "2020-4-12": {
+        "cases": 3053,
+        "deaths": 293,
+        "recovered": 678,
+        "growthFactor": 1.027946127946128
+      },
+      "2020-4-13": {
+        "cases": 3126,
+        "deaths": 300,
+        "recovered": 746,
+        "growthFactor": 1.023910907304291
+      },
+      "2020-4-14": {
+        "cases": 3141,
+        "deaths": 310,
+        "recovered": 749,
+        "growthFactor": 1.0047984644913628
+      },
+      "2020-4-15": {
+        "cases": 3220,
+        "deaths": 318,
+        "recovered": 798,
+        "growthFactor": 1.0251512257242916
+      },
+      "2020-4-16": {
+        "cases": 3294,
+        "deaths": 322,
+        "recovered": 885,
+        "growthFactor": 1.0229813664596272
+      },
+      "2020-4-17": {
+        "cases": 3376,
+        "deaths": 342,
+        "recovered": 1044,
+        "growthFactor": 1.0248937462052217
+      },
+      "2020-4-18": {
+        "cases": 3431,
+        "deaths": 348,
+        "recovered": 1098,
+        "growthFactor": 1.0162914691943128
+      },
+      "2020-4-19": {
+        "cases": 3532,
+        "deaths": 360,
+        "recovered": 1201,
+        "growthFactor": 1.0294374817837366
+      },
+      "2020-4-20": {
+        "cases": 3590,
+        "deaths": 366,
+        "recovered": 1295,
+        "growthFactor": 1.0164212910532275
+      },
+      "2020-4-21": {
+        "cases": 3614,
+        "deaths": 376,
+        "recovered": 1329,
+        "growthFactor": 1.0066852367688022
+      },
+      "2020-4-22": {
+        "cases": 3646,
+        "deaths": 381,
+        "recovered": 1391,
+        "growthFactor": 1.0088544548976204
+      },
+      "2020-4-23": {
+        "cases": 3727,
+        "deaths": 382,
+        "recovered": 1474,
+        "growthFactor": 1.0222161272627537
+      },
+      "2020-4-24": {
+        "cases": 3776,
+        "deaths": 389,
+        "recovered": 1560,
+        "growthFactor": 1.0131473034612288
+      },
+      "2020-4-25": {
+        "cases": 3838,
+        "deaths": 400,
+        "recovered": 1694,
+        "growthFactor": 1.0164194915254237
+      },
+      "2020-4-26": {
+        "cases": 3894,
+        "deaths": 405,
+        "recovered": 1807,
+        "growthFactor": 1.0145909327774882
+      },
+      "2020-4-27": {
+        "cases": 3995,
+        "deaths": 407,
+        "recovered": 1881,
+        "growthFactor": 1.0259373394966615
+      },
+      "2020-4-28": {
+        "cases": 4025,
+        "deaths": 412,
+        "recovered": 2048,
+        "growthFactor": 1.0075093867334168
+      },
+      "2020-4-29": {
+        "cases": 4069,
+        "deaths": 416,
+        "recovered": 2190,
+        "growthFactor": 1.0109316770186336
+      },
+      "2020-4-30": {
+        "cases": 4116,
+        "deaths": 418,
+        "recovered": 2328,
+        "growthFactor": 1.011550749569919
+      },
+      "2020-5-1": {
+        "cases": 4132,
+        "deaths": 423,
+        "recovered": 2416,
+        "growthFactor": 1.0038872691933916
+      },
+      "2020-5-2": {
+        "cases": 4181,
+        "deaths": 425,
+        "recovered": 2474,
+        "growthFactor": 1.0118586640851888
+      },
+      "2020-5-3": {
+        "cases": 4247,
+        "deaths": 429,
+        "recovered": 2571,
+        "growthFactor": 1.0157856972016264
+      },
+      "2020-5-4": {
+        "cases": 4258,
+        "deaths": 430,
+        "recovered": 2663,
+        "growthFactor": 1.0025900635742877
+      },
+      "2020-5-5": {
+        "cases": 4261,
+        "deaths": 433,
+        "recovered": 2787,
+        "growthFactor": 1.0007045561296384
+      },
+      "2020-5-6": {
+        "cases": 4280,
+        "deaths": 437,
+        "recovered": 2861,
+        "growthFactor": 1.0044590471720254
+      },
+      "2020-5-7": {
+        "cases": 4283,
+        "deaths": 438,
+        "recovered": 2935,
+        "growthFactor": 1.0007009345794393
+      },
+      "2020-5-8": {
+        "cases": 4285,
+        "deaths": 438,
+        "recovered": 2975,
+        "growthFactor": 1.000466962409526
+      },
+      "2020-5-9": {
+        "cases": 4292,
+        "deaths": 438,
+        "recovered": 3024,
+        "growthFactor": 1.0016336056009334
+      },
+      "2020-5-10": {
+        "cases": 4295,
+        "deaths": 441,
+        "recovered": 3068,
+        "growthFactor": 1.000698974836906
+      },
+      "2020-5-11": {
+        "cases": 4297,
+        "deaths": 443,
+        "recovered": 3119,
+        "growthFactor": 1.00046565774156
+      },
+      "2020-5-12": {
+        "cases": 4303,
+        "deaths": 445,
+        "recovered": 3191,
+        "growthFactor": 1.0013963230160576
+      },
+      "2020-5-13": {
+        "cases": 4312,
+        "deaths": 446,
+        "recovered": 3293,
+        "growthFactor": 1.0020915640250987
+      },
+      "2020-5-14": {
+        "cases": 4315,
+        "deaths": 448,
+        "recovered": 3362,
+        "growthFactor": 1.00069573283859
+      },
+      "2020-5-15": {
+        "cases": 4318,
+        "deaths": 451,
+        "recovered": 3461,
+        "growthFactor": 1.0006952491309387
+      },
+      "2020-5-16": {
+        "cases": 4326,
+        "deaths": 453,
+        "recovered": 3528,
+        "growthFactor": 1.001852709587772
+      },
+      "2020-5-17": {
+        "cases": 4338,
+        "deaths": 453,
+        "recovered": 3584,
+        "growthFactor": 1.0027739251040222
+      },
+      "2020-5-18": {
+        "cases": 4351,
+        "deaths": 453,
+        "recovered": 3650,
+        "growthFactor": 1.0029967727063163
+      },
+      "2020-5-19": {
+        "cases": 4358,
+        "deaths": 455,
+        "recovered": 3699,
+        "growthFactor": 1.0016088255573432
+      },
+      "2020-5-20": {
+        "cases": 4368,
+        "deaths": 455,
+        "recovered": 3787,
+        "growthFactor": 1.002294630564479
+      },
+      "2020-5-21": {
+        "cases": 4378,
+        "deaths": 455,
+        "recovered": 3857,
+        "growthFactor": 1.0022893772893773
+      },
+      "2020-5-22": {
+        "cases": 4388,
+        "deaths": 455,
+        "recovered": 3326,
+        "growthFactor": 1.0022841480127913
+      },
+      "2020-5-23": {
+        "cases": 4395,
+        "deaths": 456,
+        "recovered": 3374,
+        "growthFactor": 1.001595259799453
+      },
+      "2020-5-24": {
+        "cases": 4404,
+        "deaths": 457,
+        "recovered": 3412,
+        "growthFactor": 1.0020477815699658
+      },
+      "2020-5-25": {
+        "cases": 4405,
+        "deaths": 458,
+        "recovered": 3430,
+        "growthFactor": 1.0002270663033606
+      },
+      "2020-5-26": {
+        "cases": 4415,
+        "deaths": 461,
+        "recovered": 3441,
+        "growthFactor": 1.0022701475595914
+      },
+      "2020-5-27": {
+        "cases": 4422,
+        "deaths": 462,
+        "recovered": 3483,
+        "growthFactor": 1.00158550396376
+      },
+      "2020-5-28": {
+        "cases": 4425,
+        "deaths": 462,
+        "recovered": 3505,
+        "growthFactor": 1.0006784260515604
+      },
+      "2020-5-29": {
+        "cases": 4428,
+        "deaths": 462,
+        "recovered": 3556,
+        "growthFactor": 1.000677966101695
+      },
+      "2020-5-30": {
+        "cases": 4429,
+        "deaths": 462,
+        "recovered": 3601,
+        "growthFactor": 1.0002258355916893
+      },
+      "2020-5-31": {
+        "cases": 4430,
+        "deaths": 462,
+        "recovered": 3664,
+        "growthFactor": 1.0002257846014901
+      },
+      "2020-6-1": {
+        "cases": 4432,
+        "deaths": 462,
+        "recovered": 3677,
+        "growthFactor": 1.000451467268623
+      },
+      "2020-6-2": {
+        "cases": 4432,
+        "deaths": 463,
+        "recovered": 3686,
+        "growthFactor": 1
+      },
+      "2020-6-3": {
+        "cases": 4433,
+        "deaths": 463,
+        "recovered": 3748,
+        "growthFactor": 1.000225631768953
+      },
+      "2020-6-4": {
+        "cases": 4433,
+        "deaths": 464,
+        "recovered": 3762,
+        "growthFactor": 1
+      },
+      "2020-6-5": {
+        "cases": 4433,
+        "deaths": 464,
+        "recovered": 3846,
+        "growthFactor": 1
+      },
+      "2020-6-6": {
+        "cases": 4434,
+        "deaths": 464,
+        "recovered": 3866,
+        "growthFactor": 1.000225580870742
+      },
+      "2020-6-7": {
+        "cases": 4435,
+        "deaths": 464,
+        "recovered": 3889,
+        "growthFactor": 1.0002255299954894
+      },
+      "2020-6-8": {
+        "cases": 4436,
+        "deaths": 464,
+        "recovered": 3891,
+        "growthFactor": 1.0002254791431793
+      },
+      "2020-6-9": {
+        "cases": 4439,
+        "deaths": 464,
+        "recovered": 3894,
+        "growthFactor": 1.0006762849413886
+      },
+      "2020-6-10": {
+        "cases": 4439,
+        "deaths": 464,
+        "recovered": 3895,
+        "growthFactor": 1
+      },
+      "2020-6-11": {
+        "cases": 4441,
+        "deaths": 464,
+        "recovered": 3906,
+        "growthFactor": 1.0004505519261095
+      },
+      "2020-6-12": {
+        "cases": 4443,
+        "deaths": 464,
+        "recovered": 3911,
+        "growthFactor": 1.0004503490204908
+      },
+      "2020-6-13": {
+        "cases": 4446,
+        "deaths": 464,
+        "recovered": 3912,
+        "growthFactor": 1.00067521944632
+      },
+      "2020-6-14": {
+        "cases": 4447,
+        "deaths": 464,
+        "recovered": 3917,
+        "growthFactor": 1.000224921277553
+      },
+      "2020-6-15": {
+        "cases": 4448,
+        "deaths": 465,
+        "recovered": 3917,
+        "growthFactor": 1.000224870699348
+      },
+      "2020-6-16": {
+        "cases": 4448,
+        "deaths": 465,
+        "recovered": 3919,
+        "growthFactor": 1
+      },
+      "2020-6-17": {
+        "cases": 4449,
+        "deaths": 465,
+        "recovered": 3926,
+        "growthFactor": 1.0002248201438848
+      },
+      "2020-6-18": {
+        "cases": 4457,
+        "deaths": 465,
+        "recovered": 3933,
+        "growthFactor": 1.0017981568891885
+      },
+      "2020-6-19": {
+        "cases": 4458,
+        "deaths": 466,
+        "recovered": 3936,
+        "growthFactor": 1.0002243661655823
+      },
+      "2020-6-20": {
+        "cases": 4458,
+        "deaths": 466,
+        "recovered": 3941,
+        "growthFactor": 1
+      },
+      "2020-6-21": {
+        "cases": 4463,
+        "deaths": 466,
+        "recovered": 3944,
+        "growthFactor": 1.0011215791834904
+      },
+      "2020-6-22": {
+        "cases": 4464,
+        "deaths": 466,
+        "recovered": 3945,
+        "growthFactor": 1.0002240645305849
+      },
+      "2020-6-23": {
+        "cases": 4465,
+        "deaths": 466,
+        "recovered": 3948,
+        "growthFactor": 1.0002240143369177
+      },
+      "2020-6-24": {
+        "cases": 4852,
+        "deaths": 405,
+        "recovered": 4395,
+        "growthFactor": 1.0866741321388578
+      },
+      "2020-6-25": {
+        "cases": 4855,
+        "deaths": 405,
+        "recovered": 4398,
+        "growthFactor": 1.0006183017312449
+      },
+      "2020-6-26": {
+        "cases": 4859,
+        "deaths": 405,
+        "recovered": 4402,
+        "growthFactor": 1.0008238928939237
+      },
+      "2020-6-27": {
+        "cases": 4860,
+        "deaths": 405,
+        "recovered": 4404,
+        "growthFactor": 1.0002058036633052
+      },
+      "2020-6-28": {
+        "cases": 4863,
+        "deaths": 405,
+        "recovered": 4404,
+        "growthFactor": 1.0006172839506173
+      },
+      "2020-6-29": {
+        "cases": 4863,
+        "deaths": 405,
+        "recovered": 4405,
+        "growthFactor": 1
+      }
+    },
+    "state": "P.A. Trento",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+  },
   "Piemonte, ITA": {
     "dates": {
       "2020-2-24": {
@@ -9988,10 +10756,10 @@
         "growthFactor": 1.0004469701807037
       },
       "2020-6-29": {
-        "cases": 31336,
-        "deaths": 4085,
-        "recovered": 25756,
-        "growthFactor": 1
+        "cases": 31338,
+        "deaths": 4087,
+        "recovered": 25761,
+        "growthFactor": 1.000063824355374
       }
     },
     "state": "Piemonte",
@@ -10759,7 +11527,7 @@
       "2020-6-29": {
         "cases": 4531,
         "deaths": 543,
-        "recovered": 3842,
+        "recovered": 3843,
         "growthFactor": 1
       }
     },
@@ -12295,10 +13063,10 @@
         "growthFactor": 1
       },
       "2020-6-29": {
-        "cases": 3077,
+        "cases": 3078,
         "deaths": 281,
-        "recovered": 2666,
-        "growthFactor": 1
+        "recovered": 2670,
+        "growthFactor": 1.000324991875203
       }
     },
     "state": "Sicilia",
@@ -13064,784 +13832,16 @@
         "growthFactor": 1.0004883766360617
       },
       "2020-6-29": {
-        "cases": 10243,
-        "deaths": 1103,
+        "cases": 10248,
+        "deaths": 1104,
         "recovered": 8817,
-        "growthFactor": 1
+        "growthFactor": 1.0004881382407498
       }
     },
     "state": "Toscana",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "population": 3729641
-  },
-  "P.A. Trento, ITA": {
-    "dates": {
-      "2020-2-24": {
-        "cases": 0,
-        "deaths": 0,
-        "recovered": 0
-      },
-      "2020-2-25": {
-        "cases": 0,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": null
-      },
-      "2020-2-26": {
-        "cases": 0,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": null
-      },
-      "2020-2-27": {
-        "cases": 0,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": null
-      },
-      "2020-2-28": {
-        "cases": 0,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": null
-      },
-      "2020-2-29": {
-        "cases": 0,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": null
-      },
-      "2020-3-1": {
-        "cases": 0,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": null
-      },
-      "2020-3-2": {
-        "cases": 0,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": null
-      },
-      "2020-3-3": {
-        "cases": 4,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": null
-      },
-      "2020-3-4": {
-        "cases": 5,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1.25
-      },
-      "2020-3-5": {
-        "cases": 7,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1.4
-      },
-      "2020-3-6": {
-        "cases": 10,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1.4285714285714286
-      },
-      "2020-3-7": {
-        "cases": 14,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1.4
-      },
-      "2020-3-8": {
-        "cases": 23,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1.6428571428571428
-      },
-      "2020-3-9": {
-        "cases": 33,
-        "deaths": 0,
-        "recovered": 0,
-        "growthFactor": 1.434782608695652
-      },
-      "2020-3-10": {
-        "cases": 52,
-        "deaths": 0,
-        "recovered": 2,
-        "growthFactor": 1.5757575757575757
-      },
-      "2020-3-11": {
-        "cases": 77,
-        "deaths": 0,
-        "recovered": 3,
-        "growthFactor": 1.4807692307692308
-      },
-      "2020-3-12": {
-        "cases": 107,
-        "deaths": 1,
-        "recovered": 4,
-        "growthFactor": 1.3896103896103895
-      },
-      "2020-3-13": {
-        "cases": 163,
-        "deaths": 2,
-        "recovered": 4,
-        "growthFactor": 1.5233644859813085
-      },
-      "2020-3-14": {
-        "cases": 206,
-        "deaths": 2,
-        "recovered": 5,
-        "growthFactor": 1.2638036809815951
-      },
-      "2020-3-15": {
-        "cases": 378,
-        "deaths": 6,
-        "recovered": 5,
-        "growthFactor": 1.8349514563106797
-      },
-      "2020-3-16": {
-        "cases": 378,
-        "deaths": 6,
-        "recovered": 5,
-        "growthFactor": 1
-      },
-      "2020-3-17": {
-        "cases": 385,
-        "deaths": 7,
-        "recovered": 10,
-        "growthFactor": 1.0185185185185186
-      },
-      "2020-3-18": {
-        "cases": 455,
-        "deaths": 7,
-        "recovered": 12,
-        "growthFactor": 1.1818181818181819
-      },
-      "2020-3-19": {
-        "cases": 523,
-        "deaths": 12,
-        "recovered": 20,
-        "growthFactor": 1.1494505494505494
-      },
-      "2020-3-20": {
-        "cases": 642,
-        "deaths": 13,
-        "recovered": 29,
-        "growthFactor": 1.2275334608030593
-      },
-      "2020-3-21": {
-        "cases": 782,
-        "deaths": 28,
-        "recovered": 34,
-        "growthFactor": 1.2180685358255452
-      },
-      "2020-3-22": {
-        "cases": 954,
-        "deaths": 35,
-        "recovered": 34,
-        "growthFactor": 1.2199488491048593
-      },
-      "2020-3-23": {
-        "cases": 1023,
-        "deaths": 41,
-        "recovered": 68,
-        "growthFactor": 1.0723270440251573
-      },
-      "2020-3-24": {
-        "cases": 1110,
-        "deaths": 56,
-        "recovered": 79,
-        "growthFactor": 1.0850439882697946
-      },
-      "2020-3-25": {
-        "cases": 1222,
-        "deaths": 74,
-        "recovered": 90,
-        "growthFactor": 1.100900900900901
-      },
-      "2020-3-26": {
-        "cases": 1297,
-        "deaths": 86,
-        "recovered": 117,
-        "growthFactor": 1.0613747954173487
-      },
-      "2020-3-27": {
-        "cases": 1391,
-        "deaths": 102,
-        "recovered": 125,
-        "growthFactor": 1.0724749421742483
-      },
-      "2020-3-28": {
-        "cases": 1505,
-        "deaths": 120,
-        "recovered": 151,
-        "growthFactor": 1.0819554277498202
-      },
-      "2020-3-29": {
-        "cases": 1594,
-        "deaths": 129,
-        "recovered": 172,
-        "growthFactor": 1.0591362126245847
-      },
-      "2020-3-30": {
-        "cases": 1682,
-        "deaths": 147,
-        "recovered": 178,
-        "growthFactor": 1.055207026348808
-      },
-      "2020-3-31": {
-        "cases": 1746,
-        "deaths": 164,
-        "recovered": 193,
-        "growthFactor": 1.0380499405469679
-      },
-      "2020-4-1": {
-        "cases": 1870,
-        "deaths": 173,
-        "recovered": 214,
-        "growthFactor": 1.0710194730813287
-      },
-      "2020-4-2": {
-        "cases": 2003,
-        "deaths": 187,
-        "recovered": 229,
-        "growthFactor": 1.0711229946524063
-      },
-      "2020-4-3": {
-        "cases": 2109,
-        "deaths": 204,
-        "recovered": 246,
-        "growthFactor": 1.052920619071393
-      },
-      "2020-4-4": {
-        "cases": 2220,
-        "deaths": 210,
-        "recovered": 257,
-        "growthFactor": 1.0526315789473684
-      },
-      "2020-4-5": {
-        "cases": 2285,
-        "deaths": 217,
-        "recovered": 273,
-        "growthFactor": 1.0292792792792793
-      },
-      "2020-4-6": {
-        "cases": 2348,
-        "deaths": 230,
-        "recovered": 280,
-        "growthFactor": 1.0275711159737417
-      },
-      "2020-4-7": {
-        "cases": 2476,
-        "deaths": 244,
-        "recovered": 342,
-        "growthFactor": 1.0545144804088586
-      },
-      "2020-4-8": {
-        "cases": 2602,
-        "deaths": 255,
-        "recovered": 407,
-        "growthFactor": 1.0508885298869144
-      },
-      "2020-4-9": {
-        "cases": 2708,
-        "deaths": 268,
-        "recovered": 462,
-        "growthFactor": 1.0407378939277478
-      },
-      "2020-4-10": {
-        "cases": 2816,
-        "deaths": 275,
-        "recovered": 547,
-        "growthFactor": 1.0398818316100442
-      },
-      "2020-4-11": {
-        "cases": 2970,
-        "deaths": 284,
-        "recovered": 622,
-        "growthFactor": 1.0546875
-      },
-      "2020-4-12": {
-        "cases": 3053,
-        "deaths": 293,
-        "recovered": 678,
-        "growthFactor": 1.027946127946128
-      },
-      "2020-4-13": {
-        "cases": 3126,
-        "deaths": 300,
-        "recovered": 746,
-        "growthFactor": 1.023910907304291
-      },
-      "2020-4-14": {
-        "cases": 3141,
-        "deaths": 310,
-        "recovered": 749,
-        "growthFactor": 1.0047984644913628
-      },
-      "2020-4-15": {
-        "cases": 3220,
-        "deaths": 318,
-        "recovered": 798,
-        "growthFactor": 1.0251512257242916
-      },
-      "2020-4-16": {
-        "cases": 3294,
-        "deaths": 322,
-        "recovered": 885,
-        "growthFactor": 1.0229813664596272
-      },
-      "2020-4-17": {
-        "cases": 3376,
-        "deaths": 342,
-        "recovered": 1044,
-        "growthFactor": 1.0248937462052217
-      },
-      "2020-4-18": {
-        "cases": 3431,
-        "deaths": 348,
-        "recovered": 1098,
-        "growthFactor": 1.0162914691943128
-      },
-      "2020-4-19": {
-        "cases": 3532,
-        "deaths": 360,
-        "recovered": 1201,
-        "growthFactor": 1.0294374817837366
-      },
-      "2020-4-20": {
-        "cases": 3590,
-        "deaths": 366,
-        "recovered": 1295,
-        "growthFactor": 1.0164212910532275
-      },
-      "2020-4-21": {
-        "cases": 3614,
-        "deaths": 376,
-        "recovered": 1329,
-        "growthFactor": 1.0066852367688022
-      },
-      "2020-4-22": {
-        "cases": 3646,
-        "deaths": 381,
-        "recovered": 1391,
-        "growthFactor": 1.0088544548976204
-      },
-      "2020-4-23": {
-        "cases": 3727,
-        "deaths": 382,
-        "recovered": 1474,
-        "growthFactor": 1.0222161272627537
-      },
-      "2020-4-24": {
-        "cases": 3776,
-        "deaths": 389,
-        "recovered": 1560,
-        "growthFactor": 1.0131473034612288
-      },
-      "2020-4-25": {
-        "cases": 3838,
-        "deaths": 400,
-        "recovered": 1694,
-        "growthFactor": 1.0164194915254237
-      },
-      "2020-4-26": {
-        "cases": 3894,
-        "deaths": 405,
-        "recovered": 1807,
-        "growthFactor": 1.0145909327774882
-      },
-      "2020-4-27": {
-        "cases": 3995,
-        "deaths": 407,
-        "recovered": 1881,
-        "growthFactor": 1.0259373394966615
-      },
-      "2020-4-28": {
-        "cases": 4025,
-        "deaths": 412,
-        "recovered": 2048,
-        "growthFactor": 1.0075093867334168
-      },
-      "2020-4-29": {
-        "cases": 4069,
-        "deaths": 416,
-        "recovered": 2190,
-        "growthFactor": 1.0109316770186336
-      },
-      "2020-4-30": {
-        "cases": 4116,
-        "deaths": 418,
-        "recovered": 2328,
-        "growthFactor": 1.011550749569919
-      },
-      "2020-5-1": {
-        "cases": 4132,
-        "deaths": 423,
-        "recovered": 2416,
-        "growthFactor": 1.0038872691933916
-      },
-      "2020-5-2": {
-        "cases": 4181,
-        "deaths": 425,
-        "recovered": 2474,
-        "growthFactor": 1.0118586640851888
-      },
-      "2020-5-3": {
-        "cases": 4247,
-        "deaths": 429,
-        "recovered": 2571,
-        "growthFactor": 1.0157856972016264
-      },
-      "2020-5-4": {
-        "cases": 4258,
-        "deaths": 430,
-        "recovered": 2663,
-        "growthFactor": 1.0025900635742877
-      },
-      "2020-5-5": {
-        "cases": 4261,
-        "deaths": 433,
-        "recovered": 2787,
-        "growthFactor": 1.0007045561296384
-      },
-      "2020-5-6": {
-        "cases": 4280,
-        "deaths": 437,
-        "recovered": 2861,
-        "growthFactor": 1.0044590471720254
-      },
-      "2020-5-7": {
-        "cases": 4283,
-        "deaths": 438,
-        "recovered": 2935,
-        "growthFactor": 1.0007009345794393
-      },
-      "2020-5-8": {
-        "cases": 4285,
-        "deaths": 438,
-        "recovered": 2975,
-        "growthFactor": 1.000466962409526
-      },
-      "2020-5-9": {
-        "cases": 4292,
-        "deaths": 438,
-        "recovered": 3024,
-        "growthFactor": 1.0016336056009334
-      },
-      "2020-5-10": {
-        "cases": 4295,
-        "deaths": 441,
-        "recovered": 3068,
-        "growthFactor": 1.000698974836906
-      },
-      "2020-5-11": {
-        "cases": 4297,
-        "deaths": 443,
-        "recovered": 3119,
-        "growthFactor": 1.00046565774156
-      },
-      "2020-5-12": {
-        "cases": 4303,
-        "deaths": 445,
-        "recovered": 3191,
-        "growthFactor": 1.0013963230160576
-      },
-      "2020-5-13": {
-        "cases": 4312,
-        "deaths": 446,
-        "recovered": 3293,
-        "growthFactor": 1.0020915640250987
-      },
-      "2020-5-14": {
-        "cases": 4315,
-        "deaths": 448,
-        "recovered": 3362,
-        "growthFactor": 1.00069573283859
-      },
-      "2020-5-15": {
-        "cases": 4318,
-        "deaths": 451,
-        "recovered": 3461,
-        "growthFactor": 1.0006952491309387
-      },
-      "2020-5-16": {
-        "cases": 4326,
-        "deaths": 453,
-        "recovered": 3528,
-        "growthFactor": 1.001852709587772
-      },
-      "2020-5-17": {
-        "cases": 4338,
-        "deaths": 453,
-        "recovered": 3584,
-        "growthFactor": 1.0027739251040222
-      },
-      "2020-5-18": {
-        "cases": 4351,
-        "deaths": 453,
-        "recovered": 3650,
-        "growthFactor": 1.0029967727063163
-      },
-      "2020-5-19": {
-        "cases": 4358,
-        "deaths": 455,
-        "recovered": 3699,
-        "growthFactor": 1.0016088255573432
-      },
-      "2020-5-20": {
-        "cases": 4368,
-        "deaths": 455,
-        "recovered": 3787,
-        "growthFactor": 1.002294630564479
-      },
-      "2020-5-21": {
-        "cases": 4378,
-        "deaths": 455,
-        "recovered": 3857,
-        "growthFactor": 1.0022893772893773
-      },
-      "2020-5-22": {
-        "cases": 4388,
-        "deaths": 455,
-        "recovered": 3326,
-        "growthFactor": 1.0022841480127913
-      },
-      "2020-5-23": {
-        "cases": 4395,
-        "deaths": 456,
-        "recovered": 3374,
-        "growthFactor": 1.001595259799453
-      },
-      "2020-5-24": {
-        "cases": 4404,
-        "deaths": 457,
-        "recovered": 3412,
-        "growthFactor": 1.0020477815699658
-      },
-      "2020-5-25": {
-        "cases": 4405,
-        "deaths": 458,
-        "recovered": 3430,
-        "growthFactor": 1.0002270663033606
-      },
-      "2020-5-26": {
-        "cases": 4415,
-        "deaths": 461,
-        "recovered": 3441,
-        "growthFactor": 1.0022701475595914
-      },
-      "2020-5-27": {
-        "cases": 4422,
-        "deaths": 462,
-        "recovered": 3483,
-        "growthFactor": 1.00158550396376
-      },
-      "2020-5-28": {
-        "cases": 4425,
-        "deaths": 462,
-        "recovered": 3505,
-        "growthFactor": 1.0006784260515604
-      },
-      "2020-5-29": {
-        "cases": 4428,
-        "deaths": 462,
-        "recovered": 3556,
-        "growthFactor": 1.000677966101695
-      },
-      "2020-5-30": {
-        "cases": 4429,
-        "deaths": 462,
-        "recovered": 3601,
-        "growthFactor": 1.0002258355916893
-      },
-      "2020-5-31": {
-        "cases": 4430,
-        "deaths": 462,
-        "recovered": 3664,
-        "growthFactor": 1.0002257846014901
-      },
-      "2020-6-1": {
-        "cases": 4432,
-        "deaths": 462,
-        "recovered": 3677,
-        "growthFactor": 1.000451467268623
-      },
-      "2020-6-2": {
-        "cases": 4432,
-        "deaths": 463,
-        "recovered": 3686,
-        "growthFactor": 1
-      },
-      "2020-6-3": {
-        "cases": 4433,
-        "deaths": 463,
-        "recovered": 3748,
-        "growthFactor": 1.000225631768953
-      },
-      "2020-6-4": {
-        "cases": 4433,
-        "deaths": 464,
-        "recovered": 3762,
-        "growthFactor": 1
-      },
-      "2020-6-5": {
-        "cases": 4433,
-        "deaths": 464,
-        "recovered": 3846,
-        "growthFactor": 1
-      },
-      "2020-6-6": {
-        "cases": 4434,
-        "deaths": 464,
-        "recovered": 3866,
-        "growthFactor": 1.000225580870742
-      },
-      "2020-6-7": {
-        "cases": 4435,
-        "deaths": 464,
-        "recovered": 3889,
-        "growthFactor": 1.0002255299954894
-      },
-      "2020-6-8": {
-        "cases": 4436,
-        "deaths": 464,
-        "recovered": 3891,
-        "growthFactor": 1.0002254791431793
-      },
-      "2020-6-9": {
-        "cases": 4439,
-        "deaths": 464,
-        "recovered": 3894,
-        "growthFactor": 1.0006762849413886
-      },
-      "2020-6-10": {
-        "cases": 4439,
-        "deaths": 464,
-        "recovered": 3895,
-        "growthFactor": 1
-      },
-      "2020-6-11": {
-        "cases": 4441,
-        "deaths": 464,
-        "recovered": 3906,
-        "growthFactor": 1.0004505519261095
-      },
-      "2020-6-12": {
-        "cases": 4443,
-        "deaths": 464,
-        "recovered": 3911,
-        "growthFactor": 1.0004503490204908
-      },
-      "2020-6-13": {
-        "cases": 4446,
-        "deaths": 464,
-        "recovered": 3912,
-        "growthFactor": 1.00067521944632
-      },
-      "2020-6-14": {
-        "cases": 4447,
-        "deaths": 464,
-        "recovered": 3917,
-        "growthFactor": 1.000224921277553
-      },
-      "2020-6-15": {
-        "cases": 4448,
-        "deaths": 465,
-        "recovered": 3917,
-        "growthFactor": 1.000224870699348
-      },
-      "2020-6-16": {
-        "cases": 4448,
-        "deaths": 465,
-        "recovered": 3919,
-        "growthFactor": 1
-      },
-      "2020-6-17": {
-        "cases": 4449,
-        "deaths": 465,
-        "recovered": 3926,
-        "growthFactor": 1.0002248201438848
-      },
-      "2020-6-18": {
-        "cases": 4457,
-        "deaths": 465,
-        "recovered": 3933,
-        "growthFactor": 1.0017981568891885
-      },
-      "2020-6-19": {
-        "cases": 4458,
-        "deaths": 466,
-        "recovered": 3936,
-        "growthFactor": 1.0002243661655823
-      },
-      "2020-6-20": {
-        "cases": 4458,
-        "deaths": 466,
-        "recovered": 3941,
-        "growthFactor": 1
-      },
-      "2020-6-21": {
-        "cases": 4463,
-        "deaths": 466,
-        "recovered": 3944,
-        "growthFactor": 1.0011215791834904
-      },
-      "2020-6-22": {
-        "cases": 4464,
-        "deaths": 466,
-        "recovered": 3945,
-        "growthFactor": 1.0002240645305849
-      },
-      "2020-6-23": {
-        "cases": 4465,
-        "deaths": 466,
-        "recovered": 3948,
-        "growthFactor": 1.0002240143369177
-      },
-      "2020-6-24": {
-        "cases": 4852,
-        "deaths": 405,
-        "recovered": 4395,
-        "growthFactor": 1.0866741321388578
-      },
-      "2020-6-25": {
-        "cases": 4855,
-        "deaths": 405,
-        "recovered": 4398,
-        "growthFactor": 1.0006183017312449
-      },
-      "2020-6-26": {
-        "cases": 4859,
-        "deaths": 405,
-        "recovered": 4402,
-        "growthFactor": 1.0008238928939237
-      },
-      "2020-6-27": {
-        "cases": 4860,
-        "deaths": 405,
-        "recovered": 4404,
-        "growthFactor": 1.0002058036633052
-      },
-      "2020-6-28": {
-        "cases": 4863,
-        "deaths": 405,
-        "recovered": 4404,
-        "growthFactor": 1.0006172839506173
-      },
-      "2020-6-29": {
-        "cases": 4863,
-        "deaths": 405,
-        "recovered": 4404,
-        "growthFactor": 1
-      }
-    },
-    "state": "P.A. Trento",
-    "country": "ITA",
-    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
   },
   "Umbria, ITA": {
     "dates": {
@@ -15372,7 +15372,7 @@
       "2020-6-29": {
         "cases": 1194,
         "deaths": 146,
-        "recovered": 1044,
+        "recovered": 1045,
         "growthFactor": 1
       }
     },
@@ -16139,10 +16139,10 @@
         "growthFactor": 1.0005710132890366
       },
       "2020-6-29": {
-        "cases": 19275,
+        "cases": 19278,
         "deaths": 2008,
-        "recovered": 16807,
-        "growthFactor": 1
+        "recovered": 16808,
+        "growthFactor": 1.0001556420233464
       }
     },
     "state": "Veneto",
@@ -18911,7 +18911,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 218,
+        "cases": 223,
         "deaths": 2,
         "recovered": 0
       }
@@ -18941,7 +18941,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 2743,
+        "cases": 2775,
         "deaths": 111,
         "recovered": 0
       }
@@ -18971,7 +18971,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 1088,
+        "cases": 1114,
         "deaths": 37,
         "recovered": 0
       }
@@ -19001,7 +19001,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 84,
+        "cases": 87,
         "deaths": 0,
         "recovered": 0
       }
@@ -19031,7 +19031,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 1149,
+        "cases": 1155,
         "deaths": 29,
         "recovered": 0
       }
@@ -19061,7 +19061,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 1767,
+        "cases": 1795,
         "deaths": 25,
         "recovered": 0
       }
@@ -19151,7 +19151,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 18,
+        "cases": 19,
         "deaths": 0,
         "recovered": 0
       }
@@ -19181,7 +19181,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 24,
+        "cases": 26,
         "deaths": 0,
         "recovered": 0
       }
@@ -19211,7 +19211,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 451,
+        "cases": 464,
         "deaths": 2,
         "recovered": 0
       }
@@ -19241,7 +19241,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 27,
+        "cases": 28,
         "deaths": 2,
         "recovered": 0
       }
@@ -19271,7 +19271,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 160,
+        "cases": 161,
         "deaths": 10,
         "recovered": 0
       }
@@ -19391,7 +19391,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 499,
+        "cases": 501,
         "deaths": 36,
         "recovered": 0
       }
@@ -19421,7 +19421,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 786,
+        "cases": 788,
         "deaths": 19,
         "recovered": 0
       }
@@ -19481,7 +19481,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 104,
+        "cases": 107,
         "deaths": 1,
         "recovered": 0
       }
@@ -19541,7 +19541,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 298,
+        "cases": 306,
         "deaths": 4,
         "recovered": 0
       }
@@ -19571,7 +19571,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 570,
+        "cases": 576,
         "deaths": 6,
         "recovered": 0
       }
@@ -19601,7 +19601,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 65,
+        "cases": 67,
         "deaths": 0,
         "recovered": 0
       }
@@ -19721,7 +19721,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 322,
+        "cases": 330,
         "deaths": 4,
         "recovered": 0
       }
@@ -19751,7 +19751,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 43,
+        "cases": 48,
         "deaths": 1,
         "recovered": 0
       }
@@ -19781,7 +19781,7 @@
         "growthFactor": 1
       },
       "2020-6-29": {
-        "cases": 2935,
+        "cases": 2978,
         "deaths": 34,
         "recovered": 0
       }
@@ -19811,7 +19811,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 332,
+        "cases": 338,
         "deaths": 21,
         "recovered": 0
       }
@@ -19841,7 +19841,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 141,
+        "cases": 145,
         "deaths": 4,
         "recovered": 0
       }
@@ -19871,7 +19871,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 635,
+        "cases": 651,
         "deaths": 41,
         "recovered": 0
       }
@@ -19901,7 +19901,7 @@
         "growthFactor": 1
       },
       "2020-6-29": {
-        "cases": 3571,
+        "cases": 3624,
         "deaths": 61,
         "recovered": 0
       }
@@ -19931,7 +19931,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 437,
+        "cases": 461,
         "deaths": 4,
         "recovered": 0
       }
@@ -19961,7 +19961,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 29,
+        "cases": 30,
         "deaths": 0,
         "recovered": 0
       }
@@ -19991,7 +19991,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 309,
+        "cases": 313,
         "deaths": 9,
         "recovered": 0
       }
@@ -20021,7 +20021,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 398,
+        "cases": 411,
         "deaths": 4,
         "recovered": 0
       }
@@ -20051,7 +20051,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 8,
+        "cases": 9,
         "deaths": 0,
         "recovered": 0
       }
@@ -20111,7 +20111,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 12,
+        "cases": 13,
         "deaths": 0,
         "recovered": 0
       }
@@ -20141,7 +20141,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 120,
+        "cases": 128,
         "deaths": 4,
         "recovered": 0
       }
@@ -20171,7 +20171,7 @@
         "growthFactor": 1.375
       },
       "2020-6-29": {
-        "cases": 4816,
+        "cases": 4952,
         "deaths": 46,
         "recovered": 0
       }
@@ -20201,7 +20201,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 188,
+        "cases": 193,
         "deaths": 3,
         "recovered": 0
       }
@@ -20261,7 +20261,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 1016,
+        "cases": 1022,
         "deaths": 20,
         "recovered": 0
       }
@@ -20291,7 +20291,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 925,
+        "cases": 936,
         "deaths": 15,
         "recovered": 0
       }
@@ -20321,7 +20321,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 222,
+        "cases": 226,
         "deaths": 1,
         "recovered": 0
       }
@@ -20351,7 +20351,7 @@
         "growthFactor": 1
       },
       "2020-6-29": {
-        "cases": 936,
+        "cases": 947,
         "deaths": 42,
         "recovered": 0
       }
@@ -20381,7 +20381,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 682,
+        "cases": 696,
         "deaths": 18,
         "recovered": 0
       }
@@ -20411,7 +20411,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 547,
+        "cases": 574,
         "deaths": 36,
         "recovered": 0
       }
@@ -20441,7 +20441,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 88,
+        "cases": 89,
         "deaths": 0,
         "recovered": 0
       }
@@ -20471,7 +20471,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 720,
+        "cases": 759,
         "deaths": 10,
         "recovered": 0
       }
@@ -20501,7 +20501,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 660,
+        "cases": 679,
         "deaths": 6,
         "recovered": 0
       }
@@ -20531,7 +20531,7 @@
         "growthFactor": 1
       },
       "2020-6-29": {
-        "cases": 1393,
+        "cases": 1431,
         "deaths": 29,
         "recovered": 0
       }
@@ -20561,7 +20561,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 51,
+        "cases": 52,
         "deaths": 0,
         "recovered": 0
       }
@@ -20591,7 +20591,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 77,
+        "cases": 80,
         "deaths": 0,
         "recovered": 0
       }
@@ -20621,7 +20621,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 10,
+        "cases": 11,
         "deaths": 0,
         "recovered": 0
       }
@@ -20681,7 +20681,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 279,
+        "cases": 291,
         "deaths": 7,
         "recovered": 0
       }
@@ -20711,7 +20711,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 798,
+        "cases": 821,
         "deaths": 8,
         "recovered": 0
       }
@@ -20741,8 +20741,8 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 277,
-        "deaths": 3,
+        "cases": 283,
+        "deaths": 4,
         "recovered": 0
       }
     },
@@ -20771,7 +20771,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 96,
+        "cases": 105,
         "deaths": 1,
         "recovered": 0
       }
@@ -20801,7 +20801,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 615,
+        "cases": 621,
         "deaths": 30,
         "recovered": 0
       }
@@ -20861,7 +20861,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 569,
+        "cases": 593,
         "deaths": 49,
         "recovered": 0
       }
@@ -20891,7 +20891,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 439,
+        "cases": 450,
         "deaths": 13,
         "recovered": 0
       }
@@ -20921,7 +20921,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 298,
+        "cases": 305,
         "deaths": 7,
         "recovered": 0
       }
@@ -20951,7 +20951,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 359,
+        "cases": 373,
         "deaths": 5,
         "recovered": 0
       }
@@ -20981,7 +20981,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 21,
+        "cases": 22,
         "deaths": 1,
         "recovered": 0
       }
@@ -21011,7 +21011,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 72,
+        "cases": 73,
         "deaths": 4,
         "recovered": 0
       }
@@ -21041,7 +21041,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 363,
+        "cases": 367,
         "deaths": 10,
         "recovered": 0
       }
@@ -21071,7 +21071,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 354,
+        "cases": 365,
         "deaths": 6,
         "recovered": 0
       }
@@ -21101,7 +21101,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 277,
+        "cases": 280,
         "deaths": 1,
         "recovered": 0
       }
@@ -21191,7 +21191,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 1018,
+        "cases": 1030,
         "deaths": 6,
         "recovered": 0
       }
@@ -21221,7 +21221,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 1142,
+        "cases": 1157,
         "deaths": 41,
         "recovered": 0
       }
@@ -21311,7 +21311,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 76,
+        "cases": 84,
         "deaths": 3,
         "recovered": 0
       }
@@ -21341,7 +21341,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 1151,
+        "cases": 1173,
         "deaths": 23,
         "recovered": 0
       }
@@ -21371,7 +21371,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 125,
+        "cases": 126,
         "deaths": 1,
         "recovered": 0
       }
@@ -21401,7 +21401,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 357,
+        "cases": 361,
         "deaths": 3,
         "recovered": 0
       }
@@ -21431,7 +21431,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 1438,
+        "cases": 1460,
         "deaths": 27,
         "recovered": 0
       }
@@ -21461,7 +21461,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 273,
+        "cases": 276,
         "deaths": 5,
         "recovered": 0
       }
@@ -21491,7 +21491,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 134,
+        "cases": 136,
         "deaths": 0,
         "recovered": 0
       }
@@ -21521,7 +21521,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 258,
+        "cases": 270,
         "deaths": 3,
         "recovered": 0
       }
@@ -21551,7 +21551,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 1175,
+        "cases": 1178,
         "deaths": 38,
         "recovered": 0
       }
@@ -21581,7 +21581,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 357,
+        "cases": 366,
         "deaths": 3,
         "recovered": 0
       }
@@ -21611,7 +21611,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 235,
+        "cases": 243,
         "deaths": 1,
         "recovered": 0
       }
@@ -21641,7 +21641,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 513,
+        "cases": 517,
         "deaths": 37,
         "recovered": 0
       }
@@ -21671,7 +21671,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 810,
+        "cases": 840,
         "deaths": 5,
         "recovered": 0
       }
@@ -21701,8 +21701,8 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 479,
-        "deaths": 4,
+        "cases": 499,
+        "deaths": 5,
         "recovered": 0
       }
     },
@@ -21731,7 +21731,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 731,
+        "cases": 748,
         "deaths": 7,
         "recovered": 0
       }
@@ -21761,7 +21761,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 1163,
+        "cases": 1183,
         "deaths": 39,
         "recovered": 0
       }
@@ -21791,7 +21791,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 240,
+        "cases": 246,
         "deaths": 1,
         "recovered": 0
       }
@@ -21821,7 +21821,7 @@
         "growthFactor": 1
       },
       "2020-6-29": {
-        "cases": 10592,
+        "cases": 10863,
         "deaths": 146,
         "recovered": 0
       }
@@ -21851,8 +21851,8 @@
         "growthFactor": 1
       },
       "2020-6-29": {
-        "cases": 1064,
-        "deaths": 27,
+        "cases": 1105,
+        "deaths": 28,
         "recovered": 0
       }
     },
@@ -21881,7 +21881,7 @@
         "growthFactor": null
       },
       "2020-6-29": {
-        "cases": 1004,
+        "cases": 1041,
         "deaths": 11,
         "recovered": 0
       }
@@ -24101,8 +24101,8 @@
         "growthFactor": 1
       },
       "2020-6-29": {
-        "cases": 1.7195184914435064e+24,
-        "deaths": 39314
+        "cases": 1.7201184915095065e+24,
+        "deaths": 40114
       }
     },
     "county": "Sacramento County",
