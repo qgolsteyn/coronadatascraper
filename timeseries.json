@@ -781,10 +781,10 @@
         "growthFactor": 1.000912131346914
       },
       "2020-7-3": {
-        "cases": 3292,
+        "cases": 3298,
         "deaths": 464,
-        "recovered": 2668,
-        "growthFactor": 1
+        "recovered": 2678,
+        "growthFactor": 1.0018226002430133
       }
     },
     "state": "Abruzzo",
@@ -1574,10 +1574,10 @@
         "growthFactor": 1
       },
       "2020-7-3": {
-        "cases": 402,
+        "cases": 404,
         "deaths": 27,
         "recovered": 373,
-        "growthFactor": 1
+        "growthFactor": 1.0049751243781095
       }
     },
     "state": "Basilicata",
@@ -2367,10 +2367,10 @@
         "growthFactor": 1
       },
       "2020-7-3": {
-        "cases": 1181,
+        "cases": 1182,
         "deaths": 97,
-        "recovered": 1059,
-        "growthFactor": 1
+        "recovered": 1060,
+        "growthFactor": 1.0008467400508043
       }
     },
     "state": "Calabria",
@@ -3160,10 +3160,10 @@
         "growthFactor": 1.0006384337093
       },
       "2020-7-3": {
-        "cases": 4702,
+        "cases": 4712,
         "deaths": 432,
-        "recovered": 4080,
-        "growthFactor": 1
+        "recovered": 4083,
+        "growthFactor": 1.0021267545725223
       }
     },
     "state": "Campania",
@@ -3953,10 +3953,10 @@
         "growthFactor": 1.0009471025677004
       },
       "2020-7-3": {
-        "cases": 28535,
-        "deaths": 4265,
-        "recovered": 23267,
-        "growthFactor": 1
+        "cases": 28562,
+        "deaths": 4267,
+        "recovered": 23284,
+        "growthFactor": 1.0009462064131769
       }
     },
     "state": "Emilia-Romagna",
@@ -4745,10 +4745,10 @@
         "growthFactor": 1.0006038647342994
       },
       "2020-7-3": {
-        "cases": 3314,
+        "cases": 3318,
         "deaths": 345,
-        "recovered": 2907,
-        "growthFactor": 1
+        "recovered": 2905,
+        "growthFactor": 1.0012070006035003
       }
     },
     "state": "Friuli Venezia Giulia",
@@ -5538,10 +5538,10 @@
         "growthFactor": 1.001354846655992
       },
       "2020-7-3": {
-        "cases": 8130,
-        "deaths": 839,
-        "recovered": 6460,
-        "growthFactor": 1
+        "cases": 8141,
+        "deaths": 840,
+        "recovered": 6475,
+        "growthFactor": 1.0013530135301354
       }
     },
     "state": "Lazio",
@@ -6331,10 +6331,10 @@
         "growthFactor": 1.0002003606491685
       },
       "2020-7-3": {
-        "cases": 9984,
+        "cases": 9987,
         "deaths": 1558,
-        "recovered": 8145,
-        "growthFactor": 1
+        "recovered": 8146,
+        "growthFactor": 1.0003004807692308
       }
     },
     "state": "Liguria",
@@ -7129,10 +7129,10 @@
         "growthFactor": 1.001042442293373
       },
       "2020-7-3": {
-        "cases": 94108,
-        "deaths": 16671,
-        "recovered": 67610,
-        "growthFactor": 1
+        "cases": 94223,
+        "deaths": 16675,
+        "recovered": 67871,
+        "growthFactor": 1.001222000255026
       }
     },
     "state": "Lombardia",
@@ -7924,7 +7924,7 @@
       "2020-7-3": {
         "cases": 6789,
         "deaths": 987,
-        "recovered": 5564,
+        "recovered": 5575,
         "growthFactor": 1
       }
     },
@@ -9510,7 +9510,7 @@
       "2020-7-3": {
         "cases": 2642,
         "deaths": 292,
-        "recovered": 2266,
+        "recovered": 2267,
         "growthFactor": 1
       }
     },
@@ -10300,10 +10300,10 @@
         "growthFactor": 1.000205592105263
       },
       "2020-7-3": {
-        "cases": 4865,
+        "cases": 4871,
         "deaths": 405,
-        "recovered": 4414,
-        "growthFactor": 1
+        "recovered": 4420,
+        "growthFactor": 1.0012332990750257
       }
     },
     "state": "P.A. Trento",
@@ -11092,10 +11092,10 @@
         "growthFactor": 1.0004144747329826
       },
       "2020-7-3": {
-        "cases": 31378,
-        "deaths": 4096,
-        "recovered": 25983,
-        "growthFactor": 1
+        "cases": 31394,
+        "deaths": 4100,
+        "recovered": 26019,
+        "growthFactor": 1.0005099114028937
       }
     },
     "state": "Piemonte",
@@ -11885,10 +11885,10 @@
         "growthFactor": 1
       },
       "2020-7-3": {
-        "cases": 4530,
+        "cases": 4533,
         "deaths": 545,
-        "recovered": 3876,
-        "growthFactor": 1
+        "recovered": 3879,
+        "growthFactor": 1.0006622516556292
       }
     },
     "state": "Puglia",
@@ -12678,10 +12678,10 @@
         "growthFactor": 1.0014641288433381
       },
       "2020-7-3": {
-        "cases": 1368,
+        "cases": 1369,
         "deaths": 133,
         "recovered": 1222,
-        "growthFactor": 1
+        "growthFactor": 1.0007309941520468
       }
     },
     "state": "Sardegna",
@@ -13471,10 +13471,10 @@
         "growthFactor": 1.002921129503408
       },
       "2020-7-3": {
-        "cases": 3090,
+        "cases": 3091,
         "deaths": 282,
         "recovered": 2674,
-        "growthFactor": 1
+        "growthFactor": 1.0003236245954692
       }
     },
     "state": "Sicilia",
@@ -14264,10 +14264,10 @@
         "growthFactor": 1.000390091671543
       },
       "2020-7-3": {
-        "cases": 10258,
-        "deaths": 1109,
-        "recovered": 8825,
-        "growthFactor": 1
+        "cases": 10267,
+        "deaths": 1112,
+        "recovered": 8832,
+        "growthFactor": 1.0008773640085786
       }
     },
     "state": "Toscana",
@@ -15057,10 +15057,10 @@
         "growthFactor": 1.0020818875780708
       },
       "2020-7-3": {
-        "cases": 1444,
+        "cases": 1446,
         "deaths": 80,
-        "recovered": 1353,
-        "growthFactor": 1
+        "recovered": 1356,
+        "growthFactor": 1.0013850415512466
       }
     },
     "state": "Umbria",
@@ -15850,10 +15850,10 @@
         "growthFactor": 1
       },
       "2020-7-3": {
-        "cases": 1195,
+        "cases": 1196,
         "deaths": 146,
         "recovered": 1046,
-        "growthFactor": 1
+        "growthFactor": 1.000836820083682
       }
     },
     "state": "Valle d'Aosta",
@@ -16643,10 +16643,10 @@
         "growthFactor": 1.001036860386749
       },
       "2020-7-3": {
-        "cases": 19309,
-        "deaths": 2022,
-        "recovered": 16890,
-        "growthFactor": 1
+        "cases": 19314,
+        "deaths": 2023,
+        "recovered": 16901,
+        "growthFactor": 1.00025894660521
       }
     },
     "state": "Veneto",
