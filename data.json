@@ -3161,8 +3161,8 @@
     "population": 829685
   },
   {
-    "recovered": 2713,
-    "deaths": 465,
+    "recovered": 2719,
+    "deaths": 466,
     "cases": 3328,
     "state": "Abruzzo",
     "country": "ITA",
@@ -3190,22 +3190,22 @@
   {
     "recovered": 4094,
     "deaths": 432,
-    "cases": 4772,
+    "cases": 4779,
     "state": "Campania",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "population": 5801692
   },
   {
-    "recovered": 23491,
+    "recovered": 23496,
     "deaths": 4269,
-    "cases": 28940,
+    "cases": 28958,
     "state": "Emilia-Romagna",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
   },
   {
-    "recovered": 2911,
+    "recovered": 2910,
     "deaths": 345,
     "cases": 3335,
     "state": "Friuli Venezia Giulia",
@@ -3214,18 +3214,18 @@
     "population": 1215220
   },
   {
-    "recovered": 6557,
-    "deaths": 844,
-    "cases": 8314,
+    "recovered": 6601,
+    "deaths": 845,
+    "cases": 8338,
     "state": "Lazio",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "population": 5879082
   },
   {
-    "recovered": 8233,
+    "recovered": 8255,
     "deaths": 1559,
-    "cases": 10031,
+    "cases": 10032,
     "state": "Liguria",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
@@ -3237,16 +3237,16 @@
     "population": 1550640
   },
   {
-    "recovered": 70297,
-    "deaths": 16748,
-    "cases": 95049,
+    "recovered": 70375,
+    "deaths": 16757,
+    "cases": 95143,
     "state": "Lombardia",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "population": 10060574
   },
   {
-    "recovered": 5650,
+    "recovered": 5658,
     "deaths": 987,
     "cases": 6804,
     "state": "Marche",
@@ -3266,7 +3266,7 @@
   {
     "recovered": 2286,
     "deaths": 292,
-    "cases": 2666,
+    "cases": 2673,
     "state": "P.A. Bolzano",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
@@ -3280,17 +3280,17 @@
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
   },
   {
-    "recovered": 26329,
-    "deaths": 4111,
-    "cases": 31498,
+    "recovered": 26339,
+    "deaths": 4112,
+    "cases": 31504,
     "state": "Piemonte",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "population": 4356406
   },
   {
-    "recovered": 3924,
-    "deaths": 546,
+    "recovered": 3926,
+    "deaths": 547,
     "cases": 4541,
     "state": "Puglia",
     "country": "ITA",
@@ -3300,16 +3300,16 @@
   {
     "recovered": 1229,
     "deaths": 134,
-    "cases": 1372,
+    "cases": 1373,
     "state": "Sardegna",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "population": 1639591
   },
   {
-    "recovered": 2693,
+    "recovered": 2694,
     "deaths": 283,
-    "cases": 3099,
+    "cases": 3100,
     "state": "Sicilia",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
@@ -3318,14 +3318,14 @@
   {
     "recovered": 8869,
     "deaths": 1122,
-    "cases": 10322,
+    "cases": 10326,
     "state": "Toscana",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
     "population": 3729641
   },
   {
-    "recovered": 1361,
+    "recovered": 1362,
     "deaths": 80,
     "cases": 1450,
     "state": "Umbria",
@@ -3343,9 +3343,9 @@
     "population": 125666
   },
   {
-    "recovered": 16948,
+    "recovered": 16950,
     "deaths": 2039,
-    "cases": 19395,
+    "cases": 19401,
     "state": "Veneto",
     "country": "ITA",
     "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
