@@ -29277,12 +29277,22 @@
         "cases": 13,
         "deaths": 0,
         "growthFactor": 0.3611111111111111
+      },
+      "2020-8-8": {
+        "cases": 0,
+        "deaths": 0
       }
     },
     "county": "Orange County",
     "state": "CA",
     "country": "USA",
-    "url": "http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus"
+    "url": "http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus",
+    "coordinates": [
+      -117.76484500000001,
+      33.66652
+    ],
+    "featureId": 223,
+    "population": 3185968
   },
   "Riverside County, CA, USA": {
     "dates": {
@@ -29323,7 +29333,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 223,
+    "featureId": 224,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -29350,7 +29360,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 224,
+    "featureId": 225,
     "population": 850967
   },
   "AL, USA": {
