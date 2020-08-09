@@ -1003,10 +1003,10 @@
         "growthFactor": 1.003454231433506
       },
       "2020-8-9": {
-        "cases": 3486,
+        "cases": 3502,
         "deaths": 472,
         "recovered": 2817,
-        "growthFactor": 1
+        "growthFactor": 1.0045897877223178
       }
     },
     "state": "Abruzzo",
@@ -3035,7 +3035,7 @@
       "2020-8-9": {
         "cases": 1287,
         "deaths": 97,
-        "recovered": 1089,
+        "recovered": 1090,
         "growthFactor": 1
       }
     },
@@ -4048,10 +4048,10 @@
         "growthFactor": 1.000990099009901
       },
       "2020-8-9": {
-        "cases": 5055,
+        "cases": 5077,
         "deaths": 438,
-        "recovered": 4245,
-        "growthFactor": 1
+        "recovered": 4251,
+        "growthFactor": 1.0043521266073194
       }
     },
     "state": "Campania",
@@ -5063,10 +5063,10 @@
         "growthFactor": 1.001466275659824
       },
       "2020-8-9": {
-        "cases": 30052,
-        "deaths": 4294,
-        "recovered": 24046,
-        "growthFactor": 1
+        "cases": 30121,
+        "deaths": 4295,
+        "recovered": 24066,
+        "growthFactor": 1.0022960202315985
       }
     },
     "state": "Emilia-Romagna",
@@ -6077,10 +6077,10 @@
         "growthFactor": 1.0017462165308497
       },
       "2020-8-9": {
-        "cases": 3442,
+        "cases": 3449,
         "deaths": 346,
-        "recovered": 2936,
-        "growthFactor": 1
+        "recovered": 2937,
+        "growthFactor": 1.0020337013364322
       }
     },
     "state": "Friuli Venezia Giulia",
@@ -7092,10 +7092,10 @@
         "growthFactor": 1.0022820629849385
       },
       "2020-8-9": {
-        "cases": 8784,
+        "cases": 8822,
         "deaths": 866,
-        "recovered": 6901,
-        "growthFactor": 1
+        "recovered": 6910,
+        "growthFactor": 1.0043260473588342
       }
     },
     "state": "Lazio",
@@ -8107,10 +8107,10 @@
         "growthFactor": 1.0003894080996885
       },
       "2020-8-9": {
-        "cases": 10276,
+        "cases": 10283,
         "deaths": 1569,
-        "recovered": 8493,
-        "growthFactor": 1
+        "recovered": 8498,
+        "growthFactor": 1.0006811989100817
       }
     },
     "state": "Liguria",
@@ -9127,10 +9127,10 @@
         "growthFactor": 1.0007858871217918
       },
       "2020-8-9": {
-        "cases": 96782,
-        "deaths": 16832,
-        "recovered": 74403,
-        "growthFactor": 1
+        "cases": 96853,
+        "deaths": 16833,
+        "recovered": 74432,
+        "growthFactor": 1.0007336074889959
       }
     },
     "state": "Lombardia",
@@ -10142,10 +10142,10 @@
         "growthFactor": 1.0004325883201153
       },
       "2020-8-9": {
-        "cases": 6938,
+        "cases": 6954,
         "deaths": 987,
-        "recovered": 5795,
-        "growthFactor": 1
+        "recovered": 5799,
+        "growthFactor": 1.002306140098011
       }
     },
     "state": "Marche",
@@ -12172,10 +12172,10 @@
         "growthFactor": 1.0018109380659181
       },
       "2020-8-9": {
-        "cases": 2766,
+        "cases": 2773,
         "deaths": 292,
-        "recovered": 2351,
-        "growthFactor": 1
+        "recovered": 2353,
+        "growthFactor": 1.002530730296457
       }
     },
     "state": "P.A. Bolzano",
@@ -13186,10 +13186,10 @@
         "growthFactor": 1.0002003205128205
       },
       "2020-8-9": {
-        "cases": 4993,
+        "cases": 4995,
         "deaths": 405,
-        "recovered": 4509,
-        "growthFactor": 1
+        "recovered": 4512,
+        "growthFactor": 1.0004005607850992
       }
     },
     "state": "P.A. Trento",
@@ -14200,10 +14200,10 @@
         "growthFactor": 1.0009748734236925
       },
       "2020-8-9": {
-        "cases": 31830,
+        "cases": 31868,
         "deaths": 4136,
-        "recovered": 26904,
-        "growthFactor": 1
+        "recovered": 26910,
+        "growthFactor": 1.0011938422871505
       }
     },
     "state": "Piemonte",
@@ -15215,10 +15215,10 @@
         "growthFactor": 1.001916524701874
       },
       "2020-8-9": {
-        "cases": 4705,
+        "cases": 4714,
         "deaths": 554,
         "recovered": 3973,
-        "growthFactor": 1
+        "growthFactor": 1.0019128586609989
       }
     },
     "state": "Puglia",
@@ -16230,10 +16230,10 @@
         "growthFactor": 1
       },
       "2020-8-9": {
-        "cases": 1433,
+        "cases": 1439,
         "deaths": 134,
         "recovered": 1245,
-        "growthFactor": 1
+        "growthFactor": 1.0041870202372645
       }
     },
     "state": "Sardegna",
@@ -17245,10 +17245,10 @@
         "growthFactor": 1.0082449941107186
       },
       "2020-8-9": {
-        "cases": 3424,
+        "cases": 3453,
         "deaths": 284,
-        "recovered": 2743,
-        "growthFactor": 1
+        "recovered": 2749,
+        "growthFactor": 1.0084696261682242
       }
     },
     "state": "Sicilia",
@@ -18260,10 +18260,10 @@
         "growthFactor": 1.0021780303030303
       },
       "2020-8-9": {
-        "cases": 10583,
+        "cases": 10644,
         "deaths": 1137,
-        "recovered": 8989,
-        "growthFactor": 1
+        "recovered": 8997,
+        "growthFactor": 1.00576396106964
       }
     },
     "state": "Toscana",
@@ -19275,10 +19275,10 @@
         "growthFactor": 1.006720430107527
       },
       "2020-8-9": {
-        "cases": 1498,
+        "cases": 1505,
         "deaths": 80,
         "recovered": 1376,
-        "growthFactor": 1
+        "growthFactor": 1.0046728971962617
       }
     },
     "state": "Umbria",
@@ -20292,7 +20292,7 @@
       "2020-8-9": {
         "cases": 1216,
         "deaths": 146,
-        "recovered": 1051,
+        "recovered": 1056,
         "growthFactor": 1
       }
     },
@@ -21305,10 +21305,10 @@
         "growthFactor": 1.0030679327976626
       },
       "2020-8-9": {
-        "cases": 20598,
+        "cases": 20656,
         "deaths": 2083,
-        "recovered": 17287,
-        "growthFactor": 1
+        "recovered": 17333,
+        "growthFactor": 1.0028158073599378
       }
     },
     "state": "Veneto",
