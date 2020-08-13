@@ -1025,6 +1025,12 @@
         "deaths": 472,
         "recovered": 2823,
         "growthFactor": 1.001138952164009
+      },
+      "2020-8-13": {
+        "cases": 3516,
+        "deaths": 472,
+        "recovered": 2823,
+        "growthFactor": 1
       }
     },
     "state": "Abruzzo",
@@ -2054,6 +2060,12 @@
         "growthFactor": 1.0021008403361344
       },
       "2020-8-12": {
+        "cases": 477,
+        "deaths": 28,
+        "recovered": 377,
+        "growthFactor": 1
+      },
+      "2020-8-13": {
         "cases": 477,
         "deaths": 28,
         "recovered": 377,
@@ -3091,6 +3103,12 @@
         "deaths": 97,
         "recovered": 1097,
         "growthFactor": 1.003076923076923
+      },
+      "2020-8-13": {
+        "cases": 1304,
+        "deaths": 97,
+        "recovered": 1097,
+        "growthFactor": 1
       }
     },
     "state": "Calabria",
@@ -4124,6 +4142,12 @@
         "deaths": 440,
         "recovered": 4279,
         "growthFactor": 1.0056707078607743
+      },
+      "2020-8-13": {
+        "cases": 5143,
+        "deaths": 440,
+        "recovered": 4279,
+        "growthFactor": 1
       }
     },
     "state": "Campania",
@@ -5157,6 +5181,12 @@
         "deaths": 4298,
         "recovered": 24115,
         "growthFactor": 1.0013585605884887
+      },
+      "2020-8-13": {
+        "cases": 30220,
+        "deaths": 4298,
+        "recovered": 24115,
+        "growthFactor": 1
       }
     },
     "state": "Emilia-Romagna",
@@ -6189,6 +6219,12 @@
         "deaths": 348,
         "recovered": 2949,
         "growthFactor": 1.0026071842410198
+      },
+      "2020-8-13": {
+        "cases": 3461,
+        "deaths": 348,
+        "recovered": 2949,
+        "growthFactor": 1
       }
     },
     "state": "Friuli Venezia Giulia",
@@ -7222,6 +7258,12 @@
         "deaths": 868,
         "recovered": 6931,
         "growthFactor": 1.0041652594844084
+      },
+      "2020-8-13": {
+        "cases": 8920,
+        "deaths": 868,
+        "recovered": 6931,
+        "growthFactor": 1
       }
     },
     "state": "Lazio",
@@ -8255,6 +8297,12 @@
         "deaths": 1569,
         "recovered": 8534,
         "growthFactor": 1.0025232919254659
+      },
+      "2020-8-13": {
+        "cases": 10330,
+        "deaths": 1569,
+        "recovered": 8534,
+        "growthFactor": 1
       }
     },
     "state": "Liguria",
@@ -9293,6 +9341,12 @@
         "deaths": 16833,
         "recovered": 74700,
         "growthFactor": 1.0010520670022278
+      },
+      "2020-8-13": {
+        "cases": 97054,
+        "deaths": 16833,
+        "recovered": 74700,
+        "growthFactor": 1
       }
     },
     "state": "Lombardia",
@@ -10326,6 +10380,12 @@
         "deaths": 987,
         "recovered": 5822,
         "growthFactor": 1.0022988505747126
+      },
+      "2020-8-13": {
+        "cases": 6976,
+        "deaths": 987,
+        "recovered": 5822,
+        "growthFactor": 1
       }
     },
     "state": "Marche",
@@ -11355,6 +11415,12 @@
         "growthFactor": 1
       },
       "2020-8-12": {
+        "cases": 479,
+        "deaths": 23,
+        "recovered": 427,
+        "growthFactor": 1
+      },
+      "2020-8-13": {
         "cases": 479,
         "deaths": 23,
         "recovered": 427,
@@ -12392,6 +12458,12 @@
         "deaths": 292,
         "recovered": 2357,
         "growthFactor": 1.0014414414414414
+      },
+      "2020-8-13": {
+        "cases": 2779,
+        "deaths": 292,
+        "recovered": 2357,
+        "growthFactor": 1
       }
     },
     "state": "P.A. Bolzano",
@@ -13420,6 +13492,12 @@
         "growthFactor": 1.000400320256205
       },
       "2020-8-12": {
+        "cases": 4998,
+        "deaths": 405,
+        "recovered": 4525,
+        "growthFactor": 1
+      },
+      "2020-8-13": {
         "cases": 4998,
         "deaths": 405,
         "recovered": 4525,
@@ -14456,6 +14534,12 @@
         "deaths": 4138,
         "recovered": 26963,
         "growthFactor": 1.0013160368490317
+      },
+      "2020-8-13": {
+        "cases": 31956,
+        "deaths": 4138,
+        "recovered": 26963,
+        "growthFactor": 1
       }
     },
     "state": "Piemonte",
@@ -15489,6 +15573,12 @@
         "deaths": 554,
         "recovered": 3977,
         "growthFactor": 1.0069327731092437
+      },
+      "2020-8-13": {
+        "cases": 4793,
+        "deaths": 554,
+        "recovered": 3977,
+        "growthFactor": 1
       }
     },
     "state": "Puglia",
@@ -16522,6 +16612,12 @@
         "deaths": 134,
         "recovered": 1245,
         "growthFactor": 1.000684462696783
+      },
+      "2020-8-13": {
+        "cases": 1462,
+        "deaths": 134,
+        "recovered": 1245,
+        "growthFactor": 1
       }
     },
     "state": "Sardegna",
@@ -17555,6 +17651,12 @@
         "deaths": 284,
         "recovered": 2757,
         "growthFactor": 1.0081141578063795
+      },
+      "2020-8-13": {
+        "cases": 3603,
+        "deaths": 284,
+        "recovered": 2757,
+        "growthFactor": 1
       }
     },
     "state": "Sicilia",
@@ -18588,6 +18690,12 @@
         "deaths": 1137,
         "recovered": 9007,
         "growthFactor": 1.0030916245081507
+      },
+      "2020-8-13": {
+        "cases": 10707,
+        "deaths": 1137,
+        "recovered": 9007,
+        "growthFactor": 1
       }
     },
     "state": "Toscana",
@@ -19621,6 +19729,12 @@
         "deaths": 80,
         "recovered": 1380,
         "growthFactor": 1.0039708802117804
+      },
+      "2020-8-13": {
+        "cases": 1517,
+        "deaths": 80,
+        "recovered": 1380,
+        "growthFactor": 1
       }
     },
     "state": "Umbria",
@@ -20650,6 +20764,12 @@
         "growthFactor": 1
       },
       "2020-8-12": {
+        "cases": 1217,
+        "deaths": 146,
+        "recovered": 1056,
+        "growthFactor": 1
+      },
+      "2020-8-13": {
         "cases": 1217,
         "deaths": 146,
         "recovered": 1056,
@@ -21687,6 +21807,12 @@
         "deaths": 2092,
         "recovered": 17376,
         "growthFactor": 1.002892820982595
+      },
+      "2020-8-13": {
+        "cases": 20801,
+        "deaths": 2092,
+        "recovered": 17376,
+        "growthFactor": 1
       }
     },
     "state": "Veneto",
@@ -21707,7 +21833,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 13,
         "deaths": 1,
         "tested": 0
@@ -21737,7 +21863,7 @@
         "tested": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 166,
         "deaths": 18,
         "tested": 0
@@ -21767,7 +21893,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 59,
         "deaths": 2,
         "tested": 0
@@ -21797,7 +21923,7 @@
         "tested": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 456,
         "deaths": 40,
         "tested": 0
@@ -21827,7 +21953,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 185,
         "deaths": 3,
         "tested": 0
@@ -21857,7 +21983,7 @@
         "tested": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 7,
         "deaths": 1,
         "tested": 0
@@ -21887,7 +22013,7 @@
         "tested": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 45,
         "deaths": 4,
         "tested": 0
@@ -21917,7 +22043,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 351,
         "deaths": 34,
         "tested": 0
@@ -21947,7 +22073,7 @@
         "tested": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 454,
         "deaths": 10,
         "tested": 0
@@ -21976,7 +22102,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 97,
         "deaths": 0,
         "tested": 0
@@ -22006,7 +22132,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 96,
         "deaths": 1,
         "tested": 0
@@ -22030,7 +22156,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 101,
         "deaths": 4,
         "tested": 0
@@ -22060,7 +22186,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 193,
         "deaths": 5,
         "tested": 0
@@ -22090,7 +22216,7 @@
         "tested": 0,
         "growthFactor": 1.5
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 4263,
         "deaths": 214,
         "tested": 0
@@ -22120,7 +22246,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 624,
         "deaths": 41,
         "tested": 0
@@ -22150,7 +22276,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1292,
         "deaths": 57,
         "tested": 0
@@ -22180,7 +22306,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 124,
         "deaths": 4,
         "tested": 0
@@ -22210,7 +22336,7 @@
         "tested": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 518,
         "deaths": 20,
         "tested": 0
@@ -22240,7 +22366,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 144,
         "deaths": 5,
         "tested": 0
@@ -22270,7 +22396,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 149,
         "deaths": 9,
         "tested": 0
@@ -22300,7 +22426,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 125,
         "deaths": 6,
         "tested": 0
@@ -22330,7 +22456,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 343,
         "deaths": 22,
         "tested": 0
@@ -22360,7 +22486,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 14,
         "deaths": 1,
         "tested": 0
@@ -22390,7 +22516,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 21,
         "deaths": 1,
         "tested": 0
@@ -22420,7 +22546,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 38,
         "deaths": 4,
         "tested": 0
@@ -22450,7 +22576,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 13,
         "deaths": 0,
         "tested": 0
@@ -22480,7 +22606,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 22,
         "deaths": 1,
         "tested": 0
@@ -22510,7 +22636,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 8,
         "deaths": 2,
         "tested": 0
@@ -22540,7 +22666,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 178,
         "deaths": 21,
         "tested": 0
@@ -22570,7 +22696,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 6,
         "deaths": 0,
         "tested": 0
@@ -22600,7 +22726,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 18,
         "deaths": 1,
         "tested": 0
@@ -22630,7 +22756,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 18,
         "deaths": 0,
         "tested": 0
@@ -22660,7 +22786,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 118,
         "deaths": 5,
         "tested": 0
@@ -22690,7 +22816,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 138,
         "deaths": 1,
         "tested": 0
@@ -22720,7 +22846,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 12,
         "deaths": 2,
         "tested": 0
@@ -22750,7 +22876,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 6,
         "deaths": 0,
         "tested": 0
@@ -22780,7 +22906,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 31,
         "deaths": 0,
         "tested": 0
@@ -22810,7 +22936,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 9,
         "deaths": 0,
         "tested": 0
@@ -22840,7 +22966,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 23,
         "deaths": 1,
         "tested": 0
@@ -22870,7 +22996,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 30,
         "deaths": 2,
         "tested": 0
@@ -22900,7 +23026,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 27,
         "deaths": 0,
         "tested": 0
@@ -22930,7 +23056,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 151,
         "deaths": 7,
         "tested": 0
@@ -22960,7 +23086,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 60,
         "deaths": 5,
         "tested": 0
@@ -22990,7 +23116,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 21,
         "deaths": 0,
         "tested": 0
@@ -23020,7 +23146,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 6,
         "deaths": 2,
         "tested": 0
@@ -23050,7 +23176,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 105,
         "deaths": 3,
         "tested": 0
@@ -23080,7 +23206,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 10,
         "deaths": 1,
         "tested": 0
@@ -23110,7 +23236,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 121,
         "deaths": 9,
         "tested": 0
@@ -23140,7 +23266,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 8,
         "deaths": 0,
         "tested": 0
@@ -23170,7 +23296,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 5,
         "deaths": 0,
         "tested": 0
@@ -23200,7 +23326,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 2,
         "deaths": 0,
         "tested": 0
@@ -23230,7 +23356,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 7,
         "deaths": 1,
         "tested": 0
@@ -23260,7 +23386,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 7,
         "deaths": 1,
         "tested": 0
@@ -23290,7 +23416,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 91,
         "deaths": 7,
         "tested": 0
@@ -23320,7 +23446,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1,
         "deaths": 0,
         "tested": 0
@@ -23350,7 +23476,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 9,
         "deaths": 0,
         "tested": 0
@@ -23380,7 +23506,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 6,
         "deaths": 0,
         "tested": 0
@@ -23410,7 +23536,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 26,
         "deaths": 1,
         "tested": 0
@@ -23440,7 +23566,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 10,
         "deaths": 0,
         "tested": 0
@@ -23470,7 +23596,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 14,
         "deaths": 1,
         "tested": 0
@@ -23500,7 +23626,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 86,
         "deaths": 3,
         "tested": 0
@@ -23530,7 +23656,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 29,
         "deaths": 1,
         "tested": 0
@@ -23560,7 +23686,7 @@
         "tested": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 75,
         "deaths": 4,
         "tested": 0
@@ -23590,7 +23716,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 16,
         "deaths": 1,
         "tested": 0
@@ -23620,7 +23746,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 72,
         "deaths": 5,
         "tested": 0
@@ -23650,7 +23776,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 6,
         "deaths": 1,
         "tested": 0
@@ -23680,7 +23806,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 27,
         "deaths": 2,
         "tested": 0
@@ -23710,7 +23836,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 146,
         "deaths": 7,
         "tested": 0
@@ -23740,7 +23866,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 24,
         "deaths": 1,
         "tested": 0
@@ -23770,7 +23896,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 6,
         "deaths": 0,
         "tested": 0
@@ -23800,7 +23926,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 7,
         "deaths": 0,
         "tested": 0
@@ -23824,7 +23950,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 4,
         "deaths": 0,
         "tested": 0
@@ -23854,7 +23980,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 19,
         "deaths": 1,
         "tested": 0
@@ -23884,7 +24010,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 83,
         "deaths": 9,
         "tested": 0
@@ -23914,7 +24040,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 188,
         "deaths": 11,
         "tested": 0
@@ -23944,7 +24070,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 27,
         "deaths": 0,
         "tested": 0
@@ -23974,7 +24100,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 22,
         "deaths": 4,
         "tested": 0
@@ -24004,7 +24130,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 38,
         "deaths": 4,
         "tested": 0
@@ -24034,7 +24160,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 6,
         "deaths": 0,
         "tested": 0
@@ -24064,7 +24190,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 53,
         "deaths": 4,
         "tested": 0
@@ -24094,7 +24220,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 11,
         "deaths": 1,
         "tested": 0
@@ -24124,7 +24250,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 44,
         "deaths": 4,
         "tested": 0
@@ -24154,7 +24280,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1,
         "deaths": 0,
         "tested": 0
@@ -24184,7 +24310,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 68,
         "deaths": 8,
         "tested": 0
@@ -24214,7 +24340,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 38,
         "deaths": 6,
         "tested": 0
@@ -24244,7 +24370,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 16,
         "deaths": 0,
         "tested": 0
@@ -24274,7 +24400,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 20,
         "deaths": 1,
         "tested": 0
@@ -24304,7 +24430,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 11,
         "deaths": 0,
         "tested": 0
@@ -24334,7 +24460,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 13,
         "deaths": 0,
         "tested": 0
@@ -24364,7 +24490,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 18,
         "deaths": 1,
         "tested": 0
@@ -24394,7 +24520,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 5,
         "deaths": 0,
         "tested": 0
@@ -24424,7 +24550,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 64,
         "deaths": 1,
         "tested": 0
@@ -24454,7 +24580,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 563,
         "deaths": 4,
         "recovered": 0
@@ -24484,7 +24610,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 5753,
         "deaths": 156,
         "recovered": 0
@@ -24514,7 +24640,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 2526,
         "deaths": 41,
         "recovered": 0
@@ -24544,7 +24670,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 314,
         "deaths": 2,
         "recovered": 0
@@ -24574,7 +24700,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 2199,
         "deaths": 38,
         "recovered": 0
@@ -24604,7 +24730,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 2445,
         "deaths": 42,
         "recovered": 0
@@ -24634,7 +24760,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 166,
         "deaths": 1,
         "recovered": 0
@@ -24664,7 +24790,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 170,
         "deaths": 0,
         "recovered": 0
@@ -24694,7 +24820,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 77,
         "deaths": 0,
         "recovered": 0
@@ -24724,7 +24850,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 75,
         "deaths": 2,
         "recovered": 0
@@ -24754,7 +24880,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 967,
         "deaths": 10,
         "recovered": 0
@@ -24784,7 +24910,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 47,
         "deaths": 2,
         "recovered": 0
@@ -24814,7 +24940,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 358,
         "deaths": 11,
         "recovered": 0
@@ -24844,7 +24970,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 309,
         "deaths": 16,
         "recovered": 0
@@ -24874,7 +25000,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 289,
         "deaths": 3,
         "recovered": 0
@@ -24904,7 +25030,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 261,
         "deaths": 6,
         "recovered": 0
@@ -24934,7 +25060,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 787,
         "deaths": 41,
         "recovered": 0
@@ -24964,7 +25090,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1278,
         "deaths": 29,
         "recovered": 0
@@ -24994,7 +25120,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 196,
         "deaths": 2,
         "recovered": 0
@@ -25024,7 +25150,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 228,
         "deaths": 2,
         "recovered": 0
@@ -25054,7 +25180,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 423,
         "deaths": 20,
         "recovered": 0
@@ -25084,7 +25210,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 721,
         "deaths": 6,
         "recovered": 0
@@ -25114,7 +25240,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 852,
         "deaths": 12,
         "recovered": 0
@@ -25144,7 +25270,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 301,
         "deaths": 0,
         "recovered": 0
@@ -25174,7 +25300,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 88,
         "deaths": 2,
         "recovered": 0
@@ -25204,7 +25330,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 158,
         "deaths": 2,
         "recovered": 0
@@ -25234,7 +25360,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 93,
         "deaths": 0,
         "recovered": 0
@@ -25264,7 +25390,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 557,
         "deaths": 6,
         "recovered": 0
@@ -25294,7 +25420,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 210,
         "deaths": 2,
         "recovered": 0
@@ -25324,7 +25450,7 @@
         "recovered": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 5381,
         "deaths": 53,
         "recovered": 0
@@ -25354,7 +25480,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 891,
         "deaths": 26,
         "recovered": 0
@@ -25384,7 +25510,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 287,
         "deaths": 5,
         "recovered": 0
@@ -25414,7 +25540,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1361,
         "deaths": 48,
         "recovered": 0
@@ -25444,7 +25570,7 @@
         "recovered": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 6231,
         "deaths": 80,
         "recovered": 0
@@ -25474,7 +25600,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1220,
         "deaths": 12,
         "recovered": 0
@@ -25504,7 +25630,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 80,
         "deaths": 3,
         "recovered": 0
@@ -25534,7 +25660,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 672,
         "deaths": 13,
         "recovered": 0
@@ -25564,7 +25690,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1234,
         "deaths": 11,
         "recovered": 0
@@ -25594,7 +25720,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 98,
         "deaths": 1,
         "recovered": 0
@@ -25624,7 +25750,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 78,
         "deaths": 0,
         "recovered": 0
@@ -25654,7 +25780,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 49,
         "deaths": 0,
         "recovered": 0
@@ -25684,7 +25810,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 263,
         "deaths": 6,
         "recovered": 0
@@ -25714,7 +25840,7 @@
         "recovered": 0,
         "growthFactor": 1.375
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 12263,
         "deaths": 178,
         "recovered": 0
@@ -25744,7 +25870,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 426,
         "deaths": 5,
         "recovered": 0
@@ -25774,7 +25900,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 136,
         "deaths": 4,
         "recovered": 0
@@ -25804,7 +25930,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1676,
         "deaths": 26,
         "recovered": 0
@@ -25834,7 +25960,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1817,
         "deaths": 18,
         "recovered": 0
@@ -25864,7 +25990,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 690,
         "deaths": 16,
         "recovered": 0
@@ -25894,7 +26020,7 @@
         "recovered": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1308,
         "deaths": 55,
         "recovered": 0
@@ -25924,7 +26050,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1514,
         "deaths": 34,
         "recovered": 0
@@ -25954,7 +26080,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1929,
         "deaths": 50,
         "recovered": 0
@@ -25984,7 +26110,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 441,
         "deaths": 15,
         "recovered": 0
@@ -26014,7 +26140,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 2180,
         "deaths": 28,
         "recovered": 0
@@ -26044,7 +26170,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 2105,
         "deaths": 11,
         "recovered": 0
@@ -26074,7 +26200,7 @@
         "recovered": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 3357,
         "deaths": 45,
         "recovered": 0
@@ -26104,7 +26230,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 121,
         "deaths": 2,
         "recovered": 0
@@ -26134,7 +26260,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 416,
         "deaths": 2,
         "recovered": 0
@@ -26164,7 +26290,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 46,
         "deaths": 0,
         "recovered": 0
@@ -26194,7 +26320,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 333,
         "deaths": 3,
         "recovered": 0
@@ -26224,7 +26350,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 773,
         "deaths": 13,
         "recovered": 0
@@ -26254,7 +26380,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1306,
         "deaths": 11,
         "recovered": 0
@@ -26284,7 +26410,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1217,
         "deaths": 22,
         "recovered": 0
@@ -26314,7 +26440,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 453,
         "deaths": 7,
         "recovered": 0
@@ -26344,7 +26470,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1337,
         "deaths": 40,
         "recovered": 0
@@ -26374,7 +26500,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 43,
         "deaths": 0,
         "recovered": 0
@@ -26404,7 +26530,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1505,
         "deaths": 55,
         "recovered": 0
@@ -26434,7 +26560,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1031,
         "deaths": 20,
         "recovered": 0
@@ -26464,7 +26590,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 656,
         "deaths": 14,
         "recovered": 0
@@ -26494,7 +26620,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1103,
         "deaths": 31,
         "recovered": 0
@@ -26524,7 +26650,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 142,
         "deaths": 1,
         "recovered": 0
@@ -26554,7 +26680,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 163,
         "deaths": 6,
         "recovered": 0
@@ -26584,7 +26710,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 593,
         "deaths": 11,
         "recovered": 0
@@ -26614,7 +26740,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 726,
         "deaths": 15,
         "recovered": 0
@@ -26644,7 +26770,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 467,
         "deaths": 2,
         "recovered": 0
@@ -26674,7 +26800,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 270,
         "deaths": 4,
         "recovered": 0
@@ -26704,7 +26830,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 73,
         "deaths": 1,
         "recovered": 0
@@ -26734,7 +26860,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1495,
         "deaths": 18,
         "recovered": 0
@@ -26764,7 +26890,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 3212,
         "deaths": 54,
         "recovered": 0
@@ -26794,7 +26920,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 70,
         "deaths": 0,
         "recovered": 0
@@ -26824,7 +26950,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 95,
         "deaths": 4,
         "recovered": 0
@@ -26854,7 +26980,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 352,
         "deaths": 5,
         "recovered": 0
@@ -26884,7 +27010,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 3170,
         "deaths": 43,
         "recovered": 0
@@ -26914,7 +27040,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 339,
         "deaths": 3,
         "recovered": 0
@@ -26944,7 +27070,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 738,
         "deaths": 11,
         "recovered": 0
@@ -26974,7 +27100,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 2011,
         "deaths": 48,
         "recovered": 0
@@ -27004,7 +27130,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 524,
         "deaths": 9,
         "recovered": 0
@@ -27034,7 +27160,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 374,
         "deaths": 5,
         "recovered": 0
@@ -27064,7 +27190,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1138,
         "deaths": 11,
         "recovered": 0
@@ -27094,7 +27220,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 2854,
         "deaths": 55,
         "recovered": 0
@@ -27124,7 +27250,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 627,
         "deaths": 5,
         "recovered": 0
@@ -27154,7 +27280,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 669,
         "deaths": 3,
         "recovered": 0
@@ -27184,7 +27310,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 931,
         "deaths": 48,
         "recovered": 0
@@ -27214,7 +27340,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 2617,
         "deaths": 20,
         "recovered": 0
@@ -27244,7 +27370,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1273,
         "deaths": 22,
         "recovered": 0
@@ -27274,7 +27400,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 1898,
         "deaths": 17,
         "recovered": 0
@@ -27304,7 +27430,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 2248,
         "deaths": 49,
         "recovered": 0
@@ -27334,7 +27460,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 869,
         "deaths": 10,
         "recovered": 0
@@ -27364,7 +27490,7 @@
         "recovered": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 22612,
         "deaths": 243,
         "recovered": 0
@@ -27394,7 +27520,7 @@
         "recovered": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 2681,
         "deaths": 50,
         "recovered": 0
@@ -27424,7 +27550,7 @@
         "recovered": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 3392,
         "deaths": 55,
         "recovered": 0
@@ -27452,7 +27578,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27479,7 +27605,7 @@
         "tested": 32,
         "growthFactor": 1.4705882352941178
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27506,7 +27632,7 @@
         "tested": 6,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27533,7 +27659,7 @@
         "tested": 5,
         "growthFactor": 2
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27560,7 +27686,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27587,7 +27713,7 @@
         "tested": 1,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27614,7 +27740,7 @@
         "tested": 11,
         "growthFactor": 1.4
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27641,7 +27767,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27668,7 +27794,7 @@
         "tested": 11,
         "growthFactor": 1.6666666666666667
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27695,7 +27821,7 @@
         "tested": 1,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27722,7 +27848,7 @@
         "tested": 1,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27749,7 +27875,7 @@
         "tested": 13,
         "growthFactor": 1.1428571428571428
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27776,7 +27902,7 @@
         "tested": 2,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27803,7 +27929,7 @@
         "tested": 4,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27830,7 +27956,7 @@
         "tested": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27857,7 +27983,7 @@
         "tested": 1,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27884,7 +28010,7 @@
         "tested": 1,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27911,7 +28037,7 @@
         "tested": 6,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27938,7 +28064,7 @@
         "tested": 1,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27965,7 +28091,7 @@
         "tested": 3,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -27992,7 +28118,7 @@
         "tested": 14,
         "growthFactor": 3.3333333333333335
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -28177,7 +28303,7 @@
         "tested": 69,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -29434,7 +29560,7 @@
         "deaths": 0,
         "growthFactor": 1.3333333333333333
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "deaths": 0
       }
@@ -29461,7 +29587,7 @@
         "deaths": 0,
         "growthFactor": 1.3
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "deaths": 0
       }
@@ -29488,7 +29614,7 @@
         "deaths": 0,
         "growthFactor": null
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "deaths": 0
       }
@@ -29513,7 +29639,7 @@
         "cases": 3,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0
       }
     },
@@ -29537,7 +29663,7 @@
         "cases": 7,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0
       }
     },
@@ -29578,7 +29704,7 @@
         "deaths": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "deaths": 0
       }
@@ -29603,7 +29729,7 @@
         "cases": 2,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 115921821023860340
       }
     },
@@ -29644,7 +29770,7 @@
         "deaths": 1,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "deaths": 0
       }
@@ -29671,7 +29797,7 @@
         "deaths": 0,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "deaths": 0
       }
@@ -29713,7 +29839,7 @@
         "deaths": 1,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "deaths": 0
       }
@@ -29755,7 +29881,7 @@
         "deaths": 1,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "deaths": 0
       }
@@ -29782,7 +29908,7 @@
         "deaths": 0,
         "growthFactor": 0.3611111111111111
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "deaths": 0
       }
@@ -29824,7 +29950,7 @@
         "tested": 145,
         "growthFactor": 1
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
@@ -29851,7 +29977,7 @@
         "tested": 0,
         "growthFactor": 0
       },
-      "2020-8-12": {
+      "2020-8-13": {
         "cases": 0,
         "tested": 0
       }
