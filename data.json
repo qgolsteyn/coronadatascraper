@@ -3429,6 +3429,20 @@
   {
     "cases": 0,
     "deaths": 0,
+    "county": "Sacramento County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
+    "coordinates": [
+      -121.444773,
+      38.377659
+    ],
+    "featureId": 217,
+    "population": 1540975
+  },
+  {
+    "cases": 0,
+    "deaths": 0,
     "county": "Fresno County",
     "state": "CA",
     "country": "USA",
@@ -3437,22 +3451,8 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 217,
-    "population": 994400
-  },
-  {
-    "cases": 0,
-    "deaths": 0,
-    "county": "Placer County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.placer.ca.gov/6448/Cases-in-Placer",
-    "coordinates": [
-      -120.7434505,
-      39.0142165
-    ],
     "featureId": 218,
-    "population": 393149
+    "population": 994400
   },
   {
     "cases": 0,
