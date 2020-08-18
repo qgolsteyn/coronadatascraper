@@ -1055,6 +1055,12 @@
         "deaths": 472,
         "recovered": 2838,
         "growthFactor": 1.0014044943820224
+      },
+      "2020-8-18": {
+        "cases": 3565,
+        "deaths": 472,
+        "recovered": 2838,
+        "growthFactor": 1
       }
     },
     "state": "Abruzzo",
@@ -2114,6 +2120,12 @@
         "growthFactor": 0.9979423868312757
       },
       "2020-8-17": {
+        "cases": 485,
+        "deaths": 28,
+        "recovered": 392,
+        "growthFactor": 1
+      },
+      "2020-8-18": {
         "cases": 485,
         "deaths": 28,
         "recovered": 392,
@@ -3181,6 +3193,12 @@
         "deaths": 97,
         "recovered": 1106,
         "growthFactor": 1.002967359050445
+      },
+      "2020-8-18": {
+        "cases": 1352,
+        "deaths": 97,
+        "recovered": 1106,
+        "growthFactor": 1
       }
     },
     "state": "Calabria",
@@ -4244,6 +4262,12 @@
         "deaths": 440,
         "recovered": 4305,
         "growthFactor": 1.006441834028041
+      },
+      "2020-8-18": {
+        "cases": 5312,
+        "deaths": 440,
+        "recovered": 4305,
+        "growthFactor": 1
       }
     },
     "state": "Campania",
@@ -5307,6 +5331,12 @@
         "deaths": 4453,
         "recovered": 24210,
         "growthFactor": 1.0013470889735838
+      },
+      "2020-8-18": {
+        "cases": 30477,
+        "deaths": 4453,
+        "recovered": 24210,
+        "growthFactor": 1
       }
     },
     "state": "Emilia-Romagna",
@@ -6369,6 +6399,12 @@
         "deaths": 348,
         "recovered": 2963,
         "growthFactor": 1.0014257199885943
+      },
+      "2020-8-18": {
+        "cases": 3512,
+        "deaths": 348,
+        "recovered": 2963,
+        "growthFactor": 1
       }
     },
     "state": "Friuli Venezia Giulia",
@@ -7432,6 +7468,12 @@
         "deaths": 870,
         "recovered": 6979,
         "growthFactor": 1.005587816369015
+      },
+      "2020-8-18": {
+        "cases": 9178,
+        "deaths": 870,
+        "recovered": 6979,
+        "growthFactor": 1
       }
     },
     "state": "Lazio",
@@ -8495,6 +8537,12 @@
         "deaths": 1569,
         "recovered": 8610,
         "growthFactor": 1.0015299292407727
+      },
+      "2020-8-18": {
+        "cases": 10474,
+        "deaths": 1569,
+        "recovered": 8610,
+        "growthFactor": 1
       }
     },
     "state": "Liguria",
@@ -9563,6 +9611,12 @@
         "deaths": 16840,
         "recovered": 75248,
         "growthFactor": 1.0004415691107003
+      },
+      "2020-8-18": {
+        "cases": 97423,
+        "deaths": 16840,
+        "recovered": 75248,
+        "growthFactor": 1
       }
     },
     "state": "Lombardia",
@@ -10626,6 +10680,12 @@
         "deaths": 987,
         "recovered": 5861,
         "growthFactor": 1.001137171286425
+      },
+      "2020-8-18": {
+        "cases": 7043,
+        "deaths": 987,
+        "recovered": 5861,
+        "growthFactor": 1
       }
     },
     "state": "Marche",
@@ -11685,6 +11745,12 @@
         "growthFactor": 1
       },
       "2020-8-17": {
+        "cases": 487,
+        "deaths": 23,
+        "recovered": 429,
+        "growthFactor": 1
+      },
+      "2020-8-18": {
         "cases": 487,
         "deaths": 23,
         "recovered": 429,
@@ -12752,6 +12818,12 @@
         "deaths": 292,
         "recovered": 2385,
         "growthFactor": 1.0007137758743754
+      },
+      "2020-8-18": {
+        "cases": 2804,
+        "deaths": 292,
+        "recovered": 2385,
+        "growthFactor": 1
       }
     },
     "state": "P.A. Bolzano",
@@ -13814,6 +13886,12 @@
         "deaths": 405,
         "recovered": 4540,
         "growthFactor": 1.000199880071957
+      },
+      "2020-8-18": {
+        "cases": 5004,
+        "deaths": 405,
+        "recovered": 4540,
+        "growthFactor": 1
       }
     },
     "state": "P.A. Trento",
@@ -14876,6 +14954,12 @@
         "deaths": 4140,
         "recovered": 27086,
         "growthFactor": 1.0004986909362923
+      },
+      "2020-8-18": {
+        "cases": 32100,
+        "deaths": 4140,
+        "recovered": 27086,
+        "growthFactor": 1
       }
     },
     "state": "Piemonte",
@@ -15939,6 +16023,12 @@
         "deaths": 555,
         "recovered": 3982,
         "growthFactor": 1.0008233841086867
+      },
+      "2020-8-18": {
+        "cases": 4862,
+        "deaths": 555,
+        "recovered": 3982,
+        "growthFactor": 1
       }
     },
     "state": "Puglia",
@@ -17002,6 +17092,12 @@
         "deaths": 134,
         "recovered": 1256,
         "growthFactor": 1.0046885465505693
+      },
+      "2020-8-18": {
+        "cases": 1500,
+        "deaths": 134,
+        "recovered": 1256,
+        "growthFactor": 1
       }
     },
     "state": "Sardegna",
@@ -18065,6 +18161,12 @@
         "deaths": 286,
         "recovered": 2776,
         "growthFactor": 1.003717472118959
+      },
+      "2020-8-18": {
+        "cases": 3780,
+        "deaths": 286,
+        "recovered": 2776,
+        "growthFactor": 1
       }
     },
     "state": "Sicilia",
@@ -19128,6 +19230,12 @@
         "deaths": 1139,
         "recovered": 9028,
         "growthFactor": 1.0019385211852672
+      },
+      "2020-8-18": {
+        "cases": 10854,
+        "deaths": 1139,
+        "recovered": 9028,
+        "growthFactor": 1
       }
     },
     "state": "Toscana",
@@ -20191,6 +20299,12 @@
         "deaths": 80,
         "recovered": 1384,
         "growthFactor": 1.0006459948320414
+      },
+      "2020-8-18": {
+        "cases": 1549,
+        "deaths": 80,
+        "recovered": 1384,
+        "growthFactor": 1
       }
     },
     "state": "Umbria",
@@ -21254,6 +21368,12 @@
         "deaths": 146,
         "recovered": 1064,
         "growthFactor": 1.000821692686935
+      },
+      "2020-8-18": {
+        "cases": 1218,
+        "deaths": 146,
+        "recovered": 1064,
+        "growthFactor": 1
       }
     },
     "state": "Valle d'Aosta",
@@ -22317,6 +22437,12 @@
         "deaths": 2096,
         "recovered": 17526,
         "growthFactor": 1.0021687883074022
+      },
+      "2020-8-18": {
+        "cases": 21256,
+        "deaths": 2096,
+        "recovered": 17526,
+        "growthFactor": 1
       }
     },
     "state": "Veneto",
@@ -22341,6 +22467,12 @@
         "cases": 13,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 13,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "DeKalb County",
@@ -22371,6 +22503,12 @@
         "cases": 166,
         "deaths": 18,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 166,
+        "deaths": 18,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Boone County",
@@ -22401,6 +22539,12 @@
         "cases": 59,
         "deaths": 2,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 59,
+        "deaths": 2,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Tippecanoe County",
@@ -22431,6 +22575,12 @@
         "cases": 456,
         "deaths": 40,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 456,
+        "deaths": 40,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Johnson County",
@@ -22461,6 +22611,12 @@
         "cases": 185,
         "deaths": 3,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 185,
+        "deaths": 3,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Elkhart County",
@@ -22491,6 +22647,12 @@
         "cases": 7,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 7,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Adams County",
@@ -22521,6 +22683,12 @@
         "cases": 45,
         "deaths": 4,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 45,
+        "deaths": 4,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Noble County",
@@ -22551,6 +22719,12 @@
         "cases": 351,
         "deaths": 34,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 351,
+        "deaths": 34,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Madison County",
@@ -22581,6 +22755,12 @@
         "cases": 454,
         "deaths": 10,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 454,
+        "deaths": 10,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "St Joseph County",
@@ -22610,6 +22790,12 @@
         "cases": 97,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 97,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Jackson County",
@@ -22640,6 +22826,12 @@
         "cases": 96,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 96,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Vander. County",
@@ -22664,6 +22856,12 @@
         "cases": 101,
         "deaths": 4,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 101,
+        "deaths": 4,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Grant County",
@@ -22694,6 +22892,12 @@
         "cases": 193,
         "deaths": 5,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 193,
+        "deaths": 5,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Porter County",
@@ -22724,6 +22928,12 @@
         "cases": 4263,
         "deaths": 214,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 4263,
+        "deaths": 214,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Marion County",
@@ -22754,6 +22964,12 @@
         "cases": 624,
         "deaths": 41,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 624,
+        "deaths": 41,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Hamilton County",
@@ -22784,6 +23000,12 @@
         "cases": 1292,
         "deaths": 57,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 1292,
+        "deaths": 57,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Lake County",
@@ -22814,6 +23036,12 @@
         "cases": 124,
         "deaths": 4,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 124,
+        "deaths": 4,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Morgan County",
@@ -22844,6 +23072,12 @@
         "cases": 518,
         "deaths": 20,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 518,
+        "deaths": 20,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Hendricks County",
@@ -22874,6 +23108,12 @@
         "cases": 144,
         "deaths": 5,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 144,
+        "deaths": 5,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "LaPorte County",
@@ -22904,6 +23144,12 @@
         "cases": 149,
         "deaths": 9,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 149,
+        "deaths": 9,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Floyd County",
@@ -22934,6 +23180,12 @@
         "cases": 125,
         "deaths": 6,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 125,
+        "deaths": 6,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Shelby County",
@@ -22964,6 +23216,12 @@
         "cases": 343,
         "deaths": 22,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 343,
+        "deaths": 22,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Allen County",
@@ -22994,6 +23252,12 @@
         "cases": 14,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 14,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Tipton County",
@@ -23024,6 +23288,12 @@
         "cases": 21,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 21,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Rush County",
@@ -23054,6 +23324,12 @@
         "cases": 38,
         "deaths": 4,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 38,
+        "deaths": 4,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Orange County",
@@ -23084,6 +23360,12 @@
         "cases": 13,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 13,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Crawford County",
@@ -23114,6 +23396,12 @@
         "cases": 22,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 22,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Owen County",
@@ -23144,6 +23432,12 @@
         "cases": 8,
         "deaths": 2,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 8,
+        "deaths": 2,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Fountain County",
@@ -23174,6 +23468,12 @@
         "cases": 178,
         "deaths": 21,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 178,
+        "deaths": 21,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Decatur County",
@@ -23204,6 +23504,12 @@
         "cases": 6,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 6,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Fulton County",
@@ -23234,6 +23540,12 @@
         "cases": 18,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 18,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "LaGrange County",
@@ -23264,6 +23576,12 @@
         "cases": 18,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 18,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Knox County",
@@ -23294,6 +23612,12 @@
         "cases": 118,
         "deaths": 5,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 118,
+        "deaths": 5,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Monroe County",
@@ -23324,6 +23648,12 @@
         "cases": 138,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 138,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Cass County",
@@ -23354,6 +23684,12 @@
         "cases": 12,
         "deaths": 2,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 12,
+        "deaths": 2,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Randolph County",
@@ -23384,6 +23720,12 @@
         "cases": 6,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 6,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Martin County",
@@ -23414,6 +23756,12 @@
         "cases": 31,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 31,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Washington County",
@@ -23444,6 +23792,12 @@
         "cases": 9,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 9,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Parke County",
@@ -23474,6 +23828,12 @@
         "cases": 23,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 23,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Kosciusko County",
@@ -23504,6 +23864,12 @@
         "cases": 30,
         "deaths": 2,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 30,
+        "deaths": 2,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Wayne County",
@@ -23534,6 +23900,12 @@
         "cases": 27,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 27,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Montgomery County",
@@ -23564,6 +23936,12 @@
         "cases": 151,
         "deaths": 7,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 151,
+        "deaths": 7,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Hancock County",
@@ -23594,6 +23972,12 @@
         "cases": 60,
         "deaths": 5,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 60,
+        "deaths": 5,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Vigo County",
@@ -23624,6 +24008,12 @@
         "cases": 21,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 21,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Jefferson County",
@@ -23654,6 +24044,12 @@
         "cases": 6,
         "deaths": 2,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 6,
+        "deaths": 2,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Huntington County",
@@ -23684,6 +24080,12 @@
         "cases": 105,
         "deaths": 3,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 105,
+        "deaths": 3,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Harrison County",
@@ -23714,6 +24116,12 @@
         "cases": 10,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 10,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Wabash County",
@@ -23744,6 +24152,12 @@
         "cases": 121,
         "deaths": 9,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 121,
+        "deaths": 9,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Delaware County",
@@ -23774,6 +24188,12 @@
         "cases": 8,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 8,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Posey County",
@@ -23804,6 +24224,12 @@
         "cases": 5,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 5,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Spencer County",
@@ -23834,6 +24260,12 @@
         "cases": 2,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 2,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Ohio County",
@@ -23864,6 +24296,12 @@
         "cases": 7,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 7,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Carroll County",
@@ -23894,6 +24332,12 @@
         "cases": 7,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 7,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Warren County",
@@ -23924,6 +24368,12 @@
         "cases": 91,
         "deaths": 7,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 91,
+        "deaths": 7,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Franklin County",
@@ -23954,6 +24404,12 @@
         "cases": 1,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 1,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Pulaski County",
@@ -23984,6 +24440,12 @@
         "cases": 9,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 9,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Jay County",
@@ -24014,6 +24476,12 @@
         "cases": 6,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 6,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Wells County",
@@ -24044,6 +24512,12 @@
         "cases": 26,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 26,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Marshall County",
@@ -24074,6 +24548,12 @@
         "cases": 10,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 10,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Sullivan County",
@@ -24104,6 +24584,12 @@
         "cases": 14,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 14,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Brown County",
@@ -24134,6 +24620,12 @@
         "cases": 86,
         "deaths": 3,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 86,
+        "deaths": 3,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Ripley County",
@@ -24164,6 +24656,12 @@
         "cases": 29,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 29,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Henry County",
@@ -24194,6 +24692,12 @@
         "cases": 75,
         "deaths": 4,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 75,
+        "deaths": 4,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Howard County",
@@ -24224,6 +24728,12 @@
         "cases": 16,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 16,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Whitley County",
@@ -24254,6 +24764,12 @@
         "cases": 72,
         "deaths": 5,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 72,
+        "deaths": 5,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Dearborn County",
@@ -24284,6 +24800,12 @@
         "cases": 6,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 6,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Blackford County",
@@ -24314,6 +24836,12 @@
         "cases": 27,
         "deaths": 2,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 27,
+        "deaths": 2,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Scott County",
@@ -24344,6 +24872,12 @@
         "cases": 146,
         "deaths": 7,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 146,
+        "deaths": 7,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Bartholomew County",
@@ -24374,6 +24908,12 @@
         "cases": 24,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 24,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Jasper County",
@@ -24404,6 +24944,12 @@
         "cases": 6,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 6,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Union County",
@@ -24434,6 +24980,12 @@
         "cases": 7,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 7,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Verm. County",
@@ -24458,6 +25010,12 @@
         "cases": 4,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 4,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Benton County",
@@ -24488,6 +25046,12 @@
         "cases": 19,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 19,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Clay County",
@@ -24518,6 +25082,12 @@
         "cases": 83,
         "deaths": 9,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 83,
+        "deaths": 9,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Lawrence County",
@@ -24548,6 +25118,12 @@
         "cases": 188,
         "deaths": 11,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 188,
+        "deaths": 11,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Clark County",
@@ -24578,6 +25154,12 @@
         "cases": 27,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 27,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Miami County",
@@ -24608,6 +25190,12 @@
         "cases": 22,
         "deaths": 4,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 22,
+        "deaths": 4,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Fayette County",
@@ -24638,6 +25226,12 @@
         "cases": 38,
         "deaths": 4,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 38,
+        "deaths": 4,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Newton County",
@@ -24668,6 +25262,12 @@
         "cases": 6,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 6,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Perry County",
@@ -24698,6 +25298,12 @@
         "cases": 53,
         "deaths": 4,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 53,
+        "deaths": 4,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Putnam County",
@@ -24728,6 +25334,12 @@
         "cases": 11,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 11,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Starke County",
@@ -24758,6 +25370,12 @@
         "cases": 44,
         "deaths": 4,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 44,
+        "deaths": 4,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Greene County",
@@ -24788,6 +25406,12 @@
         "cases": 1,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 1,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Pike County",
@@ -24818,6 +25442,12 @@
         "cases": 68,
         "deaths": 8,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 68,
+        "deaths": 8,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Warrick County",
@@ -24848,6 +25478,12 @@
         "cases": 38,
         "deaths": 6,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 38,
+        "deaths": 6,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Daviess County",
@@ -24878,6 +25514,12 @@
         "cases": 16,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 16,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Dubois County",
@@ -24908,6 +25550,12 @@
         "cases": 20,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 20,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Clinton County",
@@ -24938,6 +25586,12 @@
         "cases": 11,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 11,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "White County",
@@ -24968,6 +25622,12 @@
         "cases": 13,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 13,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Switzerland County",
@@ -24998,6 +25658,12 @@
         "cases": 18,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 18,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Steuben County",
@@ -25028,6 +25694,12 @@
         "cases": 5,
         "deaths": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 5,
+        "deaths": 0,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Gibson County",
@@ -25058,6 +25730,12 @@
         "cases": 64,
         "deaths": 1,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 64,
+        "deaths": 1,
+        "tested": 0,
+        "growthFactor": 1
       }
     },
     "county": "Jennings County",
@@ -25088,6 +25766,12 @@
         "cases": 594,
         "deaths": 6,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 594,
+        "deaths": 6,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Rockingham County",
@@ -25118,6 +25802,12 @@
         "cases": 5974,
         "deaths": 158,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 5974,
+        "deaths": 158,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Guilford County",
@@ -25148,6 +25838,12 @@
         "cases": 2653,
         "deaths": 42,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 2653,
+        "deaths": 42,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Alamance County",
@@ -25178,6 +25874,12 @@
         "cases": 342,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 342,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Alexander County",
@@ -25208,6 +25910,12 @@
         "cases": 2256,
         "deaths": 39,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 2256,
+        "deaths": 39,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Randolph County",
@@ -25238,6 +25946,12 @@
         "cases": 2532,
         "deaths": 42,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 2532,
+        "deaths": 42,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Wayne County",
@@ -25268,6 +25982,12 @@
         "cases": 174,
         "deaths": 1,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 174,
+        "deaths": 1,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Ashe County",
@@ -25298,6 +26018,12 @@
         "cases": 180,
         "deaths": 0,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 180,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Alleghany County",
@@ -25328,6 +26054,12 @@
         "cases": 83,
         "deaths": 0,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 83,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Currituck County",
@@ -25358,6 +26090,12 @@
         "cases": 78,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 78,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Camden County",
@@ -25388,6 +26126,12 @@
         "cases": 1007,
         "deaths": 10,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1007,
+        "deaths": 10,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Surry County",
@@ -25418,6 +26162,12 @@
         "cases": 57,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 57,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Gates County",
@@ -25448,6 +26198,12 @@
         "cases": 404,
         "deaths": 11,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 404,
+        "deaths": 11,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Hertford County",
@@ -25478,6 +26234,12 @@
         "cases": 319,
         "deaths": 16,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 319,
+        "deaths": 16,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Northampton County",
@@ -25508,6 +26270,12 @@
         "cases": 303,
         "deaths": 3,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 303,
+        "deaths": 3,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Stokes County",
@@ -25538,6 +26306,12 @@
         "cases": 271,
         "deaths": 6,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 271,
+        "deaths": 6,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Warren County",
@@ -25568,6 +26342,12 @@
         "cases": 820,
         "deaths": 41,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 820,
+        "deaths": 41,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Vance County",
@@ -25598,6 +26378,12 @@
         "cases": 1360,
         "deaths": 29,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1360,
+        "deaths": 29,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Granville County",
@@ -25628,6 +26414,12 @@
         "cases": 203,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 203,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Caswell County",
@@ -25658,6 +26450,12 @@
         "cases": 247,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 247,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Person County",
@@ -25688,6 +26486,12 @@
         "cases": 456,
         "deaths": 20,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 456,
+        "deaths": 20,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Pasquotank County",
@@ -25718,6 +26522,12 @@
         "cases": 755,
         "deaths": 8,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 755,
+        "deaths": 8,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Halifax County",
@@ -25748,6 +26558,12 @@
         "cases": 914,
         "deaths": 18,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 914,
+        "deaths": 18,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Wilkes County",
@@ -25778,6 +26594,12 @@
         "cases": 344,
         "deaths": 0,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 344,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Watauga County",
@@ -25808,6 +26630,12 @@
         "cases": 93,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 93,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Perquimans County",
@@ -25838,6 +26666,12 @@
         "cases": 167,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 167,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Chowan County",
@@ -25868,6 +26702,12 @@
         "cases": 108,
         "deaths": 0,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 108,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Avery County",
@@ -25898,6 +26738,12 @@
         "cases": 565,
         "deaths": 6,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 565,
+        "deaths": 6,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Yadkin County",
@@ -25928,6 +26774,12 @@
         "cases": 215,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 215,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Dare County",
@@ -25958,6 +26810,12 @@
         "cases": 5561,
         "deaths": 56,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 5561,
+        "deaths": 56,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Forsyth County",
@@ -25988,6 +26846,12 @@
         "cases": 932,
         "deaths": 26,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 932,
+        "deaths": 26,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Franklin County",
@@ -26018,6 +26882,12 @@
         "cases": 323,
         "deaths": 5,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 323,
+        "deaths": 5,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Bertie County",
@@ -26048,6 +26918,12 @@
         "cases": 1475,
         "deaths": 48,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1475,
+        "deaths": 48,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Orange County",
@@ -26078,6 +26954,12 @@
         "cases": 6428,
         "deaths": 79,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 6428,
+        "deaths": 79,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Durham County",
@@ -26108,6 +26990,12 @@
         "cases": 1335,
         "deaths": 14,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1335,
+        "deaths": 14,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Nash County",
@@ -26138,6 +27026,12 @@
         "cases": 80,
         "deaths": 3,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 80,
+        "deaths": 3,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Mitchell County",
@@ -26168,6 +27062,12 @@
         "cases": 745,
         "deaths": 13,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 745,
+        "deaths": 13,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Edgecombe County",
@@ -26198,6 +27098,12 @@
         "cases": 1283,
         "deaths": 13,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1283,
+        "deaths": 13,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Caldwell County",
@@ -26228,6 +27134,12 @@
         "cases": 103,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 103,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Tyrrell County",
@@ -26258,6 +27170,12 @@
         "cases": 80,
         "deaths": 0,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 80,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Yancey County",
@@ -26288,6 +27206,12 @@
         "cases": 49,
         "deaths": 1,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 49,
+        "deaths": 1,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Madison County",
@@ -26318,6 +27242,12 @@
         "cases": 285,
         "deaths": 6,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 285,
+        "deaths": 6,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Martin County",
@@ -26348,6 +27278,12 @@
         "cases": 12754,
         "deaths": 183,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 12754,
+        "deaths": 183,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Wake County",
@@ -26378,6 +27314,12 @@
         "cases": 439,
         "deaths": 5,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 439,
+        "deaths": 5,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Davie County",
@@ -26408,6 +27350,12 @@
         "cases": 144,
         "deaths": 4,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 144,
+        "deaths": 4,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Washington County",
@@ -26438,6 +27386,12 @@
         "cases": 1716,
         "deaths": 27,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1716,
+        "deaths": 27,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Burke County",
@@ -26468,6 +27422,12 @@
         "cases": 1886,
         "deaths": 23,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1886,
+        "deaths": 23,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Davidson County",
@@ -26498,6 +27458,12 @@
         "cases": 714,
         "deaths": 20,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 714,
+        "deaths": 20,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "McDowell County",
@@ -26528,6 +27494,12 @@
         "cases": 1363,
         "deaths": 55,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1363,
+        "deaths": 55,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Chatham County",
@@ -26558,6 +27530,12 @@
         "cases": 1563,
         "deaths": 36,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1563,
+        "deaths": 36,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Wilson County",
@@ -26588,6 +27566,12 @@
         "cases": 2092,
         "deaths": 54,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 2092,
+        "deaths": 54,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Buncombe County",
@@ -26618,6 +27602,12 @@
         "cases": 463,
         "deaths": 24,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 463,
+        "deaths": 24,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Haywood County",
@@ -26648,6 +27638,12 @@
         "cases": 2266,
         "deaths": 33,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 2266,
+        "deaths": 33,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Catawba County",
@@ -26678,6 +27674,12 @@
         "cases": 2308,
         "deaths": 14,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 2308,
+        "deaths": 14,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Pitt County",
@@ -26708,6 +27710,12 @@
         "cases": 3444,
         "deaths": 45,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 3444,
+        "deaths": 45,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Johnston County",
@@ -26738,6 +27746,12 @@
         "cases": 121,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 121,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Swain County",
@@ -26768,6 +27782,12 @@
         "cases": 460,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 460,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Beaufort County",
@@ -26798,6 +27818,12 @@
         "cases": 58,
         "deaths": 0,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 58,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Hyde County",
@@ -26828,6 +27854,12 @@
         "cases": 343,
         "deaths": 3,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 343,
+        "deaths": 3,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Greene County",
@@ -26858,6 +27890,12 @@
         "cases": 837,
         "deaths": 14,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 837,
+        "deaths": 14,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Rutherford County",
@@ -26888,6 +27926,12 @@
         "cases": 1339,
         "deaths": 11,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1339,
+        "deaths": 11,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Lee County",
@@ -26918,6 +27962,12 @@
         "cases": 1332,
         "deaths": 24,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1332,
+        "deaths": 24,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Cleveland County",
@@ -26948,6 +27998,12 @@
         "cases": 460,
         "deaths": 7,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 460,
+        "deaths": 7,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Jackson County",
@@ -26978,6 +28034,12 @@
         "cases": 1414,
         "deaths": 40,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1414,
+        "deaths": 40,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Harnett County",
@@ -27008,6 +28070,12 @@
         "cases": 49,
         "deaths": 0,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 49,
+        "deaths": 0,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Graham County",
@@ -27038,6 +28106,12 @@
         "cases": 1568,
         "deaths": 56,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1568,
+        "deaths": 56,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Henderson County",
@@ -27068,6 +28142,12 @@
         "cases": 1105,
         "deaths": 20,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1105,
+        "deaths": 20,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Moore County",
@@ -27098,6 +28178,12 @@
         "cases": 714,
         "deaths": 16,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 714,
+        "deaths": 16,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Montgomery County",
@@ -27128,6 +28214,12 @@
         "cases": 1237,
         "deaths": 31,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1237,
+        "deaths": 31,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Stanly County",
@@ -27158,6 +28250,12 @@
         "cases": 161,
         "deaths": 1,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 161,
+        "deaths": 1,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Transylvania County",
@@ -27188,6 +28286,12 @@
         "cases": 182,
         "deaths": 6,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 182,
+        "deaths": 6,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Polk County",
@@ -27218,6 +28322,12 @@
         "cases": 646,
         "deaths": 11,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 646,
+        "deaths": 11,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Lenoir County",
@@ -27248,6 +28358,12 @@
         "cases": 785,
         "deaths": 18,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 785,
+        "deaths": 18,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Craven County",
@@ -27278,6 +28394,12 @@
         "cases": 480,
         "deaths": 2,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 480,
+        "deaths": 2,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Macon County",
@@ -27308,6 +28430,12 @@
         "cases": 294,
         "deaths": 4,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 294,
+        "deaths": 4,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Cherokee County",
@@ -27338,6 +28466,12 @@
         "cases": 74,
         "deaths": 1,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 74,
+        "deaths": 1,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Pamlico County",
@@ -27368,6 +28502,12 @@
         "cases": 1518,
         "deaths": 19,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1518,
+        "deaths": 19,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Sampson County",
@@ -27398,6 +28538,12 @@
         "cases": 3434,
         "deaths": 56,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 3434,
+        "deaths": 56,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Cumberland County",
@@ -27428,6 +28574,12 @@
         "cases": 76,
         "deaths": 1,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 76,
+        "deaths": 1,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Clay County",
@@ -27458,6 +28610,12 @@
         "cases": 114,
         "deaths": 4,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 114,
+        "deaths": 4,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Jones County",
@@ -27488,6 +28646,12 @@
         "cases": 381,
         "deaths": 5,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 381,
+        "deaths": 5,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Carteret County",
@@ -27518,6 +28682,12 @@
         "cases": 3384,
         "deaths": 44,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 3384,
+        "deaths": 44,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Union County",
@@ -27548,6 +28718,12 @@
         "cases": 377,
         "deaths": 3,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 377,
+        "deaths": 3,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Anson County",
@@ -27578,6 +28754,12 @@
         "cases": 782,
         "deaths": 11,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 782,
+        "deaths": 11,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Hoke County",
@@ -27608,6 +28790,12 @@
         "cases": 2025,
         "deaths": 49,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 2025,
+        "deaths": 49,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Duplin County",
@@ -27638,6 +28826,12 @@
         "cases": 569,
         "deaths": 9,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 569,
+        "deaths": 9,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Richmond County",
@@ -27668,6 +28862,12 @@
         "cases": 436,
         "deaths": 5,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 436,
+        "deaths": 5,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Scotland County",
@@ -27698,6 +28898,12 @@
         "cases": 1208,
         "deaths": 12,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1208,
+        "deaths": 12,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Onslow County",
@@ -27728,6 +28934,12 @@
         "cases": 3039,
         "deaths": 56,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 3039,
+        "deaths": 56,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Robeson County",
@@ -27758,6 +28970,12 @@
         "cases": 653,
         "deaths": 7,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 653,
+        "deaths": 7,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Bladen County",
@@ -27788,6 +29006,12 @@
         "cases": 696,
         "deaths": 3,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 696,
+        "deaths": 3,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Pender County",
@@ -27818,6 +29042,12 @@
         "cases": 973,
         "deaths": 48,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 973,
+        "deaths": 48,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Columbus County",
@@ -27848,6 +29078,12 @@
         "cases": 2710,
         "deaths": 21,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 2710,
+        "deaths": 21,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "New Hanover County",
@@ -27878,6 +29114,12 @@
         "cases": 1312,
         "deaths": 22,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 1312,
+        "deaths": 22,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Brunswick County",
@@ -27908,6 +29150,12 @@
         "cases": 2013,
         "deaths": 17,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 2013,
+        "deaths": 17,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Iredell County",
@@ -27938,6 +29186,12 @@
         "cases": 2367,
         "deaths": 51,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 2367,
+        "deaths": 51,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Rowan County",
@@ -27968,6 +29222,12 @@
         "cases": 933,
         "deaths": 10,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 933,
+        "deaths": 10,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Lincoln County",
@@ -27998,6 +29258,12 @@
         "cases": 23164,
         "deaths": 258,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 23164,
+        "deaths": 258,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Mecklenburg County",
@@ -28028,6 +29294,12 @@
         "cases": 2809,
         "deaths": 50,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 2809,
+        "deaths": 50,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Cabarrus County",
@@ -28058,6 +29330,12 @@
         "cases": 3579,
         "deaths": 57,
         "recovered": 0
+      },
+      "2020-8-18": {
+        "cases": 3579,
+        "deaths": 57,
+        "recovered": 0,
+        "growthFactor": 1
       }
     },
     "county": "Gaston County",
@@ -28085,6 +29363,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Atlantic County",
@@ -28112,6 +29395,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Bergen County",
@@ -28139,6 +29427,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Burlington County",
@@ -28166,6 +29459,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Camden County",
@@ -28193,6 +29491,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Cape May County",
@@ -28220,6 +29523,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Cumberland County",
@@ -28247,6 +29555,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Essex County",
@@ -28274,6 +29587,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Gloucester County",
@@ -28301,6 +29619,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Hudson County",
@@ -28328,6 +29651,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Hunterdon County",
@@ -28355,6 +29683,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Mercer County",
@@ -28382,6 +29715,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Monmouth County",
@@ -28409,6 +29747,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Ocean County",
@@ -28436,6 +29779,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Passaic County",
@@ -28463,6 +29811,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Salem County",
@@ -28490,6 +29843,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Somerset County",
@@ -28517,6 +29875,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Sussex County",
@@ -28544,6 +29907,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Union County",
@@ -28571,6 +29939,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Warren County",
@@ -28598,6 +29971,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Morris County",
@@ -28625,6 +30003,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "county": "Middlesex County",
@@ -28810,6 +30193,11 @@
       "2020-8-17": {
         "cases": 0,
         "tested": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "tested": 0,
+        "growthFactor": null
       }
     },
     "state": "DC",
@@ -30067,6 +31455,11 @@
       "2020-8-17": {
         "cases": 0,
         "deaths": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "deaths": 0,
+        "growthFactor": null
       }
     },
     "county": "San Francisco County",
@@ -30094,6 +31487,11 @@
       "2020-8-17": {
         "cases": 0,
         "deaths": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "deaths": 0,
+        "growthFactor": null
       }
     },
     "county": "San Mateo County",
@@ -30126,13 +31524,7 @@
     "county": "Alameda County",
     "state": "CA",
     "country": "USA",
-    "url": "http://www.acphd.org/2019-ncov.aspx",
-    "coordinates": [
-      -121.9024445,
-      37.6801065
-    ],
-    "featureId": 214,
-    "population": 1666753
+    "url": "http://www.acphd.org/2019-ncov.aspx"
   },
   "Sonoma County, CA, USA": {
     "dates": {
@@ -30150,13 +31542,7 @@
     "county": "Sonoma County",
     "state": "CA",
     "country": "USA",
-    "url": "https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/",
-    "coordinates": [
-      -122.946388,
-      38.4810965
-    ],
-    "featureId": 215,
-    "population": 499942
+    "url": "https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/"
   },
   "Santa Cruz County, CA, USA": {
     "dates": {
@@ -30169,6 +31555,10 @@
       },
       "2020-8-17": {
         "cases": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "growthFactor": null
       }
     },
     "county": "Santa Cruz County",
@@ -30179,7 +31569,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 216,
+    "featureId": 214,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -30211,6 +31601,11 @@
       "2020-8-17": {
         "cases": 0,
         "deaths": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "deaths": 0,
+        "growthFactor": null
       }
     },
     "county": "Contra Costa County",
@@ -30221,7 +31616,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 217,
+    "featureId": 215,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -30235,6 +31630,10 @@
       },
       "2020-8-17": {
         "cases": 126682001134264600
+      },
+      "2020-8-18": {
+        "cases": 126682001134264600,
+        "growthFactor": 1
       }
     },
     "county": "Stanislaus County",
@@ -30245,7 +31644,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 218,
+    "featureId": 216,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -30277,6 +31676,11 @@
       "2020-8-17": {
         "cases": 0,
         "deaths": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "deaths": 0,
+        "growthFactor": null
       }
     },
     "county": "Sacramento County",
@@ -30287,7 +31691,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 219,
+    "featureId": 217,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -30304,6 +31708,11 @@
       "2020-8-17": {
         "cases": 0,
         "deaths": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "deaths": 0,
+        "growthFactor": null
       }
     },
     "county": "Fresno County",
@@ -30314,7 +31723,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 220,
+    "featureId": 218,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -30346,6 +31755,11 @@
       "2020-8-17": {
         "cases": 0,
         "deaths": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "deaths": 0,
+        "growthFactor": null
       }
     },
     "county": "Placer County",
@@ -30356,7 +31770,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 221,
+    "featureId": 219,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -30388,6 +31802,11 @@
       "2020-8-17": {
         "cases": 0,
         "deaths": 0
+      },
+      "2020-8-18": {
+        "cases": 0,
+        "deaths": 0,
+        "growthFactor": null
       }
     },
     "county": "Los Angeles County",
@@ -30398,7 +31817,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 222,
+    "featureId": 220,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -30412,7 +31831,7 @@
         "deaths": 0,
         "growthFactor": 0.3611111111111111
       },
-      "2020-8-17": {
+      "2020-8-18": {
         "cases": 0,
         "deaths": 0
       }
@@ -30425,7 +31844,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 223,
+    "featureId": 221,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -30454,7 +31873,7 @@
         "tested": 145,
         "growthFactor": 1
       },
-      "2020-8-17": {
+      "2020-8-18": {
         "cases": 0,
         "tested": 0
       }
@@ -30467,7 +31886,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 224,
+    "featureId": 222,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -30481,7 +31900,7 @@
         "tested": 0,
         "growthFactor": 0
       },
-      "2020-8-17": {
+      "2020-8-18": {
         "cases": 0,
         "tested": 0
       }
@@ -30494,7 +31913,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 225,
+    "featureId": 223,
     "population": 850967
   },
   "AL, USA": {
