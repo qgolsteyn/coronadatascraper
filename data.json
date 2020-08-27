@@ -3161,6 +3161,197 @@
     "population": 829685
   },
   {
+    "recovered": 2852,
+    "deaths": 472,
+    "cases": 3705,
+    "state": "Abruzzo",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 1311580
+  },
+  {
+    "recovered": 406,
+    "deaths": 28,
+    "cases": 514,
+    "state": "Basilicata",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 562869
+  },
+  {
+    "recovered": 1146,
+    "deaths": 97,
+    "cases": 1422,
+    "state": "Calabria",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 1947131
+  },
+  {
+    "recovered": 4373,
+    "deaths": 445,
+    "cases": 6241,
+    "state": "Campania",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 5801692
+  },
+  {
+    "recovered": 24460,
+    "deaths": 4458,
+    "cases": 31385,
+    "state": "Emilia-Romagna",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+  },
+  {
+    "recovered": 3026,
+    "deaths": 348,
+    "cases": 3709,
+    "state": "Friuli Venezia Giulia",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 1215220
+  },
+  {
+    "recovered": 7118,
+    "deaths": 877,
+    "cases": 10550,
+    "state": "Lazio",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 5879082
+  },
+  {
+    "recovered": 8732,
+    "deaths": 1571,
+    "cases": 10761,
+    "state": "Liguria",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "coordinates": [
+      9.063233530652923,
+      44.448917926372275
+    ],
+    "featureId": 211,
+    "population": 1550640
+  },
+  {
+    "recovered": 76018,
+    "deaths": 16857,
+    "cases": 99100,
+    "state": "Lombardia",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 10060574
+  },
+  {
+    "recovered": 5924,
+    "deaths": 987,
+    "cases": 7194,
+    "state": "Marche",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 1525271
+  },
+  {
+    "recovered": 432,
+    "deaths": 23,
+    "cases": 521,
+    "state": "Molise",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 305617
+  },
+  {
+    "recovered": 2430,
+    "deaths": 292,
+    "cases": 2907,
+    "state": "P.A. Bolzano",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+  },
+  {
+    "recovered": 4588,
+    "deaths": 405,
+    "cases": 5054,
+    "state": "P.A. Trento",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv"
+  },
+  {
+    "recovered": 27178,
+    "deaths": 4144,
+    "cases": 32603,
+    "state": "Piemonte",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 4356406
+  },
+  {
+    "recovered": 4024,
+    "deaths": 556,
+    "cases": 5217,
+    "state": "Puglia",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 4029053
+  },
+  {
+    "recovered": 1265,
+    "deaths": 134,
+    "cases": 1967,
+    "state": "Sardegna",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 1639591
+  },
+  {
+    "recovered": 2869,
+    "deaths": 286,
+    "cases": 4174,
+    "state": "Sicilia",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 4999891
+  },
+  {
+    "recovered": 9100,
+    "deaths": 1140,
+    "cases": 11513,
+    "state": "Toscana",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 3729641
+  },
+  {
+    "recovered": 1417,
+    "deaths": 80,
+    "cases": 1719,
+    "state": "Umbria",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 882015
+  },
+  {
+    "recovered": 1065,
+    "deaths": 146,
+    "cases": 1224,
+    "state": "Valle d'Aosta",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 125666
+  },
+  {
+    "recovered": 18131,
+    "deaths": 2117,
+    "cases": 22469,
+    "state": "Veneto",
+    "country": "ITA",
+    "url": "https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv",
+    "population": 4905854
+  },
+  {
     "cases": 0,
     "tested": 0,
     "state": "DC",
@@ -3178,7 +3369,7 @@
       -122.4356335,
       37.7901875
     ],
-    "featureId": 211,
+    "featureId": 212,
     "population": 883305
   },
   {
@@ -3192,7 +3383,7 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 212,
+    "featureId": 213,
     "population": 769545
   },
   {
@@ -3205,7 +3396,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 213,
+    "featureId": 214,
     "population": 274255
   },
   {
@@ -3219,7 +3410,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 214,
+    "featureId": 215,
     "population": 1150215
   },
   {
@@ -3232,8 +3423,22 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 215,
+    "featureId": 216,
     "population": 549815
+  },
+  {
+    "cases": 0,
+    "deaths": 0,
+    "county": "Sacramento County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
+    "coordinates": [
+      -121.444773,
+      38.377659
+    ],
+    "featureId": 217,
+    "population": 1540975
   },
   {
     "cases": 0,
@@ -3246,7 +3451,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 216,
+    "featureId": 218,
     "population": 994400
   },
   {
@@ -3260,7 +3465,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 217,
+    "featureId": 219,
     "population": 393149
   },
   {
@@ -3274,7 +3479,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 218,
+    "featureId": 220,
     "population": 10105518
   },
   {
@@ -3288,7 +3493,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 219,
+    "featureId": 221,
     "population": 3343364
   }
 ]
