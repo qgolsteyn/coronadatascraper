@@ -3470,6 +3470,20 @@
   },
   {
     "cases": 0,
+    "deaths": 0,
+    "county": "Los Angeles County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
+    "coordinates": [
+      -118.29563049999999,
+      33.8115605
+    ],
+    "featureId": 220,
+    "population": 10105518
+  },
+  {
+    "cases": 0,
     "tested": 0,
     "county": "San Diego County",
     "state": "CA",
@@ -3479,7 +3493,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 220,
+    "featureId": 221,
     "population": 3343364
   }
 ]
