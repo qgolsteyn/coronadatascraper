@@ -3456,16 +3456,16 @@
   },
   {
     "cases": 0,
-    "deaths": 0,
-    "county": "Los Angeles County",
+    "tested": 0,
+    "county": "San Diego County",
     "state": "CA",
     "country": "USA",
-    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
+    "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html",
     "coordinates": [
-      -118.29563049999999,
-      33.8115605
+      -116.83848499999999,
+      33.01959050000001
     ],
     "featureId": 219,
-    "population": 10105518
+    "population": 3343364
   }
 ]
