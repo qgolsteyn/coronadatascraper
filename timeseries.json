@@ -31755,12 +31755,22 @@
         "cases": 0,
         "deaths": 0,
         "growthFactor": null
+      },
+      "2020-8-30": {
+        "cases": 0,
+        "deaths": 0
       }
     },
     "county": "Alameda County",
     "state": "CA",
     "country": "USA",
-    "url": "http://www.acphd.org/2019-ncov.aspx"
+    "url": "http://www.acphd.org/2019-ncov.aspx",
+    "coordinates": [
+      -121.9024445,
+      37.6801065
+    ],
+    "featureId": 214,
+    "population": 1666753
   },
   "Sonoma County, CA, USA": {
     "dates": {
@@ -31783,7 +31793,7 @@
       -122.946388,
       38.4810965
     ],
-    "featureId": 214,
+    "featureId": 215,
     "population": 499942
   },
   "Santa Cruz County, CA, USA": {
@@ -31807,7 +31817,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 215,
+    "featureId": 216,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -31849,7 +31859,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 216,
+    "featureId": 217,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -31873,7 +31883,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 217,
+    "featureId": 218,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -31901,12 +31911,22 @@
         "cases": 17,
         "deaths": 1,
         "growthFactor": 1
+      },
+      "2020-8-30": {
+        "cases": 0,
+        "deaths": 0
       }
     },
     "county": "Sacramento County",
     "state": "CA",
     "country": "USA",
-    "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx"
+    "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
+    "coordinates": [
+      -121.444773,
+      38.377659
+    ],
+    "featureId": 219,
+    "population": 1540975
   },
   "Fresno County, CA, USA": {
     "dates": {
@@ -31932,7 +31952,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 218,
+    "featureId": 220,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -31974,7 +31994,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 219,
+    "featureId": 221,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -32002,12 +32022,22 @@
         "cases": 40,
         "deaths": 1,
         "growthFactor": 1
+      },
+      "2020-8-30": {
+        "cases": 0,
+        "deaths": 0
       }
     },
     "county": "Los Angeles County",
     "state": "CA",
     "country": "USA",
-    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/"
+    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
+    "coordinates": [
+      -118.29563049999999,
+      33.8115605
+    ],
+    "featureId": 222,
+    "population": 10105518
   },
   "Orange County, CA, USA": {
     "dates": {
@@ -32033,7 +32063,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 220,
+    "featureId": 223,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -32075,7 +32105,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 221,
+    "featureId": 224,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -32102,7 +32132,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 222,
+    "featureId": 225,
     "population": 850967
   },
   "AL, USA": {
