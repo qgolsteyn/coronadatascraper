@@ -42341,9 +42341,91 @@
     },
     {
       "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              9.511241082000083,
+              44.21523672100005
+            ],
+            [
+              9.230642123000052,
+              44.35370514500005
+            ],
+            [
+              8.826996290000068,
+              44.42845286700003
+            ],
+            [
+              8.630560756513738,
+              44.381894921544294
+            ],
+            [
+              8.564157583705537,
+              44.516244144951315
+            ],
+            [
+              8.613046745510871,
+              44.587512458333265
+            ],
+            [
+              8.833234742589298,
+              44.56100244720517
+            ],
+            [
+              8.95922595801153,
+              44.682599131744496
+            ],
+            [
+              9.148520399197025,
+              44.58110742916449
+            ],
+            [
+              9.203144424375694,
+              44.61375879723067
+            ],
+            [
+              9.414191795814702,
+              44.59407129675293
+            ],
+            [
+              9.491334523069781,
+              44.5510477318673
+            ],
+            [
+              9.476396388182764,
+              44.41247827185475
+            ],
+            [
+              9.562309477600309,
+              44.28341088400509
+            ],
+            [
+              9.511241082000083,
+              44.21523672100005
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "name": "Genova, Italy",
+        "name_en": "Liguria",
+        "region": "Liguria",
+        "admin": "Italy",
+        "geonunit": "Italy",
+        "iso_a2": "IT",
+        "iso_3166_2": "IT-GE",
+        "type_en": "Province",
+        "shortName": "Genova",
+        "id": 211
+      }
+    },
+    {
+      "type": "Feature",
       "properties": {
         "name": "San Francisco County, CA",
-        "id": 211
+        "id": 212
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -42551,7 +42633,7 @@
       "type": "Feature",
       "properties": {
         "name": "San Mateo County, CA",
-        "id": 212
+        "id": 213
       },
       "geometry": {
         "type": "Polygon",
@@ -43081,7 +43163,7 @@
       "type": "Feature",
       "properties": {
         "name": "Santa Cruz County, CA",
-        "id": 213
+        "id": 214
       },
       "geometry": {
         "type": "Polygon",
@@ -43339,7 +43421,7 @@
       "type": "Feature",
       "properties": {
         "name": "Contra Costa County, CA",
-        "id": 214
+        "id": 215
       },
       "geometry": {
         "type": "Polygon",
@@ -43781,7 +43863,7 @@
       "type": "Feature",
       "properties": {
         "name": "Stanislaus County, CA",
-        "id": 215
+        "id": 216
       },
       "geometry": {
         "type": "Polygon",
@@ -44035,7 +44117,7 @@
       "type": "Feature",
       "properties": {
         "name": "Sacramento County, CA",
-        "id": 216
+        "id": 217
       },
       "geometry": {
         "type": "Polygon",
@@ -44397,7 +44479,7 @@
       "type": "Feature",
       "properties": {
         "name": "Fresno County, CA",
-        "id": 217
+        "id": 218
       },
       "geometry": {
         "type": "Polygon",
@@ -45075,7 +45157,7 @@
       "type": "Feature",
       "properties": {
         "name": "Placer County, CA",
-        "id": 218
+        "id": 219
       },
       "geometry": {
         "type": "Polygon",
@@ -45477,7 +45559,7 @@
       "type": "Feature",
       "properties": {
         "name": "Los Angeles County, CA",
-        "id": 219
+        "id": 220
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -46257,7 +46339,7 @@
       "type": "Feature",
       "properties": {
         "name": "San Diego County, CA",
-        "id": 220
+        "id": 221
       },
       "geometry": {
         "type": "Polygon",
