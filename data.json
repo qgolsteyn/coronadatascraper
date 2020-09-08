@@ -3398,5 +3398,102 @@
     ],
     "featureId": 214,
     "population": 274255
+  },
+  {
+    "cases": 0,
+    "deaths": 0,
+    "county": "Contra Costa County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.coronavirus.cchealth.org/",
+    "coordinates": [
+      -121.983341,
+      37.9092535
+    ],
+    "featureId": 215,
+    "population": 1150215
+  },
+  {
+    "cases": 154412901440977180,
+    "county": "Stanislaus County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.schsa.org/PublicHealth/pages/corona-virus/",
+    "coordinates": [
+      -120.937052,
+      37.606097500000004
+    ],
+    "featureId": 216,
+    "population": 549815
+  },
+  {
+    "cases": 0,
+    "deaths": 0,
+    "county": "Sacramento County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.saccounty.net/COVID-19/Pages/default.aspx",
+    "coordinates": [
+      -121.444773,
+      38.377659
+    ],
+    "featureId": 217,
+    "population": 1540975
+  },
+  {
+    "cases": 0,
+    "deaths": 0,
+    "county": "Fresno County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.co.fresno.ca.us/departments/public-health/covid-19",
+    "coordinates": [
+      -119.6396585,
+      36.7464615
+    ],
+    "featureId": 218,
+    "population": 994400
+  },
+  {
+    "cases": 0,
+    "deaths": 0,
+    "county": "Placer County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.placer.ca.gov/6448/Cases-in-Placer",
+    "coordinates": [
+      -120.7434505,
+      39.0142165
+    ],
+    "featureId": 219,
+    "population": 393149
+  },
+  {
+    "cases": 0,
+    "deaths": 0,
+    "county": "Los Angeles County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.publichealth.lacounty.gov/media/Coronavirus/",
+    "coordinates": [
+      -118.29563049999999,
+      33.8115605
+    ],
+    "featureId": 220,
+    "population": 10105518
+  },
+  {
+    "cases": 0,
+    "tested": 0,
+    "county": "San Diego County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html",
+    "coordinates": [
+      -116.83848499999999,
+      33.01959050000001
+    ],
+    "featureId": 221,
+    "population": 3343364
   }
 ]
