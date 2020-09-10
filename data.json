@@ -3361,6 +3361,20 @@
   {
     "cases": 0,
     "deaths": 0,
+    "county": "San Francisco County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.sfdph.org/dph/alerts/coronavirus.asp",
+    "coordinates": [
+      -122.4356335,
+      37.7901875
+    ],
+    "featureId": 212,
+    "population": 883305
+  },
+  {
+    "cases": 0,
+    "deaths": 0,
     "county": "San Mateo County",
     "state": "CA",
     "country": "USA",
@@ -3369,8 +3383,21 @@
       -122.30050299999999,
       37.407824500000004
     ],
-    "featureId": 212,
+    "featureId": 213,
     "population": 769545
+  },
+  {
+    "cases": 0,
+    "county": "Santa Cruz County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx",
+    "coordinates": [
+      -121.94941800000001,
+      37.0683515
+    ],
+    "featureId": 214,
+    "population": 274255
   },
   {
     "cases": 0,
@@ -3383,8 +3410,21 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 213,
+    "featureId": 215,
     "population": 1150215
+  },
+  {
+    "cases": 156852991475178750,
+    "county": "Stanislaus County",
+    "state": "CA",
+    "country": "USA",
+    "url": "http://www.schsa.org/PublicHealth/pages/corona-virus/",
+    "coordinates": [
+      -120.937052,
+      37.606097500000004
+    ],
+    "featureId": 216,
+    "population": 549815
   },
   {
     "cases": 0,
@@ -3397,7 +3437,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 214,
+    "featureId": 217,
     "population": 1540975
   },
   {
@@ -3411,7 +3451,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 215,
+    "featureId": 218,
     "population": 994400
   },
   {
@@ -3425,7 +3465,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 216,
+    "featureId": 219,
     "population": 393149
   },
   {
@@ -3439,7 +3479,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 217,
+    "featureId": 220,
     "population": 10105518
   },
   {
@@ -3453,7 +3493,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 218,
+    "featureId": 221,
     "population": 3343364
   }
 ]
