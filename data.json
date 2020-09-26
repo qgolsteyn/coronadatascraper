@@ -3474,5 +3474,19 @@
     ],
     "featureId": 220,
     "population": 10105518
+  },
+  {
+    "cases": 0,
+    "tested": 0,
+    "county": "San Diego County",
+    "state": "CA",
+    "country": "USA",
+    "url": "https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html",
+    "coordinates": [
+      -116.83848499999999,
+      33.01959050000001
+    ],
+    "featureId": 221,
+    "population": 3343364
   }
 ]
