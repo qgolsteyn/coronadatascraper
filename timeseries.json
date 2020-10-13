@@ -1393,10 +1393,10 @@
         "growthFactor": 1.0231362467866323
       },
       "2020-10-13": {
-        "cases": 5174,
+        "cases": 5320,
         "deaths": 488,
-        "recovered": 3154,
-        "growthFactor": 1
+        "recovered": 3153,
+        "growthFactor": 1.0282180131426362
       }
     },
     "state": "Abruzzo",
@@ -2798,10 +2798,10 @@
         "growthFactor": 1.0105062082139447
       },
       "2020-10-13": {
-        "cases": 1058,
-        "deaths": 35,
-        "recovered": 528,
-        "growthFactor": 1
+        "cases": 1066,
+        "deaths": 37,
+        "recovered": 532,
+        "growthFactor": 1.007561436672968
       }
     },
     "state": "Basilicata",
@@ -4203,10 +4203,10 @@
         "growthFactor": 1.0231340026189437
       },
       "2020-10-13": {
-        "cases": 2344,
+        "cases": 2388,
         "deaths": 104,
-        "recovered": 1467,
-        "growthFactor": 1
+        "recovered": 1486,
+        "growthFactor": 1.0187713310580204
       }
     },
     "state": "Calabria",
@@ -5608,10 +5608,10 @@
         "growthFactor": 1.0357258499730166
       },
       "2020-10-13": {
-        "cases": 19192,
-        "deaths": 479,
-        "recovered": 7487,
-        "growthFactor": 1
+        "cases": 19827,
+        "deaths": 485,
+        "recovered": 7564,
+        "growthFactor": 1.0330867027928303
       }
     },
     "state": "Campania",
@@ -7013,10 +7013,10 @@
         "growthFactor": 1.0089434993763435
       },
       "2020-10-13": {
-        "cases": 38018,
-        "deaths": 4496,
-        "recovered": 26849,
-        "growthFactor": 1
+        "cases": 38356,
+        "deaths": 4498,
+        "recovered": 26982,
+        "growthFactor": 1.0088905255405334
       }
     },
     "state": "Emilia-Romagna",
@@ -8417,10 +8417,10 @@
         "growthFactor": 1.0107019771449302
       },
       "2020-10-13": {
-        "cases": 5572,
+        "cases": 5610,
         "deaths": 356,
-        "recovered": 3844,
-        "growthFactor": 1
+        "recovered": 3850,
+        "growthFactor": 1.0068198133524766
       }
     },
     "state": "Friuli Venezia Giulia",
@@ -9822,10 +9822,10 @@
         "growthFactor": 1.0198592257415786
       },
       "2020-10-13": {
-        "cases": 20285,
-        "deaths": 984,
-        "recovered": 9179,
-        "growthFactor": 1
+        "cases": 20864,
+        "deaths": 989,
+        "recovered": 9238,
+        "growthFactor": 1.0285432585654424
       }
     },
     "state": "Lazio",
@@ -11227,10 +11227,10 @@
         "growthFactor": 1.0121815443054556
       },
       "2020-10-13": {
-        "cases": 15455,
-        "deaths": 1621,
-        "recovered": 11093,
-        "growthFactor": 1
+        "cases": 15902,
+        "deaths": 1622,
+        "recovered": 11357,
+        "growthFactor": 1.0289226787447427
       }
     },
     "state": "Liguria",
@@ -12637,10 +12637,10 @@
         "growthFactor": 1.0061579841449604
       },
       "2020-10-13": {
-        "cases": 113720,
-        "deaths": 16988,
-        "recovered": 83353,
-        "growthFactor": 1
+        "cases": 114800,
+        "deaths": 16994,
+        "recovered": 83550,
+        "growthFactor": 1.0094970102004925
       }
     },
     "state": "Lombardia",
@@ -14042,10 +14042,10 @@
         "growthFactor": 1.0043058303270103
       },
       "2020-10-13": {
-        "cases": 8630,
+        "cases": 8712,
         "deaths": 992,
-        "recovered": 6309,
-        "growthFactor": 1
+        "recovered": 6325,
+        "growthFactor": 1.0095017381228273
       }
     },
     "state": "Marche",
@@ -15447,10 +15447,10 @@
         "growthFactor": 1.0094722598105548
       },
       "2020-10-13": {
-        "cases": 746,
+        "cases": 795,
         "deaths": 26,
-        "recovered": 556,
-        "growthFactor": 1
+        "recovered": 559,
+        "growthFactor": 1.0656836461126005
       }
     },
     "state": "Molise",
@@ -16852,10 +16852,10 @@
         "growthFactor": 1.0110728346456692
       },
       "2020-10-13": {
-        "cases": 4109,
+        "cases": 4143,
         "deaths": 293,
-        "recovered": 2843,
-        "growthFactor": 1
+        "recovered": 2856,
+        "growthFactor": 1.0082745193477731
       }
     },
     "state": "P.A. Bolzano",
@@ -18256,10 +18256,10 @@
         "growthFactor": 1.0003084991516273
       },
       "2020-10-13": {
-        "cases": 6485,
-        "deaths": 409,
-        "recovered": 5396,
-        "growthFactor": 1
+        "cases": 6513,
+        "deaths": 411,
+        "recovered": 5417,
+        "growthFactor": 1.0043176561295297
       }
     },
     "state": "P.A. Trento",
@@ -19660,10 +19660,10 @@
         "growthFactor": 1.0117912889904683
       },
       "2020-10-13": {
-        "cases": 38957,
-        "deaths": 4180,
-        "recovered": 29314,
-        "growthFactor": 1
+        "cases": 39542,
+        "deaths": 4183,
+        "recovered": 29394,
+        "growthFactor": 1.0150165567163796
       }
     },
     "state": "Piemonte",
@@ -21065,10 +21065,10 @@
         "growthFactor": 1.0165054667788058
       },
       "2020-10-13": {
-        "cases": 9669,
-        "deaths": 614,
-        "recovered": 5142,
-        "growthFactor": 1
+        "cases": 9849,
+        "deaths": 616,
+        "recovered": 5235,
+        "growthFactor": 1.0186161960905988
       }
     },
     "state": "Puglia",
@@ -22470,10 +22470,10 @@
         "growthFactor": 1.0257536434418046
       },
       "2020-10-13": {
-        "cases": 5138,
-        "deaths": 166,
-        "recovered": 2113,
-        "growthFactor": 1
+        "cases": 5295,
+        "deaths": 168,
+        "recovered": 2227,
+        "growthFactor": 1.0305566368236667
       }
     },
     "state": "Sardegna",
@@ -23875,10 +23875,10 @@
         "growthFactor": 1.0320636970088228
       },
       "2020-10-13": {
-        "cases": 9592,
-        "deaths": 339,
-        "recovered": 4571,
-        "growthFactor": 1
+        "cases": 9926,
+        "deaths": 341,
+        "recovered": 4708,
+        "growthFactor": 1.0348206839032528
       }
     },
     "state": "Sicilia",
@@ -25280,10 +25280,10 @@
         "growthFactor": 1.0256607929515418
       },
       "2020-10-13": {
-        "cases": 18626,
-        "deaths": 1180,
-        "recovered": 10942,
-        "growthFactor": 1
+        "cases": 19106,
+        "deaths": 1181,
+        "recovered": 11008,
+        "growthFactor": 1.0257704284333726
       }
     },
     "state": "Toscana",
@@ -26685,10 +26685,10 @@
         "growthFactor": 1.0445246690734056
       },
       "2020-10-13": {
-        "cases": 3472,
+        "cases": 3608,
         "deaths": 90,
-        "recovered": 2012,
-        "growthFactor": 1
+        "recovered": 2027,
+        "growthFactor": 1.0391705069124424
       }
     },
     "state": "Umbria",
@@ -28090,10 +28090,10 @@
         "growthFactor": 1.0218579234972678
       },
       "2020-10-13": {
-        "cases": 1496,
+        "cases": 1529,
         "deaths": 146,
         "recovered": 1125,
-        "growthFactor": 1
+        "growthFactor": 1.0220588235294117
       }
     },
     "state": "Valle d'Aosta",
@@ -29495,10 +29495,10 @@
         "growthFactor": 1.0104117068215726
       },
       "2020-10-13": {
-        "cases": 31831,
-        "deaths": 2219,
-        "recovered": 23323,
-        "growthFactor": 1
+        "cases": 32316,
+        "deaths": 2226,
+        "recovered": 23435,
+        "growthFactor": 1.015236718921806
       }
     },
     "state": "Veneto",
@@ -32267,7 +32267,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1582,
+        "cases": 1597,
         "deaths": 17,
         "recovered": 0
       }
@@ -32297,7 +32297,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 9863,
+        "cases": 9947,
         "deaths": 191,
         "recovered": 0
       }
@@ -32327,7 +32327,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 4464,
+        "cases": 4512,
         "deaths": 59,
         "recovered": 0
       }
@@ -32357,7 +32357,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 593,
+        "cases": 608,
         "deaths": 8,
         "recovered": 0
       }
@@ -32387,7 +32387,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 3224,
+        "cases": 3257,
         "deaths": 57,
         "recovered": 0
       }
@@ -32417,7 +32417,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 3855,
+        "cases": 3888,
         "deaths": 74,
         "recovered": 0
       }
@@ -32447,7 +32447,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 330,
+        "cases": 334,
         "deaths": 1,
         "recovered": 0
       }
@@ -32537,7 +32537,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 128,
+        "cases": 129,
         "deaths": 3,
         "recovered": 0
       }
@@ -32567,7 +32567,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1503,
+        "cases": 1512,
         "deaths": 26,
         "recovered": 0
       }
@@ -32597,7 +32597,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 157,
+        "cases": 158,
         "deaths": 3,
         "recovered": 0
       }
@@ -32627,7 +32627,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 825,
+        "cases": 826,
         "deaths": 34,
         "recovered": 0
       }
@@ -32657,7 +32657,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 507,
+        "cases": 510,
         "deaths": 17,
         "recovered": 0
       }
@@ -32687,7 +32687,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 551,
+        "cases": 553,
         "deaths": 5,
         "recovered": 0
       }
@@ -32717,7 +32717,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 378,
+        "cases": 380,
         "deaths": 7,
         "recovered": 0
       }
@@ -32747,7 +32747,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1111,
+        "cases": 1118,
         "deaths": 46,
         "recovered": 0
       }
@@ -32777,7 +32777,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1838,
+        "cases": 1846,
         "deaths": 50,
         "recovered": 0
       }
@@ -32807,7 +32807,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 512,
+        "cases": 515,
         "deaths": 5,
         "recovered": 0
       }
@@ -32837,7 +32837,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 515,
+        "cases": 520,
         "deaths": 9,
         "recovered": 0
       }
@@ -32867,7 +32867,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 794,
+        "cases": 795,
         "deaths": 33,
         "recovered": 0
       }
@@ -32897,7 +32897,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1160,
+        "cases": 1176,
         "deaths": 22,
         "recovered": 0
       }
@@ -32927,8 +32927,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1455,
-        "deaths": 35,
+        "cases": 1465,
+        "deaths": 36,
         "recovered": 0
       }
     },
@@ -32957,7 +32957,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1213,
+        "cases": 1225,
         "deaths": 2,
         "recovered": 0
       }
@@ -33017,7 +33017,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 458,
+        "cases": 461,
         "deaths": 4,
         "recovered": 0
       }
@@ -33047,7 +33047,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 470,
+        "cases": 473,
         "deaths": 0,
         "recovered": 0
       }
@@ -33077,7 +33077,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 838,
+        "cases": 845,
         "deaths": 9,
         "recovered": 0
       }
@@ -33107,7 +33107,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 305,
+        "cases": 309,
         "deaths": 3,
         "recovered": 0
       }
@@ -33137,7 +33137,7 @@
         "growthFactor": 1
       },
       "2020-10-13": {
-        "cases": 7682,
+        "cases": 7742,
         "deaths": 105,
         "recovered": 0
       }
@@ -33167,7 +33167,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1342,
+        "cases": 1345,
         "deaths": 31,
         "recovered": 0
       }
@@ -33197,7 +33197,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 659,
+        "cases": 661,
         "deaths": 13,
         "recovered": 0
       }
@@ -33227,7 +33227,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2843,
+        "cases": 2855,
         "deaths": 57,
         "recovered": 0
       }
@@ -33257,7 +33257,7 @@
         "growthFactor": 1
       },
       "2020-10-13": {
-        "cases": 8299,
+        "cases": 8327,
         "deaths": 97,
         "recovered": 0
       }
@@ -33287,8 +33287,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2851,
-        "deaths": 51,
+        "cases": 2882,
+        "deaths": 53,
         "recovered": 0
       }
     },
@@ -33317,7 +33317,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 174,
+        "cases": 177,
         "deaths": 3,
         "recovered": 0
       }
@@ -33347,8 +33347,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1622,
-        "deaths": 52,
+        "cases": 1644,
+        "deaths": 53,
         "recovered": 0
       }
     },
@@ -33377,7 +33377,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2003,
+        "cases": 2020,
         "deaths": 18,
         "recovered": 0
       }
@@ -33437,7 +33437,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 232,
+        "cases": 236,
         "deaths": 0,
         "recovered": 0
       }
@@ -33497,7 +33497,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 552,
+        "cases": 557,
         "deaths": 15,
         "recovered": 0
       }
@@ -33527,8 +33527,8 @@
         "growthFactor": 1.375
       },
       "2020-10-13": {
-        "cases": 19160,
-        "deaths": 258,
+        "cases": 19251,
+        "deaths": 260,
         "recovered": 0
       }
     },
@@ -33557,7 +33557,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 645,
+        "cases": 651,
         "deaths": 6,
         "recovered": 0
       }
@@ -33587,7 +33587,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 227,
+        "cases": 228,
         "deaths": 8,
         "recovered": 0
       }
@@ -33617,8 +33617,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2386,
-        "deaths": 43,
+        "cases": 2382,
+        "deaths": 45,
         "recovered": 0
       }
     },
@@ -33647,8 +33647,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 3230,
-        "deaths": 39,
+        "cases": 3265,
+        "deaths": 41,
         "recovered": 0
       }
     },
@@ -33677,7 +33677,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1136,
+        "cases": 1155,
         "deaths": 30,
         "recovered": 0
       }
@@ -33707,7 +33707,7 @@
         "growthFactor": 1
       },
       "2020-10-13": {
-        "cases": 1805,
+        "cases": 1811,
         "deaths": 60,
         "recovered": 0
       }
@@ -33737,8 +33737,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2511,
-        "deaths": 58,
+        "cases": 2535,
+        "deaths": 61,
         "recovered": 0
       }
     },
@@ -33767,7 +33767,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 3591,
+        "cases": 3613,
         "deaths": 92,
         "recovered": 0
       }
@@ -33797,7 +33797,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 656,
+        "cases": 661,
         "deaths": 35,
         "recovered": 0
       }
@@ -33827,7 +33827,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 3636,
+        "cases": 3663,
         "deaths": 55,
         "recovered": 0
       }
@@ -33857,8 +33857,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 5507,
-        "deaths": 33,
+        "cases": 5537,
+        "deaths": 35,
         "recovered": 0
       }
     },
@@ -33887,8 +33887,8 @@
         "growthFactor": 1
       },
       "2020-10-13": {
-        "cases": 4928,
-        "deaths": 57,
+        "cases": 4957,
+        "deaths": 59,
         "recovered": 0
       }
     },
@@ -33917,7 +33917,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 176,
+        "cases": 191,
         "deaths": 3,
         "recovered": 0
       }
@@ -33947,8 +33947,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1123,
-        "deaths": 29,
+        "cases": 1137,
+        "deaths": 30,
         "recovered": 0
       }
     },
@@ -34007,7 +34007,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 768,
+        "cases": 777,
         "deaths": 7,
         "recovered": 0
       }
@@ -34037,8 +34037,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1462,
-        "deaths": 39,
+        "cases": 1474,
+        "deaths": 44,
         "recovered": 0
       }
     },
@@ -34067,8 +34067,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1836,
-        "deaths": 15,
+        "cases": 1842,
+        "deaths": 16,
         "recovered": 0
       }
     },
@@ -34097,8 +34097,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2674,
-        "deaths": 73,
+        "cases": 2706,
+        "deaths": 74,
         "recovered": 0
       }
     },
@@ -34127,7 +34127,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 766,
+        "cases": 769,
         "deaths": 7,
         "recovered": 0
       }
@@ -34157,8 +34157,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2551,
-        "deaths": 62,
+        "cases": 2581,
+        "deaths": 63,
         "recovered": 0
       }
     },
@@ -34187,7 +34187,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 223,
+        "cases": 221,
         "deaths": 7,
         "recovered": 0
       }
@@ -34217,7 +34217,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2212,
+        "cases": 2236,
         "deaths": 64,
         "recovered": 0
       }
@@ -34247,7 +34247,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1997,
+        "cases": 2009,
         "deaths": 36,
         "recovered": 0
       }
@@ -34277,7 +34277,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1093,
+        "cases": 1095,
         "deaths": 36,
         "recovered": 0
       }
@@ -34307,7 +34307,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2260,
+        "cases": 2280,
         "deaths": 57,
         "recovered": 0
       }
@@ -34337,7 +34337,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 360,
+        "cases": 364,
         "deaths": 9,
         "recovered": 0
       }
@@ -34367,7 +34367,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 351,
+        "cases": 354,
         "deaths": 11,
         "recovered": 0
       }
@@ -34397,7 +34397,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1142,
+        "cases": 1161,
         "deaths": 34,
         "recovered": 0
       }
@@ -34427,7 +34427,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1970,
+        "cases": 2003,
         "deaths": 48,
         "recovered": 0
       }
@@ -34457,7 +34457,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 683,
+        "cases": 685,
         "deaths": 2,
         "recovered": 0
       }
@@ -34487,7 +34487,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 710,
+        "cases": 711,
         "deaths": 12,
         "recovered": 0
       }
@@ -34547,7 +34547,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2438,
+        "cases": 2455,
         "deaths": 28,
         "recovered": 0
       }
@@ -34577,8 +34577,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 6168,
-        "deaths": 81,
+        "cases": 6210,
+        "deaths": 83,
         "recovered": 0
       }
     },
@@ -34607,7 +34607,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 154,
+        "cases": 157,
         "deaths": 3,
         "recovered": 0
       }
@@ -34637,7 +34637,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 174,
+        "cases": 170,
         "deaths": 14,
         "recovered": 0
       }
@@ -34667,7 +34667,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 905,
+        "cases": 914,
         "deaths": 5,
         "recovered": 0
       }
@@ -34697,8 +34697,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 5364,
-        "deaths": 60,
+        "cases": 5405,
+        "deaths": 61,
         "recovered": 0
       }
     },
@@ -34727,8 +34727,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 671,
-        "deaths": 6,
+        "cases": 675,
+        "deaths": 8,
         "recovered": 0
       }
     },
@@ -34757,8 +34757,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1371,
-        "deaths": 18,
+        "cases": 1376,
+        "deaths": 21,
         "recovered": 0
       }
     },
@@ -34787,7 +34787,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2583,
+        "cases": 2596,
         "deaths": 54,
         "recovered": 0
       }
@@ -34817,8 +34817,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1180,
-        "deaths": 21,
+        "cases": 1187,
+        "deaths": 22,
         "recovered": 0
       }
     },
@@ -34847,8 +34847,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1438,
-        "deaths": 17,
+        "cases": 1448,
+        "deaths": 18,
         "recovered": 0
       }
     },
@@ -34877,7 +34877,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2645,
+        "cases": 2716,
         "deaths": 26,
         "recovered": 0
       }
@@ -34907,8 +34907,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 5283,
-        "deaths": 84,
+        "cases": 5340,
+        "deaths": 85,
         "recovered": 0
       }
     },
@@ -34937,8 +34937,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 983,
-        "deaths": 18,
+        "cases": 988,
+        "deaths": 19,
         "recovered": 0
       }
     },
@@ -34967,7 +34967,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1133,
+        "cases": 1138,
         "deaths": 8,
         "recovered": 0
       }
@@ -34997,8 +34997,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1507,
-        "deaths": 58,
+        "cases": 1524,
+        "deaths": 59,
         "recovered": 0
       }
     },
@@ -35027,7 +35027,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 4696,
+        "cases": 4723,
         "deaths": 35,
         "recovered": 0
       }
@@ -35057,8 +35057,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 1890,
-        "deaths": 28,
+        "cases": 1902,
+        "deaths": 30,
         "recovered": 0
       }
     },
@@ -35087,7 +35087,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 3363,
+        "cases": 3397,
         "deaths": 34,
         "recovered": 0
       }
@@ -35117,8 +35117,8 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 3773,
-        "deaths": 106,
+        "cases": 3776,
+        "deaths": 107,
         "recovered": 0
       }
     },
@@ -35147,7 +35147,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 2000,
+        "cases": 2020,
         "deaths": 16,
         "recovered": 0
       }
@@ -35177,7 +35177,7 @@
         "growthFactor": 1
       },
       "2020-10-13": {
-        "cases": 30502,
+        "cases": 30670,
         "deaths": 367,
         "recovered": 0
       }
@@ -35207,8 +35207,8 @@
         "growthFactor": 1
       },
       "2020-10-13": {
-        "cases": 4397,
-        "deaths": 81,
+        "cases": 4428,
+        "deaths": 82,
         "recovered": 0
       }
     },
@@ -35237,7 +35237,7 @@
         "growthFactor": null
       },
       "2020-10-13": {
-        "cases": 6096,
+        "cases": 6188,
         "deaths": 99,
         "recovered": 0
       }
