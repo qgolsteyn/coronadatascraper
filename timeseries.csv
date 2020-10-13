@@ -5221,8 +5221,8 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,San Francisco County,CA,USA,883305,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,28,,,,2020-03-14
 ,San Mateo County,CA,USA,769545,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,20,,,,2020-03-13
 ,San Mateo County,CA,USA,769545,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,26,,,,2020-03-14
-,Sonoma County,CA,USA,499942,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,3,,,,2020-03-13
-,Sonoma County,CA,USA,499942,38.4810965,-122.946388,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,3,,,,2020-03-14
+,Sonoma County,CA,USA,,,,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,3,,,,2020-03-13
+,Sonoma County,CA,USA,,,,https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/,3,,,,2020-03-14
 ,Santa Cruz County,CA,USA,274255,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,7,,,,2020-03-13
 ,Santa Cruz County,CA,USA,274255,37.0683515,-121.94941800000001,http://www.santacruzhealth.org/HSAHome/HSADivisions/PublicHealth/CommunicableDiseaseControl/Coronavirus.aspx,7,,,,2020-03-14
 ,Solano County,CA,USA,,,,http://www.solanocounty.com/depts/ph/coronavirus.asp,6,,,,2020-03-13
@@ -5246,13 +5246,13 @@ city,county,state,country,population,lat,long,url,cases,deaths,recovered,tested,
 ,Shasta County,CA,USA,,,,https://www.co.shasta.ca.us/index/hhsa/health-safety/current-heath-concerns/coronavirus,1,,,,2020-03-14
 ,Los Angeles County,CA,USA,10105518,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,40,1,,,2020-03-13
 ,Los Angeles County,CA,USA,10105518,33.8115605,-118.29563049999999,http://www.publichealth.lacounty.gov/media/Coronavirus/,40,1,,,2020-03-14
-,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,36,,,,2020-03-13
-,Orange County,CA,USA,3185968,33.66652,-117.76484500000001,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,13,,,,2020-03-14
+,Orange County,CA,USA,,,,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,36,,,,2020-03-13
+,Orange County,CA,USA,,,,http://www.ochealthinfo.com/phs/about/epidasmt/epi/dip/prevention/novel_coronavirus,13,,,,2020-03-14
 ,Riverside County,CA,USA,,,,https://www.rivcoph.org/coronavirus,8,,,,2020-03-13
 ,Riverside County,CA,USA,,,,https://www.rivcoph.org/coronavirus,1,,,,2020-03-14
 ,San Diego County,CA,USA,3343364,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,11,,,145,2020-03-13
 ,San Diego County,CA,USA,3343364,33.01959050000001,-116.83848499999999,https://www.sandiegocounty.gov/content/sdc/hhsa/programs/phs/community_epidemiology/dc/2019-nCoV/status.html,11,,,145,2020-03-14
-,Ventura County,CA,USA,850967,34.058353,-119.1057185,https://www.ventura.org/covid19/,5,,,112,2020-03-13
+,Ventura County,CA,USA,,,,https://www.ventura.org/covid19/,5,,,112,2020-03-13
 ,,AZ,USA,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,9,,,,2020-03-14
 ,,AR,USA,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,6,,,,2020-03-14
 ,,CA,USA,,,,https://www.cdc.gov/coronavirus/2019-ncov/map-data-cases.csv,224,,,,2020-03-14
