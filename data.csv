@@ -91,106 +91,106 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Steuben County,IN,USA,18,1,,0,41.6433265,-85.0007515,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,87,34586
 ,Gibson County,IN,USA,5,0,,0,38.349461,-87.64698250000001,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,88,33452
 ,Jennings County,IN,USA,64,1,,0,39.0015625,-85.619944,https://opendata.arcgis.com/datasets/d14de7e28b0448ab82eb36d6f25b1ea1_0.csv,89,27611
-,Rockingham County,NC,USA,1690,17,0,,36.39209,-79.77325049999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,90,90690
-,Guilford County,NC,USA,10357,192,0,,36.078567,-79.789537,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,91,533670
-,Alamance County,NC,USA,4757,59,0,,36.046625,-79.389903,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,92,166436
-,Alexander County,NC,USA,671,9,0,,35.9112,-81.173576,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,93,37353
-,Randolph County,NC,USA,3443,57,0,,35.713162,-79.80440999999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,94,143351
-,Wayne County,NC,USA,4095,77,0,,35.372187,-78.0523115,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,95,123248
-,Ashe County,NC,USA,364,1,0,,36.414194499999994,-81.4925705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,96,27109
-,Alleghany County,NC,USA,264,1,0,,36.470187499999994,-81.128388,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,97,11161
-,Currituck County,NC,USA,215,4,0,,36.311232000000004,-76.0432625,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,98,27072
-,Camden County,NC,USA,131,3,0,,36.357271,-76.2231965,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,99,10710
-,Surry County,NC,USA,1599,26,0,,36.399366,-80.7073595,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,100,71948
-,Gates County,NC,USA,160,3,0,,36.424152,-76.70138,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,101,11573
-,Hertford County,NC,USA,838,34,0,,36.392281999999994,-76.94985,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,102,23659
-,Northampton County,NC,USA,516,18,0,,36.356129499999994,-77.48302000000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,103,19676
-,Stokes County,NC,USA,615,5,0,,36.4039905,-80.2396115,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,104,45467
-,Warren County,NC,USA,390,7,0,,36.373663,-78.110931,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,105,19807
-,Vance County,NC,USA,1139,46,0,,36.3539845,-78.394374,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,106,44582
-,Granville County,NC,USA,1894,50,0,,36.282139,-78.6309765,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,107,60115
-,Caswell County,NC,USA,555,5,0,,36.391928,-79.335016,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,108,22698
-,Person County,NC,USA,549,9,0,,36.389045499999995,-78.974278,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,109,39507
-,Pasquotank County,NC,USA,816,33,0,,36.31698,-76.2753735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,110,39639
-,Halifax County,NC,USA,1245,25,0,,36.255891000000005,-77.618624,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,111,50574
-,Wilkes County,NC,USA,1543,36,0,,36.217608,-81.20716300000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,112,68557
-,Watauga County,NC,USA,1288,2,0,,36.2509755,-81.686846,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,113,55945
-,Perquimans County,NC,USA,223,3,0,,36.226709,-76.390806,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,114,13422
-,Chowan County,NC,USA,486,10,0,,36.178765999999996,-76.5666445,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,115,14029
-,Avery County,NC,USA,526,0,0,,36.099315000000004,-81.9081385,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,116,17505
-,Yadkin County,NC,USA,894,9,0,,36.165891,-80.657182,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,117,37543
-,Dare County,NC,USA,320,3,0,,35.708368,-75.7362335,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,118,36501
-,Forsyth County,NC,USA,8049,111,0,,36.1174225,-80.2759705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,119,379099
-,Franklin County,NC,USA,1367,31,0,,36.0419445,-78.27652549999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,120,67560
-,Bertie County,NC,USA,684,13,0,,36.0338355,-77.0036715,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,121,19026
-,Orange County,NC,USA,2913,58,0,,36.052271,-79.107692,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,122,146027
-,Durham County,NC,USA,8508,97,0,,36.051317999999995,-78.8573145,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,123,316739
-,Nash County,NC,USA,3063,60,0,,35.966553000000005,-77.976391,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,124,94016
-,Mitchell County,NC,USA,186,4,0,,35.991779,-82.198442,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,125,15000
-,Edgecombe County,NC,USA,1768,52,0,,35.915150999999994,-77.585453,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,126,52005
-,Caldwell County,NC,USA,2150,19,0,,35.939887,-81.5699525,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,127,82029
-,Tyrrell County,NC,USA,120,3,0,,35.7957445,-76.210059,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,128,4131
-,Yancey County,NC,USA,256,0,0,,35.888507000000004,-82.31928300000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,129,17903
-,Madison County,NC,USA,140,1,0,,35.8719975,-82.685785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,130,21763
-,Martin County,NC,USA,589,16,0,,35.8664985,-77.084982,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,131,22671
-,Wake County,NC,USA,19668,261,0,,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,132,1092305
-,Davie County,NC,USA,696,6,0,,35.9026525,-80.5364645,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,133,42733
+,Rockingham County,NC,USA,1736,17,0,,36.39209,-79.77325049999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,90,90690
+,Guilford County,NC,USA,10438,193,0,,36.078567,-79.789537,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,91,533670
+,Alamance County,NC,USA,4790,66,0,,36.046625,-79.389903,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,92,166436
+,Alexander County,NC,USA,698,9,0,,35.9112,-81.173576,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,93,37353
+,Randolph County,NC,USA,3468,57,0,,35.713162,-79.80440999999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,94,143351
+,Wayne County,NC,USA,4171,77,0,,35.372187,-78.0523115,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,95,123248
+,Ashe County,NC,USA,366,1,0,,36.414194499999994,-81.4925705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,96,27109
+,Alleghany County,NC,USA,265,1,0,,36.470187499999994,-81.128388,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,97,11161
+,Currituck County,NC,USA,216,4,0,,36.311232000000004,-76.0432625,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,98,27072
+,Camden County,NC,USA,133,3,0,,36.357271,-76.2231965,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,99,10710
+,Surry County,NC,USA,1610,26,0,,36.399366,-80.7073595,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,100,71948
+,Gates County,NC,USA,161,3,0,,36.424152,-76.70138,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,101,11573
+,Hertford County,NC,USA,845,34,0,,36.392281999999994,-76.94985,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,102,23659
+,Northampton County,NC,USA,524,18,0,,36.356129499999994,-77.48302000000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,103,19676
+,Stokes County,NC,USA,626,5,0,,36.4039905,-80.2396115,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,104,45467
+,Warren County,NC,USA,402,7,0,,36.373663,-78.110931,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,105,19807
+,Vance County,NC,USA,1147,46,0,,36.3539845,-78.394374,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,106,44582
+,Granville County,NC,USA,1909,50,0,,36.282139,-78.6309765,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,107,60115
+,Caswell County,NC,USA,563,5,0,,36.391928,-79.335016,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,108,22698
+,Person County,NC,USA,566,9,0,,36.389045499999995,-78.974278,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,109,39507
+,Pasquotank County,NC,USA,820,33,0,,36.31698,-76.2753735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,110,39639
+,Halifax County,NC,USA,1272,25,0,,36.255891000000005,-77.618624,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,111,50574
+,Wilkes County,NC,USA,1553,36,0,,36.217608,-81.20716300000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,112,68557
+,Watauga County,NC,USA,1302,2,0,,36.2509755,-81.686846,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,113,55945
+,Perquimans County,NC,USA,229,3,0,,36.226709,-76.390806,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,114,13422
+,Chowan County,NC,USA,490,10,0,,36.178765999999996,-76.5666445,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,115,14029
+,Avery County,NC,USA,570,0,0,,36.099315000000004,-81.9081385,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,116,17505
+,Yadkin County,NC,USA,899,9,0,,36.165891,-80.657182,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,117,37543
+,Dare County,NC,USA,336,3,0,,35.708368,-75.7362335,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,118,36501
+,Forsyth County,NC,USA,8131,111,0,,36.1174225,-80.2759705,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,119,379099
+,Franklin County,NC,USA,1373,31,0,,36.0419445,-78.27652549999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,120,67560
+,Bertie County,NC,USA,692,13,0,,36.0338355,-77.0036715,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,121,19026
+,Orange County,NC,USA,2938,58,0,,36.052271,-79.107692,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,122,146027
+,Durham County,NC,USA,8567,97,0,,36.051317999999995,-78.8573145,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,123,316739
+,Nash County,NC,USA,3101,60,0,,35.966553000000005,-77.976391,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,124,94016
+,Mitchell County,NC,USA,187,4,0,,35.991779,-82.198442,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,125,15000
+,Edgecombe County,NC,USA,1797,52,0,,35.915150999999994,-77.585453,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,126,52005
+,Caldwell County,NC,USA,2172,19,0,,35.939887,-81.5699525,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,127,82029
+,Tyrrell County,NC,USA,122,3,0,,35.7957445,-76.210059,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,128,4131
+,Yancey County,NC,USA,268,0,0,,35.888507000000004,-82.31928300000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,129,17903
+,Madison County,NC,USA,149,1,0,,35.8719975,-82.685785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,130,21763
+,Martin County,NC,USA,594,16,0,,35.8664985,-77.084982,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,131,22671
+,Wake County,NC,USA,19801,261,0,,35.796786499999996,-78.6249785,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,132,1092305
+,Davie County,NC,USA,706,6,0,,35.9026525,-80.5364645,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,133,42733
 ,Washington County,NC,USA,237,8,0,,35.840892999999994,-76.6003345,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,134,11859
-,Burke County,NC,USA,2473,46,0,,35.7791955,-81.675545,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,135,90382
-,Davidson County,NC,USA,3404,42,0,,35.765553499999996,-80.2652875,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,136,166614
-,McDowell County,NC,USA,1199,31,0,,35.738724500000004,-82.0594425,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,137,45507
-,Chatham County,NC,USA,1852,60,0,,35.6959365,-79.231033,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,138,73139
-,Wilson County,NC,USA,2670,62,0,,35.7253325,-77.926691,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,139,81455
-,Buncombe County,NC,USA,3742,94,0,,35.620303,-82.5263415,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,140,259103
-,Haywood County,NC,USA,684,36,0,,35.5418605,-83.000247,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,141,61971
-,Catawba County,NC,USA,3894,57,0,,35.6878485,-81.22916649999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,142,158652
-,Pitt County,NC,USA,5772,35,0,,35.580454,-77.392609,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,143,179914
-,Johnston County,NC,USA,5125,59,0,,35.537085,-78.386616,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,144,202675
-,Swain County,NC,USA,219,3,0,,35.4877375,-83.554631,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,145,14245
-,Beaufort County,NC,USA,1220,35,0,,35.477776000000006,-76.83147650000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,146,47079
+,Burke County,NC,USA,2495,46,0,,35.7791955,-81.675545,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,135,90382
+,Davidson County,NC,USA,3445,42,0,,35.765553499999996,-80.2652875,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,136,166614
+,McDowell County,NC,USA,1207,31,0,,35.738724500000004,-82.0594425,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,137,45507
+,Chatham County,NC,USA,1860,60,0,,35.6959365,-79.231033,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,138,73139
+,Wilson County,NC,USA,2699,62,0,,35.7253325,-77.926691,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,139,81455
+,Buncombe County,NC,USA,3768,94,0,,35.620303,-82.5263415,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,140,259103
+,Haywood County,NC,USA,691,36,0,,35.5418605,-83.000247,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,141,61971
+,Catawba County,NC,USA,3923,57,0,,35.6878485,-81.22916649999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,142,158652
+,Pitt County,NC,USA,5828,35,0,,35.580454,-77.392609,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,143,179914
+,Johnston County,NC,USA,5150,60,0,,35.537085,-78.386616,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,144,202675
+,Swain County,NC,USA,223,3,0,,35.4877375,-83.554631,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,145,14245
+,Beaufort County,NC,USA,1251,35,0,,35.477776000000006,-76.83147650000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,146,47079
 ,Hyde County,NC,USA,174,5,0,,35.383544,-76.19371849999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,147,5230
-,Greene County,NC,USA,845,18,0,,35.500008,-77.6507765,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,148,21012
-,Rutherford County,NC,USA,1548,46,0,,35.395423,-81.985972,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,149,66826
-,Lee County,NC,USA,1937,16,0,,35.467607,-79.16466,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,150,61452
-,Cleveland County,NC,USA,2820,76,0,,35.371596499999995,-81.54468800000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,151,97645
-,Jackson County,NC,USA,835,7,0,,35.26292,-83.1417865,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,152,43327
-,Harnett County,NC,USA,2683,66,0,,35.3876225,-78.87648899999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,153,134214
-,Graham County,NC,USA,231,7,0,,35.342066,-83.810297,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,154,8484
-,Henderson County,NC,USA,2332,64,0,,35.322029,-82.5033325,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,155,116748
-,Moore County,NC,USA,2099,38,0,,35.2805435,-79.43270749999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,156,98682
-,Montgomery County,NC,USA,1134,38,0,,35.324289,-79.898494,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,157,27271
-,Stanly County,NC,USA,2341,57,0,,35.323707999999996,-80.278733,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,158,62075
-,Transylvania County,NC,USA,386,9,0,,35.2252595,-82.815485,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,159,34215
-,Polk County,NC,USA,372,11,0,,35.296185,-82.1603345,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,160,20611
-,Lenoir County,NC,USA,1257,35,0,,35.2174715,-77.6126075,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,161,55976
-,Craven County,NC,USA,2103,50,0,,35.110855,-77.063318,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,162,102912
-,Macon County,NC,USA,701,7,0,,35.162244,-83.42341,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,163,35285
-,Cherokee County,NC,USA,729,12,0,,35.139748499999996,-84.0097475,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,164,28383
-,Pamlico County,NC,USA,298,2,0,,35.1507535,-76.72772499999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,165,12670
-,Sampson County,NC,USA,2536,28,0,,34.9345395,-78.3926405,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,166,63626
-,Cumberland County,NC,USA,6482,91,0,,35.0502155,-78.8038205,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,167,332330
-,Clay County,NC,USA,172,3,0,,35.0712515,-83.7441825,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,168,11139
+,Greene County,NC,USA,843,12,0,,35.500008,-77.6507765,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,148,21012
+,Rutherford County,NC,USA,1592,46,0,,35.395423,-81.985972,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,149,66826
+,Lee County,NC,USA,1952,16,0,,35.467607,-79.16466,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,150,61452
+,Cleveland County,NC,USA,2849,76,0,,35.371596499999995,-81.54468800000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,151,97645
+,Jackson County,NC,USA,844,7,0,,35.26292,-83.1417865,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,152,43327
+,Harnett County,NC,USA,2704,66,0,,35.3876225,-78.87648899999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,153,134214
+,Graham County,NC,USA,232,7,0,,35.342066,-83.810297,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,154,8484
+,Henderson County,NC,USA,2341,64,0,,35.322029,-82.5033325,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,155,116748
+,Moore County,NC,USA,2123,38,0,,35.2805435,-79.43270749999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,156,98682
+,Montgomery County,NC,USA,1142,38,0,,35.324289,-79.898494,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,157,27271
+,Stanly County,NC,USA,2358,57,0,,35.323707999999996,-80.278733,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,158,62075
+,Transylvania County,NC,USA,390,9,0,,35.2252595,-82.815485,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,159,34215
+,Polk County,NC,USA,374,11,0,,35.296185,-82.1603345,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,160,20611
+,Lenoir County,NC,USA,1284,35,0,,35.2174715,-77.6126075,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,161,55976
+,Craven County,NC,USA,2115,50,0,,35.110855,-77.063318,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,162,102912
+,Macon County,NC,USA,703,7,0,,35.162244,-83.42341,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,163,35285
+,Cherokee County,NC,USA,731,12,0,,35.139748499999996,-84.0097475,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,164,28383
+,Pamlico County,NC,USA,300,2,0,,35.1507535,-76.72772499999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,165,12670
+,Sampson County,NC,USA,2546,28,0,,34.9345395,-78.3926405,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,166,63626
+,Cumberland County,NC,USA,6530,91,0,,35.0502155,-78.8038205,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,167,332330
+,Clay County,NC,USA,175,3,0,,35.0712515,-83.7441825,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,168,11139
 ,Jones County,NC,USA,173,15,0,,35.014189,-77.39021650000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,169,9637
-,Carteret County,NC,USA,985,5,0,,34.832848999999996,-76.60086799999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,170,69524
-,Union County,NC,USA,5556,62,0,,35.0112285,-80.5587175,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,171,235908
-,Anson County,NC,USA,689,8,0,,35.008912,-80.0844735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,172,24877
-,Hoke County,NC,USA,1444,22,0,,35.02319,-79.24694550000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,173,54764
-,Duplin County,NC,USA,2671,54,0,,34.9501105,-77.9257305,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,174,58856
-,Richmond County,NC,USA,1281,24,0,,34.99408,-79.76728299999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,175,44887
-,Scotland County,NC,USA,1508,22,0,,34.836764,-79.5119535,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,176,34810
-,Onslow County,NC,USA,2918,26,0,,34.712451,-77.3899735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,177,197683
-,Robeson County,NC,USA,5559,86,0,,34.626412,-79.133749,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,178,131831
-,Bladen County,NC,USA,1030,19,0,,34.611776500000005,-78.5427315,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,179,33190
-,Pender County,NC,USA,1179,8,0,,34.512526,-77.894035,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,180,62162
-,Columbus County,NC,USA,1570,59,0,,34.2134885,-78.6167595,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,181,55655
-,New Hanover County,NC,USA,4850,36,0,,34.15828500000001,-77.872919,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,182,232274
-,Brunswick County,NC,USA,2000,33,0,,34.1056615,-78.292874,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,183,136744
-,Iredell County,NC,USA,3514,34,0,,35.7732565,-80.901307,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,184,178435
-,Rowan County,NC,USA,3875,110,0,,35.6830585,-80.47710000000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,185,141262
-,Lincoln County,NC,USA,2122,16,0,,35.484821999999994,-81.24025,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,186,83770
-,Mecklenburg County,NC,USA,31442,374,0,,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,187,1093901
-,Cabarrus County,NC,USA,4555,82,0,,35.3456055,-80.541589,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,188,211342
-,Gaston County,NC,USA,6558,104,0,,35.284431999999995,-81.1896935,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,189,222846
+,Carteret County,NC,USA,996,5,0,,34.832848999999996,-76.60086799999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,170,69524
+,Union County,NC,USA,5586,62,0,,35.0112285,-80.5587175,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,171,235908
+,Anson County,NC,USA,694,8,0,,35.008912,-80.0844735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,172,24877
+,Hoke County,NC,USA,1460,22,0,,35.02319,-79.24694550000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,173,54764
+,Duplin County,NC,USA,2672,54,0,,34.9501105,-77.9257305,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,174,58856
+,Richmond County,NC,USA,1297,24,0,,34.99408,-79.76728299999999,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,175,44887
+,Scotland County,NC,USA,1537,22,0,,34.836764,-79.5119535,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,176,34810
+,Onslow County,NC,USA,2939,26,0,,34.712451,-77.3899735,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,177,197683
+,Robeson County,NC,USA,5618,86,0,,34.626412,-79.133749,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,178,131831
+,Bladen County,NC,USA,1035,19,0,,34.611776500000005,-78.5427315,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,179,33190
+,Pender County,NC,USA,1186,8,0,,34.512526,-77.894035,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,180,62162
+,Columbus County,NC,USA,1574,59,0,,34.2134885,-78.6167595,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,181,55655
+,New Hanover County,NC,USA,4894,37,0,,34.15828500000001,-77.872919,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,182,232274
+,Brunswick County,NC,USA,2018,34,0,,34.1056615,-78.292874,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,183,136744
+,Iredell County,NC,USA,3541,34,0,,35.7732565,-80.901307,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,184,178435
+,Rowan County,NC,USA,3917,110,0,,35.6830585,-80.47710000000001,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,185,141262
+,Lincoln County,NC,USA,2150,16,0,,35.484821999999994,-81.24025,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,186,83770
+,Mecklenburg County,NC,USA,31688,374,0,,35.2583695,-80.804163,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,187,1093901
+,Cabarrus County,NC,USA,4587,82,0,,35.3456055,-80.541589,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,188,211342
+,Gaston County,NC,USA,6684,104,0,,35.284431999999995,-81.1896935,https://opendata.arcgis.com/datasets/969678bce431494a8f64d7faade6e5b8_0.csv,189,222846
 ,Atlantic County,NJ,USA,0,,,0,39.509258,-74.6437035,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,190,265429
 ,Bergen County,NJ,USA,0,,,0,40.952146,-74.08225,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,191,936692
 ,Burlington County,NJ,USA,0,,,0,39.8658955,-74.72494950000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,192,445384
@@ -212,27 +212,27 @@ city,county,state,country,cases,deaths,recovered,tested,lat,long,url,featureId,p
 ,Warren County,NJ,USA,0,,,0,40.8430415,-74.985897,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,208,105779
 ,Morris County,NJ,USA,0,,,0,40.867802999999995,-74.5802275,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,209,494228
 ,Middlesex County,NJ,USA,0,,,0,40.430130500000004,-74.41841600000001,https://opendata.arcgis.com/datasets/8840fd8ac1314f5188e6cf98b525321c_0.csv,210,829685
-,,Abruzzo,ITA,5973,493,3186,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1311580
-,,Basilicata,ITA,1226,38,550,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,562869
-,,Calabria,ITA,2683,104,1585,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1947131
-,,Campania,ITA,24443,499,8254,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5801692
-,,Emilia-Romagna,ITA,40333,4509,27175,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
-,,Friuli Venezia Giulia,ITA,6260,359,3962,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1215220
-,,Lazio,ITA,23790,1018,9535,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5879082
-,,Liguria,ITA,17745,1633,12554,,44.448917926372275,9.063233530652923,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,211,1550640
-,,Lombardia,ITA,123794,17057,85112,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,10060574
-,,Marche,ITA,9254,992,6400,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1525271
-,,Molise,ITA,929,26,573,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,305617
-,,P.A. Bolzano,ITA,4648,293,2911,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
-,,P.A. Trento,ITA,6797,417,5609,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
-,,Piemonte,ITA,42867,4196,29791,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4356406
-,,Puglia,ITA,11084,632,5472,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4029053
-,,Sardegna,ITA,5866,172,2506,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1639591
-,,Sicilia,ITA,11744,362,5101,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4999891
-,,Toscana,ITA,21896,1189,11460,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,3729641
-,,Umbria,ITA,4415,92,2193,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,882015
-,,Valle d'Aosta,ITA,1738,146,1134,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,125666
-,,Veneto,ITA,35051,2247,24064,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4905854
+,,Abruzzo,ITA,6194,494,3187,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1311580
+,,Basilicata,ITA,1274,39,555,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,562869
+,,Calabria,ITA,2761,104,1585,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1947131
+,,Campania,ITA,25819,501,8453,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5801692
+,,Emilia-Romagna,ITA,40859,4515,27181,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
+,,Friuli Venezia Giulia,ITA,6415,361,3973,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1215220
+,,Lazio,ITA,24988,1024,9584,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,5879082
+,,Liguria,ITA,18115,1636,12720,,44.448917926372275,9.063233530652923,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,211,1550640
+,,Lombardia,ITA,126769,17078,86397,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,10060574
+,,Marche,ITA,9458,995,6418,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1525271
+,,Molise,ITA,956,26,575,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,305617
+,,P.A. Bolzano,ITA,4819,293,2919,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
+,,P.A. Trento,ITA,6845,417,5627,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,
+,,Piemonte,ITA,43990,4198,29959,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4356406
+,,Puglia,ITA,11385,635,5517,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4029053
+,,Sardegna,ITA,6096,174,2526,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,1639591
+,,Sicilia,ITA,12292,365,5137,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4999891
+,,Toscana,ITA,22802,1194,11622,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,3729641
+,,Umbria,ITA,4742,92,2219,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,882015
+,,Valle d'Aosta,ITA,1811,146,1137,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,125666
+,,Veneto,ITA,35851,2256,24170,,,,https://raw.githubusercontent.com/pcm-dpc/COVID-19/master/dati-regioni/dpc-covid19-ita-regioni.csv,,4905854
 ,San Francisco County,CA,USA,0,0,,,37.7901875,-122.4356335,https://www.sfdph.org/dph/alerts/coronavirus.asp,212,883305
 ,San Mateo County,CA,USA,0,0,,,37.407824500000004,-122.30050299999999,https://www.smchealth.org/coronavirus,213,769545
 ,Alameda County,CA,USA,0,0,,,37.6801065,-121.9024445,http://www.acphd.org/2019-ncov.aspx,214,1666753
