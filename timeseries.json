@@ -38364,12 +38364,22 @@
         "cases": 1,
         "deaths": 0,
         "growthFactor": 1
+      },
+      "2020-10-20": {
+        "cases": 0,
+        "deaths": 0
       }
     },
     "county": "Fresno County",
     "state": "CA",
     "country": "USA",
-    "url": "https://www.co.fresno.ca.us/departments/public-health/covid-19"
+    "url": "https://www.co.fresno.ca.us/departments/public-health/covid-19",
+    "coordinates": [
+      -119.6396585,
+      36.7464615
+    ],
+    "featureId": 220,
+    "population": 994400
   },
   "Madera County, CA, USA": {
     "dates": {
@@ -38410,7 +38420,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 220,
+    "featureId": 221,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -38452,7 +38462,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 221,
+    "featureId": 222,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -38479,7 +38489,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 222,
+    "featureId": 223,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -38521,7 +38531,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 223,
+    "featureId": 224,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -38548,7 +38558,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 224,
+    "featureId": 225,
     "population": 850967
   },
   "AL, USA": {
