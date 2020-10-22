@@ -38458,21 +38458,12 @@
       "2020-3-14": {
         "cases": 3,
         "growthFactor": 1
-      },
-      "2020-10-22": {
-        "cases": 0
       }
     },
     "county": "Sonoma County",
     "state": "CA",
     "country": "USA",
-    "url": "https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/",
-    "coordinates": [
-      -122.946388,
-      38.4810965
-    ],
-    "featureId": 215,
-    "population": 499942
+    "url": "https://socoemergency.org/emergency/novel-coronavirus/novel-coronavirus-in-sonoma-county/"
   },
   "Santa Cruz County, CA, USA": {
     "dates": {
@@ -38495,7 +38486,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 216,
+    "featureId": 215,
     "population": 274255
   },
   "Solano County, CA, USA": {
@@ -38537,7 +38528,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 217,
+    "featureId": 216,
     "population": 1150215
   },
   "Stanislaus County, CA, USA": {
@@ -38561,7 +38552,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 218,
+    "featureId": 217,
     "population": 549815
   },
   "Yolo County, CA, USA": {
@@ -38603,7 +38594,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 219,
+    "featureId": 218,
     "population": 1540975
   },
   "Fresno County, CA, USA": {
@@ -38630,7 +38621,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 220,
+    "featureId": 219,
     "population": 994400
   },
   "Madera County, CA, USA": {
@@ -38672,7 +38663,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 221,
+    "featureId": 220,
     "population": 393149
   },
   "Shasta County, CA, USA": {
@@ -38714,7 +38705,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 222,
+    "featureId": 221,
     "population": 10105518
   },
   "Orange County, CA, USA": {
@@ -38741,7 +38732,7 @@
       -117.76484500000001,
       33.66652
     ],
-    "featureId": 223,
+    "featureId": 222,
     "population": 3185968
   },
   "Riverside County, CA, USA": {
@@ -38783,7 +38774,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 224,
+    "featureId": 223,
     "population": 3343364
   },
   "Ventura County, CA, USA": {
@@ -38810,7 +38801,7 @@
       -119.1057185,
       34.058353
     ],
-    "featureId": 225,
+    "featureId": 224,
     "population": 850967
   },
   "AL, USA": {
