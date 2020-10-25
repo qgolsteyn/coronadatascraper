@@ -3366,20 +3366,6 @@
     "population": 883305
   },
   {
-    "cases": 0,
-    "deaths": 0,
-    "county": "San Mateo County",
-    "state": "CA",
-    "country": "USA",
-    "url": "https://www.smchealth.org/coronavirus",
-    "coordinates": [
-      -122.30050299999999,
-      37.407824500000004
-    ],
-    "featureId": 213,
-    "population": 769545
-  },
-  {
     "deaths": 0,
     "cases": 0,
     "county": "Alameda County",
@@ -3390,7 +3376,7 @@
       -121.9024445,
       37.6801065
     ],
-    "featureId": 214,
+    "featureId": 213,
     "population": 1666753
   },
   {
@@ -3403,7 +3389,7 @@
       -121.94941800000001,
       37.0683515
     ],
-    "featureId": 215,
+    "featureId": 214,
     "population": 274255
   },
   {
@@ -3417,7 +3403,7 @@
       -121.983341,
       37.9092535
     ],
-    "featureId": 216,
+    "featureId": 215,
     "population": 1150215
   },
   {
@@ -3430,7 +3416,7 @@
       -120.937052,
       37.606097500000004
     ],
-    "featureId": 217,
+    "featureId": 216,
     "population": 549815
   },
   {
@@ -3444,7 +3430,7 @@
       -121.444773,
       38.377659
     ],
-    "featureId": 218,
+    "featureId": 217,
     "population": 1540975
   },
   {
@@ -3458,7 +3444,7 @@
       -119.6396585,
       36.7464615
     ],
-    "featureId": 219,
+    "featureId": 218,
     "population": 994400
   },
   {
@@ -3472,7 +3458,7 @@
       -120.7434505,
       39.0142165
     ],
-    "featureId": 220,
+    "featureId": 219,
     "population": 393149
   },
   {
@@ -3486,7 +3472,7 @@
       -118.29563049999999,
       33.8115605
     ],
-    "featureId": 221,
+    "featureId": 220,
     "population": 10105518
   },
   {
@@ -3500,7 +3486,7 @@
       -116.83848499999999,
       33.01959050000001
     ],
-    "featureId": 222,
+    "featureId": 221,
     "population": 3343364
   }
 ]
